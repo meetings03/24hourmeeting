@@ -1,0 +1,16 @@
+site_name: Help 24/7
+site_description: A supportive community meeting page
+site_author: Help 24/7
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: blue
+  features:
+    - navigation.instant
+    - content.code.copy
+
+extra_css:
+  - stylesheets/extra.css
