@@ -8,7 +8,7 @@
   </div>
   <p class="hero-copy">The 24 HOUR INTERNATIONAL MARATHON MEETING OF ALCOHOLICS ANONYMOUS runs continuously around the world, around the clock. A fresh meeting begins at the top of each hour. We are an open meeting, and anyone with a desire to stop drinking is welcome to participate. We call on hands in the order they are raised. If you think you might have a drinking problem, click the button below.</p>
   <p class="hero-copy">Our online meeting has been running nonstop since the 20th of April 2020. At the commencement of the Covid pandemic, two newcomers from New Zealand with cell phones realized they needed fellowship with other alcoholics if they were to stay sober. The 24 Hour International Marathon Meeting has been carrying AA's life-saving message of hope and recovery ever since.</p>
-  <a class="join-button" href="https://zoom.com/j/2923712604" target="_blank" rel="noopener">Join Meeting</a>
+  <a id="join-meeting" class="join-button" href="https://zoom.com/j/2923712604" target="_blank" rel="noopener">Join Meeting</a>
   <div class="triangle-logo-wrap">
     <img src="images/Triangle_logo.jpg" alt="Triangle logo" class="triangle-logo" />
   </div>
@@ -58,7 +58,8 @@ Alcoholics Anonymous is a fellowship of people who share their experience, stren
 ### I am responsible...
 
 <div class="quote-card">
-  <p class="quote-label">Responsibility Statement</p>
+  <p class="quote-label">Toronto Responsibility Statement</p>
+  <p class="quote-text">I am responsible.</p>
   <p class="quote-text">When anyone, anywhere, reaches out for help, I want the hand of AA always to be there. And for that I am responsible.</p>
 </div>
 
@@ -75,18 +76,22 @@ Alcoholics Anonymous is a fellowship of people who share their experience, stren
 ### International AA Websites
 
 <ul>
-  <li>Online Intergroup of AA: https://aa-intergroup.org</li>
-  <li>AA World Services: https://www.aa.org</li>
-  <li>Alcoholics Anonymous Great Britain: https://www.alcoholics-anonymous.org.uk</li>
-  <li>Australia: https://aa.org.au</li>
-  <li>Aotearoa New Zealand: https://aa.org.nz</li>
-  <li>Continental European Region: https://alcoholics-anonymous.eu</li>
-  <li>Japan: https://aatokyo.org</li>
-  <li>Mexico: http://aamexico.org.mx</li>
-  <li>Argentina: https://aa.org.ar</li>
-  <li>South Africa: https://aasouthafrica.org.za</li>
-  <li>India: https://www.aagsoindia.org</li>
-  <li>Morocco: https://aamaroc.net</li>
+  <li><strong>Online Intergroup of AA</strong>: https://aa-intergroup.org</li>
+  <li><strong>AA World Services</strong>: https://www.aa.org</li>
+  <li><strong>Alcoholics Anonymous Great Britain</strong>: https://www.alcoholics-anonymous.org.uk</li>
+  <li><strong>Australia</strong>: https://aa.org.au</li>
+  <li><strong>Aotearoa New Zealand</strong>: https://aa.org.nz</li>
+  <li><strong>Canada</strong>: www.aatoronto.org</li>
+  <li><strong>Continental European Region</strong>: https://alcoholics-anonymous.eu</li>
+  <li><strong>Spain</strong>: www.alcoholicos-anonimos.org</li>
+  <li><strong>Japan</strong>: https://aatokyo.org</li>
+  <li><strong>Ireland</strong>: https://alcoholicsanonymous.ie</li>
+  <li><strong>Mexico</strong>: http://aamexico.org.mx</li>
+  <li><strong>Argentina</strong>: https://aa.org.ar</li>
+  <li><strong>South Africa</strong>: https://aasouthafrica.org.za</li>
+  <li><strong>India</strong>: https://www.aagsoindia.org</li>
+  <li><strong>Oregon (USA) Area 58, Online District 33</strong>: https://area58district33.org</li>
+  <li><strong>Morocco</strong>: https://aamaroc.net</li>
 </ul>
 
 
