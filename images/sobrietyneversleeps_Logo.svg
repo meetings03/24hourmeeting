@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 500" role="img" aria-labelledby="title desc">
+  <title id="title">sobrietyneversleeps Logo</title>
+  <desc id="desc">A modern circle and wave-style logo for the sobriety never sleeps meeting.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1d4ed8"/>
+    </linearGradient>
+    <linearGradient id="ring" x1="0" x2="1">
+      <stop offset="0%" stop-color="#7dd3fc"/>
+      <stop offset="100%" stop-color="#f8fafc"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="500" fill="url(#bg)" rx="26"/>
+
+  <circle cx="220" cy="250" r="150" fill="none" stroke="url(#ring)" stroke-width="18" opacity="0.9"/>
+  <circle cx="220" cy="250" r="118" fill="none" stroke="#e2e8f0" stroke-width="10" opacity="0.9"/>
+  <path d="M140 250c22-58 78-94 132-94 67 0 108 44 116 94-12 54-52 92-116 92-54 0-111-36-132-92z" fill="#f8fafc" opacity="0.18"/>
+  <path d="M160 250c18-42 52-70 88-70 44 0 75 28 90 70-16 42-46 70-90 70-36 0-70-28-88-70z" fill="#f8fafc" opacity="0.95"/>
+
+  <g fill="#0f172a">
+    <text x="420" y="210" font-size="58" font-family="Segoe UI, Arial, sans-serif" font-weight="700">sobrietyneversleeps</text>
+    <text x="420" y="282" font-size="76" font-family="Segoe UI, Arial, sans-serif" font-weight="800" letter-spacing="1">WHERE SOBRIETY NEVER SLEEPS</text>
+    <text x="420" y="345" font-size="34" font-family="Segoe UI, Arial, sans-serif" font-weight="600" fill="#dbeafe">24 Hour International Marathon Meeting of AA</text>
+  </g>
+</svg>
