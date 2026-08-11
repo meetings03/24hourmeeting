@@ -12,14 +12,14 @@
   <div class="logo-area" aria-label="Logo placeholder">
     <img src="images/Logo_247_7.30.2026.jpg" alt="Help 24/7 online meeting logo" class="hero-logo" width="100%" />
   </div>
-  <p class="hero-copy">The 24 Hour International Marathon Meeting of AA is a continuous online Alcoholics Anonymous meeting available worldwide around the clock. A fresh meeting begins at the top of each hour. We are an open meeting, and anyone with a desire to stop drinking is welcome to participate. Join anytime using Zoom Meeting ID 292 371 2604.</p>
-  <p class="hero-copy">Our online meeting has been running nonstop since April 20, 2020. It began when two newcomers from New Zealand with cell phones realized they needed fellowship with other alcoholics to stay sober. Since then, the 24 Hour International Marathon Meeting has carried AA’s message of hope and recovery across the world.</p>
+  <p class="hero-copy">The 24 Hour International Marathon Meeting of AA is a continuous online Alcoholics Anonymous meeting available worldwide around the clock. A fresh meeting with a new AA topic begins at the top of each hour. We are an open meeting, and anyone with a desire to stop drinking is welcome to participate. Join anytime using Zoom Meeting ID 292 371 2604.</p>
+  <p class="hero-copy">Our online meeting has been running nonstop since April 20, 2020. It began at the start of the Covid pandemic when two newcomers from New Zealand with cell phones realized they needed fellowship with other alcoholics to stay sober. The 24 Hour International Marathon Meeting has carried AA’s message of hope and recovery across the world ever since.</p>
   <div class="triangle-logo-wrap">
     <img src="images/Triangle_logo.jpg" alt="Alcoholics Anonymous triangle logo" class="triangle-logo" />
   </div>
 </div>
 
-The 24 Hour International Marathon Meeting of Alcoholics Anonymous is dedicated to carrying AA's life-saving message of hope and recovery to the alcoholic who still suffers. Individuals seeking support for drug problems and substance use disorders may benefit from professional treatment programs, government resources, rehabilitation services, family support organizations, and other recovery fellowships. Alcoholics Anonymous is not affiliated with any outside agency or enterprise.
+The 24 Hour International Marathon Meeting of Alcoholics Anonymous is dedicated to carrying AA's life-saving message of hope and recovery globally to the alcoholic who still suffers. Individuals seeking support for drug problems and substance use disorders may benefit from professional treatment programs, government resources, rehabilitation services, family support organizations, and other recovery programs and fellowships. Alcoholics Anonymous is not affiliated with any outside agency or enterprise.
 
 ## Preamble
 
@@ -88,12 +88,12 @@ Alcoholics Anonymous is a fellowship of people who share their experience, stren
   <li><strong>Alcoholics Anonymous Great Britain</strong>: https://www.alcoholics-anonymous.org.uk</li>
   <li><strong>Australia</strong>: https://aa.org.au</li>
   <li><strong>Aotearoa New Zealand</strong>: https://aa.org.nz</li>
-  <li><strong>Canada</strong>: www.aatoronto.org</li>
+  <li><strong>Canada</strong>: https://www.aatoronto.org</li>
   <li><strong>Continental European Region</strong>: https://alcoholics-anonymous.eu</li>
-  <li><strong>Spain</strong>: www.alcoholicos-anonimos.org</li>
+  <li><strong>Spain</strong>: https://www.alcoholicos-anonimos.org</li>
   <li><strong>Japan</strong>: https://aatokyo.org</li>
   <li><strong>Ireland</strong>: https://alcoholicsanonymous.ie</li>
-  <li><strong>Mexico</strong>: http://aamexico.org.mx</li>
+  <li><strong>Mexico</strong>: https://aamexico.org.mx</li>
   <li><strong>Argentina</strong>: https://aa.org.ar</li>
   <li><strong>South Africa</strong>: https://aasouthafrica.org.za</li>
   <li><strong>India</strong>: https://www.aagsoindia.org</li>
@@ -111,6 +111,8 @@ Alcoholics Anonymous is a fellowship of people who share their experience, stren
 - Get a Sponsor
 - Take the Steps
 - Join a Home Group
+- Take on a service commitment
+- Trust God, clean house, and work with others
 - If you don't take the first drink, you won't get drunk
 - Love and Tolerance Is Our Code
 - Rule 62 (Don't take yourself too damn seriously)
@@ -139,9 +141,9 @@ Alcoholics Anonymous is a fellowship of people who share their experience, stren
 17. Do you drink to build your self-confidence?
 18. Has your physician ever treated you for drinking?
 19. Have you ever been to a hospital or institution on account of drinking?
-20. Do you drink alone?
+20. Has your drinking ever caused you to have a total loss of memory?
 
-If you answered "yes" to 3 or more questions, it suggests you may have a drinking problem.
+If you answered "yes" to 2 or more questions, you may have a drinking problem.
 
 Source: Johns Hopkins University Hospital
 
@@ -218,7 +220,7 @@ The meetings run continuously around the clock. Because a new meeting starts at 
 
 English is the primary language of most members of the 24 Hour International Marathon Meeting of AA. However, everyone is welcome to participate, no matter their language. Online meetings in languages other than English can be found on the Online Intergroup of AA website: https://aa-intergroup.org
 
-### How do I join the 24 hour online AA meeting?
+### How do I join the 24-hour online AA meeting?
 
 Use Zoom Meeting ID 292 371 2604, or click the Join Meeting button at the top of this page.
 
