@@ -12,12 +12,16 @@
   <div class="logo-area" aria-label="Logo placeholder">
     <img src="images/Logo_247_7.30.2026.jpg" alt="Help 24/7 online meeting logo" class="hero-logo" width="100%" />
   </div>
-  <p class="hero-copy">The 24 Hour International Marathon Meeting of AA is a continuous online Alcoholics Anonymous meeting available worldwide around the clock. A fresh meeting with a new AA topic begins at the top of each hour. We are an open meeting, and anyone with a desire to stop drinking is welcome to participate. Join anytime using Zoom Meeting ID 292 371 2604.</p>
+  <p class="hero-copy">The 24 Hour International Marathon Meeting of AA is a continuous online Alcoholics Anonymous meeting available worldwide around the clock. A fresh meeting with a new AA topic begins at the top of each hour. We are an open meeting, and anyone with a desire to stop drinking is welcome to participate. Join anytime using Zoom Meeting ID <strong>292 371 2604</strong>.</p>
   <p class="hero-copy">Our online meeting has been running nonstop since April 20, 2020. It began at the start of the Covid pandemic when two newcomers from New Zealand with cell phones realized they needed fellowship with other alcoholics to stay sober. The 24 Hour International Marathon Meeting has carried AA’s message of hope and recovery across the world ever since.</p>
   <div class="triangle-logo-wrap">
     <img src="images/Triangle_logo.jpg" alt="Alcoholics Anonymous triangle logo" class="triangle-logo" />
   </div>
 </div>
+
+## Welcome to Online Recovery
+
+Welcome to the 24 Hour International Marathon Meeting of AA, *where sobriety never sleeps.* We are an open meeting of Alcoholics Anonymous, and everyone is welcome to listen. In keeping with AA's singleness of purpose and our Third Tradition, which states that the only requirement for AA membership is a desire to stop drinking, we ask that everyone who shares in our meeting confine their discussion to their problems with alcohol. You can join our online recovery meeting by clicking the "Join Online AA Meeting" button above, or by joining the meeting through Zoom. The Zoom access code is **292 371 2604**. No password is required. Join our online recovery meeting and raise your virtual hand. We want to get to know you, and experience has taught us that we can help best if you let us get to know you. We call on hands in the order they are raised, and everyone gets five minutes to share in our online recovery meeting with a gentle reminder when there is one minute remaining.
 
 The 24 Hour International Marathon Meeting of Alcoholics Anonymous is dedicated to carrying AA's life-saving message of hope and recovery globally to the alcoholic who still suffers. Individuals seeking support for drug problems and substance use disorders may benefit from professional treatment programs, government resources, rehabilitation services, family support organizations, and other recovery programs and fellowships. Alcoholics Anonymous is not affiliated with any outside agency or enterprise.
 
@@ -74,7 +78,7 @@ Alcoholics Anonymous is a fellowship of people who share their experience, stren
 
 <div class="contact-card">
   <ul>
-    <li>Zoom: 292 371 2604 (no password needed) The meeting runs continuously 24 hours a day. Join the meeting and raise your virtual hand. We can help best if you talk to us.</li>
+    <li>Zoom: <strong>292 371 2604</strong> (no password needed) The meeting runs continuously 24 hours a day. Join the meeting and raise your virtual hand. We can help best if you talk to us.</li>
     <li>Email: the24hourmeeting@gmail.com</li>
     <li>Website: https://sobrietyneversleeps.org</li>
   </ul>
@@ -104,6 +108,7 @@ Alcoholics Anonymous is a fellowship of people who share their experience, stren
 ### Sobriety Suggestions, Sayings and Slogans
 
 - Keep Coming Back
+- Stay sober one day at a time
 - Easy Does It
 - Live and Let Live
 - First Things First
@@ -113,6 +118,7 @@ Alcoholics Anonymous is a fellowship of people who share their experience, stren
 - Join a Home Group
 - Take on a service commitment
 - Trust God, clean house, and work with others
+- Continue to watch for selfishness, dishonesty, resentment, and fear
 - If you don't take the first drink, you won't get drunk
 - Love and Tolerance Is Our Code
 - Rule 62 (Don't take yourself too damn seriously)
@@ -222,11 +228,11 @@ English is the primary language of most members of the 24 Hour International Mar
 
 ### How do I join the 24-hour online AA meeting?
 
-Use Zoom Meeting ID 292 371 2604, or click the Join Meeting button at the top of this page.
+Use Zoom Meeting ID **292 371 2604**, or click the Join Meeting button at the top of this page.
 
 ### What is the Zoom ID for the 24 Hour International Marathon Meeting of AA?
 
-The Zoom meeting ID is 292 371 2604. No password is required to join. You can connect from anywhere in the world at any time.
+The Zoom meeting ID is **292 371 2604**. No password is required to join. You can connect from anywhere in the world at any time.
 
 ### Do I need a password to join?
 
@@ -239,6 +245,10 @@ To share your experience, strength, and hope, simply raise your virtual hand. Th
 ### Can I get a sponsor on the online AA meeting?
 
 Yes. The best way to get help in our meeting is to raise your virtual hand and let us know you are looking for a sponsor. We suggest that men work with men and women work with women.
+
+### How can I get involved in service with this online recovery meeting?
+
+There is a monthly business meeting on the fourth Saturday of each month. The host will announce the business meeting at the top of each hour.
 
 ### Can I just listen, or do I have to speak?
 
@@ -264,6 +274,10 @@ No. Alcoholics Anonymous does not counsel problem drinkers or provide any medica
 
 Anonymity is the spiritual foundation of all AA's Traditions. You can protect your identity by changing your Zoom display name to your first name only, leaving your camera off, and sharing in a general way.
 
+### What safety measures are in place for this online recovery meeting?
+
+The 24 Hour International Marathon Meeting of AA follows the online safety suggestions provided by AA World Services. See the "Safety Card for AA Groups," "AA Guidelines on Internet," and "Anonymity Online and Digital Media" available at https://www.aa.org.
+
 ### Can I have my attendance verified for court or probation?
 
 The 24 Hour International Marathon Meeting of AA does not provide attendance verification. However, attendance verification of online meetings is available on the **NKC verification page**: https://newcomerskeepcoming.org/verification
@@ -279,6 +293,10 @@ Everyone who shares in the meeting gets five minutes to speak with a gentle remi
 ### Is this meeting only for people in one country?
 
 No. This is an international online AA meeting with participants from around the world.
+
+### Are there young people in this online recovery meeting?
+
+Yes. There are people of all ages on the 24 Hour International Marathon Meeting of AA, which is an open meeting of Alcoholics Anonymous. The only requirement for membership in AA is a desire to stop drinking.
 
 ### Are there any dues or fees required to join?
 
@@ -339,6 +357,125 @@ Alcoholics Anonymous is not affiliated with any outside enterprise. The followin
 - **Recovery Dharma**: Recovery program based on Buddhist principles and practices. [https://recoverydharma.org](https://recoverydharma.org)
 - **Women for Sobriety**: Recovery support organization focused on the unique needs of women. [https://womenforsobriety.org](https://womenforsobriety.org)
 - **Celebrate Recovery**: A biblically based Christian approach to helping people achieve long-lasting recovery by healing hurts, guiding people toward new healthy truths, and developing life-giving habits. [https://celebraterecovery.com](https://celebraterecovery.com)
+
+## Topics for Online AA Meetings
+
+The following topic list is designed for the 24 Hour International Marathon Meeting of AA and reflects common AA meeting themes, including spiritual principles, recovery practice, and service.
+
+### Spiritual Principles and Core Recovery Themes
+
+- Acceptance
+- Surrender
+- Honesty
+- Open-mindedness
+- Willingness
+- Humility
+- Responsibility
+- Gratitude
+- Patience
+- Tolerance
+- Forgiveness
+- Compassion
+- Faith
+- Trust
+- Letting go
+- One day at a time
+- Emotional sobriety
+- Progress, not perfection
+- Facing fear
+- Handling resentment
+
+### Official AA Meeting Themes
+
+- What is alcoholism?
+- The AA program of recovery
+- The AA Preamble
+- The AA Promises
+- Sponsorship
+- Home group commitment
+- Anonymity
+- Unity
+- Service
+- Carrying the message
+- Relapse prevention
+- Living sober
+- Spiritual awakening
+- Helping the newcomer
+- Responsibility Declaration
+
+### Twelve Steps Topics
+
+- Step 1: Powerlessness and unmanageability
+- Step 2: Coming to believe
+- Step 3: Turning it over
+- Step 4: Inventory
+- Step 5: Admitting our wrongs
+- Step 6: Becoming ready
+- Step 7: Asking for removal of defects
+- Step 8: Making the list
+- Step 9: Making amends
+- Step 10: Daily inventory
+- Step 11: Prayer and meditation
+- Step 12: Carrying the message and practicing the principles
+
+### Twelve Traditions Topics
+
+- Tradition 1: Unity
+- Tradition 2: Group conscience
+- Tradition 3: Membership
+- Tradition 4: Autonomy
+- Tradition 5: Primary purpose
+- Tradition 6: Non-affiliation
+- Tradition 7: Self-support
+- Tradition 8: Non-professionalism
+- Tradition 9: Service structure
+- Tradition 10: No opinion on outside issues
+- Tradition 11: Attraction, not promotion
+- Tradition 12: Anonymity as spiritual foundation
+
+### Twelve Concepts Topics
+
+- Trusted servants and leadership
+- Group conscience in world service
+- Participation and responsibility
+- Communication and accountability
+- Service structure and right action
+- The spirit of democracy in AA
+
+### Recovery-Focused Daily Living Topics
+
+- Sobriety during difficult times
+- Sobriety and relationships
+- Sobriety and family
+- Sobriety and work
+- Sobriety and travel
+- Sobriety and holidays
+- Sobriety and emotional pain
+- Sobriety and gratitude
+- Sobriety and service
+- Sobriety and spiritual growth
+
+### Newcomer-Friendly Topics
+
+- What to expect in AA
+- Why meetings matter
+- Getting a sponsor
+- Building a sober network
+- Handling cravings
+- Understanding alcoholism
+- Asking for help
+- The first 30 days
+
+### Marathon Meeting and Online Fellowship Topics
+
+- Sobriety never sleeps
+- Recovery across time zones
+- Fellowship without borders
+- Carrying the message around the globe
+- The power of a meeting at any hour
+- The spirit of AA in a digital world
+- Unity across cultures
+- Helping the alcoholic who still suffers anytime, anywhere
 
 ## Serenity Prayer
 
