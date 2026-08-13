@@ -6,14 +6,14 @@
   <img src="images/sobrietyneversleeps_Logo.jpg" alt="24 Hour International Marathon Meeting of AA logo" class="hero-logo" width="100%" />
 </div>
 
-<a id="join-meeting" class="join-button" href="https://zoom.com/j/2923712604" target="_blank" rel="noopener" style="display: inline-block; margin: 0 0 1.5rem 0;">Join Online AA Meeting</a>
+<a id="join-meeting" class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener" style="display: inline-block; margin: 0 0 1.5rem 0;">Join Online AA Meeting</a>
 
 <div class="hero-card">
   <div class="logo-area" aria-label="Logo placeholder">
     <img src="images/Logo_247_7.30.2026.jpg" alt="Help 24/7 online meeting logo" class="hero-logo" width="100%" />
   </div>
   <p class="hero-copy">The 24 Hour International Marathon Meeting of AA is a continuous online Alcoholics Anonymous meeting available worldwide around the clock. A fresh meeting with a new AA topic begins at the top of each hour. We are an open meeting, and anyone with a desire to stop drinking is welcome to participate. Join anytime using Zoom Meeting ID <strong>292 371 2604</strong>.</p>
-  <p class="hero-copy">Our online meeting has been running nonstop since April 20, 2020. It began at the start of the Covid pandemic when two newcomers from New Zealand with cell phones realized they needed fellowship with other alcoholics to stay sober. The 24 Hour International Marathon Meeting has carried AA’s message of hope and recovery across the world ever since.</p>
+  <p class="hero-copy">Our online meeting has been running nonstop since April 20, 2020. It began at the start of the COVID-19 pandemic when two newcomers from New Zealand with cell phones realized they needed fellowship with other alcoholics to stay sober. The 24 Hour International Marathon Meeting has carried AA’s message of hope and recovery across the world ever since.</p>
   <div class="triangle-logo-wrap">
     <img src="images/Triangle_logo.jpg" alt="Alcoholics Anonymous triangle logo" class="triangle-logo" />
   </div>
@@ -21,7 +21,7 @@
 
 ## Welcome to Online Recovery
 
-Welcome to the 24 Hour International Marathon Meeting of AA, *where sobriety never sleeps.* We are an open meeting of Alcoholics Anonymous, and everyone is welcome to listen. In keeping with AA's singleness of purpose and our Third Tradition, which states that the only requirement for AA membership is a desire to stop drinking, we ask that everyone who shares in our meeting confine their discussion to their problems with alcohol. You can join our online recovery meeting by clicking the "Join Online AA Meeting" button above, or by joining the meeting through Zoom. The Zoom access code is **292 371 2604**. No password is required. Join our online recovery meeting and raise your virtual hand. We want to get to know you, and experience has taught us that we can help best if you let us get to know you. We call on hands in the order they are raised, and everyone gets five minutes to share in our online recovery meeting with a gentle reminder when there is one minute remaining.
+Welcome to the 24 Hour International Marathon Meeting of AA, *where sobriety never sleeps.* We are an open meeting of Alcoholics Anonymous, and everyone is welcome to listen. In keeping with AA's singleness of purpose and our Third Tradition, which states that the only requirement for AA membership is a desire to stop drinking, we ask that everyone who shares in our meeting confine their discussion to their problems with alcohol. You can join our online recovery meeting by clicking the "Join Online AA Meeting" button above, or by joining the meeting through Zoom. The Zoom access code is **292 371 2604**. No password is required. Join our online recovery meeting and raise your virtual hand. We want to get to know you, and experience has taught us that we can help best if you let us get to know you. We call on hands in the order they are raised, and everyone gets five minutes to share with a gentle reminder when there is one minute remaining.
 
 The 24 Hour International Marathon Meeting of Alcoholics Anonymous is dedicated to carrying AA's life-saving message of hope and recovery globally to the alcoholic who still suffers. Individuals seeking support for drug problems and substance use disorders may benefit from professional treatment programs, government resources, rehabilitation services, family support organizations, and other recovery programs and fellowships. Alcoholics Anonymous is not affiliated with any outside agency or enterprise.
 
@@ -184,14 +184,14 @@ If you or someone you know is in immediate danger, call emergency services right
 
 ### Immediate crisis support
 
-- United States and Puerto Rico: 988 Suicide & Crisis Lifeline — call or text 988, or visit <span style="color: red;">988lifeline.org</span>
-- Canada: Talk Suicide Canada — call or text 45645, or visit <span style="color: red;">talksuicide.ca</span>
-- Canada: Wellness Together Canada — call 1-866-585-0455 or visit <span style="color: red;">wellness-together.ca</span>
-- United Kingdom: Samaritans — call 116 123 or visit <span style="color: red;">samaritans.org</span>
-- Australia: Lifeline Australia — call 13 11 14 or visit <span style="color: red;">lifeline.org.au</span>
-- New Zealand: Need to Talk? — call or text 1737 or visit <span style="color: red;">1737.org.nz</span>
+- United States and Puerto Rico: 988 Suicide & Crisis Lifeline — call or text 988, or visit [988lifeline.org](https://988lifeline.org)
+- Canada: Talk Suicide Canada — call or text 45645, or visit [talksuicide.ca](https://talksuicide.ca)
+- Canada: Wellness Together Canada — call 1-866-585-0455 or visit [wellness-together.ca](https://www.wellnesstogether.ca)
+- United Kingdom: Samaritans — call 116 123 or visit [samaritans.org](https://www.samaritans.org)
+- Australia: Lifeline Australia — call 13 11 14 or visit [lifeline.org.au](https://www.lifeline.org.au)
+- New Zealand: Need to Talk? — call or text 1737 or visit [1737.org.nz](https://1737.org.nz)
 - SAMHSA National Helpline (U.S.) — 1-800-662-HELP (4357) for treatment referrals and mental health or substance use support
-- Befrienders Worldwide — global directory of crisis support services: <span style="color: red;">befrienders.org</span>
+- Befrienders Worldwide — global directory of crisis support services: [befrienders.org](https://www.befrienders.org)
 
 ### Additional support
 
@@ -216,7 +216,7 @@ Yes. The meeting runs continuously, and a new meeting starts at the top of each 
 
 ### When do the online AA marathon meetings start?
 
-A new meeting begins at the top each hour, running continuously 24 hours a day, 7 days a week, 365 days a year.
+A new meeting begins at the top of each hour, running continuously 24 hours a day, 7 days a week, 365 days a year.
 
 ### What time zone are the meeting schedules based on?
 
@@ -248,11 +248,11 @@ Yes. The best way to get help in our meeting is to raise your virtual hand and l
 
 ### How can I get involved in service with this online recovery meeting?
 
-There is a monthly business meeting on the fourth Saturday of each month. The host will announce the business meeting at the top of each hour.
+We need chairpersons, timers, and greeters every hour. The Training Team holds regular training sessions. The host will provide details at the top of each hour. There is a monthly business meeting on the fourth Saturday of each month. The host will announce the business meeting at the top of each hour.
 
 ### Can I just listen, or do I have to speak?
 
-You are completely welcome to just listen.
+You are completely welcome to just listen. Raise your virtual hand when you feel comfortable doing so. We want to get to know you.
 
 ### Do I have to introduce myself as an alcoholic to participate?
 
@@ -264,11 +264,11 @@ No. Having your video camera on is entirely optional.
 
 ### Is this meeting affiliated with any church or religion?
 
-No. Alcoholics Anonymous is not allied with any sect, denomination, politics, organization, or institution. While AA's Twelve Steps are spiritual in nature, AA is fully non-religious and open to individuals of all beliefs or no belief.
+No. Alcoholics Anonymous is not allied with any sect, denomination, politics, organization, or institution. While AA's Twelve Steps are spiritual in nature, AA is fully non-religious and open to individuals of all beliefs or no beliefs at all.
 
 ### Does AA provide medical and detox services or operate drug rehabilitation treatment centers?
 
-No. Alcoholics Anonymous does not counsel problem drinkers or provide any medical advice. AA's Eighth Tradition states: "Alcoholics Anonymous should remain forever nonprofessional, but our service centers may employ special workers."
+No. Alcoholics Anonymous does not counsel problem drinkers or provide any medical advice. Nor does AA have treatment centers or hospitals. AA's Eighth Tradition states: "Alcoholics Anonymous should remain forever nonprofessional, but our service centers may employ special workers."
 
 ### How is anonymity protected in an online meeting?
 
@@ -286,13 +286,13 @@ The 24 Hour International Marathon Meeting of AA does not provide attendance ver
 
 The Second Tradition of Alcoholics Anonymous states: "For our group purpose there is but one ultimate authority--a loving God as He may express Himself in our group conscience. Our leaders are but trusted servants; they do not govern."
 
-### How long does each person speak in the online AA meeting?
+### How long does each person speak in this online AA meeting?
 
 Everyone who shares in the meeting gets five minutes to speak with a gentle reminder when there is one minute remaining.
 
-### Is this meeting only for people in one country?
+### Is this an American meeting?
 
-No. This is an international online AA meeting with participants from around the world.
+No. This is an international online AA meeting with participants from around the world. The meeting originated in New Zealand, but members are from around the world.
 
 ### Are there young people in this online recovery meeting?
 
@@ -304,7 +304,7 @@ No. AA groups are supported by the voluntary contributions of their members.
 
 ### Can I speak about narcotics and other drugs?
 
-In keeping with our primary purpose of carrying the message to the alcoholic who still suffers, we ask that everyone who shares confine their discussion to their problem with alcohol.
+In keeping with our primary purpose of carrying the AA message to the alcoholic who still suffers, we ask that everyone who shares confine their discussion to their problem with alcohol.
 
 The long form of AA's Third Tradition states: "Our membership ought to include all who suffer from alcoholism. Hence we may refuse none who wish to recover. Nor ought AA membership ever depend upon money or conformity. Any two or three alcoholics gathered together for sobriety may call themselves an AA group, provided that, as a group, they have no other affiliation."
 
@@ -351,8 +351,8 @@ Alcoholics Anonymous is not affiliated with any outside enterprise. The followin
 
 #### Non-12-Step Recovery Programs for Addiction Recovery
 
-- **SMART Recovery**: Science-based mutual support program emphasizing self-management and evidence-based recovery tools. [https://smartrecovery.org](https://smartrecovery.org)
-- **Came to Believe Recovery**: Find your freedom from addiction. Join a community that has recovered from a variety of addictions. The program is committed to helping others break free from addiction through spiritual retreats, workshops, and virtual meetings. It emphasizes the Four Absolutes of Honesty, Purity, Unselfishness, and Love as taught by the Oxford Groups that influenced the AA pioneers. [https://cametobelieverecovery.uk](https://cametobelieverecovery.uk)
+- **SMART Recovery**: Secular mutual support program emphasizing self-management and evidence-based recovery tools. [https://smartrecovery.org](https://smartrecovery.org)
+- **Came to Believe Recovery**: Find your freedom from addiction. Join a community that has recovered from a variety of addictions. Came to Believe Recovery acknowledges the Christian influence of early AA. The program is committed to helping others break free from addiction through spiritual retreats, workshops, and virtual meetings. It emphasizes the Four Absolutes of Honesty, Purity, Unselfishness, and Love as taught by the Oxford Groups that influenced the AA pioneers. [https://cametobelieverecovery.uk](https://cametobelieverecovery.uk)
 - **LifeRing Secular Recovery**: Secular peer-to-peer support for addiction recovery. [https://lifering.org](https://lifering.org)
 - **Recovery Dharma**: Recovery program based on Buddhist principles and practices. [https://recoverydharma.org](https://recoverydharma.org)
 - **Women for Sobriety**: Recovery support organization focused on the unique needs of women. [https://womenforsobriety.org](https://womenforsobriety.org)
@@ -385,12 +385,12 @@ The following topic list is designed for the 24 Hour International Marathon Meet
 - Facing fear
 - Handling resentment
 
-### Official AA Meeting Themes
+### Typical AA Meeting Themes
 
 - What is alcoholism?
-- The AA program of recovery
+- The AA Twelve-Step program of recovery
 - The AA Preamble
-- The AA Promises
+- The Ninth Step Promises
 - Sponsorship
 - Home group commitment
 - Anonymity
