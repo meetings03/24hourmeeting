@@ -2,11 +2,21 @@
 
 {% block extrahead %}
   {{ super() }}
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="24 Hour International Marathon Meeting of AA" />
+  <meta property="og:description" content="A continuous online Alcoholics Anonymous meeting available 24 hours a day worldwide. Join anytime via Zoom ID 292 371 2604." />
+  <meta property="og:url" content="https://sobrietyneversleeps.org/" />
+  <meta property="og:image" content="https://sobrietyneversleeps.org/images/sobrietyneversleeps_Logo.jpg" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="24 Hour International Marathon Meeting of AA" />
+  <meta name="twitter:description" content="A continuous online Alcoholics Anonymous meeting available 24 hours a day worldwide. Join anytime via Zoom ID 292 371 2604." />
+  <meta name="twitter:image" content="https://sobrietyneversleeps.org/images/sobrietyneversleeps_Logo.jpg" />
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
     "@graph": [
       {
+        "@id": "https://sobrietyneversleeps.org/#org",
         "@type": "Organization",
         "name": "24-Hour International Marathon Meeting of AA",
         "alternateName": "Help 24/7",
@@ -30,6 +40,36 @@
         ]
       },
       {
+        "@id": "https://sobrietyneversleeps.org/#website",
+        "@type": "WebSite",
+        "url": "https://sobrietyneversleeps.org/",
+        "name": "24 Hour International Marathon Meeting of AA",
+        "description": "A continuous online Alcoholics Anonymous meeting available 24 hours a day worldwide.",
+        "publisher": {
+          "@id": "https://sobrietyneversleeps.org/#org"
+        },
+        "inLanguage": "en"
+      },
+      {
+        "@id": "https://sobrietyneversleeps.org/#webpage",
+        "@type": "WebPage",
+        "url": "https://sobrietyneversleeps.org/",
+        "name": "24 Hour International Marathon Meeting of AA",
+        "description": "A continuous online Alcoholics Anonymous meeting available 24 hours a day worldwide. Join anytime via Zoom ID 292 371 2604.",
+        "isPartOf": {
+          "@id": "https://sobrietyneversleeps.org/#website"
+        },
+        "about": {
+          "@id": "https://sobrietyneversleeps.org/#org"
+        },
+        "primaryImageOfPage": {
+          "@type": "ImageObject",
+          "url": "https://sobrietyneversleeps.org/images/sobrietyneversleeps_Logo.jpg"
+        },
+        "inLanguage": "en"
+      },
+      {
+        "@id": "https://sobrietyneversleeps.org/#event",
         "@type": "Event",
         "name": "24-Hour International Marathon Meeting of AA",
         "eventAttendanceMode": "https://schema.org/OnlineEventAttendanceMode",
@@ -42,9 +82,80 @@
           "url": "https://zoom.us/j/2923712604"
         },
         "organizer": {
-          "@type": "Organization",
-          "name": "24-Hour International Marathon Meeting of AA",
-          "url": "https://sobrietyneversleeps.org/"
+          "@id": "https://sobrietyneversleeps.org/#org"
+        }
+      },
+      {
+        "@id": "https://sobrietyneversleeps.org/#faq",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Who is allowed to attend this online AA meeting?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "We are an open meeting of Alcoholics Anonymous. Anyone with a desire to stop drinking is welcome to participate, regardless of background, status, or location."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is the meeting really available 24 hours a day?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes. The meeting runs continuously, and a new meeting starts at the top of each hour, every day."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How do I join the 24-hour online AA meeting?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Use Zoom Meeting ID 292 371 2604, or click the Join Meeting button at the top of this page."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Do I need a password to join?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No. There is no password required for this Zoom meeting."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How do I speak or share during the online AA meeting?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "To share your experience, strength, and hope, simply raise your virtual hand. The chairperson calls on hands in the exact order they are raised."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Can I just listen, or do I have to speak?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "You are completely welcome to just listen."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Can I get a sponsor on the online AA meeting?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes. The best way to get help in our meeting is to raise your virtual hand and let us know you are looking for a sponsor. We suggest that men work with men and women work with women."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Can I have my attendance verified for court or probation?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "The 24 Hour International Marathon Meeting of AA does not provide attendance verification. However, attendance verification of online meetings is available on the NKC verification page: https://newcomerskeepcoming.org/verification"
+            }
+          }
+        ],
+        "about": {
+          "@id": "https://sobrietyneversleeps.org/#org"
         }
       }
     ]
