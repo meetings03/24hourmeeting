@@ -12,8 +12,8 @@
   <div class="logo-area" aria-label="Logo placeholder">
     <img src="images/Logo_247_7.30.2026.jpg" alt="Help 24/7 online meeting logo" class="hero-logo" width="100%" />
   </div>
-  <p class="hero-copy">The 24 Hour International Marathon Meeting of AA is a continuous online Alcoholics Anonymous meeting available worldwide around the clock. A fresh meeting with a new AA topic begins at the top of each hour. We are an open meeting, and anyone with a desire to stop drinking is welcome to participate. Join anytime using Zoom Meeting ID <strong>292 371 2604</strong>.</p>
-  <p class="hero-copy">Our online meeting has been running nonstop since April 20, 2020. It began at the start of the COVID-19 pandemic when two newcomers from New Zealand with cell phones realized they needed fellowship with other alcoholics to stay sober. The 24 Hour International Marathon Meeting has carried AA’s message of hope and recovery across the world ever since.</p>
+  <p class="hero-copy">The 24 Hour International Marathon Meeting of AA is a continuous online Alcoholics Anonymous meeting available worldwide around the clock. A fresh meeting with a new AA topic begins at the top of each hour. We are an open meeting, and anyone with a desire to stop drinking is welcome to participate. Join anytime using Zoom Meeting ID <strong>292 371 2604</strong>.</p> No password needed.
+  <p class="hero-copy">Our online meeting has been running nonstop since April 20, 2020. It began at the start of the COVID-19 pandemic when two newcomers from New Zealand with cell phones realized they needed fellowship with other alcoholics to stay sober. The 24 Hour International Marathon Meeting has carried AA’s message of hope and recovery around the world ever since.</p>
   <div class="triangle-logo-wrap">
     <img src="images/Triangle_logo.jpg" alt="Alcoholics Anonymous triangle logo" class="triangle-logo" />
   </div>
@@ -238,11 +238,11 @@ The Zoom meeting ID is **292 371 2604**. No password is required to join. You ca
 
 No. There is no password required for this Zoom meeting.
 
-### How do I speak or share during the online AA meeting?
+### How do I speak or share during this virtual AA meeting?
 
 To share your experience, strength, and hope, simply raise your virtual hand. The chairperson calls on hands in the exact order they are raised.
 
-### Can I get a sponsor on the online AA meeting?
+### Can I get a sponsor on this 24 Hour marathon AA meeting?
 
 Yes. The best way to get help in our meeting is to raise your virtual hand and let us know you are looking for a sponsor. We suggest that men work with men and women work with women.
 
@@ -268,7 +268,7 @@ No. Alcoholics Anonymous is not allied with any sect, denomination, politics, or
 
 ### Does AA provide medical and detox services or operate drug rehabilitation treatment centers?
 
-No. Alcoholics Anonymous does not counsel problem drinkers or provide any medical advice. Nor does AA have treatment centers or hospitals. AA's Eighth Tradition states: "Alcoholics Anonymous should remain forever nonprofessional, but our service centers may employ special workers."
+No. Alcoholics Anonymous does not counsel problem drinkers or provide any medical advice. Nor does AA operate treatment centers or hospitals. AA's Eighth Tradition states: "Alcoholics Anonymous should remain forever nonprofessional, but our service centers may employ special workers."
 
 ### How is anonymity protected in an online meeting?
 
@@ -292,7 +292,7 @@ Everyone who shares in the meeting gets five minutes to speak with a gentle remi
 
 ### Is this an American meeting?
 
-No. This is an international online AA meeting with participants from around the world. The meeting originated in New Zealand, but members are from around the world.
+No. This is an international online AA meeting with participants from around the world. The meeting originated in New Zealand, but members are from many different countries.
 
 ### Are there young people in this online recovery meeting?
 
