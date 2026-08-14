@@ -1,6 +1,4 @@
-# 24 Hour International Marathon Meeting of AA
-
-*24/7 Online AA Meeting*  
+# 24 Hour International Marathon Meeting of AA: 24/7 Online AA Meeting
 
 <div class="logo-area" aria-label="Logo placeholder" style="margin-bottom: 1rem;">
   <img src="images/sobrietyneversleeps_Logo.jpg" alt="24 Hour International Marathon Meeting of AA logo" class="hero-logo" width="100%" />
@@ -13,8 +11,8 @@
 <div class="hero-card">
   <div class="logo-area" aria-label="Logo placeholder">
     <img src="images/Logo_247_7.30.2026.jpg" alt="Help 24/7 online meeting logo" class="hero-logo" width="100%" />
-    <h3>International Online AA Zoom Meeting</h3>
   </div>
+  <h3>International Online AA Zoom Meeting</h3>
   <p class="hero-copy">The 24 Hour International Marathon Meeting of AA is a continuous online Alcoholics Anonymous meeting available worldwide around the clock. A fresh meeting with a new AA topic begins at the top of each hour. We are an open meeting, and anyone with a desire to stop drinking is welcome to participate. Join anytime using Zoom Meeting ID <strong>292 371 2604</strong>. No password is needed.</p>
   <p class="hero-copy">Our online meeting has been running nonstop since April 20, 2020. It began at the start of the COVID-19 pandemic when two newcomers from New Zealand with cell phones realized they needed fellowship with other alcoholics to stay sober. The 24 Hour International Marathon Meeting has carried AA’s message of hope and recovery around the world ever since.</p>
   <div class="triangle-logo-wrap">
@@ -108,25 +106,6 @@ Alcoholics Anonymous is a fellowship of people who share their experience, stren
   <li><strong>Morocco</strong>: https://aamaroc.net</li>
 </ul>
 
-### Sobriety Suggestions, Sayings and Slogans
-
-- Keep Coming Back
-- Stay sober one day at a time
-- Easy Does It
-- Live and Let Live
-- First Things First
-- There is a Solution
-- Get a Sponsor
-- Take the Steps
-- Join a Home Group
-- Take on a service commitment
-- Trust God, clean house, and work with others
-- Continue to watch for selfishness, dishonesty, resentment, and fear
-- If you don't take the first drink, you won't get drunk
-- Love and Tolerance Is Our Code
-- Rule 62 (Don't take yourself too damn seriously)
-- The Three Essentials of Recovery: Honesty, Openmindedness, and Willingness
-
 ## Do you have a drinking problem?
 
 ### Twenty Questions
@@ -196,12 +175,6 @@ If you or someone you know is in immediate danger, call emergency services right
 - SAMHSA National Helpline (U.S.) — 1-800-662-HELP (4357) for treatment referrals and mental health or substance use support
 - Befrienders Worldwide — global directory of crisis support services: [befrienders.org](https://www.befrienders.org)
 
-### Additional support
-
-- Call 911 in the U.S. or your local emergency number if there is immediate danger or a medical emergency.
-- Contact a local crisis center, community mental health clinic, urgent care center, or a trusted healthcare professional.
-- Reach out to a trusted friend, family member, sponsor, or support person.
-- If you are unsafe, leave the area, move to a public place, and seek help from emergency services or a nearby professional support resource.
 
 ## Frequently Asked Questions About the 24 Hour International Marathon Meeting of AA
 
@@ -364,7 +337,6 @@ Alcoholics Anonymous is not affiliated with any outside enterprise. The followin
 ## Topics for Online AA Meetings
 
 
-
 ###  Principles Discussed at 24-Hour Online AA Meetings
 
 - Acceptance
@@ -388,7 +360,7 @@ Alcoholics Anonymous is not affiliated with any outside enterprise. The followin
 - Facing fear
 - Handling resentment
 
-### Typical 24/7 Online AA Meeting Themes
+### Typical 24/7 Online AA Meeting Topics
 
 - What is alcoholism?
 - The AA Twelve-Step program of recovery
@@ -405,7 +377,6 @@ Alcoholics Anonymous is not affiliated with any outside enterprise. The followin
 - Spiritual awakening
 - Helping the newcomer
 - Responsibility Declaration
-
 
 
 ### Newcomer-Friendly Topics for 24-Hour Online AA Meetings
