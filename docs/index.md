@@ -8,6 +8,13 @@
 
 ## 24/7 AA Zoom Meeting
 
+### Quick Answers
+
+- **What is this?** A live 24/7 Online AA Meeting on Zoom for people seeking sobriety.
+- **Who can attend?** This is an open Alcoholics Anonymous meeting, and anyone with a desire to stop drinking is welcome.
+- **How do I join?** Use Zoom Meeting ID **292 371 2604** or click the Join Online AA Meeting button above.
+- **Is a password required?** No. You can join without a password.
+
 <div class="hero-card">
   <div class="logo-area" aria-label="Logo placeholder">
     <img src="images/Logo_247_7.30.2026.jpg" alt="Help 24/7 online meeting logo" class="hero-logo" width="100%" />
