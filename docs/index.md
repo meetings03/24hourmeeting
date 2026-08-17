@@ -2,10 +2,6 @@
 
 Join a live 24/7 Online AA Meeting on Zoom. This is an open international Alcoholics Anonymous meeting with a new session every hour. Join now with Zoom Meeting ID **292 371 2604**. No password required.
 
-<div class="logo-area" aria-label="Logo placeholder" style="margin-bottom: 1rem;">
-  <img src="images/sobrietyneversleeps_Logo.svg" alt="24 Hour International Marathon Meeting of AA logo" class="hero-logo" width="100%" />
-</div>
-
 <a id="join-meeting" class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener" style="display: inline-block; margin: 0 0 1.5rem 0;">Join Online AA Meeting</a>
 
 ## 24/7 AA Zoom Meeting
