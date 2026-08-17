@@ -427,6 +427,12 @@ Alcoholics Anonymous is not affiliated with any outside enterprise. The followin
 - Unity across cultures
 - Helping the alcoholic who still suffers anytime, anywhere
 
+## About This Meeting
+
+The 24 Hour International Marathon Meeting of AA is a volunteer-run online AA meeting. This website was independently and anonymously developed. The primary purpose of this website is to direct anyone looking for an international marathon meeting of Alcoholics Anonymous to the Zoom code: **292 371 2604**.
+
+The long form of Tradition Twelve states: "And finally, we of Alcoholics Anonymous believe that the principle of anonymity has an immense spiritual significance. It reminds us that we are to place principles before personalities, that we are actually to practice a genuine humility. This to the end that our great blessings may never spoil us; that we shall forever live in thankful contemplation of Him who presides over us all."
+
 ## Serenity Prayer
 
 <blockquote style="font-family: Georgia, 'Times New Roman', serif; font-size: 1.25rem; line-height: 1.8; letter-spacing: 0.04em; font-style: italic; color: #2f3a3a; border-left: 3px solid #7a8d8d; padding-left: 1rem; margin: 1.5rem 0;">
@@ -434,12 +440,6 @@ God, grant me the <strong>Serenity</strong> to accept the things I cannot change
 <strong>Courage</strong> to change the things I can,<br>
 and <strong>Wisdom</strong> to know the difference.
 </blockquote>
-
-## About This Meeting
-
-The 24 Hour International Marathon Meeting of AA is a volunteer-run online AA meeting. This website was independently and anonymously developed. The primary purpose of this website is to direct anyone looking for an international marathon meeting of Alcoholics Anonymous to the Zoom code: **292 371 2604**.
-
-The long form of Tradition Twelve states: "And finally, we of Alcoholics Anonymous believe that the principle of anonymity has an immense spiritual significance. It reminds us that we are to place principles before personalities, that we are actually to practice a genuine humility. This to the end that our great blessings may never spoil us; that we shall forever live in thankful contemplation of Him who presides over us all."
 
 <div class="bottom-triangle-wrap">
   <img src="images/Upside_down_triangle.png" alt="Upside down triangle" class="bottom-triangle" />
