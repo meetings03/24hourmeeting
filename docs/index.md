@@ -39,6 +39,10 @@ The 24 Hour International Marathon Meeting of Alcoholics Anonymous is dedicated 
 
 Alcoholics Anonymous is a fellowship of people who share their experience, strength, and hope with each other so that they may solve their common problem and help others recover from alcoholism. The only requirement for membership is a desire to stop drinking. There are no dues or fees for AA membership; we are self-supporting through our own contributions. AA is not allied with any sect, denomination, politics, organization, or institution; does not wish to engage in any controversy, neither endorses nor opposes any causes. Our primary purpose is to stay sober and help other alcoholics achieve sobriety.
 
+<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
+  <img src="images/How_It_Works.png" alt="How it works image" style="max-width: 100%; height: auto;" />
+</div>
+
 ## The Twelve Steps
 
 1. We admitted we were powerless over alcohol—that our lives had become unmanageable.
@@ -53,6 +57,10 @@ Alcoholics Anonymous is a fellowship of people who share their experience, stren
 10. Continued to take personal inventory and when we were wrong promptly admitted it.
 11. Sought through prayer and meditation to improve our conscious contact with God *as we understood Him*, praying only for knowledge of His will for us and the power to carry that out.
 12. Having had a spiritual awakening as the result of these steps, we tried to carry this message to alcoholics, and to practice these principles in all our affairs.
+
+<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
+  <img src="images/Hands.png" alt="Hands image" style="max-width: 100%; height: auto;" />
+</div>
 
 ## The Twelve Traditions
 
