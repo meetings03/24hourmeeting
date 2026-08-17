@@ -435,6 +435,12 @@ God, grant me the <strong>Serenity</strong> to accept the things I cannot change
 and <strong>Wisdom</strong> to know the difference.
 </blockquote>
 
+## About This Meeting
+
+The 24 Hour International Marathon Meeting of AA is a volunteer-run online AA meeting. This website was independently and anonymously developed. The primary purpose of this website is to direct anyone looking for an international marathon meeting of Alcoholics Anonymous to the Zoom code: **292 371 2604**.
+
+The long form of Tradition Twelve states: "And finally, we of Alcoholics Anonymous believe that the principle of anonymity has an immense spiritual significance. It reminds us that we are to place principles before personalities, that we are actually to practice a genuine humility. This to the end that our great blessings may never spoil us; that we shall forever live in thankful contemplation of Him who presides over us all."
+
 <div class="bottom-triangle-wrap">
   <img src="images/Upside_down_triangle.png" alt="Upside down triangle" class="bottom-triangle" />
 </div>
