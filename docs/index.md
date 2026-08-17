@@ -3,7 +3,7 @@
 Join a live 24/7 Online AA Meeting on Zoom. This is an open international Alcoholics Anonymous meeting with a new session every hour. Join now with Zoom Meeting ID **292 371 2604**. No password required.
 
 <div class="logo-area" aria-label="Logo placeholder" style="margin-bottom: 1rem;">
-  <img src="images/sobrietyneversleeps_Logo.jpg" alt="24 Hour International Marathon Meeting of AA logo" class="hero-logo" width="100%" />
+  <img src="images/sobrietyneversleeps_Logo.svg" alt="24 Hour International Marathon Meeting of AA logo" class="hero-logo" width="100%" />
 </div>
 
 <a id="join-meeting" class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener" style="display: inline-block; margin: 0 0 1.5rem 0;">Join Online AA Meeting</a>
@@ -34,6 +34,14 @@ Join a live 24/7 Online AA Meeting on Zoom. This is an open international Alcoho
 Welcome to the 24 Hour International Marathon Meeting of AA, *where sobriety never sleeps.* We are an open meeting of Alcoholics Anonymous, and everyone is welcome to listen. In keeping with AA's singleness of purpose and our Third Tradition, which states that the only requirement for AA membership is a desire to stop drinking, we ask that everyone who shares in our meeting confine their discussion to their problems with alcohol. You can join our online recovery meeting by clicking the "Join Online AA Meeting" button above, or by joining the meeting through Zoom. The Zoom access code is **292 371 2604**. No password is required. Join our online recovery meeting and raise your virtual hand. We want to get to know you, and experience has taught us that we can help best if you let us get to know you. We call on hands in the order they are raised, and everyone gets five minutes to share with a gentle reminder when there is one minute remaining.
 
 The 24 Hour International Marathon Meeting of Alcoholics Anonymous is dedicated to carrying AA's life-saving message of hope and recovery globally to the alcoholic who still suffers. Individuals seeking support for drug problems and substance use disorders may benefit from professional treatment programs, government resources, rehabilitation services, family support organizations, and other recovery programs and fellowships. Alcoholics Anonymous is not affiliated with any outside agency or enterprise.
+
+<div class="bottom-triangle-wrap">
+  <img src="images/Upside_down_triangle.png" alt="AA triangle recovery symbol" class="bottom-triangle" />
+</div>
+
+<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
+  <img src="images/I%20am%20Responsible%20Image.png" alt="I am Responsible AA image" style="max-width: 100%; height: auto;" />
+</div>
 
 ## Preamble
 
@@ -69,6 +77,11 @@ Alcoholics Anonymous is a fellowship of people who share their experience, stren
 11. Our public relations policy is based on attraction rather than promotion; we need always maintain personal anonymity at the level of press, radio, and films.
 12. Anonymity is the spiritual foundation of all our Traditions, ever reminding us to place principles before personalities.
 
+<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
+  <img src="images/FifthTradition%20Image%20Part%201.png" alt="Fifth Tradition Part 1 image" style="max-width: 100%; height: auto;" />
+  <img src="images/Fifth%20Tradition%20Image%20Part%202.png" alt="Fifth Tradition Part 2 image" style="max-width: 100%; height: auto;" />
+</div>
+
 ### A Declaration of Unity
 
 <div class="quote-card">
@@ -82,6 +95,10 @@ Alcoholics Anonymous is a fellowship of people who share their experience, stren
   <p class="quote-label">Toronto Responsibility Statement</p>
   <p class="quote-text">I am responsible.</p>
   <p class="quote-text">When anyone, anywhere, reaches out for help, I want the hand of AA always to be there. And for that I am responsible.</p>
+</div>
+
+<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
+  <img src="images/First%20Tradition%20Image.png" alt="First Tradition image" style="max-width: 100%; height: auto;" />
 </div>
 
 ### Contact Us
@@ -167,6 +184,10 @@ Alcoholics Anonymous General Service Conference-approved Literature is available
 - AA Tradition: How It Developed
 - The Twelve Traditions Illustrated
 
+<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
+  <img src="images/Eighth%20Tradition%20Image.png" alt="Eighth Tradition image" style="max-width: 100%; height: auto;" />
+</div>
+
 ## Crisis and Mental Health Resources
 
 Alcoholics Anonymous is not affiliated with any outside agency or organization. Below is a list of non-AA crisis resources.
@@ -184,6 +205,10 @@ If you or someone you know is in immediate danger, call emergency services right
 - SAMHSA National Helpline (U.S.) — 1-800-662-HELP (4357) for treatment referrals and mental health or substance use support
 - Befrienders Worldwide — global directory of crisis support services: [befrienders.org](https://www.befrienders.org)
 
+
+<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
+  <img src="images/Eleventh%20Tradition.png" alt="Eleventh Tradition image" style="max-width: 100%; height: auto;" />
+</div>
 
 ## Frequently Asked Questions About the 24 Hour International Marathon Meeting of AA
 
