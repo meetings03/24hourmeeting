@@ -1,5 +1,12 @@
 # 24 Hour International Marathon Meeting of AA: 24/7 Online AA Meeting
 
+<style>
+  .tradition-image-row {
+    margin: 1rem 0 1.25rem !important;
+    gap: 0.75rem !important;
+  }
+</style>
+
 Join a live 24/7 Online AA Meeting on Zoom. This is an open international Alcoholics Anonymous meeting with a new session every hour. Join now with Zoom Meeting ID **292 371 2604**. No password required.
 
 <a id="join-meeting" class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener" style="display: inline-block; margin: 0 0 1.5rem 0;">Join Online AA Meeting</a>
@@ -383,7 +390,7 @@ Alcoholics Anonymous is not affiliated with any outside enterprise. The followin
 ## Topics for Online AA Meetings
 
 
-###  Principles Discussed at 24-Hour Online AA Meetings
+### Principles Discussed at 24-Hour Online AA Meetings
 
 - Acceptance
 - Surrender
@@ -453,7 +460,9 @@ Alcoholics Anonymous is not affiliated with any outside enterprise. The followin
 
 ## About This Meeting
 
-The 24 Hour International Marathon Meeting of AA is a volunteer-run online AA meeting. This website was independently and anonymously developed. The primary purpose of this website is to direct anyone looking for an international marathon meeting of Alcoholics Anonymous to the Zoom code: **292 371 2604**.
+The 24 Hour International Marathon Meeting of AA is a volunteer-run online AA meeting. The Fifth Tradition states: "Each group has but one primary purpose--to carry its message to the alcoholic who still suffers."
+
+This website was independently and anonymously developed. The primary purpose of this website is to direct anyone looking for an international marathon meeting of Alcoholics Anonymous to the Zoom code: **292 371 2604**. 
 
 The long form of Tradition Twelve states: "And finally, we of Alcoholics Anonymous believe that the principle of anonymity has an immense spiritual significance. It reminds us that we are to place principles before personalities, that we are actually to practice a genuine humility. This to the end that our great blessings may never spoil us; that we shall forever live in thankful contemplation of Him who presides over us all."
 
