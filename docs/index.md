@@ -35,10 +35,6 @@ Welcome to the 24 Hour International Marathon Meeting of AA, *where sobriety nev
 
 The 24 Hour International Marathon Meeting of Alcoholics Anonymous is dedicated to carrying AA's life-saving message of hope and recovery globally to the alcoholic who still suffers. Individuals seeking support for drug problems and substance use disorders may benefit from professional treatment programs, government resources, rehabilitation services, family support organizations, and other recovery programs and fellowships. Alcoholics Anonymous is not affiliated with any outside agency or enterprise.
 
-<div class="bottom-triangle-wrap">
-  <img src="images/Upside_down_triangle.png" alt="AA triangle recovery symbol" class="bottom-triangle" />
-</div>
-
 <div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
   <img src="images/I%20am%20Responsible%20Image.png" alt="I am Responsible AA image" style="max-width: 100%; height: auto;" />
 </div>
