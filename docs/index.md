@@ -101,10 +101,6 @@ Alcoholics Anonymous is a fellowship of people who share their experience, stren
   <img src="images/First%20Tradition%20Image.png" alt="First Tradition image" style="max-width: 100%; height: auto;" />
 </div>
 
-<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
-  <img src="images/Contact_Us.png" alt="Contact us image" style="max-width: 100%; height: auto;" />
-</div>
-
 ### Contact Us
 
 <div class="contact-card">
@@ -113,6 +109,10 @@ Alcoholics Anonymous is a fellowship of people who share their experience, stren
     <li>Email: the24hourmeeting@gmail.com</li>
     <li>Website: https://sobrietyneversleeps.org</li>
   </ul>
+</div>
+
+<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
+  <img src="images/Contact_Us.png" alt="Contact us image" style="max-width: 100%; height: auto;" />
 </div>
 
 ### International AA Websites
@@ -168,6 +168,10 @@ Source: Johns Hopkins University Hospital
 ### AA's Two Questions
 
 The book *Alcoholics Anonymous* (the Big Book) says that alcoholics are men and women who have lost the ability to control their drinking. AA does not pronounce anyone as being an alcoholic. The following passage from page 44 of the Big Book states: "In the preceding chapters you have learned something of alcoholism. We hope we have made clear the distinction between the alcoholic and the non-alcoholic. If, when you honestly want to, you find you cannot quit entirely, or if when drinking, you have little control over the amount you take, you are probably alcoholic. If that be the case, you may be suffering from an illness which only a spiritual experience will conquer."
+
+<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
+  <img src="images/AA_Literature.png" alt="AA Literature image" style="max-width: 100%; height: auto;" />
+</div>
 
 ## AA Literature
 
