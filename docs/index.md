@@ -127,7 +127,7 @@ Alcoholics Anonymous is a fellowship of people who share their experience, stren
 </div>
 
 <div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
-  <img src="images/International_AA.PNG.png" alt="International AA image" style="max-width: 100%; height: auto;" />
+  <img src="images/New_Flags_International.PNG.png" alt="New international flags image" style="max-width: 100%; height: auto;" />
 </div>
 
 ### International AA Websites
