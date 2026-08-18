@@ -126,10 +126,6 @@ Alcoholics Anonymous is a fellowship of people who share their experience, stren
   <img src="images/Contact_Us.png" alt="Contact us image" style="max-width: 100%; height: auto;" />
 </div>
 
-<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
-  <img src="images/New_Flags_International.PNG.png" alt="New international flags image" style="max-width: 100%; height: auto;" />
-</div>
-
 ### International AA Websites
 
 <ul>
@@ -152,7 +148,7 @@ Alcoholics Anonymous is a fellowship of people who share their experience, stren
 </ul>
 
 <div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
-  <img src="images/Flags_International.PNG.png" alt="International flags image" style="max-width: 100%; height: auto;" />
+  <img src="images/New_Flags_International.PNG.png" alt="New international flags image" style="max-width: 100%; height: auto;" />
 </div>
 
 ## Do you have a drinking problem?
@@ -430,6 +426,10 @@ Alcoholics Anonymous is not affiliated with any outside enterprise. The followin
 - Progress, not perfection
 - Facing fear
 - Handling resentment
+
+<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
+  <img src="images/Members_TalkingatTable.png" alt="Members talking at a table" style="max-width: 100%; height: auto;" />
+</div>
 
 ### Typical 24/7 Online AA Meeting Topics
 
