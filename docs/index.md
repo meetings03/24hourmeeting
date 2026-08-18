@@ -472,11 +472,15 @@ Alcoholics Anonymous is not affiliated with any outside enterprise. The followin
   <img src="images/Twelfth_Tradition.png" alt="Twelfth Tradition image" style="max-width: 100%; height: auto;" />
 </div>
 
+<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
+  <img src="images/AA_Hearts.PNG.png" alt="AA hearts image" style="max-width: 100%; height: auto;" />
+</div>
+
 ## About This Meeting
 
-The 24 Hour International Marathon Meeting of AA is a volunteer-run online AA meeting. The Fifth Tradition states: "Each group has but one primary purpose--to carry its message to the alcoholic who still suffers."
+The 24 Hour International Marathon Meeting of AA is a volunteer-run online meeting of Alcoholics Anonymous. The Fifth Tradition states: "Each group has but one primary purpose--to carry its message to the alcoholic who still suffers."
 
-This website was independently and anonymously developed and is maintained by the Friends of the 24/7 International Marathon and is soley responsible for its content. The primary purpose of this website is to direct anyone looking for an international marathon meeting of Alcoholics Anonymous to the Zoom code: **292 371 2604**. 
+This website (https:sobrietyneversleeps.org) was independently and anonymously developed and maintained by the Friends of the 24/7 International Marathon which is soley responsible for its content. The primary purpose of this website is to direct anyone looking for an online AA marathon meeting to the Zoom code: **292 371 2604**. 
 
 The long form of Tradition Twelve states: "And finally, we of Alcoholics Anonymous believe that the principle of anonymity has an immense spiritual significance. It reminds us that we are to place principles before personalities, that we are actually to practice a genuine humility. This to the end that our great blessings may never spoil us; that we shall forever live in thankful contemplation of Him who presides over us all."
 
