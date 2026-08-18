@@ -145,32 +145,26 @@ Alcoholics Anonymous is a fellowship of people who share their experience, stren
 
 ## Do you have a drinking problem?
 
-### Twenty Questions
+### The CAGE Questionnaire
 
-1. Do you lose time from work due to drinking?
-2. Is drinking making your home life unhappy?
-3. Do you drink because you are shy with other people?
-4. Is drinking affecting your reputation?
-5. Have you ever felt remorse after drinking?
-6. Have you gotten into financial difficulties as a result of drinking?
-7. Do you turn to lower companions and an inferior environment when drinking?
-8. Does your drinking make you careless of your family's welfare?
-9. Has your ambition decreased since drinking?
-10. Do you crave a drink at a definite time daily?
-11. Do you want to drink the next morning?
-12. Does drinking cause you to have difficulty sleeping?
-13. Has your efficiency decreased since drinking?
-14. Is drinking jeopardizing your job or business?
-15. Do you drink to escape worries or trouble?
-16. Do you drink alone?
-17. Do you drink to build your self-confidence?
-18. Has your physician ever treated you for drinking?
-19. Have you ever been to a hospital or institution on account of drinking?
-20. Has your drinking ever caused you to have a total loss of memory?
+The CAGE questionnaire is a short, widely used screening tool designed to help individuals identify possible problems with alcohol use. Originally introduced by Dr. John A. Ewing, it is commonly used in clinical settings and is recognized by institutions such as Johns Hopkins University Hospital.
 
-If you answered "yes" to 2 or more questions, you may have a drinking problem.
+Please answer each question honestly with a Yes or No.
+
+- C — Cut down: Have you ever felt you should cut down on your drinking?
+- A — Annoyed: Have people annoyed you by criticizing your drinking?
+- G — Guilty: Have you ever felt bad or guilty about your drinking?
+- E — Eye-opener: Have you ever had a drink first thing in the morning to steady your nerves or to relieve a hangover?
+
+### How to score the CAGE questionnaire
+
+- 0–1 points: low risk
+- 2 or more points: clinically significant; consider a professional evaluation
+- 4 points: severe risk; this strongly suggests a drinking problem
 
 Source: Johns Hopkins University Hospital
+
+AA Tradition Six and Tradition Eight emphasize that the Fellowship should stay focused on its primary purpose and remain free from outside entanglements, money, and professional incentives that could divert it from recovery work.
 
 ### AA's Two Questions
 
@@ -182,7 +176,7 @@ The book *Alcoholics Anonymous* (the Big Book) says that alcoholics are men and 
 
 ## AA Literature
 
-Alcoholics Anonymous General Service Conference-approved Literature is available on the AA World Services website www.aa.org. Below is a list of suggested titles:
+Alcoholics Anonymous General Service Conference-approved literature is available on the AA World Services website, www.aa.org. Below is a list of suggested titles:
 
 ### Books
 
@@ -462,7 +456,7 @@ Alcoholics Anonymous is not affiliated with any outside enterprise. The followin
 
 The 24 Hour International Marathon Meeting of AA is a volunteer-run online AA meeting. The Fifth Tradition states: "Each group has but one primary purpose--to carry its message to the alcoholic who still suffers."
 
-This website was independently and anonymously developed. The primary purpose of this website is to direct anyone looking for an international marathon meeting of Alcoholics Anonymous to the Zoom code: **292 371 2604**. 
+This website was independently and anonymously developed and is maintained by the Friends of the 24/7 International Marathon and is soley responsible for its content. The primary purpose of this website is to direct anyone looking for an international marathon meeting of Alcoholics Anonymous to the Zoom code: **292 371 2604**. 
 
 The long form of Tradition Twelve states: "And finally, we of Alcoholics Anonymous believe that the principle of anonymity has an immense spiritual significance. It reminds us that we are to place principles before personalities, that we are actually to practice a genuine humility. This to the end that our great blessings may never spoil us; that we shall forever live in thankful contemplation of Him who presides over us all."
 
