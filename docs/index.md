@@ -69,6 +69,10 @@ Alcoholics Anonymous is a fellowship of people who share their experience, stren
   <img src="images/Hands.png" alt="Hands image" style="max-width: 100%; height: auto;" />
 </div>
 
+<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
+  <img src="images/Traditions_Distilation.PNG.png" alt="Traditions distillation image" style="max-width: 100%; height: auto;" />
+</div>
+
 ## The Twelve Traditions
 
 1. Our common welfare should come first; personal recovery depends upon AA unity.
@@ -122,6 +126,10 @@ Alcoholics Anonymous is a fellowship of people who share their experience, stren
   <img src="images/Contact_Us.png" alt="Contact us image" style="max-width: 100%; height: auto;" />
 </div>
 
+<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
+  <img src="images/International_AA.PNG.png" alt="International AA image" style="max-width: 100%; height: auto;" />
+</div>
+
 ### International AA Websites
 
 <ul>
@@ -165,6 +173,10 @@ Please answer each question honestly with a Yes or No.
 Source: Johns Hopkins University Hospital
 
 AA Tradition Six and Tradition Eight emphasize that the Fellowship should stay focused on its primary purpose and remain free from outside entanglements, money, and professional incentives that could divert it from recovery work.
+
+<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
+  <img src="images/Sixth_Tradition.PNG.png" alt="Sixth Tradition image" style="max-width: 100%; height: auto;" />
+</div>
 
 ### AA's Two Questions
 
@@ -228,6 +240,10 @@ We are an open meeting of Alcoholics Anonymous. Anyone with a desire to stop dri
 ### Are members of the LGBTQ community welcome in this 24 hour AA meeting?
 
 Yes. All alcoholics are welcome in the 24 Hour International Marathon Meeting of AA, regardless of their status, beliefs, lifestyle, or geographic location. Our Third Tradition states: "The only requirement for AA membership is a desire to stop drinking."
+
+<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
+  <img src="images/Third_Tradition.PNG.png" alt="Third Tradition image" style="max-width: 100%; height: auto;" />
+</div>
 
 ### Is this international online Zoom AA meeting really available 24 hours a day?
 
@@ -316,6 +332,10 @@ No. This is an international online AA meeting with participants from around the
 ### Are there young people in this online recovery meeting?
 
 Yes. There are people of all ages on the 24 Hour International Marathon Meeting of AA, which is an open meeting of Alcoholics Anonymous. The only requirement for membership in AA is a desire to stop drinking.
+
+<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
+  <img src="images/Seventh_Tradition.PNG.png" alt="Seventh Tradition image" style="max-width: 100%; height: auto;" />
+</div>
 
 ### Are there any dues or fees required to join this 24-hour online AA meeting?
 
