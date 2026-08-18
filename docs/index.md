@@ -317,6 +317,10 @@ The 24 Hour International Marathon Meeting of AA follows the online safety sugge
 
 The 24 Hour International Marathon Meeting of AA does not provide attendance verification. However, attendance verification of online meetings is available on the **NKC verification page**: https://newcomerskeepcoming.org/verification
 
+<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
+  <img src="images/Lead-By_Example.png" alt="Lead by example image" style="max-width: 100%; height: auto;" />
+</div>
+
 ### Who runs AA?
 
 The Second Tradition of Alcoholics Anonymous states: "For our group purpose there is but one ultimate authority--a loving God as He may express Himself in our group conscience. Our leaders are but trusted servants; they do not govern."
