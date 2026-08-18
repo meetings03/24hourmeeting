@@ -1,4 +1,4 @@
-# 24 Hour International Marathon Meeting of AA: 24/7 Online AA Meeting
+# 24/7 International Marathon Meeting of AA: 24/7 Online AA Meeting
 
 <style>
   .tradition-image-row {
@@ -25,8 +25,8 @@ Join a live 24/7 Online AA Meeting on Zoom. This is an open international Alcoho
     <img src="images/Logo_247_7.30.2026.jpg" alt="Help 24/7 online meeting logo" class="hero-logo" width="100%" />
   </div>
   <h3>International Online AA Zoom Meeting</h3>
-  <p class="hero-copy">The 24 Hour International Marathon Meeting of AA is a continuous online Alcoholics Anonymous meeting available worldwide around the clock. A fresh meeting with a new AA topic begins at the top of each hour. We are an open meeting, and anyone with a desire to stop drinking is welcome to participate. Join anytime using Zoom Meeting ID <strong>292 371 2604</strong>. No password is needed.</p>
-  <p class="hero-copy">Our online meeting has been running nonstop since April 20, 2020. It began at the start of the COVID-19 pandemic when two newcomers from New Zealand with cell phones realized they needed fellowship with other alcoholics to stay sober. The 24 Hour International Marathon Meeting has carried AA’s message of hope and recovery around the world ever since.</p>
+  <p class="hero-copy">The 24/7 International Marathon Meeting of AA is a continuous online Alcoholics Anonymous meeting available worldwide around the clock. A fresh meeting with a new AA topic begins at the top of each hour. We are an open meeting, and anyone with a desire to stop drinking is welcome to participate. Join anytime using Zoom Meeting ID <strong>292 371 2604</strong>. No password is needed.</p>
+  <p class="hero-copy">Our online meeting has been running nonstop since April 20, 2020. It began at the start of the COVID-19 pandemic when two newcomers from New Zealand with cell phones realized they needed fellowship with other alcoholics to stay sober. The 24/7 International Marathon Meeting has carried AA’s message of hope and recovery around the world ever since.</p>
   <div class="triangle-logo-wrap">
     <img src="images/Triangle_logo.jpg" alt="Alcoholics Anonymous triangle logo" class="triangle-logo" />
   </div>
@@ -34,9 +34,9 @@ Join a live 24/7 Online AA Meeting on Zoom. This is an open international Alcoho
 
 ## Welcome to Online Recovery
 
-Welcome to the 24 Hour International Marathon Meeting of AA, *where sobriety never sleeps.* We are an open meeting of Alcoholics Anonymous, and everyone is welcome to listen. In keeping with AA's singleness of purpose and our Third Tradition, which states that the only requirement for AA membership is a desire to stop drinking, we ask that everyone who shares in our meeting confine their discussion to their problems with alcohol. You can join our online recovery meeting by clicking the "Join Online AA Meeting" button above, or by joining the meeting through Zoom. The Zoom access code is **292 371 2604**. No password is required. Join our online recovery meeting and raise your virtual hand. We want to get to know you, and experience has taught us that we can help best if you let us get to know you. We call on hands in the order they are raised, and everyone gets five minutes to share with a gentle reminder when there is one minute remaining.
+Welcome to the 24/7 International Marathon Meeting of AA, *where sobriety never sleeps.* We are an open meeting of Alcoholics Anonymous, and everyone is welcome to listen. In keeping with AA's singleness of purpose and our Third Tradition, which states that the only requirement for AA membership is a desire to stop drinking, we ask that everyone who shares in our meeting confine their discussion to their problems with alcohol. You can join our online recovery meeting by clicking the "Join Online AA Meeting" button above, or by joining the meeting through Zoom. The Zoom access code is **292 371 2604**. No password is required. Join our online recovery meeting and raise your virtual hand. We want to get to know you, and experience has taught us that we can help best if you let us get to know you. We call on hands in the order they are raised, and everyone gets five minutes to share with a gentle reminder when there is one minute remaining.
 
-The 24 Hour International Marathon Meeting of Alcoholics Anonymous is dedicated to carrying AA's life-saving message of hope and recovery globally to the alcoholic who still suffers. Individuals seeking support for drug problems and substance use disorders may benefit from professional treatment programs, government resources, rehabilitation services, family support organizations, and other recovery programs and fellowships. Alcoholics Anonymous is not affiliated with any outside agency or enterprise.
+The 24/7 International Marathon Meeting of Alcoholics Anonymous is dedicated to carrying AA's life-saving message of hope and recovery globally to the alcoholic who still suffers. Individuals seeking support for drug problems and substance use disorders may benefit from professional treatment programs, government resources, rehabilitation services, family support organizations, and other recovery programs and fellowships. Alcoholics Anonymous is not affiliated with any outside agency or enterprise.
 
 <div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
   <img src="images/I%20am%20Responsible%20Image.png" alt="I am Responsible AA image" style="max-width: 100%; height: auto;" />
@@ -151,6 +151,10 @@ Alcoholics Anonymous is a fellowship of people who share their experience, stren
   <li><strong>Morocco</strong>: https://aamaroc.net</li>
 </ul>
 
+<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
+  <img src="images/Flags_International.PNG.png" alt="International flags image" style="max-width: 100%; height: auto;" />
+</div>
+
 ## Do you have a drinking problem?
 
 ### The CAGE Questionnaire
@@ -170,9 +174,9 @@ Please answer each question honestly with a Yes or No.
 - 2 or more points: clinically significant; consider a professional evaluation
 - 4 points: severe risk; this strongly suggests a drinking problem
 
-Source: Johns Hopkins University Hospital
+Source: [Johns Hopkins University Hospital](https://www.hopkinsmedicine.org)
 
-AA Tradition Six and Tradition Eight emphasize that the Fellowship should stay focused on its primary purpose and remain free from outside entanglements, money, and professional incentives that could divert it from recovery work.
+
 
 <div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
   <img src="images/Sixth_Tradition.PNG.png" alt="Sixth Tradition image" style="max-width: 100%; height: auto;" />
@@ -231,7 +235,7 @@ If you or someone you know is in immediate danger, call emergency services right
   <img src="images/Eleventh%20Tradition.png" alt="Eleventh Tradition image" style="max-width: 100%; height: auto;" />
 </div>
 
-## Frequently Asked Questions About the 24 Hour International Marathon Meeting of AA
+## Frequently Asked Questions About the 24/7 International Marathon Meeting of AA
 
 ### Who is allowed to attend this 24 hour online AA meeting?
 
@@ -257,7 +261,7 @@ A new meeting begins at the top of each hour, running continuously 24 hours a da
 
 The meetings run continuously around the clock. Because a new meeting starts at the top of each hour, it aligns perfectly with your time zone, no matter where you live in the world.
 
-### What language is this 24 hour international AA Zoom meeting in?
+### What language is this 24/7 international AA Zoom meeting in?
 
 English is the primary language of most members of the 24 Hour International Marathon Meeting of AA. However, everyone is welcome to participate, no matter their language. Online meetings in languages other than English can be found on the Online Intergroup of AA website: https://aa-intergroup.org
 
@@ -265,7 +269,7 @@ English is the primary language of most members of the 24 Hour International Mar
 
 Use Zoom Meeting ID **292 371 2604**, or click the Join Meeting button at the top of this page.
 
-### What is the Zoom ID for the 24 Hour International Marathon Meeting of AA?
+### What is the Zoom ID for the 24/7 International Marathon Meeting of AA?
 
 The Zoom meeting ID is **292 371 2604**. No password is required to join. You can connect from anywhere in the world at any time.
 
@@ -472,17 +476,21 @@ Alcoholics Anonymous is not affiliated with any outside enterprise. The followin
   <img src="images/Twelfth_Tradition.png" alt="Twelfth Tradition image" style="max-width: 100%; height: auto;" />
 </div>
 
+## About This Meeting
+
+The 24 Hour International Marathon Meeting is a volunteer-run online meeting of Alcoholics Anonymous. The Fifth Tradition states: "Each group has but one primary purpose--to carry its message to the alcoholic who still suffers."
+
+## Disclaimer
+
+This website (https://sobrietyneversleeps.org) was independently and anonymously developed and maintained by the Friends of the 24/7 International Marathon, which is solely responsible for its content. The Friends of the 24/7 International Marathon is an international, non-affiliated, nonprofit organization based in New Zealand. Its members reside in many countries, including Canada, Australia, the United Kingdom, South Africa, and the United States. This website is not affiliated with or endorsed by the 24 Hour International Marathon Meeting of AA.
+
+Additionally, the Friends of the 24/7 International Marathon is not affiliated with Alcoholics Anonymous World Services, Inc. (A.A.W.S.). We are an entirely independent organization. While our group supports an online recovery meeting that uses the Twelve Steps and Twelve Traditions of Alcoholics Anonymous, we do not speak for, represent, or receive endorsement from A.A. as a whole or from the group conscience of the 24 Hour International Marathon Meeting of AA. Further, the Friends of the 24/7 International Marathon is an independent organization dedicated to supporting an online AA meeting. In accordance with AA's traditions of non-affiliation and autonomy, please be advised that our organization is not affiliated with, sponsored by, or financially supported by Alcoholics Anonymous World Services, Inc., the General Service Board of Alcoholics Anonymous, any local AA central or intergroup offices, or the 24 Hour International Marathon Meeting of AA. We operate autonomously to help individuals connect with recovery resources. The primary purpose of this website is to assist anyone looking for an online AA marathon meeting.
+
+The long form of Tradition Twelve states: "And finally, we of Alcoholics Anonymous believe that the principle of anonymity has an immense spiritual significance. It reminds us that we are to place principles before personalities, that we are actually to practice a genuine humility. This to the end that our great blessings may never spoil us; that we shall forever live in thankful contemplation of Him who presides over us all."
+
 <div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
   <img src="images/AA_Hearts.PNG.png" alt="AA hearts image" style="max-width: 100%; height: auto;" />
 </div>
-
-## About This Meeting
-
-The 24 Hour International Marathon Meeting of AA is a volunteer-run online meeting of Alcoholics Anonymous. The Fifth Tradition states: "Each group has but one primary purpose--to carry its message to the alcoholic who still suffers."
-
-This website (https:sobrietyneversleeps.org) was independently and anonymously developed and maintained by the Friends of the 24/7 International Marathon which is soley responsible for its content. The primary purpose of this website is to direct anyone looking for an online AA marathon meeting to the Zoom code: **292 371 2604**. 
-
-The long form of Tradition Twelve states: "And finally, we of Alcoholics Anonymous believe that the principle of anonymity has an immense spiritual significance. It reminds us that we are to place principles before personalities, that we are actually to practice a genuine humility. This to the end that our great blessings may never spoil us; that we shall forever live in thankful contemplation of Him who presides over us all."
 
 ## Serenity Prayer
 
