@@ -175,7 +175,7 @@ Source: [Johns Hopkins University Hospital](https://www.hopkinsmedicine.org)
 
 
 <div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
-  <img src="images/Sixth_Tradition.PNG.png" alt="Sixth Tradition image" style="max-width: 100%; height: auto;" />
+  <img src="images/Step_One.PNG.png" alt="Step One image" style="max-width: 100%; height: auto;" />
 </div>
 
 ### AA's Two Questions
