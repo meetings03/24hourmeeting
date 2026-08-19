@@ -249,6 +249,10 @@ A new meeting begins at the top of each hour, running continuously 24 hours a da
 
 The meetings run continuously around the clock. Because a new meeting starts at the top of each hour, it aligns perfectly with your time zone, no matter where you live in the world.
 
+<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
+  <img src="images/AA_International_Logo.png" alt="International AA logo" style="max-width: 100%; height: auto;" />
+</div>
+
 ### What language is this 24/7 international AA Zoom meeting in?
 
 English is the primary language of most members of the 24 Hour International Marathon Meeting of AA. However, everyone is welcome to participate, no matter their language. Online meetings in languages other than English can be found on the Online Intergroup of AA website: https://aa-intergroup.org
@@ -365,12 +369,13 @@ Alcoholics Anonymous is not affiliated with any outside enterprise. The followin
 
 #### Government and National Treatment Resources
 
+- **New Zealand - Alcohol Drug Helpline**: Free confidential counseling and referrals. [https://alcoholdrughelp.org.nz](https://alcoholdrughelp.org.nz)
 - **United States - SAMHSA National Helpline**: 24/7 confidential treatment and information service. Phone: 1-800-662-HELP (4357). [https://www.samhsa.gov](https://www.samhsa.gov)
 - **United States - National Institute on Drug Abuse (NIDA)**: Research-based information on addiction treatment and recovery. [https://nida.nih.gov](https://nida.nih.gov)
 - **Canada - Canadian Centre on Substance Use and Addiction (CCSA)**: National resource for prevention, treatment, and recovery information. [https://www.ccsa.ca](https://www.ccsa.ca)
 - **United Kingdom - NHS Addiction Support Services**: National Health Service resource for drug and alcohol treatment. [https://www.nhs.uk/live-well/addiction-support](https://www.nhs.uk/live-well/addiction-support)
 - **Australia - National Alcohol and Other Drug Hotline**: Information and referrals to local treatment services. [https://www.health.gov.au](https://www.health.gov.au)
-- **New Zealand - Alcohol Drug Helpline**: Free confidential counseling and referrals. [https://alcoholdrughelp.org.nz](https://alcoholdrughelp.org.nz)
+
 - **European Union - European Union Drugs Agency (EUDA)**: Drug treatment information, data, and country resources across Europe. [https://www.euda.europa.eu](https://www.euda.europa.eu)
 
 #### International 12-Step Recovery Programs
@@ -461,6 +466,10 @@ Alcoholics Anonymous is not affiliated with any outside enterprise. The followin
 - Asking for help
 - The first 30 days
 
+<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
+  <img src="images/Step_Twelve.PNG.png" alt="Step Twelve image" style="max-width: 100%; height: auto;" />
+</div>
+
 ### AA Marathon Online Meeting Topics
 
 - Sobriety never sleeps
@@ -484,7 +493,7 @@ The 24 Hour International Marathon Meeting is a volunteer-run online meeting of 
 
 This website (https://sobrietyneversleeps.org) was independently and anonymously developed and maintained by the Friends of the 24/7 International Marathon, which is solely responsible for its content. The Friends of the 24/7 International Marathon is an international, non-affiliated, nonprofit organization based in New Zealand. Its members reside in many countries, including Canada, Australia, the United Kingdom, South Africa, and the United States. This website is not affiliated with or endorsed by the 24 Hour International Marathon Meeting of AA.
 
-Additionally, the Friends of the 24/7 International Marathon is not affiliated with Alcoholics Anonymous World Services, Inc. (A.A.W.S.). We are an entirely independent organization. While our group supports an online recovery meeting that uses the Twelve Steps and Twelve Traditions of Alcoholics Anonymous, we do not speak for, represent, or receive endorsement from A.A. as a whole or from the coordinators or GC of the 24 Hour International Marathon Meeting of AA. Further, the Friends of the 24/7 International Marathon is an independent organization dedicated to supporting an online AA meeting. In accordance with AA's traditions of non-affiliation and autonomy, please be advised that our organization is not affiliated with, sponsored by, or financially supported by Alcoholics Anonymous World Services, Inc., the General Service Board of Alcoholics Anonymous, any local AA central or intergroup offices, or the 24 Hour International Marathon Meeting of AA. We operate autonomously to help individuals connect with recovery resources. The primary purpose of this website is to assist anyone looking for an online AA marathon meeting.
+Additionally, the Friends of the 24/7 International Marathon is not affiliated with Alcoholics Anonymous World Services, Inc. (A.A.W.S.). We are an entirely independent organization. While our group supports an online recovery meeting that uses the Twelve Steps and Twelve Traditions of Alcoholics Anonymous, we do not speak for, represent, or receive endorsement from A.A. as a whole or from the coordinators or GC of the 24 Hour International Marathon Meeting of AA. Further, the Friends of the 24/7 International Marathon is an independent volunteer para-organization dedicated to supporting the online recovery community. In accordance with AA's traditions of non-affiliation and autonomy, be advised that our organization is not affiliated with, sponsored by, or financially supported by Alcoholics Anonymous World Services, Inc., the General Service Board of Alcoholics Anonymous, any local AA central or intergroup offices, or the 24 Hour International Marathon Meeting of AA. We operate autonomously to help individuals connect with recovery resources. The primary purpose of this website is to assist anyone looking for an online AA marathon meeting.
 
 The long form of Tradition Twelve states: "And finally, we of Alcoholics Anonymous believe that the principle of anonymity has an immense spiritual significance. It reminds us that we are to place principles before personalities, that we are actually to practice a genuine humility. This to the end that our great blessings may never spoil us; that we shall forever live in thankful contemplation of Him who presides over us all."
 
