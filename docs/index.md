@@ -267,22 +267,230 @@ Use Zoom Meeting ID **292 371 2604**, or click the Join Meeting button at the to
 
 ### What is the Zoom ID for the 24/7 International Marathon Meeting of AA?
 
-The Zoom meeting ID is **292 371 2604**. No password is required to join. You can connect from anywhere in the world at any time.A
+The Zoom meeting ID is **292 371 2604**. No password is required to join. You can connect from anywhere in the world at any time.
 
-<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
-  <img src="images/Step_Six_Path.PNG.png" alt="Step Six path image" style="max-width: 100%; height: auto;" />
-</div>
+### Do I need a password to join this 24/7 AA Zoom meeting?
+
+No. There is no password required for this Zoom meeting.
+
+### How do I speak or share during this 24-hour AA meeting?
+
+To share your experience, strength, and hope, simply raise your virtual hand. The chairperson calls on hands in the exact order they are raised.
 
 ### Can I get a sponsor on this 24 Hour marathon AA meeting?
 
 Yes. The best way to get help in our meeting is to raise your virtual hand and let us know you are looking for a sponsor. We suggest that men work with men and women work with women.
-Quion-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
-  <img src="images/Step_Twelve.PNG.png" alt="Step Twelve image" style="max-width: 100%; height: auto;" />
+
+### How can I get involved in service with this online recovery meeting?
+
+We need chairpersons, timers, and greeters every hour. The Training Team holds regular training sessions. The host will provide details at the top of each hour. There is a monthly business meeting on the fourth Saturday of each month. The host will announce the business meeting at the top of each hour.
+
+### Can I just listen, or do I have to speak in this 24-hour online AA meeting?
+
+You are completely welcome to just listen. Raise your virtual hand when you feel comfortable doing so. We want to get to know you.
+
+### Do I have to introduce myself as an alcoholic to participate on this 24/7 AA Zoom meeting?
+
+The 24 Hour International Marathon Meeting of AA is an open meeting of Alcoholics Anonymous. This means that everyone is welcome to listen. If you raise your virtual hand to share with us, we ask that you introduce yourself with your first name and let us know if you are an alcoholic or a person who has a desire to stop drinking.
+
+### Do I need to turn on my video camera to participate on this 24-hour online AA meeting?
+
+No. Having your video camera on is entirely optional.
+
+### Is this 24-hour AA meeting affiliated with any church or religion?
+
+No. Alcoholics Anonymous is not allied with any sect, denomination, politics, organization, or institution. While AA's Twelve Steps are spiritual in nature, AA is fully non-religious and open to individuals of all beliefs or no beliefs at all.
+
+### Does AA provide medical and detox services or operate drug rehabilitation treatment centers?
+
+No. Alcoholics Anonymous does not counsel problem drinkers or provide any medical advice. Nor does AA operate treatment centers or hospitals. AA's Eighth Tradition states: "Alcoholics Anonymous should remain forever nonprofessional, but our service centers may employ special workers."
+
+### How is anonymity protected in a 24-hour online AA meeting?
+
+Anonymity is the spiritual foundation of all AA's Traditions. You can protect your identity by changing your Zoom display name to your first name only, leaving your camera off, and sharing in a general way.
+
+### What safety measures are in place for this online recovery meeting?
+
+The 24 Hour International Marathon Meeting of AA follows the online safety suggestions provided by AA World Services. See the "Safety Card for AA Groups," "AA Guidelines on Internet," and "Anonymity Online and Digital Media" available at https://www.aa.org.
+
+### Can I have my attendance verified for court or probation on this 24/7 AA Zoom meeting?
+
+The 24 Hour International Marathon Meeting of AA does not provide attendance verification. However, attendance verification of online meetings is available on the **NKC verification page**: https://newcomerskeepcoming.org/verification
+
+<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
+  <img src="images/Lead_By_Example.png" alt="Lead by example image" style="max-width: 100%; height: auto;" />
 </div>
 
-##Permissions
+### Who runs AA?
 
-oThe Twelve Traditions of Alcoholics Anonymous, the images from "The Twelve Traditions Illustrated" and the "Twelve Steps Illustrated" are registered trademarks of A.A. World Services Inc. They are used here with permission.
+The Second Tradition of Alcoholics Anonymous states: "For our group purpose there is but one ultimate authority--a loving God as He may express Himself in our group conscience. Our leaders are but trusted servants; they do not govern."
+
+### How long does each person speak in this 24-hour online AA meeting?
+
+Everyone who shares in the meeting gets five minutes to speak with a gentle reminder when there is one minute remaining.
+
+### Is this an American meeting?
+
+No. This is an international online AA meeting with participants from around the world. The meeting originated in New Zealand, but members are from many different countries.
+
+### Are there young people in this online recovery meeting?
+
+Yes. There are people of all ages on the 24 Hour International Marathon Meeting of AA, which is an open meeting of Alcoholics Anonymous. The only requirement for membership in AA is a desire to stop drinking.
+
+<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
+  <img src="images/Seventh_Tradition.PNG.png" alt="Seventh Tradition image" style="max-width: 100%; height: auto;" />
+</div>
+
+### Are there any dues or fees required to join this 24-hour online AA meeting?
+
+No. AA groups are supported by the voluntary contributions of their members.
+
+### Can I speak about narcotics and other drugs on this 24/7 AA Zoom meeting?
+
+In keeping with our primary purpose of carrying the AA message to the alcoholic who still suffers, we ask that everyone who shares confine their discussion to their problem with alcohol.
+
+The long form of AA's Third Tradition states: "Our membership ought to include all who suffer from alcoholism. Hence we may refuse none who wish to recover. Nor ought AA membership ever depend upon money or conformity. Any two or three alcoholics gathered together for sobriety may call themselves an AA group, provided that, as a group, they have no other affiliation."
+
+### How can I contact the 24 hour International Marathon Meeting of AA?
+
+You can email the group at the24hourmeeting@gmail.com.
+
+## Substance Abuse and Drug Rehabilitation Treatment Resources (Non-AA)
+
+### International Drug Treatment, Rehabilitation & Recovery Resources
+
+Alcoholics Anonymous is not affiliated with any outside enterprise. The following organizations provide treatment information, recovery resources, education, and referral services for individuals and families affected by substance abuse disorders. These organizations are independent and are not affiliated with Alcoholics Anonymous or the 24 Hour International Marathon Meeting of AA.
+
+#### Global Drug Treatment and Recovery Organizations
+
+- **World Health Organization (WHO)**: International guidance on substance use prevention, treatment, rehabilitation, and recovery. [https://www.who.int/health-topics/substance-use](https://www.who.int/health-topics/substance-use)
+- **United Nations Office on Drugs and Crime (UNODC)**: Global drug treatment and rehabilitation resources. Supports evidence-based prevention, treatment, and recovery initiatives worldwide. [https://www.unodc.org/unodc/en/drug-prevention-and-treatment/](https://www.unodc.org/unodc/en/drug-prevention-and-treatment/)
+- **International Society of Addiction Medicine (ISAM)**: Professional organization focused on addiction medicine, treatment standards, and education. [https://isamweb.org](https://isamweb.org)
+
+#### Government and National Treatment Resources
+
+- **United States - SAMHSA National Helpline**: 24/7 confidential treatment and information service. Phone: 1-800-662-HELP (4357). [https://www.samhsa.gov](https://www.samhsa.gov)
+- **United States - National Institute on Drug Abuse (NIDA)**: Research-based information on addiction treatment and recovery. [https://nida.nih.gov](https://nida.nih.gov)
+- **Canada - Canadian Centre on Substance Use and Addiction (CCSA)**: National resource for prevention, treatment, and recovery information. [https://www.ccsa.ca](https://www.ccsa.ca)
+- **United Kingdom - NHS Addiction Support Services**: National Health Service resource for drug and alcohol treatment. [https://www.nhs.uk/live-well/addiction-support](https://www.nhs.uk/live-well/addiction-support)
+- **Australia - National Alcohol and Other Drug Hotline**: Information and referrals to local treatment services. [https://www.health.gov.au](https://www.health.gov.au)
+- **New Zealand - Alcohol Drug Helpline**: Free confidential counseling and referrals. [https://alcoholdrughelp.org.nz](https://alcoholdrughelp.org.nz)
+- **European Union - European Union Drugs Agency (EUDA)**: Drug treatment information, data, and country resources across Europe. [https://www.euda.europa.eu](https://www.euda.europa.eu)
+
+#### International 12-Step Recovery Programs
+
+- **Narcotics Anonymous (NA)**: The world's largest 12-step fellowship for people seeking recovery from drug addiction. International meetings directory with online and in-person meetings available in numerous languages and countries. [https://www.na.org](https://www.na.org)
+- **Cocaine Anonymous (CA)**: A 12-step fellowship for individuals recovering from cocaine addiction and other mind-altering substances. [https://ca.org](https://ca.org)
+- **Crystal Meth Anonymous (CMA)**: A 12-step fellowship for people recovering from crystal meth addiction and other mind-altering substances. [https://www.crystalmeth.org](https://www.crystalmeth.org)
+- **Marijuana Anonymous (MA)**: 12-step recovery fellowship for marijuana dependency. [https://marijuana-anonymous.org](https://marijuana-anonymous.org)
+- **Heroin Anonymous (HA)**: Recovery support for individuals seeking freedom from heroin addiction. [https://heroinanonymous.org](https://heroinanonymous.org)
+- **Pills Anonymous (PA)**: Support for people recovering from prescription drug dependency. [https://www.pillsanonymous.org](https://www.pillsanonymous.org)
+
+#### Support for Families and Loved Ones Affected by Addiction
+
+- **Nar-Anon Family Groups**: For family members and friends affected by another person's drug addiction. [https://www.nar-anon.org](https://www.nar-anon.org)
+- **Families Anonymous**: Support groups for relatives and friends concerned with substance use and related behavioral issues. [https://www.familiesanonymous.org](https://www.familiesanonymous.org)
+- **Al-Anon Family Groups**: Support for families and friends of people affected by alcoholism. [https://al-anon.org](https://al-anon.org)
+
+#### Non-12-Step Recovery Programs for Addiction Recovery
+
+- **SMART Recovery**: Secular mutual support program emphasizing self-management and evidence-based recovery tools. [https://smartrecovery.org](https://smartrecovery.org)
+- **Came to Believe Recovery**: Find your freedom from addiction. Join a community that has recovered from a variety of addictions. Came to Believe Recovery acknowledges the Christian influence of early AA. The program is committed to helping others break free from addiction through spiritual retreats, workshops, and virtual meetings. It emphasizes the Four Absolutes of Honesty, Purity, Unselfishness, and Love as taught by the Oxford Groups that influenced the AA pioneers. [https://cametobelieverecovery.uk](https://cametobelieverecovery.uk)
+- **LifeRing Secular Recovery**: Secular peer-to-peer support for addiction recovery. [https://lifering.org](https://lifering.org)
+- **Recovery Dharma**: Recovery program based on Buddhist principles and practices. [https://recoverydharma.org](https://recoverydharma.org)
+- **Women for Sobriety**: Recovery support organization focused on the unique needs of women. [https://womenforsobriety.org](https://womenforsobriety.org)
+- **Celebrate Recovery**: A biblically based Christian approach to helping people achieve long-lasting recovery by healing hurts, guiding people toward new healthy truths, and developing life-giving habits. [https://celebraterecovery.com](https://celebraterecovery.com)
+
+<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
+  <img src="images/Member_Sharing_at_Mic.png" alt="Member sharing at the microphone image" style="max-width: 100%; height: auto;" />
+</div>
+
+## Topics for Online AA Meetings
+
+
+### Principles Discussed at 24-Hour Online AA Meetings
+
+- Acceptance
+- Surrender
+- Honesty
+- Open-mindedness
+- Willingness
+- Humility
+- Responsibility
+- Gratitude
+- Patience
+- Tolerance
+- Forgiveness
+- Compassion
+- Faith
+- Trust
+- Letting go
+- One day at a time
+- Emotional sobriety
+- Progress, not perfection
+- Facing fear
+- Handling resentment
+
+<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
+  <img src="images/Members_TalkingatTable.png" alt="Members talking at a table" style="max-width: 100%; height: auto;" />
+</div>
+
+### Typical 24/7 Online AA Meeting Topics
+
+- What is alcoholism?
+- The AA Twelve-Step program of recovery
+- The AA Preamble
+- The Ninth Step Promises
+- Sponsorship
+- Home group commitment
+- Anonymity
+- Unity
+- Service
+- Carrying the message
+- Relapse prevention
+- Living sober
+- Spiritual awakening
+- Helping the newcomer
+- Responsibility Declaration
+
+
+### Newcomer-Friendly Topics for 24-Hour Online AA Meetings
+
+- What to expect in AA
+- Why meetings matter
+- Getting a sponsor
+- Building a sober network
+- Handling cravings
+- Understanding alcoholism
+- Asking for help
+- The first 30 days
+
+### AA Marathon Online Meeting Topics
+
+- Sobriety never sleeps
+- Recovery across time zones
+- Fellowship without borders
+- Carrying the message around the globe
+- The power of a meeting at any hour
+- The spirit of AA in a digital world
+- Unity across cultures
+- Helping the alcoholic who still suffers anytime, anywhere
+
+<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
+  <img src="images/Twelfth_Tradition.png" alt="Twelfth Tradition image" style="max-width: 100%; height: auto;" />
+</div>
+
+## About This Meeting
+
+The 24 Hour International Marathon Meeting is a volunteer-run online meeting of Alcoholics Anonymous. The Fifth Tradition states: "Each group has but one primary purpose--to carry its message to the alcoholic who still suffers."
+
+## Disclaimer
+
+This website (https://sobrietyneversleeps.org) was independently and anonymously developed and maintained by the Friends of the 24/7 International Marathon, which is solely responsible for its content. The Friends of the 24/7 International Marathon is an international, non-affiliated, nonprofit organization based in New Zealand. Its members reside in many countries, including Canada, Australia, the United Kingdom, South Africa, and the United States. This website is not affiliated with or endorsed by the 24 Hour International Marathon Meeting of AA.
+
+Additionally, the Friends of the 24/7 International Marathon is not affiliated with Alcoholics Anonymous World Services, Inc. (A.A.W.S.). We are an entirely independent organization. While our group supports an online recovery meeting that uses the Twelve Steps and Twelve Traditions of Alcoholics Anonymous, we do not speak for, represent, or receive endorsement from A.A. as a whole or from the group conscience of the 24 Hour International Marathon Meeting of AA. Further, the Friends of the 24/7 International Marathon is an independent organization dedicated to supporting an online AA meeting. In accordance with AA's traditions of non-affiliation and autonomy, please be advised that our organization is not affiliated with, sponsored by, or financially supported by Alcoholics Anonymous World Services, Inc., the General Service Board of Alcoholics Anonymous, any local AA central or intergroup offices, or the 24 Hour International Marathon Meeting of AA. We operate autonomously to help individuals connect with recovery resources. The primary purpose of this website is to assist anyone looking for an online AA marathon meeting.
+
+The long form of Tradition Twelve states: "And finally, we of Alcoholics Anonymous believe that the principle of anonymity has an immense spiritual significance. It reminds us that we are to place principles before personalities, that we are actually to practice a genuine humility. This to the end that our great blessings may never spoil us; that we shall forever live in thankful contemplation of Him who presides over us all."
 
 <div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
   <img src="images/AA_Hearts.PNG.png" alt="AA hearts image" style="max-width: 100%; height: auto;" />
