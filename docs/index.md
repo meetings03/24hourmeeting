@@ -66,10 +66,6 @@ Alcoholics Anonymous is a fellowship of people who share their experience, stren
 12. Having had a spiritual awakening as the result of these steps, we tried to carry this message to alcoholics, and to practice these principles in all our affairs.
 
 <div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
-  <img src="images/Hands.png" alt="Hands image" style="max-width: 100%; height: auto;" />
-</div>
-
-<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
   <img src="images/Traditions_Distilation.PNG.png" alt="Traditions distillation image" style="max-width: 100%; height: auto;" />
 </div>
 
@@ -164,11 +160,7 @@ Please answer each question honestly with a Yes or No.
 - G — Guilty: Have you ever felt bad or guilty about your drinking?
 - E — Eye-opener: Have you ever had a drink first thing in the morning to steady your nerves or to relieve a hangover?
 
-### How to score the CAGE questionnaire
 
-- 0–1 points: low risk
-- 2 or more points: clinically significant; consider a professional evaluation
-- 4 points: severe risk; this strongly suggests a drinking problem
 
 Source: [Johns Hopkins University Hospital](https://www.hopkinsmedicine.org)
 
