@@ -2,14 +2,27 @@
 
 <style>
   .tradition-image-row {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
     margin: 1rem 0 1.25rem !important;
     gap: 0.75rem !important;
+  }
+
+  .tradition-image-row img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  .join-button {
+    margin-bottom: 1.5rem;
   }
 </style>
 
 Join a live 24/7 Online AA Meeting on Zoom. This is an open international Alcoholics Anonymous meeting with a new session every hour. Join now with Zoom Meeting ID **292 371 2604**. No password required.
 
-<a id="join-meeting" class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener" style="display: inline-block; margin: 0 0 1.5rem 0;">Join Online AA Meeting</a>
+<a id="join-meeting" class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join Online AA Meeting</a>
 
 ## 24/7 AA Zoom Meeting
 
@@ -96,7 +109,7 @@ Alcoholics Anonymous is a fellowship of people who share their experience, stren
   <p class="quote-text">This we owe to AA's future: To place our common welfare first; to keep our Fellowship united. For on AA unity depend our lives and the lives of those to come.</p>
 </div>
 
-### I Am Responsible...
+### I Am Responsible
 
 <div class="quote-card">
   <p class="quote-label">Toronto Responsibility Statement</p>
@@ -225,11 +238,11 @@ If you or someone you know is in immediate danger, call emergency services right
 
 ## Frequently Asked Questions About the 24/7 International Marathon Meeting of AA
 
-### Who is allowed to attend this 24 hour online AA meeting?
+### Who is allowed to attend this 24-hour online AA meeting?
 
 We are an open meeting of Alcoholics Anonymous. Anyone with a desire to stop drinking is welcome to participate, regardless of background, status, or location.
 
-### Are members of the LGBTQ community welcome in this 24 hour AA meeting?
+### Are members of the LGBTQ community welcome in this 24-hour AA meeting?
 
 Yes. All alcoholics are welcome in the 24 Hour International Marathon Meeting of AA, regardless of their status, beliefs, lifestyle, or geographic location. Our Third Tradition states: "The only requirement for AA membership is a desire to stop drinking."
 
@@ -241,7 +254,7 @@ Yes. All alcoholics are welcome in the 24 Hour International Marathon Meeting of
 
 Yes. The meeting runs continuously, and a new meeting starts at the top of each hour, every day.
 
-### When do the 24 hour online AA marathon meetings start?
+### When do the 24-hour online AA marathon meetings start?
 
 A new meeting begins at the top of each hour, running continuously 24 hours a day, 7 days a week, 365 days a year.
 
@@ -273,7 +286,7 @@ No. There is no password required for this Zoom meeting.
 
 To share your experience, strength, and hope, simply raise your virtual hand. The chairperson calls on hands in the exact order they are raised.
 
-### Can I get a sponsor on this 24 Hour marathon AA meeting?
+### Can I get a sponsor on this 24-hour marathon AA meeting?
 
 Yes. The best way to get help in our meeting is to raise your virtual hand and let us know you are looking for a sponsor. We suggest that men work with men and women work with women.
 
@@ -351,7 +364,7 @@ In keeping with our primary purpose of carrying the AA message to the alcoholic 
 
 The long form of AA's Third Tradition states: "Our membership ought to include all who suffer from alcoholism. Hence we may refuse none who wish to recover. Nor ought AA membership ever depend upon money or conformity. Any two or three alcoholics gathered together for sobriety may call themselves an AA group, provided that, as a group, they have no other affiliation."
 
-### How can I contact the 24 hour International Marathon Meeting of AA?
+### How can I contact the 24-hour International Marathon Meeting of AA?
 
 You can email the group at the24hourmeeting@gmail.com.
 
@@ -486,15 +499,18 @@ Alcoholics Anonymous is not affiliated with any outside enterprise. The followin
 
 ## About This Meeting
 
-The 24 Hour International Marathon Meeting is a volunteer-run online meeting of Alcoholics Anonymous. The Fifth Tradition states: "Each group has but one primary purpose--to carry its message to the alcoholic who still suffers."
+The 24-Hour International Marathon Meeting is a volunteer-run online meeting of Alcoholics Anonymous. The Fifth Tradition states: "Each group has but one primary purpose--to carry its message to the alcoholic who still suffers."
 
 ## Disclaimer
 
-This website (https://sobrietyneversleeps.org) was independently and anonymously developed and maintained by the Friends of the 24/7 International Marathon, which is solely responsible for its content. The Friends of the 24/7 International Marathon is an international, non-affiliated, nonprofit organization based in New Zealand. Its members reside in many countries, including Canada, Australia, the United Kingdom, South Africa, and the United States. This website is not affiliated with or endorsed by the 24 Hour International Marathon Meeting of AA.
+This website (https://sobrietyneversleeps.org) was independently and anonymously developed and is maintained by the Friends of the 24/7 International Marathon, which is solely responsible for its content. The Friends of the 24/7 International Marathon is a virtual international, non-affiliated, nonprofit organization based in New Zealand. Its members reside in many countries, including Canada, Australia, the United Kingdom, South Africa, and the United States. This website is not affiliated with or endorsed by the 24 Hour International Marathon Meeting of AA.
 
-Additionally, the Friends of the 24/7 International Marathon is not affiliated with Alcoholics Anonymous World Services, Inc. (A.A.W.S.). We are an entirely independent organization. While our group supports an online recovery meeting that uses the Twelve Steps and Twelve Traditions of Alcoholics Anonymous, we do not speak for, represent, or receive endorsement from A.A. as a whole or from the coordinators or GC of the 24 Hour International Marathon Meeting of AA. Further, the Friends of the 24/7 International Marathon is an independent volunteer para-organization dedicated to supporting the online recovery community. In accordance with AA's traditions of non-affiliation and autonomy, be advised that our organization is not affiliated with, sponsored by, or financially supported by Alcoholics Anonymous World Services, Inc., the General Service Board of Alcoholics Anonymous, any local AA central or intergroup offices, or the 24 Hour International Marathon Meeting of AA. We operate autonomously to help individuals connect with recovery resources. The primary purpose of this website is to assist anyone looking for an online AA marathon meeting.
+Additionally, the Friends of the 24/7 International Marathon is not affiliated with Alcoholics Anonymous World Services, Inc. (A.A.W.S.), or with the General Service Board of Alcoholics Anonymous, or the General Service Office of Alcoholics Anonymous. We are an independent  and autonomous organization. While our collective supports an online recovery meeting that uses the Twelve Steps and Twelve Traditions of Alcoholics Anonymous, we do not speak for, represent, or receive endorsement from A.A. as a whole or from the coordinators or GC of the 24 Hour International Marathon Meeting of AA. Further, the Friends of the 24/7 International Marathon is an independent volunteer para-organization collective dedicated to supporting the online recovery community. In accordance with AA's traditions of non-affiliation and autonomy, be advised that our organization is not affiliated with, sponsored by, or financially supported by Alcoholics Anonymous World Services, Inc., the General Service Board of Alcoholics Anonymous, any local AA central or intergroup offices, or the coordinators or GC of the 24 Hour International Marathon Meeting of AA. We operate autonomously to help individuals connect with recovery resources. The primary purpose of this website is to assist anyone looking for an online AA marathon meeting. Our sole aim is to be helpful and to direct the still-suffering alcoholic to the life-saving Fellowship of Alcoholics Anonymous.
 
 The long form of Tradition Twelve states: "And finally, we of Alcoholics Anonymous believe that the principle of anonymity has an immense spiritual significance. It reminds us that we are to place principles before personalities, that we are actually to practice a genuine humility. This to the end that our great blessings may never spoil us; that we shall forever live in thankful contemplation of Him who presides over us all."
+
+## Permissions
+The Twelve Traditions of Alcoholics Anonymous, the images from "The Twelve Traditions Illustrated," and "The Twelve Steps Illustrated" are copyrighted intellectual property of A.A. World Services, Inc. They are used here with permission.
 
 <div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
   <img src="images/AA_Hearts.PNG.png" alt="AA hearts image" style="max-width: 100%; height: auto;" />
