@@ -32,6 +32,7 @@ Join a live 24/7 Online AA Meeting on Zoom. This is an open international Alcoho
 - **Who can attend?** This is an open Alcoholics Anonymous meeting, and anyone with a desire to stop drinking is welcome.
 - **How do I join?** Use Zoom Meeting ID **292 371 2604** or click the Join Online AA Meeting button above.
 - **Is a password required?** No. You can join without a password.
+- **Who operates this website?** The Friends of the 24/7 developed and maintain this website. We cooperate and network with Code for Recovery, a nonprofit organization that develops open-source technology projects to help the recovery community come together, get organized, and recover from addiction: [https://code4recovery.org](https://code4recovery.org).
 
 <div class="hero-card">
   <div class="logo-area" aria-label="Logo placeholder">
@@ -47,7 +48,7 @@ Join a live 24/7 Online AA Meeting on Zoom. This is an open international Alcoho
 
 ## Welcome to Online Recovery
 
-Welcome to the 24/7 International Marathon Meeting of AA, *where sobriety never sleeps.* We are an open meeting of Alcoholics Anonymous, and everyone is welcome to listen. In keeping with AA's singleness of purpose and our Third Tradition, which states that the only requirement for AA membership is a desire to stop drinking, we ask that everyone who shares in our meeting confine their discussion to their problems with alcohol. You can join our online recovery meeting by clicking the "Join Online AA Meeting" button above, or by joining the meeting through Zoom. The Zoom access code is **292 371 2604**. No password is required. Join our online recovery meeting and raise your virtual hand. We want to get to know you, and experience has taught us that we can help best if you let us get to know you. We call on hands in the order they are raised, and everyone gets five minutes to share with a gentle reminder when there is one minute remaining.
+Welcome to the 24/7 International Marathon Meeting of AA, *where sobriety never sleeps.* We are an open meeting of Alcoholics Anonymous, and everyone is welcome to listen. In keeping with AA's singleness of purpose and our Third Tradition, which states that the only requirement for AA membership is a desire to stop drinking, we ask that everyone who shares in our meeting confine their discussion to their problems with alcohol. You can join our online recovery meeting by clicking the "Join Online AA Meeting" button above or by joining the meeting through Zoom. The Zoom access code is **292 371 2604**. No password is required. Join our online recovery meeting and raise your virtual hand. We want to get to know you, and experience has taught us that we can help best if you let us know you. We call on hands in the order they are raised, and everyone gets five minutes to share, with a gentle reminder when there is one minute remaining.
 
 The 24/7 International Marathon Meeting of Alcoholics Anonymous is dedicated to carrying AA's life-saving message of hope and recovery globally to the alcoholic who still suffers. Individuals seeking support for drug problems and substance use disorders may benefit from professional treatment programs, government resources, rehabilitation services, family support organizations, and other recovery programs and fellowships. Alcoholics Anonymous is not affiliated with any outside agency or enterprise.
 
@@ -125,7 +126,7 @@ Alcoholics Anonymous is a fellowship of people who share their experience, stren
 
 <div class="contact-card">
   <ul>
-    <li>Zoom: <strong>292 371 2604</strong> (no password needed) The meeting runs continuously 24 hours a day. Join the meeting and raise your virtual hand. We can help best if you talk to us.</li>
+    <li>Zoom: <strong>292 371 2604</strong> (no password needed). The meeting runs continuously 24 hours a day. Join the meeting and raise your virtual hand. We can help best if you speak with us.</li>
     <li>Email: the24hourmeeting@gmail.com</li>
     <li>Website: https://sobrietyneversleeps.org</li>
   </ul>
@@ -166,18 +167,14 @@ Alcoholics Anonymous is a fellowship of people who share their experience, stren
 
 The CAGE questionnaire is a short, widely used screening tool designed to help individuals identify possible problems with alcohol use. Originally introduced by Dr. John A. Ewing, it is commonly used in clinical settings and is recognized by institutions such as Johns Hopkins University Hospital.
 
-Please answer each question honestly with a Yes or No.
+Please answer each question honestly with a yes or no.
 
 - C — Cut down: Have you ever felt you should cut down on your drinking?
 - A — Annoyed: Have people annoyed you by criticizing your drinking?
 - G — Guilty: Have you ever felt bad or guilty about your drinking?
-- E — Eye-opener: Have you ever had a drink first thing in the morning to steady your nerves or to relieve a hangover?
-
-
+- E — Eye-opener: Have you ever had a drink first thing in the morning to steady your nerves or relieve a hangover?
 
 Source: [Johns Hopkins University Hospital](https://www.hopkinsmedicine.org)
-
-
 
 <div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
   <img src="images/Step_One.PNG.png" alt="Step One image" style="max-width: 100%; height: auto;" />
@@ -503,14 +500,14 @@ The 24-Hour International Marathon Meeting is a volunteer-run online meeting of 
 
 ## Disclaimer
 
-This website (https://sobrietyneversleeps.org) was independently and anonymously developed and is maintained by the Friends of the 24/7 International Marathon, which is solely responsible for its content. The Friends of the 24/7 International Marathon is a virtual international, non-affiliated, nonprofit organization based in New Zealand. Its members reside in many countries, including Canada, Australia, the United Kingdom, South Africa, and the United States. This website is not affiliated with or endorsed by the 24 Hour International Marathon Meeting of AA.
+This website (https://sobrietyneversleeps.org) was independently and anonymously developed and is maintained by the Friends of the 24/7, which is solely responsible for its content. The Friends of the 24/7 is a virtual international, non-affiliated, nonprofit organization based in New Zealand. Its members reside in many countries, including Canada, Australia, the United Kingdom, South Africa, and the United States. This website is not affiliated with or endorsed by the coordinators or GC of the 24 Hour International Marathon Meeting of AA.
 
-Additionally, the Friends of the 24/7 International Marathon is not affiliated with Alcoholics Anonymous World Services, Inc. (A.A.W.S.), or with the General Service Board of Alcoholics Anonymous, or the General Service Office of Alcoholics Anonymous. We are an independent  and autonomous organization. While our collective supports an online recovery meeting that uses the Twelve Steps and Twelve Traditions of Alcoholics Anonymous, we do not speak for, represent, or receive endorsement from A.A. as a whole or from the coordinators or GC of the 24 Hour International Marathon Meeting of AA. Further, the Friends of the 24/7 International Marathon is an independent volunteer para-organization collective dedicated to supporting the online recovery community. In accordance with AA's traditions of non-affiliation and autonomy, be advised that our organization is not affiliated with, sponsored by, or financially supported by Alcoholics Anonymous World Services, Inc., the General Service Board of Alcoholics Anonymous, any local AA central or intergroup offices, or the coordinators or GC of the 24 Hour International Marathon Meeting of AA. We operate autonomously to help individuals connect with recovery resources. The primary purpose of this website is to assist anyone looking for an online AA marathon meeting. Our sole aim is to be helpful and to direct the still-suffering alcoholic to the life-saving Fellowship of Alcoholics Anonymous.
+The Friends of the 24/7 is an independent volunteer para-organization collective dedicated to supporting the online recovery community. We cooperate and network with Code for Recovery, a nonprofit organization that develops open-source technology projects to help the recovery community come together, get organized, and recover from addiction: [https://code4recovery.org](https://code4recovery.org).
 
-The long form of Tradition Twelve states: "And finally, we of Alcoholics Anonymous believe that the principle of anonymity has an immense spiritual significance. It reminds us that we are to place principles before personalities, that we are actually to practice a genuine humility. This to the end that our great blessings may never spoil us; that we shall forever live in thankful contemplation of Him who presides over us all."
+In accordance with AA's traditions of non-affiliation and autonomy, the Friends of the 24/7 is not affiliated with, sponsored by, or financially supported by Alcoholics Anonymous World Services, Inc. (AAWS), the General Service Board of Alcoholics Anonymous, the General Service Office of Alcoholics Anonymous, any local AA central or intergroup offices, or the coordinators or GC of the 24 Hour International Marathon Meeting of AA. While our collective supports an online recovery meeting that uses the Twelve Steps and Twelve Traditions of Alcoholics Anonymous, we do not speak for, represent, or receive endorsement from AA as a whole or from the coordinators or GC of the 24 Hour International Marathon Meeting of AA. We operate autonomously to help individuals connect with recovery resources. The primary purpose of this website is to assist anyone looking for an online AA marathon meeting. Our sole aim is to be helpful and to direct the still-suffering alcoholic to the life-saving Fellowship of Alcoholics Anonymous.
 
 ## Permissions
-The Twelve Traditions of Alcoholics Anonymous, the images from "The Twelve Traditions Illustrated," and "The Twelve Steps Illustrated" are copyrighted intellectual property of A.A. World Services, Inc. They are used here with permission.
+The Twelve Traditions of Alcoholics Anonymous, the images from "The Twelve Traditions Illustrated," and "The Twelve Steps Illustrated" are copyrighted intellectual property of Alcoholics Anonymous World Services, Inc. They are used here with permission.
 
 <div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
   <img src="images/AA_Hearts.PNG.png" alt="AA hearts image" style="max-width: 100%; height: auto;" />
