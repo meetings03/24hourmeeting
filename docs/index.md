@@ -454,13 +454,13 @@ Alcoholics Anonymous is not affiliated with any outside enterprise. The followin
 - Helping the newcomer
 - Responsibility Declaration
 
-<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
-  <img src="images/Twelfth_Tradition.png" alt="Twelfth Tradition image" style="max-width: 100%; height: auto;" />
-</div>
-
 ## About This Meeting
 
 The 24-Hour International Marathon Meeting is a volunteer-run online meeting of Alcoholics Anonymous. The Fifth Tradition states: "Each group has but one primary purpose--to carry its message to the alcoholic who still suffers."
+
+<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
+  <img src="images/Twelfth_Tradition.png" alt="Twelfth Tradition image" style="max-width: 100%; height: auto;" />
+</div>
 
 ## Disclaimer
 
