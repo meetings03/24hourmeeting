@@ -411,48 +411,47 @@ Alcoholics Anonymous is not affiliated with any outside enterprise. The followin
 
 ### Principles Discussed at 24-Hour Online AA Meetings
 
-- Acceptance
-- Surrender
-- Honesty
-- Open-mindedness
-- Willingness
-- Humility
-- Responsibility
-- Gratitude
-- Patience
-- Tolerance
-- Forgiveness
-- Compassion
-- Faith
-- Trust
-- Letting go
-- One day at a time
-- Emotional sobriety
-- Progress, not perfection
-- Facing fear
-- Handling resentment
+<ul class="topic-list">
+  <li>Acceptance</li>
+  <li>Surrender</li>
+  <li>Honesty</li>
+  <li>Open-mindedness</li>
+  <li>Willingness</li>
+  <li>Humility</li>
+  <li>Responsibility</li>
+  <li>Gratitude</li>
+  <li>Patience</li>
+  <li>Tolerance</li>
+  <li>Forgiveness</li>
+  <li>Compassion</li>
+  <li>Faith</li>
+  <li>Trust</li>
+  <li>Letting go</li>
+  <li>One day at a time</li>
+  <li>Emotional sobriety</li>
+  <li>Progress, not perfection</li>
+  <li>Facing fear</li>
+  <li>Handling resentment</li>
+  <li>What is alcoholism?</li>
+  <li>The AA Twelve-Step program of recovery</li>
+  <li>The AA Preamble</li>
+  <li>The Ninth Step Promises</li>
+  <li>Sponsorship</li>
+  <li>Home group commitment</li>
+  <li>Anonymity</li>
+  <li>Unity</li>
+  <li>Service</li>
+  <li>Carrying the message</li>
+  <li>Relapse prevention</li>
+  <li>Living sober</li>
+  <li>Spiritual awakening</li>
+  <li>Helping the newcomer</li>
+  <li>Responsibility Declaration</li>
+</ul>
 
 <div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
   <img src="images/Members_TalkingatTable.png" alt="Members talking at a table" style="max-width: 100%; height: auto;" />
 </div>
-
-### Typical 24/7 Online AA Meeting Topics
-
-- What is alcoholism?
-- The AA Twelve-Step program of recovery
-- The AA Preamble
-- The Ninth Step Promises
-- Sponsorship
-- Home group commitment
-- Anonymity
-- Unity
-- Service
-- Carrying the message
-- Relapse prevention
-- Living sober
-- Spiritual awakening
-- Helping the newcomer
-- Responsibility Declaration
 
 ## About This Meeting
 
