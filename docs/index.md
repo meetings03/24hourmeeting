@@ -409,8 +409,6 @@ Alcoholics Anonymous is not affiliated with any outside enterprise. The followin
   <img src="images/Step_Twelve.png" alt="Step Twelve image" style="max-width: 100%; height: auto;" />
 </div>
 
-### Principles Discussed at 24-Hour Online AA Meetings
-
 <ul class="topic-list">
   <li>Acceptance</li>
   <li>Surrender</li>
