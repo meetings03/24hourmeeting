@@ -354,6 +354,10 @@ You can email the group at the24hourmeeting@gmail.com.
 
 ## Substance Abuse and Drug Rehabilitation Treatment Resources (Non-AA)
 
+<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
+  <img src="images/better-map-projection.jpg" alt="Better map projection" style="max-width: 100%; height: auto;" />
+</div>
+
 ### International Drug Treatment, Rehabilitation & Recovery Resources
 
 Alcoholics Anonymous is not affiliated with any outside enterprise. The following organizations provide treatment information, recovery resources, education, and referral services for individuals and families affected by substance abuse disorders. These organizations are independent and are not affiliated with Alcoholics Anonymous or the 24 Hour International Marathon Meeting of AA.
@@ -456,6 +460,10 @@ The 24-Hour International Marathon Meeting is a volunteer-run online meeting of 
 </div>
 
 ## Disclaimer
+
+<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
+  <img src="images/Friends247_Recovery.png" alt="Friends of 24/7 Recovery" style="max-width: 100%; height: auto;" />
+</div>
 
 This website (https://sobrietyneversleeps.org) was independently and anonymously developed and is maintained by the Friends of 24/7 Recovery, which is solely responsible for its content. The Friends of 24/7 Recovery is a virtual international, non-affiliated, nonprofit organization based in New Zealand. Its members reside in many countries, including Canada, Australia, the United Kingdom, South Africa, and the United States. This website is not affiliated with or endorsed by the coordinators or GC of the 24 Hour International Marathon Meeting of AA.
 
