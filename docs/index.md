@@ -465,10 +465,6 @@ The 24-Hour International Marathon Meeting is a volunteer-run online meeting of 
 
 ## Disclaimer
 
-<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
-  <img src="images/Friends247_Recovery.jpg" alt="Friends247_Recovery" title="Friends247_Recovery" style="display: block; width: min(100%, 560px); max-width: 560px; height: auto; margin: 0 auto;" />
-</div>
-
 This website (https://sobrietyneversleeps.org) was independently and anonymously developed and is maintained by the Friends of 24/7 Recovery, which is solely responsible for its content. The Friends of 24/7 Recovery is a virtual international, non-affiliated, nonprofit organization based in New Zealand. Its members reside in many countries, including Canada, Australia, the United Kingdom, South Africa, and the United States. This website is not affiliated with or endorsed by the coordinators or GC of the 24 Hour International Marathon Meeting of AA.
 
 The Friends of 24/7 Recovery is an independent volunteer para-organization collective dedicated to supporting the online recovery community. We cooperate and network with Code for Recovery, a nonprofit organization that develops open-source technology projects to help the recovery community come together, get organized, and recover from addiction: [https://code4recovery.org](https://code4recovery.org). The Friends of 24/7 Recovery also networks with [Flying Sober 24-7](https://flying-sober.com/24-7-meetings).
@@ -478,10 +474,6 @@ In accordance with AA's traditions of non-affiliation and autonomy, the Friends 
 ## Permissions
 The Twelve Traditions of Alcoholics Anonymous, the images from "The Twelve Traditions Illustrated," and "The Twelve Steps Illustrated" are copyrighted intellectual property of Alcoholics Anonymous World Services, Inc. They are used here with permission.
 
-<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
-  <img src="images/AA_Hearts.PNG.png" alt="AA hearts image" style="max-width: 100%; height: auto;" />
-</div>
-
 ## Serenity Prayer
 
 <blockquote style="font-family: Georgia, 'Times New Roman', serif; font-size: 1.25rem; line-height: 1.8; letter-spacing: 0.04em; font-style: italic; color: #2f3a3a; border-left: 3px solid #7a8d8d; padding-left: 1rem; margin: 1.5rem 0;">
@@ -489,9 +481,5 @@ God, grant me the <strong>Serenity</strong> to accept the things I cannot change
 <strong>Courage</strong> to change the things I can,<br>
 and <strong>Wisdom</strong> to know the difference.
 </blockquote>
-
-<div class="bottom-triangle-wrap">
-  <img src="images/Upside_down_triangle.png" alt="Upside down triangle" class="bottom-triangle" />
-</div>
 
 
