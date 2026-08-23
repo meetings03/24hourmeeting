@@ -267,7 +267,7 @@ English is the primary language of most members of the 24 Hour International Mar
 The Zoom meeting ID is **292 371 2604**. No password is required to join. You can connect from anywhere in the world at any time.
 
 <div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
-  <img src="images/Saturday%20Evening%20Post.jpeg" alt="Saturday Evening Post image" style="max-width: 100%; height: auto;" />
+  <img src="images/Saturday%20Evening%20Post.jpeg" alt="Saturday Evening Post" title="Saturday Evening Post" style="max-width: 100%; height: auto;" />
 </div>
 
 ### How do I speak or share during this 24-hour AA meeting?
@@ -359,7 +359,7 @@ You can email the group at the24hourmeeting@gmail.com.
 ## Substance Abuse and Drug Rehabilitation Treatment Resources (Non-AA)
 
 <div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
-  <img src="images/better-map-projection.jpg" alt="Better map projection" style="max-width: 100%; height: auto;" />
+  <img src="images/better-map-projection.jpg" alt="better-map-projection" title="better-map-projection" style="max-width: 100%; height: auto;" />
 </div>
 
 ### International Drug Treatment, Rehabilitation & Recovery Resources
@@ -466,7 +466,7 @@ The 24-Hour International Marathon Meeting is a volunteer-run online meeting of 
 ## Disclaimer
 
 <div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
-  <img src="images/Friends247_Recovery.jpg" alt="Friends of 24/7 Recovery" style="display: block; width: min(100%, 560px); max-width: 560px; height: auto; margin: 0 auto;" />
+  <img src="images/Friends247_Recovery.jpg" alt="Friends247_Recovery" title="Friends247_Recovery" style="display: block; width: min(100%, 560px); max-width: 560px; height: auto; margin: 0 auto;" />
 </div>
 
 This website (https://sobrietyneversleeps.org) was independently and anonymously developed and is maintained by the Friends of 24/7 Recovery, which is solely responsible for its content. The Friends of 24/7 Recovery is a virtual international, non-affiliated, nonprofit organization based in New Zealand. Its members reside in many countries, including Canada, Australia, the United Kingdom, South Africa, and the United States. This website is not affiliated with or endorsed by the coordinators or GC of the 24 Hour International Marathon Meeting of AA.
