@@ -466,7 +466,7 @@ The 24-Hour International Marathon Meeting is a volunteer-run online meeting of 
 ## Disclaimer
 
 <div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
-  <img src="images/Friends247_Recovery.jpg" alt="Friends of 24/7 Recovery" style="max-width: 100%; height: auto;" />
+  <img src="images/Friends247_Recovery.jpg" alt="Friends of 24/7 Recovery" style="display: block; width: min(100%, 560px); max-width: 560px; height: auto; margin: 0 auto;" />
 </div>
 
 This website (https://sobrietyneversleeps.org) was independently and anonymously developed and is maintained by the Friends of 24/7 Recovery, which is solely responsible for its content. The Friends of 24/7 Recovery is a virtual international, non-affiliated, nonprofit organization based in New Zealand. Its members reside in many countries, including Canada, Australia, the United Kingdom, South Africa, and the United States. This website is not affiliated with or endorsed by the coordinators or GC of the 24 Hour International Marathon Meeting of AA.
