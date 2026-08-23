@@ -405,10 +405,6 @@ Alcoholics Anonymous is not affiliated with any outside enterprise. The followin
 
 ## Topics for Online AA Meetings
 
-<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
-  <img src="images/Step_Twelve.png" alt="Step Twelve image" style="max-width: 100%; height: auto;" />
-</div>
-
 <ul class="topic-list">
   <li>Acceptance</li>
   <li>Surrender</li>
