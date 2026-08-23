@@ -32,7 +32,7 @@ Join a live 24/7 Online AA Meeting on Zoom. This is an open international Alcoho
 - **Who can attend?** This is an open Alcoholics Anonymous meeting, and anyone with a desire to stop drinking is welcome.
 - **How do I join?** Use Zoom Meeting ID **292 371 2604** or click the Join Online AA Meeting button above.
 - **Is a password required?** No. You can join without a password.
-- **Who operates this website?** The Friends of the 24/7 developed and maintain this website. We cooperate and network with Code for Recovery, a nonprofit organization that develops open-source technology projects to help the recovery community come together, get organized, and recover from addiction: [https://code4recovery.org](https://code4recovery.org).
+- **Who operates this website?** The Friends of 24/7 Recovery developed and maintain this website. We cooperate and network with Code for Recovery, a nonprofit organization that develops open-source technology projects to help the recovery community come together, get organized, and recover from addiction: [https://code4recovery.org](https://code4recovery.org).
 
 <div class="hero-card">
   <div class="logo-area" aria-label="Logo placeholder">
@@ -201,11 +201,11 @@ Alcoholics Anonymous General Service Conference-approved literature is available
 
 ### Pamphlets
 
-- Questions and Answers on Sponsorship
-- Problems Other Than Alcohol
-- The AA Group
-- AA Tradition: How It Developed
-- The Twelve Traditions Illustrated
+- "Questions and Answers on Sponsorship"
+- "Problems Other Than Alcohol"
+- "The AA Group"
+- "AA Tradition: How It Developed"
+- "The Twelve Traditions Illustrated"
 
 <div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
   <img src="images/Eighth%20Tradition%20Image.png" alt="Eighth Tradition image" style="max-width: 100%; height: auto;" />
@@ -457,9 +457,9 @@ The 24-Hour International Marathon Meeting is a volunteer-run online meeting of 
 
 ## Disclaimer
 
-This website (https://sobrietyneversleeps.org) was independently and anonymously developed and is maintained by the Friends of the 24/7, which is solely responsible for its content. The Friends of the 24/7 is a virtual international, non-affiliated, nonprofit organization based in New Zealand. Its members reside in many countries, including Canada, Australia, the United Kingdom, South Africa, and the United States. This website is not affiliated with or endorsed by the coordinators or GC of the 24 Hour International Marathon Meeting of AA.
+This website (https://sobrietyneversleeps.org) was independently and anonymously developed and is maintained by the Friends of 24/7 Recovery, which is solely responsible for its content. The Friends of 24/7 Recovery is a virtual international, non-affiliated, nonprofit organization based in New Zealand. Its members reside in many countries, including Canada, Australia, the United Kingdom, South Africa, and the United States. This website is not affiliated with or endorsed by the coordinators or GC of the 24 Hour International Marathon Meeting of AA.
 
-The Friends of the 24/7 is an independent volunteer para-organization collective dedicated to supporting the online recovery community. We cooperate and network with Code for Recovery, a nonprofit organization that develops open-source technology projects to help the recovery community come together, get organized, and recover from addiction: [https://code4recovery.org](https://code4recovery.org).
+The Friends of 24/7 Recovery is an independent volunteer para-organization collective dedicated to supporting the online recovery community. We cooperate and network with Code for Recovery, a nonprofit organization that develops open-source technology projects to help the recovery community come together, get organized, and recover from addiction: [https://code4recovery.org](https://code4recovery.org).
 
 In accordance with AA's traditions of non-affiliation and autonomy, the Friends of the 24/7 is not affiliated with, sponsored by, or financially supported by Alcoholics Anonymous World Services, Inc. (AAWS), the General Service Board of Alcoholics Anonymous, the General Service Office of Alcoholics Anonymous, any local AA central or intergroup offices, or the coordinators or GC of the 24 Hour International Marathon Meeting of AA. While our collective supports an online recovery meeting that uses the Twelve Steps and Twelve Traditions of Alcoholics Anonymous, we do not speak for, represent, or receive endorsement from AA as a whole or from the coordinators or GC of the 24 Hour International Marathon Meeting of AA. We operate autonomously to help individuals connect with recovery resources. The primary purpose of this website is to assist anyone looking for an online AA marathon meeting. Our sole aim is to be helpful and to direct the still-suffering alcoholic to the life-saving Fellowship of Alcoholics Anonymous.
 
