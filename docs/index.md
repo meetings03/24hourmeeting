@@ -266,6 +266,10 @@ English is the primary language of most members of the 24 Hour International Mar
 
 The Zoom meeting ID is **292 371 2604**. No password is required to join. You can connect from anywhere in the world at any time.
 
+<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
+  <img src="images/Saturday%20Evening%20Post.jpeg" alt="Saturday Evening Post image" style="max-width: 100%; height: auto;" />
+</div>
+
 ### How do I speak or share during this 24-hour AA meeting?
 
 To share your experience, strength, and hope, simply raise your virtual hand. The chairperson calls on hands in the exact order they are raised.
