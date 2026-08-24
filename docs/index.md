@@ -356,6 +356,10 @@ The long form of AA's Third Tradition states: "Our membership ought to include a
 
 You can email the group at the24hourmeeting@gmail.com.
 
+<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
+  <img src="images/better-map-projection.jpg" alt="better-map-projection" title="better-map-projection" style="max-width: 100%; height: auto;" />
+</div>
+
 ## Substance Abuse and Drug Rehabilitation Treatment Resources (Non-AA)
 
 ### International Drug Treatment, Rehabilitation & Recovery Resources
