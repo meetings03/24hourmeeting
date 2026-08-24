@@ -266,7 +266,7 @@ English is the primary language of most members of the 24 Hour International Mar
 
 The Zoom meeting ID is **292 371 2604**. No password is required to join. You can connect from anywhere in the world at any time.
 
-### How do I speak or share during this 24-hour AA meeting?
+Rem
 
 To share your experience, strength, and hope, simply raise your virtual hand. The chairperson calls on hands in the exact order they are raised.
 
@@ -353,10 +353,6 @@ The long form of AA's Third Tradition states: "Our membership ought to include a
 You can email the group at the24hourmeeting@gmail.com.
 
 ## Substance Abuse and Drug Rehabilitation Treatment Resources (Non-AA)
-
-<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
-  <img src="images/better-map-projection.jpg" alt="better-map-projection" title="better-map-projection" style="max-width: 100%; height: auto;" />
-</div>
 
 ### International Drug Treatment, Rehabilitation & Recovery Resources
 
