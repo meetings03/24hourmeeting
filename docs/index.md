@@ -141,24 +141,24 @@ Copyright by AA Grapevine, Inc.; reprinted with permission.
 ### International AA Websites
 
 <ul>
-  <li><strong>Online Intergroup of AA</strong>: https://aa-intergroup.org</li>
-  <li><strong>AA World Services</strong>: https://www.aa.org</li>
-  <li><strong>Alcoholics Anonymous Great Britain</strong>: https://www.alcoholics-anonymous.org.uk</li>
-  <li><strong>Australia</strong>: https://aa.org.au</li>
-  <li><strong>Aotearoa New Zealand</strong>: https://aa.org.nz</li>
-  <li><strong>Canada</strong>: https://www.aatoronto.org</li>
-  <li><strong>Continental European Region</strong>: https://alcoholics-anonymous.eu</li>
-  <li><strong>Spain</strong>: https://www.alcoholicos-anonimos.org</li>
-  <li><strong>Japan</strong>: https://aatokyo.org</li>
-  <li><strong>Ireland</strong>: https://alcoholicsanonymous.ie</li>
-  <li><strong>Mexico</strong>: https://aamexico.org.mx</li>
-  <li><strong>Argentina</strong>: https://aa.org.ar</li>
-  <li><strong>South Africa</strong>: https://aasouthafrica.org.za</li>
-  <li><strong>India</strong>: https://www.aagsoindia.org</li>
-  <li><strong>Oregon (USA) Area 58, Online District 33</strong>: https://area58district33.org</li>
-  <li><strong>Morocco</strong>: https://aamaroc.net</li>
-  <li><strong>AA Grapevine</strong>: https://www.aagrapevine.org</li>
-  <li><strong>Virtual General Service Area of Alcoholics Anonymous</strong>: https://aavirtualarea.org.au</li>
+  <li><strong>Online Intergroup of AA</strong>: <a href="https://aa-intergroup.org" target="_blank" rel="noopener">https://aa-intergroup.org</a></li>
+  <li><strong>AA World Services</strong>: <a href="https://www.aa.org" target="_blank" rel="noopener">https://www.aa.org</a></li>
+  <li><strong>Alcoholics Anonymous Great Britain</strong>: <a href="https://www.alcoholics-anonymous.org.uk" target="_blank" rel="noopener">https://www.alcoholics-anonymous.org.uk</a></li>
+  <li><strong>Australia</strong>: <a href="https://aa.org.au" target="_blank" rel="noopener">https://aa.org.au</a></li>
+  <li><strong>Aotearoa New Zealand</strong>: <a href="https://aa.org.nz" target="_blank" rel="noopener">https://aa.org.nz</a></li>
+  <li><strong>Canada</strong>: <a href="https://www.aatoronto.org" target="_blank" rel="noopener">https://www.aatoronto.org</a></li>
+  <li><strong>Continental European Region</strong>: <a href="https://alcoholics-anonymous.eu" target="_blank" rel="noopener">https://alcoholics-anonymous.eu</a></li>
+  <li><strong>Spain</strong>: <a href="https://www.alcoholicos-anonimos.org" target="_blank" rel="noopener">https://www.alcoholicos-anonimos.org</a></li>
+  <li><strong>Japan</strong>: <a href="https://aatokyo.org" target="_blank" rel="noopener">https://aatokyo.org</a></li>
+  <li><strong>Ireland</strong>: <a href="https://alcoholicsanonymous.ie" target="_blank" rel="noopener">https://alcoholicsanonymous.ie</a></li>
+  <li><strong>Mexico</strong>: <a href="https://aamexico.org.mx" target="_blank" rel="noopener">https://aamexico.org.mx</a></li>
+  <li><strong>Argentina</strong>: <a href="https://aa.org.ar" target="_blank" rel="noopener">https://aa.org.ar</a></li>
+  <li><strong>South Africa</strong>: <a href="https://aasouthafrica.org.za" target="_blank" rel="noopener">https://aasouthafrica.org.za</a></li>
+  <li><strong>India</strong>: <a href="https://www.aagsoindia.org" target="_blank" rel="noopener">https://www.aagsoindia.org</a></li>
+  <li><strong>Oregon (USA) Area 58, Online District 33</strong>: <a href="https://area58district33.org" target="_blank" rel="noopener">https://area58district33.org</a></li>
+  <li><strong>Morocco</strong>: <a href="https://aamaroc.net" target="_blank" rel="noopener">https://aamaroc.net</a></li>
+  <li><strong>AA Grapevine</strong>: <a href="https://www.aagrapevine.org" target="_blank" rel="noopener">https://www.aagrapevine.org</a></li>
+  <li><strong>Virtual General Service Area of Alcoholics Anonymous</strong>: <a href="https://aavirtualarea.org.au" target="_blank" rel="noopener">https://aavirtualarea.org.au</a></li>
 </ul>
 
 <div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
