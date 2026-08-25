@@ -229,7 +229,8 @@ If you or someone you know is in immediate danger, call emergency services right
 - United Kingdom: Samaritans — call 116 123 or visit [samaritans.org](https://www.samaritans.org)
 - Australia: Lifeline Australia — call 13 11 14 or visit [lifeline.org.au](https://www.lifeline.org.au)
 - New Zealand: Need to Talk? — call or text 1737 or visit [1737.org.nz](https://1737.org.nz)
-- SAMHSA National Helpline (U.S.) — 1-800-662-HELP (4357) for treatment referrals and mental health or substance use support
+- Substance Abuse and Mental Health Services Administration (SAMHSA) National Helpline (U.S.) — 1-800-662-HELP (4357) for treatment referrals and mental health or substance use support
+- SAFE Project — domestic violence resources — [safeproject.us](https://www.safeproject.us)
 - Befrienders Worldwide — global directory of crisis support services: [befrienders.org](https://www.befrienders.org)
 
 <div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
