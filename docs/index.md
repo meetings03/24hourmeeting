@@ -414,15 +414,15 @@ Alcoholics Anonymous is not affiliated with any outside enterprise. Inclusion of
 - **Women for Sobriety**: Recovery support organization focused on the unique needs of women. [https://womenforsobriety.org](https://womenforsobriety.org)
 - **Celebrate Recovery**: A biblically based Christian approach to helping people achieve long-lasting recovery by healing hurts, guiding people toward new healthy truths, and developing life-giving habits. [https://celebraterecovery.com](https://celebraterecovery.com)
 
-<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
-  <img src="images/Member_Sharing_at_Mic.png" alt="Member sharing at the microphone image" style="max-width: 100%; height: auto;" />
-</div>
-
 ## Recovery Related Professional Organizations
 
 - **International Society of Substance Use Professionals (ISSUP)**: [https://issup.net](https://issup.net)
 - **National Association of Alcoholism and Drug Abuse Counselors (NAADAC)**: [https://naadac.org](https://naadac.org)
 - **Addiction Counselor Certification Board of California (ACCBC)**: [https://accbc.org](https://accbc.org)
+
+<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
+  <img src="images/Member_Sharing_at_Mic.png" alt="Member sharing at the microphone image" style="max-width: 100%; height: auto;" />
+</div>
 
 ## Topics for Online AA Meetings
 
