@@ -419,6 +419,11 @@ Alcoholics Anonymous is not affiliated with any outside enterprise. Inclusion of
 - **International Society of Substance Use Professionals (ISSUP)**: [https://issup.net](https://issup.net)
 - **National Association of Alcoholism and Drug Abuse Counselors (NAADAC)**: [https://naadac.org](https://naadac.org)
 - **Addiction Counselor Certification Board of California (ACCBC)**: [https://accbc.org](https://accbc.org)
+- **Drug and Alcohol Practitioner's Association Aotearoa - New Zealand (DAPAANZ)**: [https://dapaanz.org.nz](https://dapaanz.org.nz)
+- **Addiction Counsellors Ireland (ACI)**: [https://addictioncounsellors.ie](https://addictioncounsellors.ie)
+- **Asia Pacific Association for Addiction Professionals (APAAP)**: [https://apaap.tungwahcsd.org](https://apaap.tungwahcsd.org)
+- **Australian Alcohol and Other Drugs Council (AAODC)**: [https://aadc.org.au](https://aadc.org.au)
+- **Canadian Addiction Counsellors Certification Federation (CACCF)**: [https://caccf.ca](https://caccf.ca)
 
 <div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
   <img src="images/Member_Sharing_at_Mic.png" alt="Member sharing at the microphone image" style="max-width: 100%; height: auto;" />
