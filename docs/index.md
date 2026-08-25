@@ -60,6 +60,8 @@ The 24/7 International Marathon Meeting of Alcoholics Anonymous is dedicated to 
 
 Alcoholics Anonymous is a fellowship of people who share their experience, strength, and hope with each other so that they may solve their common problem and help others recover from alcoholism. The only requirement for membership is a desire to stop drinking. There are no dues or fees for AA membership; we are self-supporting through our own contributions. AA is not allied with any sect, denomination, politics, organization, or institution; does not wish to engage in any controversy, neither endorses nor opposes any causes. Our primary purpose is to stay sober and help other alcoholics achieve sobriety.
 
+Copyright by AA Grapevine, Inc.; reprinted with permission.
+
 <div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
   <img src="images/How_It_Works.png" alt="How it works image" style="max-width: 100%; height: auto;" />
 </div>
@@ -157,6 +159,8 @@ Alcoholics Anonymous is a fellowship of people who share their experience, stren
   <li><strong>Morocco</strong>: https://aamaroc.net</li>
 </ul>
 
+[AA Grapevine](https://www.aagrapevine.org)
+
 <div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
   <img src="images/New_Flags_International.PNG.png" alt="New international flags image" style="max-width: 100%; height: auto;" />
 </div>
@@ -213,7 +217,7 @@ Alcoholics Anonymous General Service Conference-approved literature is available
 
 ## Crisis and Mental Health Resources
 
-Alcoholics Anonymous is not affiliated with any outside agency or organization. Below is a list of non-AA crisis resources.
+Alcoholics Anonymous is not affiliated with any outside agency or organization. Below is a list of non-AA crisis resources. Inclusion of any non-AA resources does not suggest endorsement or affiliation.
 
 If you or someone you know is in immediate danger, call emergency services right away or go to the nearest emergency department.
 
@@ -265,8 +269,6 @@ English is the primary language of most members of the 24 Hour International Mar
 ### What is the Zoom ID for the 24/7 International Marathon Meeting of AA?
 
 The Zoom meeting ID is **292 371 2604**. No password is required to join. You can connect from anywhere in the world at any time.
-
-Rem
 
 To share your experience, strength, and hope, simply raise your virtual hand. The chairperson calls on hands in the exact order they are raised.
 
@@ -364,7 +366,7 @@ You can email the group at the24hourmeeting@gmail.com.
 
 ### International Drug Treatment, Rehabilitation & Recovery Resources
 
-Alcoholics Anonymous is not affiliated with any outside enterprise. The following organizations provide treatment information, recovery resources, education, and referral services for individuals and families affected by substance abuse disorders. These organizations are independent and are not affiliated with Alcoholics Anonymous or the 24 Hour International Marathon Meeting of AA.
+Alcoholics Anonymous is not affiliated with any outside enterprise. Inclusion of any non-AA resources does not suggest endorsement or affiliation. The following organizations provide treatment information, recovery resources, education, and referral services for individuals and families affected by substance abuse disorders. These organizations are independent and are not affiliated with Alcoholics Anonymous or the 24 Hour International Marathon Meeting of AA.
 
 #### Global Drug Treatment and Recovery Organizations
 
