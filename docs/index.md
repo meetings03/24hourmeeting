@@ -308,6 +308,10 @@ No. Alcoholics Anonymous is not allied with any sect, denomination, politics, or
 
 No. Alcoholics Anonymous does not counsel problem drinkers or provide any medical advice. Nor does AA operate treatment centers or hospitals. AA's Eighth Tradition states: "Alcoholics Anonymous should remain forever nonprofessional, but our service centers may employ special workers."
 
+<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
+  <img src="images/Easy%20Does%20It_logo.JPG" alt="Easy Does It logo" style="max-width: 100%; height: auto;" />
+</div>
+
 ### How is anonymity protected in a 24-hour online AA meeting?
 
 Anonymity is the spiritual foundation of all AA's Traditions. You can protect your identity by changing your Zoom display name to your first name only, leaving your camera off, and sharing in a general way.
