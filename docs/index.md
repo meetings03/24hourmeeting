@@ -279,7 +279,7 @@ Yes. The best way to get help in our meeting is to raise your virtual hand and l
 We need chairpersons, timers, and greeters every hour. The Training Team holds regular training sessions. The host will provide details at the top of each hour. There is a monthly business meeting on the fourth Saturday of each month. The host will announce the business meeting at the top of each hour.
 
 <div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
-  <img src="images/Step_Ten_Reflection.PNG.png" alt="Step Ten reflection image" style="max-width: 100%; height: auto;" />
+  <img src="images/Step_Ten_Reflection.png" alt="Step Ten reflection image" style="max-width: 100%; height: auto;" />
 </div>
 
 ### Can I just listen, or do I have to speak in this 24-hour online AA meeting?

@@ -105,6 +105,31 @@ body {
   line-height: 1.65;
 }
 
+.topic-list {
+  column-count: 3;
+  column-gap: 3rem;
+  column-fill: balance;
+  margin: 1.25rem 0 1.75rem;
+}
+
+.topic-list li {
+  break-inside: avoid;
+  margin-bottom: 0.8rem;
+}
+
+@media screen and (max-width: 900px) {
+  .topic-list {
+    column-count: 2;
+    column-gap: 2rem;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .topic-list {
+    column-count: 1;
+  }
+}
+
 .triangle-logo-wrap {
   margin-top: 1rem;
   display: flex;
