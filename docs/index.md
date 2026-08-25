@@ -157,9 +157,8 @@ Copyright by AA Grapevine, Inc.; reprinted with permission.
   <li><strong>India</strong>: https://www.aagsoindia.org</li>
   <li><strong>Oregon (USA) Area 58, Online District 33</strong>: https://area58district33.org</li>
   <li><strong>Morocco</strong>: https://aamaroc.net</li>
+  <li><strong>AA Grapevine</strong>: https://www.aagrapevine.org</li>
 </ul>
-
-[AA Grapevine](https://www.aagrapevine.org)
 
 <div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
   <img src="images/New_Flags_International.PNG.png" alt="New international flags image" style="max-width: 100%; height: auto;" />
