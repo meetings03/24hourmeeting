@@ -414,6 +414,11 @@ Alcoholics Anonymous is not affiliated with any outside enterprise. Inclusion of
 - **Women for Sobriety**: Recovery support organization focused on the unique needs of women. [https://womenforsobriety.org](https://womenforsobriety.org)
 - **Celebrate Recovery**: A biblically based Christian approach to helping people achieve long-lasting recovery by healing hurts, guiding people toward new healthy truths, and developing life-giving habits. [https://celebraterecovery.com](https://celebraterecovery.com)
 
+<div class="quote-card">
+  <p class="quote-label">Long Form of AA's Eighth Tradition</p>
+  <p class="quote-text">Alcoholics Anonymous should remain forever nonprofessional. We define professionalism as the occupation of counseling alcoholics for fees or hire. But we may employ alcoholics where they are going to perform those services for which we might otherwise have to engage nonalcoholics. Such special services may be well recompensed. But our usual A.A. Twelfth Step work is never to be paid for.</p>
+</div>
+
 ## Professional Chemical Dependency Organizations
 
 - **International Society of Substance Use Professionals (ISSUP)**: [https://issup.net](https://issup.net)
