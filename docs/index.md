@@ -359,6 +359,11 @@ In keeping with our primary purpose of carrying the AA message to the alcoholic 
 
 The long form of AA's Third Tradition states: "Our membership ought to include all who suffer from alcoholism. Hence we may refuse none who wish to recover. Nor ought AA membership ever depend upon money or conformity. Any two or three alcoholics gathered together for sobriety may call themselves an AA group, provided that, as a group, they have no other affiliation."
 
+<div class="quote-card">
+  <p class="quote-label">Long Form of AA's Tenth Tradition</p>
+  <p class="quote-text">No A.A. group or member should ever, in such a way as to implicate A.A., express any opinion on outside controversial issues--particularly those of politics, alcohol reform, or sectarian religion. The Alcoholics Anonymous groups oppose no one. Concerning such matters they can express no views whatever.</p>
+</div>
+
 ### How can I contact the 24-hour International Marathon Meeting of AA?
 
 You can email the group at the24hourmeeting@gmail.com.
