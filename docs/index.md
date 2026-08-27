@@ -426,6 +426,19 @@ Alcoholics Anonymous is not affiliated with any outside enterprise. Inclusion of
 
 ## Professional Chemical Dependency Organizations
 
+## International University Programs in Drug and Alcohol Counselling
+
+- **University of Auckland**: [https://www.auckland.ac.nz](https://www.auckland.ac.nz)
+- **University of Southern Queensland**: [https://www.unisq.edu.au](https://www.unisq.edu.au)
+- **Adelaide University**: [https://adelaide.edu.au](https://adelaide.edu.au)
+- **London South Bank University**: [https://lsbu.ac.uk](https://lsbu.ac.uk)
+- **University of the West of Scotland**: [https://uws.ac.uk](https://uws.ac.uk)
+- **Queen's University Belfast**: [https://qub.ac.uk](https://qub.ac.uk)
+- **Hazelden Betty Ford Graduate School**: [https://hazeldenbettyford.org](https://hazeldenbettyford.org)
+- **University of Minnesota Twin Cities**: [https://umn.edu](https://umn.edu)
+- **Virginia Commonwealth University**: [https://vcu.edu](https://vcu.edu)
+- **Rutgers University**: [https://rutgers.edu](https://rutgers.edu)
+
 - **International Society of Substance Use Professionals (ISSUP)**: [https://issup.net](https://issup.net)
 - **National Association of Alcoholism and Drug Abuse Counselors (NAADAC)**: [https://naadac.org](https://naadac.org)
 - **Addiction Counselor Certification Board of California (ACCBC)**: [https://accbc.org](https://accbc.org)
