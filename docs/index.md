@@ -196,6 +196,8 @@ The book *Alcoholics Anonymous* (the Big Book) says that alcoholics are men and 
 
 Alcoholics Anonymous General Service Conference-approved literature is available on the AA World Services website, www.aa.org. Below is a list of suggested titles:
 
+<a class="join-button" href="https://www.aa.org/resources/literature" target="_blank" rel="noopener">AA Literature</a>
+
 ### Books
 
 - *Alcoholics Anonymous* (the Big Book)
