@@ -279,6 +279,10 @@ The Zoom meeting ID is **292 371 2604**. No password is required to join. You ca
 
 To share your experience, strength, and hope, simply raise your virtual hand. The chairperson calls on hands in the exact order they are raised.
 
+<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
+  <img src="images/Man%20on%20the%20Bed.jpg" alt="Person on a bed participating in an online AA meeting" style="max-width: 100%; height: auto;" />
+</div>
+
 ### Can I get a sponsor on this 24-hour marathon AA meeting?
 
 Yes. The best way to get help in our meeting is to raise your virtual hand and let us know you are looking for a sponsor. We suggest that men work with men and women work with women.
