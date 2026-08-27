@@ -32,7 +32,7 @@ Join a live 24/7 Online AA Meeting on Zoom. This is an open international Alcoho
 - **Who can attend?** This is an open Alcoholics Anonymous meeting, and anyone with a desire to stop drinking is welcome.
 - **How do I join?** Use Zoom Meeting ID **292 371 2604** or click the Join Online AA Meeting button above.
 - **Is a password required?** No. You can join without a password.
-- **Who operates this website?** The Friends of 24/7 Recovery developed and maintain this website. We cooperate and network with Code for Recovery, a nonprofit organization that develops open-source technology projects to help the recovery community come together, get organized, and recover from addiction: [https://code4recovery.org](https://code4recovery.org). The Friends of 24/7 Recovery also networks with Flying Sober 24-7 (https://flying-sober.com/24-7-meetings) and [AA Directory.com](https://theaadirectory.com).
+- **Who operates this website?** The Friends of 24/7 Recovery developed and maintain this website. We cooperate and network with Code for Recovery, a nonprofit organization that develops open-source technology projects to help the recovery community come together, get organized, and recover from addiction: [https://code4recovery.org](https://code4recovery.org). The Friends of 24/7 Recovery also networks with [Flying Sober 24-7](https://flying-sober.com/24-7-meetings) and [AA Directory.com](https://theaadirectory.com).
 
 <div class="hero-card">
   <div class="logo-area" aria-label="Logo placeholder">
@@ -424,8 +424,6 @@ Alcoholics Anonymous is not affiliated with any outside enterprise. Inclusion of
   <p class="quote-text">Alcoholics Anonymous should remain forever nonprofessional. We define professionalism as the occupation of counseling alcoholics for fees or hire. But we may employ alcoholics where they are going to perform those services for which we might otherwise have to engage nonalcoholics. Such special services may be well recompensed. But our usual A.A. Twelfth Step work is never to be paid for.</p>
 </div>
 
-## Professional Chemical Dependency Organizations
-
 ## International University Programs in Drug and Alcohol Counselling
 
 - **University of Auckland**: [https://www.auckland.ac.nz](https://www.auckland.ac.nz)
@@ -438,6 +436,8 @@ Alcoholics Anonymous is not affiliated with any outside enterprise. Inclusion of
 - **University of Minnesota Twin Cities**: [https://umn.edu](https://umn.edu)
 - **Virginia Commonwealth University**: [https://vcu.edu](https://vcu.edu)
 - **Rutgers University**: [https://rutgers.edu](https://rutgers.edu)
+
+## Professional Chemical Dependency Organizations
 
 - **International Society of Substance Use Professionals (ISSUP)**: [https://issup.net](https://issup.net)
 - **National Association of Alcoholism and Drug Abuse Counselors (NAADAC)**: [https://naadac.org](https://naadac.org)
