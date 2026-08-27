@@ -333,7 +333,7 @@ The 24 Hour International Marathon Meeting of AA follows the online safety sugge
 
 ### Can I have my attendance verified for court or probation on this 24/7 AA Zoom meeting?
 
-The 24 Hour International Marathon Meeting of AA does not provide attendance verification. However, attendance verification of online meetings is available on the **NKC verification page**: https://newcomerskeepcoming.org/verification
+The 24 Hour International Marathon Meeting of AA does not provide attendance verification. However, attendance verification of online meetings is available on the [**NKC verification page**](https://newcomerskeepcoming.org/verification).
 
 <div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
   <img src="images/Lead_By_Example.png" alt="Lead by example image" style="max-width: 100%; height: auto;" />
