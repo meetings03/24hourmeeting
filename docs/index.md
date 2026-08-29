@@ -193,7 +193,7 @@ Source: [Johns Hopkins University Hospital](https://www.hopkinsmedicine.org)
 The book *Alcoholics Anonymous* (the Big Book) says that alcoholics are men and women who have lost the ability to control their drinking. AA does not pronounce anyone as being an alcoholic. The following passage from page 44 of the Big Book states: "In the preceding chapters you have learned something of alcoholism. We hope we have made clear the distinction between the alcoholic and the non-alcoholic. If, when you honestly want to, you find you cannot quit entirely, or if when drinking, you have little control over the amount you take, you are probably alcoholic. If that be the case, you may be suffering from an illness which only a spiritual experience will conquer."
 
 <div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
-  <img src="images/Big_Book.jpeg" alt="Big Book image" style="display: block; width: 100%; max-width: 520px; height: auto; margin: 0 auto;" />
+  <img src="images/Big_Book.jpg" alt="Big Book image" style="display: block; width: 100%; max-width: 520px; height: auto; margin: 0 auto;" />
 </div>
 
 ## AA Literature
