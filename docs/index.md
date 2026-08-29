@@ -116,6 +116,10 @@ Copyright by AA Grapevine, Inc.; reprinted with permission.
   <p class="quote-text">This we owe to AA's future: To place our common welfare first; to keep our Fellowship united. For on AA unity depend our lives and the lives of those to come.</p>
 </div>
 
+<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
+  <img src="images/Bob_and_Bill.png" alt="Bob and Bill image" style="display: block; width: 100%; max-width: 260px; height: auto; margin: 0 auto;" />
+</div>
+
 ### I Am Responsible
 
 <div class="quote-card">
