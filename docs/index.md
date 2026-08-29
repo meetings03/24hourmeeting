@@ -347,6 +347,10 @@ The Second Tradition of Alcoholics Anonymous states: "For our group purpose ther
 
 Everyone who shares in the meeting gets five minutes to speak with a gentle reminder when there is one minute remaining.
 
+<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
+  <img src="images/HALT.jpg" alt="HALT image" style="max-width: 100%; height: auto;" />
+</div>
+
 ### Is this an American meeting?
 
 No. This is an international online AA meeting with participants from around the world. The meeting originated in New Zealand, but members are from many different countries.
