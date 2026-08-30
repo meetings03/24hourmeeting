@@ -550,6 +550,10 @@ In accordance with AA's traditions of non-affiliation and autonomy, the Friends 
 ## Permissions
 The Twelve Traditions of Alcoholics Anonymous, the images from "The Twelve Traditions Illustrated," and "The Twelve Steps Illustrated" are copyrighted intellectual property of Alcoholics Anonymous World Services, Inc. They are used here with permission.
 
+<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
+  <img src="images/sobrietyneversleeps_Logo.jpg" alt="Sobriety Never Sleeps logo" style="max-width: 100%; height: auto;" />
+</div>
+
 ## Serenity Prayer
 
 <blockquote style="font-family: Georgia, 'Times New Roman', serif; font-size: 1.25rem; line-height: 1.8; letter-spacing: 0.04em; font-style: italic; color: #2f3a3a; border-left: 3px solid #7a8d8d; padding-left: 1rem; margin: 1.5rem 0;">
