@@ -463,6 +463,10 @@ Alcoholics Anonymous is not affiliated with any outside enterprise. Inclusion of
 - **Virginia Commonwealth University**: [https://vcu.edu](https://vcu.edu)
 - **Rutgers University**: [https://rutgers.edu](https://rutgers.edu)
 
+<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
+  <img src="images/New_Zealand.jpg" alt="New Zealand image" style="max-width: 100%; height: auto;" />
+</div>
+
 ## Professional Chemical Dependency Organizations
 
 - **International Society of Substance Use Professionals (ISSUP)**: [https://issup.net](https://issup.net)
