@@ -20,9 +20,9 @@
   }
 </style>
 
-Join a live 24/7 Online AA Meeting on Zoom. This is an open international Alcoholics Anonymous meeting with a new session every hour. Join now with Zoom Meeting ID **292 371 2604**. No password required.
-
 <a id="join-meeting" class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join Online AA Meeting</a>
+
+Join a live 24/7 Online AA Meeting on Zoom. This is an open international Alcoholics Anonymous meeting with a new session every hour. Join now with Zoom Meeting ID **292 371 2604**. No password required.
 
 ## 24/7 AA Zoom Meeting
 
@@ -280,6 +280,8 @@ English is the primary language of most members of the 24 Hour International Mar
 The Zoom meeting ID is **292 371 2604**. No password is required to join. You can connect from anywhere in the world at any time.
 
 To share your experience, strength, and hope, simply raise your virtual hand. The chairperson calls on hands in the exact order they are raised.
+
+<a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join Online AA Meeting</a>
 
 <div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
   <img src="images/man_on_bed.jpg" alt="Person on a bed participating in an online AA meeting" style="max-width: 100%; height: auto;" />
@@ -570,5 +572,7 @@ God, grant me the <strong>Serenity</strong> to accept the things I cannot change
 <strong>Courage</strong> to change the things I can,<br>
 and <strong>Wisdom</strong> to know the difference.
 </blockquote>
+
+<a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join Online AA Meeting</a>
 
 
