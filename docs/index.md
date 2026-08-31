@@ -552,6 +552,8 @@ In accordance with AA's traditions of non-affiliation and autonomy, the Friends 
   <img src="images/Saturday_Evening_Post.png" alt="Saturday Evening Post image" style="max-width: 100%; height: auto;" />
 </div>
 
+*The Jack Alexander article on AA appeared in the March 1941 edition of the Saturday Evening Post.*
+
 ## Permissions
 The Twelve Traditions of Alcoholics Anonymous, the images from "The Twelve Traditions Illustrated," and "The Twelve Steps Illustrated" are copyrighted intellectual property of Alcoholics Anonymous World Services, Inc. They are used here with permission.
 
