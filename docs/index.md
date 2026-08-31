@@ -462,6 +462,8 @@ Alcoholics Anonymous is not affiliated with any outside enterprise. Inclusion of
   <img src="images/New_Zealand.jpg" alt="New Zealand image" style="max-width: 100%; height: auto;" />
 </div>
 
+*The 24 Hour International Marathon Meeting of AA was founded by two newcomers from New Zealand with cell phones at the beginning of the international pandemic.*
+
 ## Professional Chemical Dependency Organizations
 
 - **International Society of Substance Use Professionals (ISSUP)**: [https://issup.net](https://issup.net)
