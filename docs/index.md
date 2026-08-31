@@ -6,8 +6,8 @@
     flex-wrap: wrap;
     align-items: center;
     justify-content: center;
-    margin: 1rem 0 1.25rem !important;
-    gap: 0.75rem !important;
+    margin: 1.5rem 0 1.5rem 0;
+    gap: 0.75rem;
   }
 
   .tradition-image-row img {
@@ -16,7 +16,68 @@
   }
 
   .join-button {
-    margin-bottom: 1.5rem;
+    display: inline-block;
+    margin: 1.5rem 0;
+  }
+
+  .join-button:first-of-type {
+    margin-top: 0;
+  }
+
+  .quote-card {
+    margin: 1.5rem 0;
+    padding: 1.5rem;
+    border-left: 4px solid #ccc;
+    background-color: #fafafa;
+    font-style: italic;
+  }
+
+  .quote-label {
+    font-weight: bold;
+    font-style: normal;
+    margin-bottom: 0.5rem;
+    display: block;
+  }
+
+  .quote-text {
+    margin: 0.5rem 0;
+    line-height: 1.6;
+  }
+
+  .contact-card {
+    margin: 1.5rem 0;
+    padding: 1.5rem;
+    background-color: #f5f5f5;
+    border-radius: 4px;
+  }
+
+  .contact-card ul {
+    margin: 0;
+    padding-left: 1.5rem;
+  }
+
+  .contact-card li {
+    margin: 0.75rem 0;
+    line-height: 1.6;
+  }
+
+  .hero-card {
+    margin: 2rem 0;
+    padding: 2rem;
+    text-align: center;
+  }
+
+  .hero-copy {
+    line-height: 1.8;
+    margin: 1rem 0;
+  }
+
+  .portrait-image {
+    display: block;
+    width: 100%;
+    max-width: 260px;
+    height: auto;
+    margin: 1.5rem auto;
   }
 </style>
 
@@ -48,26 +109,26 @@ Join a live 24/7 Online AA Meeting on Zoom. This is an open international Alcoho
 
 ## Welcome to Online Recovery
 
-<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
-  <img src="images/aa_man_on_bed_laptop.png" alt="Person participating in an online AA meeting from a laptop" style="max-width: 100%; height: auto;" />
+<div class="tradition-image-row">
+  <img src="images/aa_man_on_bed_laptop.png" alt="Person participating in an online AA meeting from a laptop" />
 </div>
 
 Welcome to the 24 Hour International Marathon Meeting of AA, *where sobriety never sleeps*. We are an open meeting of Alcoholics Anonymous, and everyone is welcome to listen. In keeping with AA's singleness of purpose and our Third Tradition, which states that the only requirement for AA membership is a desire to stop drinking, we ask that everyone who shares in our meeting confine their discussion to their problems with alcohol. You can join our online recovery meeting by clicking the "Join Online AA Meeting" button above or by joining the meeting through Zoom. The access code is **292 371 2604**. Join our online recovery meeting and raise your virtual hand. We want to get to know you, and experience has taught us that we can help best if you talk to us. We call on hands in the order they are raised, and everyone gets five minutes to share, with a gentle reminder when there is one minute remaining.
 
 The 24 Hour International Marathon Meeting of AA, *where sobriety never sleeps*, is dedicated to carrying AA's life-saving message of hope and recovery globally to the alcoholic who still suffers. Individuals seeking support for drug problems and substance use disorders may benefit from professional treatment programs, government resources, rehabilitation services, family support organizations, and other recovery programs and fellowships. Alcoholics Anonymous is not affiliated with any outside agency or enterprise.
 
-<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
-  <img src="images/i_am_responsible_image.png" alt="I am Responsible AA image" style="max-width: 100%; height: auto;" />
+<div class="tradition-image-row">
+  <img src="images/i_am_responsible_image.png" alt="I am Responsible AA image" />
 </div>
 
 ## Preamble
 
 Alcoholics Anonymous is a fellowship of people who share their experience, strength, and hope with each other so that they may solve their common problem and help others recover from alcoholism. The only requirement for membership is a desire to stop drinking. There are no dues or fees for AA membership; we are self-supporting through our own contributions. AA is not allied with any sect, denomination, politics, organization, or institution; does not wish to engage in any controversy, neither endorses nor opposes any causes. Our primary purpose is to stay sober and help other alcoholics achieve sobriety.
 
-Copyright by AA Grapevine, Inc.; reprinted with permission.
+*Copyright by AA Grapevine, Inc.; reprinted with permission.*
 
-<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
-  <img src="images/How_It_Works.png" alt="How it works image" style="max-width: 100%; height: auto;" />
+<div class="tradition-image-row">
+  <img src="images/How_It_Works.png" alt="How it works image" />
 </div>
 
 ## The Twelve Steps
@@ -85,8 +146,8 @@ Copyright by AA Grapevine, Inc.; reprinted with permission.
 11. Sought through prayer and meditation to improve our conscious contact with God *as we understood Him*, praying only for knowledge of His will for us and the power to carry that out.
 12. Having had a spiritual awakening as the result of these steps, we tried to carry this message to alcoholics, and to practice these principles in all our affairs.
 
-<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
-  <img src="images/traditions_distilation.png" alt="Traditions distillation image" style="max-width: 100%; height: auto;" />
+<div class="tradition-image-row">
+  <img src="images/traditions_distilation.png" alt="Traditions distillation image" />
 </div>
 
 ## The Twelve Traditions
@@ -104,9 +165,9 @@ Copyright by AA Grapevine, Inc.; reprinted with permission.
 11. Our public relations policy is based on attraction rather than promotion; we need always maintain personal anonymity at the level of press, radio, and films.
 12. Anonymity is the spiritual foundation of all our Traditions, ever reminding us to place principles before personalities.
 
-<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
-  <img src="images/fifth_tradition_image_part_1.png" alt="Fifth Tradition Part 1 image" style="max-width: 100%; height: auto;" />
-  <img src="images/fifth_tradition_image_part_2.png" alt="Fifth Tradition Part 2 image" style="max-width: 100%; height: auto;" />
+<div class="tradition-image-row">
+  <img src="images/fifth_tradition_image_part_1.png" alt="Fifth Tradition Part 1 image" />
+  <img src="images/fifth_tradition_image_part_2.png" alt="Fifth Tradition Part 2 image" />
 </div>
 
 ### A Declaration of Unity
@@ -116,8 +177,8 @@ Copyright by AA Grapevine, Inc.; reprinted with permission.
   <p class="quote-text">This we owe to AA's future: To place our common welfare first; to keep our Fellowship united. For on AA unity depend our lives and the lives of those to come.</p>
 </div>
 
-<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
-  <img src="images/Bob_and_Bill.png" alt="Bob and Bill image" style="display: block; width: 100%; max-width: 260px; height: auto; margin: 0 auto;" />
+<div class="tradition-image-row">
+  <img src="images/Bob_and_Bill.png" alt="Bob and Bill image" class="portrait-image" />
 </div>
 
 *Dr. Bob and Bill W., the cofounders of Alcoholics Anonymous*
@@ -130,8 +191,8 @@ Copyright by AA Grapevine, Inc.; reprinted with permission.
   <p class="quote-text">When anyone, anywhere, reaches out for help, I want the hand of AA always to be there. And for that I am responsible.</p>
 </div>
 
-<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
-  <img src="images/first_tradition_image.png" alt="First Tradition image" style="max-width: 100%; height: auto;" />
+<div class="tradition-image-row">
+  <img src="images/first_tradition_image.png" alt="First Tradition image" />
 </div>
 
 ### Contact Us
@@ -144,8 +205,8 @@ Copyright by AA Grapevine, Inc.; reprinted with permission.
   </ul>
 </div>
 
-<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
-  <img src="images/Contact_Us.png" alt="Contact us image" style="max-width: 100%; height: auto;" />
+<div class="tradition-image-row">
+  <img src="images/Contact_Us.png" alt="Contact us image" />
 </div>
 
 ### International AA Websites
@@ -171,8 +232,8 @@ Copyright by AA Grapevine, Inc.; reprinted with permission.
   <li><strong>Virtual General Service Area of Alcoholics Anonymous</strong>: <a href="https://aavirtualarea.org.au" target="_blank" rel="noopener">https://aavirtualarea.org.au</a></li>
 </ul>
 
-<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
-  <img src="images/new_flags_international.png" alt="New international flags image" style="max-width: 100%; height: auto;" />
+<div class="tradition-image-row">
+  <img src="images/new_flags_international.png" alt="New international flags image" />
 </div>
 
 ## Do you have a drinking problem?
@@ -190,16 +251,16 @@ Please answer each question honestly with a yes or no.
 
 Source: [Johns Hopkins University Hospital](https://www.hopkinsmedicine.org)
 
-<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
-  <img src="images/step_one.png" alt="Step One image" style="max-width: 100%; height: auto;" />
+<div class="tradition-image-row">
+  <img src="images/step_one.png" alt="Step One image" />
 </div>
 
 ### AA's Two Questions
 
 The book *Alcoholics Anonymous* (the Big Book) says that alcoholics are men and women who have lost the ability to control their drinking. AA does not pronounce anyone as being an alcoholic. The following passage from page 44 of the Big Book states: "In the preceding chapters you have learned something of alcoholism. We hope we have made clear the distinction between the alcoholic and the non-alcoholic. If, when you honestly want to, you find you cannot quit entirely, or if when drinking, you have little control over the amount you take, you are probably alcoholic. If that be the case, you may be suffering from an illness which only a spiritual experience will conquer."
 
-<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
-  <img src="images/Big_Book.jpg" alt="Big Book image" style="display: block; width: 100%; max-width: 260px; height: auto; margin: 0 auto;" />
+<div class="tradition-image-row">
+  <img src="images/Big_Book.jpg" alt="Big Book image" class="portrait-image" />
 </div>
 
 ## AA Literature
@@ -223,8 +284,8 @@ Alcoholics Anonymous General Service Conference-approved literature is available
 - "AA Tradition: How It Developed"
 - "The Twelve Traditions Illustrated"
 
-<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
-  <img src="images/eighth_tradition_image.png" alt="Eighth Tradition image" style="max-width: 100%; height: auto;" />
+<div class="tradition-image-row">
+  <img src="images/eighth_tradition_image.png" alt="Eighth Tradition image" />
 </div>
 
 ## Crisis and Mental Health Resources
@@ -255,8 +316,8 @@ We are an open meeting of Alcoholics Anonymous. Anyone with a desire to stop dri
 
 Yes. All alcoholics are welcome in the 24 Hour International Marathon Meeting of AA, regardless of their status, beliefs, lifestyle, or geographic location. Our Third Tradition states: "The only requirement for AA membership is a desire to stop drinking."
 
-<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
-  <img src="images/third_tradition.png" alt="Third Tradition image" style="max-width: 100%; height: auto;" />
+<div class="tradition-image-row">
+  <img src="images/third_tradition.png" alt="Third Tradition image" />
 </div>
 
 ### When do the 24-hour online AA marathon meetings start?
@@ -267,8 +328,8 @@ A new meeting begins at the top of each hour, running continuously 24 hours a da
 
 The meetings run continuously around the clock. Because a new meeting starts at the top of each hour, it aligns perfectly with your time zone, no matter where you live in the world.
 
-<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
-  <img src="images/AA_International_Logo.png" alt="International AA logo" style="max-width: 100%; height: auto;" />
+<div class="tradition-image-row">
+  <img src="images/AA_International_Logo.png" alt="International AA logo" />
 </div>
 
 ### What language is this 24/7 international AA Zoom meeting in?
@@ -283,8 +344,8 @@ To share your experience, strength, and hope, simply raise your virtual hand. Th
 
 <a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join Online AA Meeting</a>
 
-<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
-  <img src="images/man_on_bed.jpg" alt="Person on a bed participating in an online AA meeting" style="max-width: 100%; height: auto;" />
+<div class="tradition-image-row">
+  <img src="images/man_on_bed.jpg" alt="Person on a bed participating in an online AA meeting" />
 </div>
 
 *The primary purpose of the 24 Hour International Marathon Meeting of Alcoholics Anonymous is to carry AA's message of hope and recovery to the alcoholic who still suffers.*
@@ -297,8 +358,8 @@ Yes. The best way to get help in our meeting is to raise your virtual hand and l
 
 We need chairpersons, timers, and greeters every hour. The Training Team holds regular training sessions. The host will provide details at the top of each hour. There is a monthly business meeting on the fourth Saturday of each month. The host will announce the business meeting at the top of each hour. To find out more about getting into service, send an email to the24hourmeeting@gmail.com.
 
-<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
-  <img src="images/Step_Ten_Reflection.png" alt="Step Ten reflection image" style="max-width: 100%; height: auto;" />
+<div class="tradition-image-row">
+  <img src="images/Step_Ten_Reflection.png" alt="Step Ten reflection image" />
 </div>
 
 ### Can I just listen, or do I have to speak in this 24-hour online AA meeting?
@@ -309,8 +370,8 @@ You are completely welcome to just listen. Raise your virtual hand when you feel
 
 The 24 Hour International Marathon Meeting of AA is an open meeting of Alcoholics Anonymous. This means that everyone is welcome to listen. If you raise your virtual hand to share with us, we ask that you introduce yourself with your first name and let us know if you are an alcoholic or a person who has a desire to stop drinking.
 
-<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
-  <img src="images/Coffee_Pot.png" alt="Coffee Pot image" style="max-width: 100%; height: auto;" />
+<div class="tradition-image-row">
+  <img src="images/Coffee_Pot.png" alt="Coffee Pot image" />
 </div>
 
 ### Do I need to turn on my video camera to participate on this 24-hour online AA meeting?
@@ -321,16 +382,16 @@ No. Having your video camera on is entirely optional.
 
 No. Alcoholics Anonymous is not allied with any sect, denomination, politics, organization, or institution. While AA's Twelve Steps are spiritual in nature, AA is fully non-religious and open to individuals of all beliefs or no beliefs at all.
 
-<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
-  <img src="images/sixth_tradition.png" alt="Sixth Tradition image" style="max-width: 100%; height: auto;" />
+<div class="tradition-image-row">
+  <img src="images/sixth_tradition.png" alt="Sixth Tradition image" />
 </div>
 
 ### Does AA provide medical and detox services or operate drug rehabilitation treatment centers?
 
 No. Alcoholics Anonymous does not counsel problem drinkers or provide any medical advice. Nor does AA operate treatment centers or hospitals. AA's Eighth Tradition states: "Alcoholics Anonymous should remain forever nonprofessional, but our service centers may employ special workers."
 
-<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
-  <img src="images/easy_does_it_logo.jpg" alt="Easy Does It logo" style="max-width: 100%; height: auto;" />
+<div class="tradition-image-row">
+  <img src="images/easy_does_it_logo.jpg" alt="Easy Does It logo" />
 </div>
 
 ### How is anonymity protected in a 24-hour online AA meeting?
@@ -345,8 +406,8 @@ The 24 Hour International Marathon Meeting of AA follows the online safety sugge
 
 The 24 Hour International Marathon Meeting of AA does not provide attendance verification. However, attendance verification of online meetings is available on the [**NKC verification page**](https://newcomerskeepcoming.org/verification).
 
-<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
-  <img src="images/Lead_By_Example.png" alt="Lead by example image" style="max-width: 100%; height: auto;" />
+<div class="tradition-image-row">
+  <img src="images/Lead_By_Example.png" alt="Lead by example image" />
 </div>
 
 ### Who runs AA?
@@ -357,8 +418,8 @@ The Second Tradition of Alcoholics Anonymous states: "For our group purpose ther
 
 Everyone who shares in the meeting gets five minutes to speak with a gentle reminder when there is one minute remaining.
 
-<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
-  <img src="images/HALT.jpg" alt="HALT image" style="max-width: 100%; height: auto;" />
+<div class="tradition-image-row">
+  <img src="images/HALT.jpg" alt="HALT image" />
 </div>
 
 ### Is this an American meeting?
@@ -369,8 +430,8 @@ No. This is an international online AA meeting with participants from around the
 
 Yes. There are people of all ages on the 24 Hour International Marathon Meeting of AA, which is an open meeting of Alcoholics Anonymous. The only requirement for membership in AA is a desire to stop drinking.
 
-<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
-  <img src="images/seventh_tradition.png" alt="Seventh Tradition image" style="max-width: 100%; height: auto;" />
+<div class="tradition-image-row">
+  <img src="images/seventh_tradition.png" alt="Seventh Tradition image" />
 </div>
 
 ### Are there any dues or fees required to join this 24-hour online AA meeting?
@@ -392,8 +453,8 @@ The long form of AA's Third Tradition states: "Our membership ought to include a
 
 You can email the group at the24hourmeeting@gmail.com.
 
-<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
-  <img src="images/better-map-projection.jpg" alt="better-map-projection" title="better-map-projection" style="max-width: 100%; height: auto;" />
+<div class="tradition-image-row">
+  <img src="images/better-map-projection.jpg" alt="better-map-projection" title="better-map-projection" />
 </div>
 
 ## Substance Abuse and Drug Rehabilitation Treatment Resources (Non-AA)
