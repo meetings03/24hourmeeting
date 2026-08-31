@@ -120,6 +120,8 @@ Copyright by AA Grapevine, Inc.; reprinted with permission.
   <img src="images/Bob_and_Bill.png" alt="Bob and Bill image" style="display: block; width: 100%; max-width: 260px; height: auto; margin: 0 auto;" />
 </div>
 
+*Dr. Bob and Bill W., the cofounders of Alcoholics Anonymous*
+
 ### I Am Responsible
 
 <div class="quote-card">
