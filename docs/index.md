@@ -285,6 +285,8 @@ To share your experience, strength, and hope, simply raise your virtual hand. Th
   <img src="images/man_on_bed.jpg" alt="Person on a bed participating in an online AA meeting" style="max-width: 100%; height: auto;" />
 </div>
 
+*The primary purpose of the 24 Hour International Marathon Meeting of Alcoholics Anonymous is to carry AA's message of hope and recovery to the alcoholic who still suffers.*
+
 ### Can I get a sponsor on this 24-hour marathon AA meeting?
 
 Yes. The best way to get help in our meeting is to raise your virtual hand and let us know you are looking for a sponsor. We suggest that men work with men and women work with women.
