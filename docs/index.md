@@ -129,7 +129,7 @@ Copyright by AA Grapevine, Inc.; reprinted with permission.
 </div>
 
 <div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
-  <img src="images/First%20Tradition%20Image.png" alt="First Tradition image" style="max-width: 100%; height: auto;" />
+  <img src="images/first_tradition_image.png" alt="First Tradition image" style="max-width: 100%; height: auto;" />
 </div>
 
 ### Contact Us
@@ -170,7 +170,7 @@ Copyright by AA Grapevine, Inc.; reprinted with permission.
 </ul>
 
 <div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
-  <img src="images/New_Flags_International.PNG.png" alt="New international flags image" style="max-width: 100%; height: auto;" />
+  <img src="images/new_flags_international.png" alt="New international flags image" style="max-width: 100%; height: auto;" />
 </div>
 
 ## Do you have a drinking problem?
@@ -189,7 +189,7 @@ Please answer each question honestly with a yes or no.
 Source: [Johns Hopkins University Hospital](https://www.hopkinsmedicine.org)
 
 <div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
-  <img src="images/Step_One.PNG.png" alt="Step One image" style="max-width: 100%; height: auto;" />
+  <img src="images/step_one.png" alt="Step One image" style="max-width: 100%; height: auto;" />
 </div>
 
 ### AA's Two Questions
@@ -222,7 +222,7 @@ Alcoholics Anonymous General Service Conference-approved literature is available
 - "The Twelve Traditions Illustrated"
 
 <div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
-  <img src="images/Eighth%20Tradition%20Image.png" alt="Eighth Tradition image" style="max-width: 100%; height: auto;" />
+  <img src="images/eighth_tradition_image.png" alt="Eighth Tradition image" style="max-width: 100%; height: auto;" />
 </div>
 
 ## Crisis and Mental Health Resources
@@ -258,7 +258,7 @@ We are an open meeting of Alcoholics Anonymous. Anyone with a desire to stop dri
 Yes. All alcoholics are welcome in the 24 Hour International Marathon Meeting of AA, regardless of their status, beliefs, lifestyle, or geographic location. Our Third Tradition states: "The only requirement for AA membership is a desire to stop drinking."
 
 <div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
-  <img src="images/Third_Tradition.PNG.png" alt="Third Tradition image" style="max-width: 100%; height: auto;" />
+  <img src="images/third_tradition.png" alt="Third Tradition image" style="max-width: 100%; height: auto;" />
 </div>
 
 ### When do the 24-hour online AA marathon meetings start?
@@ -284,7 +284,7 @@ The Zoom meeting ID is **292 371 2604**. No password is required to join. You ca
 To share your experience, strength, and hope, simply raise your virtual hand. The chairperson calls on hands in the exact order they are raised.
 
 <div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
-  <img src="images/Man%20on%20the%20Bed.jpg" alt="Person on a bed participating in an online AA meeting" style="max-width: 100%; height: auto;" />
+  <img src="images/man_on_bed.jpg" alt="Person on a bed participating in an online AA meeting" style="max-width: 100%; height: auto;" />
 </div>
 
 ### Can I get a sponsor on this 24-hour marathon AA meeting?
@@ -320,7 +320,7 @@ No. Having your video camera on is entirely optional.
 No. Alcoholics Anonymous is not allied with any sect, denomination, politics, organization, or institution. While AA's Twelve Steps are spiritual in nature, AA is fully non-religious and open to individuals of all beliefs or no beliefs at all.
 
 <div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
-  <img src="images/Sixth_Tradition.PNG.png" alt="Sixth Tradition image" style="max-width: 100%; height: auto;" />
+  <img src="images/sixth_tradition.png" alt="Sixth Tradition image" style="max-width: 100%; height: auto;" />
 </div>
 
 ### Does AA provide medical and detox services or operate drug rehabilitation treatment centers?
@@ -328,7 +328,7 @@ No. Alcoholics Anonymous is not allied with any sect, denomination, politics, or
 No. Alcoholics Anonymous does not counsel problem drinkers or provide any medical advice. Nor does AA operate treatment centers or hospitals. AA's Eighth Tradition states: "Alcoholics Anonymous should remain forever nonprofessional, but our service centers may employ special workers."
 
 <div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
-  <img src="images/Easy%20Does%20It_logo.JPG" alt="Easy Does It logo" style="max-width: 100%; height: auto;" />
+  <img src="images/easy_does_it_logo.jpg" alt="Easy Does It logo" style="max-width: 100%; height: auto;" />
 </div>
 
 ### How is anonymity protected in a 24-hour online AA meeting?
@@ -368,7 +368,7 @@ No. This is an international online AA meeting with participants from around the
 Yes. There are people of all ages on the 24 Hour International Marathon Meeting of AA, which is an open meeting of Alcoholics Anonymous. The only requirement for membership in AA is a desire to stop drinking.
 
 <div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
-  <img src="images/Seventh_Tradition.PNG.png" alt="Seventh Tradition image" style="max-width: 100%; height: auto;" />
+  <img src="images/seventh_tradition.png" alt="Seventh Tradition image" style="max-width: 100%; height: auto;" />
 </div>
 
 ### Are there any dues or fees required to join this 24-hour online AA meeting?
@@ -418,7 +418,7 @@ Alcoholics Anonymous is not affiliated with any outside enterprise. Inclusion of
 - **European Union - European Union Drugs Agency (EUDA)**: Drug treatment information, data, and country resources across Europe. [https://www.euda.europa.eu](https://www.euda.europa.eu)
 
 <div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
-  <img src="images/Rule_62.JPG" alt="Rule 62 image" style="max-width: 100%; height: auto;" />
+  <img src="images/rule_62.jpg" alt="Rule 62 image" style="max-width: 100%; height: auto;" />
 </div>
 
 #### International 12-Step Recovery Programs
