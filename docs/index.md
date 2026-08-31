@@ -233,9 +233,15 @@ If you or someone you know is in immediate danger, call emergency services right
 
 ### Immediate crisis support
 
-<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
-  <img src="images/eleventh_tradition.png" alt="Eleventh Tradition image" style="max-width: 100%; height: auto;" />
-</div>
+- United States and Puerto Rico: 988 Suicide & Crisis Lifeline — call or text 988, or visit [988lifeline.org](https://988lifeline.org)
+- Canada: Talk Suicide Canada — call or text 45645, or visit [talksuicide.ca](https://talksuicide.ca)
+- Canada: Wellness Together Canada — call 1-866-585-0455 or visit [wellness-together.ca](https://www.wellnesstogether.ca)
+- United Kingdom: Samaritans — call 116 123 or visit [samaritans.org](https://www.samaritans.org)
+- Australia: Lifeline Australia — call 13 11 14 or visit [lifeline.org.au](https://www.lifeline.org.au)
+- New Zealand: Need to Talk? — call or text 1737 or visit [1737.org.nz](https://1737.org.nz)
+- Substance Abuse and Mental Health Services Administration (SAMHSA) National Helpline (U.S.) — 1-800-662-HELP (4357) for treatment referrals and mental health or substance use support
+- SAFE Project — domestic violence resources — [safeproject.us](https://www.safeproject.us)
+- Befrienders Worldwide — global directory of crisis support services: [befrienders.org](https://www.befrienders.org)
 
 ## Frequently Asked Questions About the 24/7 International Marathon Meeting of AA
 
@@ -407,10 +413,6 @@ Alcoholics Anonymous is not affiliated with any outside enterprise. Inclusion of
 
 
 - **European Union - European Union Drugs Agency (EUDA)**: Drug treatment information, data, and country resources across Europe. [https://www.euda.europa.eu](https://www.euda.europa.eu)
-
-<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
-  <img src="images/rule_62.png" alt="Rule 62 image" style="max-width: 100%; height: auto;" />
-</div>
 
 #### International 12-Step Recovery Programs
 
