@@ -233,6 +233,10 @@ If you or someone you know is in immediate danger, call emergency services right
 
 ### Immediate crisis support
 
+<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
+  <img src="images/eleventh_tradition.png" alt="Eleventh Tradition image" style="max-width: 100%; height: auto;" />
+</div>
+
 ## Frequently Asked Questions About the 24/7 International Marathon Meeting of AA
 
 ### Who is allowed to attend this 24-hour online AA meeting?
