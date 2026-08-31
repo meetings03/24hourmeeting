@@ -36,7 +36,7 @@ Join a live 24/7 Online AA Meeting on Zoom. This is an open international Alcoho
 
 <div class="hero-card">
   <div class="logo-area" aria-label="Logo placeholder">
-    <img src="images/Logo_247_7.30.2026.jpg" alt="Help 24/7 online meeting logo" class="hero-logo" width="100%" />
+    <img src="images/Help_247_7.30.2026.jpg" alt="Help 24/7 online meeting logo" class="hero-logo" width="100%" />
   </div>
   <h3>International Online AA Zoom Meeting</h3>
   <p class="hero-copy">The 24/7 International Marathon Meeting of AA is a continuous online Alcoholics Anonymous meeting available worldwide around the clock. A fresh meeting with a new AA topic begins at the top of each hour. We are an open meeting, and anyone with a desire to stop drinking is welcome to participate. Join anytime using Zoom Meeting ID <strong>292 371 2604</strong>. No password is needed.</p>
@@ -49,7 +49,7 @@ Join a live 24/7 Online AA Meeting on Zoom. This is an open international Alcoho
 ## Welcome to Online Recovery
 
 <div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
-  <img src="images/AA-Man-on-Bed-Laptop.png" alt="Person participating in an online AA meeting from a laptop" style="max-width: 100%; height: auto;" />
+  <img src="images/aa_man_on_bed_laptop.png" alt="Person participating in an online AA meeting from a laptop" style="max-width: 100%; height: auto;" />
 </div>
 
 Welcome to the 24 Hour International Marathon Meeting of AA, *where sobriety never sleeps*. We are an open meeting of Alcoholics Anonymous, and everyone is welcome to listen. In keeping with AA's singleness of purpose and our Third Tradition, which states that the only requirement for AA membership is a desire to stop drinking, we ask that everyone who shares in our meeting confine their discussion to their problems with alcohol. You can join our online recovery meeting by clicking the "Join Online AA Meeting" button above or by joining the meeting through Zoom. The access code is **292 371 2604**. Join our online recovery meeting and raise your virtual hand. We want to get to know you, and experience has taught us that we can help best if you talk to us. We call on hands in the order they are raised, and everyone gets five minutes to share, with a gentle reminder when there is one minute remaining.
@@ -57,7 +57,7 @@ Welcome to the 24 Hour International Marathon Meeting of AA, *where sobriety nev
 The 24 Hour International Marathon Meeting of AA, *where sobriety never sleeps*, is dedicated to carrying AA's life-saving message of hope and recovery globally to the alcoholic who still suffers. Individuals seeking support for drug problems and substance use disorders may benefit from professional treatment programs, government resources, rehabilitation services, family support organizations, and other recovery programs and fellowships. Alcoholics Anonymous is not affiliated with any outside agency or enterprise.
 
 <div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
-  <img src="images/I%20am%20Responsible%20Image.png" alt="I am Responsible AA image" style="max-width: 100%; height: auto;" />
+  <img src="images/i_am_responsible_image.png" alt="I am Responsible AA image" style="max-width: 100%; height: auto;" />
 </div>
 
 ## Preamble
@@ -86,7 +86,7 @@ Copyright by AA Grapevine, Inc.; reprinted with permission.
 12. Having had a spiritual awakening as the result of these steps, we tried to carry this message to alcoholics, and to practice these principles in all our affairs.
 
 <div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
-  <img src="images/Traditions_Distilation.PNG.png" alt="Traditions distillation image" style="max-width: 100%; height: auto;" />
+  <img src="images/traditions_distilation.png" alt="Traditions distillation image" style="max-width: 100%; height: auto;" />
 </div>
 
 ## The Twelve Traditions
@@ -105,8 +105,8 @@ Copyright by AA Grapevine, Inc.; reprinted with permission.
 12. Anonymity is the spiritual foundation of all our Traditions, ever reminding us to place principles before personalities.
 
 <div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
-  <img src="images/FifthTradition%20Image%20Part%201.png" alt="Fifth Tradition Part 1 image" style="max-width: 100%; height: auto;" />
-  <img src="images/Fifth%20Tradition%20Image%20Part%202.png" alt="Fifth Tradition Part 2 image" style="max-width: 100%; height: auto;" />
+  <img src="images/fifth_tradition_image_part_1.png" alt="Fifth Tradition Part 1 image" style="max-width: 100%; height: auto;" />
+  <img src="images/fifth_tradition_image_part_2.png" alt="Fifth Tradition Part 2 image" style="max-width: 100%; height: auto;" />
 </div>
 
 ### A Declaration of Unity
@@ -244,7 +244,7 @@ If you or someone you know is in immediate danger, call emergency services right
 - Befrienders Worldwide — global directory of crisis support services: [befrienders.org](https://www.befrienders.org)
 
 <div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
-  <img src="images/Eleventh%20Tradition.png" alt="Eleventh Tradition image" style="max-width: 100%; height: auto;" />
+  <img src="images/eleventh_tradition.png" alt="Eleventh Tradition image" style="max-width: 100%; height: auto;" />
 </div>
 
 ## Frequently Asked Questions About the 24/7 International Marathon Meeting of AA
