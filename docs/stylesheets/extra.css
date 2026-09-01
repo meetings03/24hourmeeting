@@ -66,6 +66,36 @@ body {
   box-shadow: 0 6px 16px rgba(47, 78, 168, 0.05);
 }
 
+.tradition-figure {
+  margin: 1.5rem auto 2rem;
+  max-width: 760px;
+  text-align: center;
+}
+
+.tradition-figure figcaption {
+  margin-top: 0.9rem;
+  font-style: italic;
+  font-size: 1rem;
+  line-height: 1.7;
+  color: #324055;
+  text-align: center;
+}
+
+.tradition-figure {
+  margin: 1.5rem auto 2rem;
+  max-width: 760px;
+  text-align: center;
+}
+
+.tradition-figure figcaption {
+  margin-top: 0.9rem;
+  font-style: italic;
+  font-size: 1rem;
+  line-height: 1.7;
+  color: #324055;
+  text-align: center;
+}
+
 .quote-label {
   font-size: 0.78rem;
   font-weight: 700;
