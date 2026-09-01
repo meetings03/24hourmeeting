@@ -492,6 +492,10 @@ Alcoholics Anonymous is not affiliated with any outside enterprise. Inclusion of
 
 - **European Union - European Union Drugs Agency (EUDA)**: Drug treatment information, data, and country resources across Europe. [https://www.euda.europa.eu](https://www.euda.europa.eu)
 
+<div class="tradition-image-row">
+  <img src="images/Rule_62.png" alt="Rule 62 image" />
+</div>
+
 #### International 12-Step Recovery Programs
 
 - **Narcotics Anonymous (NA)**: The world's largest 12-step fellowship for people seeking recovery from drug addiction. International meetings directory with online and in-person meetings available in numerous languages and countries. [https://www.na.org](https://www.na.org)
