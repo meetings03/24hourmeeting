@@ -410,6 +410,8 @@ The 24 Hour International Marathon Meeting of AA follows the online safety sugge
   <img src="images/man_on_bed.jpg" alt="Person on a bed participating in an online AA meeting" />
 </div>
 
+*The primary purpose of the 24 Hour International Marathon Meeting of Alcoholics Anonymous is to carry AA's lifesaving message of hope and recovery to the alcoholic who still suffers.*
+
 ### Can I have my attendance verified for court or probation on this 24/7 AA Zoom meeting?
 
 The 24 Hour International Marathon Meeting of AA does not provide attendance verification. However, attendance verification of online meetings is available on the [**NKC verification page**](https://newcomerskeepcoming.org/verification).
