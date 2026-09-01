@@ -279,6 +279,8 @@ The book *Alcoholics Anonymous* (the Big Book) says that alcoholics are men and 
   <img src="images/First_Edition.jpeg" alt="First edition of Alcoholics Anonymous" style="width: 50%; max-width: 100%; height: auto;" />
 </div>
 
+*First edition of the Big Book of Alcoholics Anonymous, first published in April 1935. This is our basic text, which explains the nature of alcoholism and AA's program of recovery--the Twelve Steps.*
+
 ## AA Literature
 
 Alcoholics Anonymous General Service Conference-approved literature is available on the AA World Services website, www.aa.org. Below is a list of suggested titles:
