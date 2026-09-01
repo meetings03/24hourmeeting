@@ -216,6 +216,7 @@ Alcoholics Anonymous is a fellowship of people who share their experience, stren
     <li>Zoom: <strong>292 371 2604</strong> (no password needed). The meeting runs continuously 24 hours a day. Join the meeting and raise your virtual hand. We can help best if you speak with us.</li>
     <li>Email: the24hourmeeting@gmail.com</li>
     <li>Website: https://sobrietyneversleeps.org</li>
+    <li>Service and Safety Guide: <a href="https://docs.google.com/document/d/1pSFl5atdPmzEInD8yrDzV-Up-ig35-nPtuvRpRc_wj8/edit?usp=sharing" target="_blank" rel="noopener">https://docs.google.com/document/d/1pSFl5atdPmzEInD8yrDzV-Up-ig35-nPtuvRpRc_wj8/edit?usp=sharing</a></li>
   </ul>
 </div>
 
