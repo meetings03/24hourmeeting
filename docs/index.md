@@ -406,6 +406,10 @@ Anonymity is the spiritual foundation of all AA's Traditions. You can protect yo
 
 The 24 Hour International Marathon Meeting of AA follows the online safety suggestions provided by AA World Services. See the "Safety Card for AA Groups," "AA Guidelines on Internet," and "Anonymity Online and Digital Media" available at https://www.aa.org.
 
+<div class="tradition-image-row">
+  <img src="images/man_on_bed.jpg" alt="Person on a bed participating in an online AA meeting" />
+</div>
+
 ### Can I have my attendance verified for court or probation on this 24/7 AA Zoom meeting?
 
 The 24 Hour International Marathon Meeting of AA does not provide attendance verification. However, attendance verification of online meetings is available on the [**NKC verification page**](https://newcomerskeepcoming.org/verification).
