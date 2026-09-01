@@ -233,6 +233,7 @@ Alcoholics Anonymous is a fellowship of people who share their experience, stren
   <li><strong>Aotearoa New Zealand</strong>: <a href="https://aa.org.nz" target="_blank" rel="noopener">https://aa.org.nz</a></li>
   <li><strong>Canada</strong>: <a href="https://www.aatoronto.org" target="_blank" rel="noopener">https://www.aatoronto.org</a></li>
   <li><strong>Continental European Region</strong>: <a href="https://alcoholics-anonymous.eu" target="_blank" rel="noopener">https://alcoholics-anonymous.eu</a></li>
+  <li><strong>Germany</strong>: <a href="https://anonyme-alkoholiker.de" target="_blank" rel="noopener">https://anonyme-alkoholiker.de</a></li>
   <li><strong>Spain</strong>: <a href="https://www.alcoholicos-anonimos.org" target="_blank" rel="noopener">https://www.alcoholicos-anonimos.org</a></li>
   <li><strong>Japan</strong>: <a href="https://aatokyo.org" target="_blank" rel="noopener">https://aatokyo.org</a></li>
   <li><strong>Ireland</strong>: <a href="https://alcoholicsanonymous.ie" target="_blank" rel="noopener">https://alcoholicsanonymous.ie</a></li>
