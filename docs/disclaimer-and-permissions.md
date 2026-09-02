@@ -5,7 +5,7 @@
 ## Disclaimer
 
 <div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
-  <img src="images/Friends247_Recovery.jpg" alt="Friends of 24/7 Recovery" title="Friends of 24/7 Recovery" style="max-width: 100%; height: auto;" />
+  <img src="/images/Friends247_Recovery.jpg" alt="Friends of 24/7 Recovery" title="Friends of 24/7 Recovery" style="max-width: 100%; height: auto;" />
 </div>
 
 This website (https://sobrietyneversleeps.org) was independently and anonymously developed and is maintained by the Friends of 24/7 Recovery, which is solely responsible for its content. The Friends of 24/7 Recovery is a virtual international, non-affiliated, nonprofit organization based in New Zealand. Its members reside in many countries, including Germany, Canada, Australia, the United Kingdom, South Africa, and the United States. This website is not affiliated with or endorsed by the coordinators or GC of the 24 Hour International Marathon Meeting of AA.
@@ -15,7 +15,7 @@ The Friends of 24/7 Recovery is an independent volunteer para-organization colle
 In accordance with AA's traditions of non-affiliation and autonomy, the Friends of 24/7 Recovery is not affiliated with, sponsored by, or financially supported by Alcoholics Anonymous World Services, Inc. (AAWS), the General Service Board of Alcoholics Anonymous, the General Service Office of Alcoholics Anonymous, any local AA central or intergroup offices, or the coordinators or GC of the 24 Hour International Marathon Meeting of AA. While our collective supports an online recovery meeting that uses the Twelve Steps and Twelve Traditions of Alcoholics Anonymous, we do not speak for, represent, or receive endorsement from AA as a whole or from the coordinators or GC of the 24 Hour International Marathon Meeting of AA. We operate autonomously to help individuals connect with recovery resources. The primary purpose of this website is to assist anyone looking for an online AA marathon meeting. Our sole aim is to be helpful and to direct the still-suffering alcoholic to the life-saving Fellowship of Alcoholics Anonymous.
 
 <div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
-  <img src="images/Saturday_Evening_Post.png" alt="Saturday Evening Post image" style="width: 73.5%; max-width: 100%; height: auto;" />
+  <img src="/images/Saturday_Evening_Post.png" alt="Saturday Evening Post image" style="width: 73.5%; max-width: 100%; height: auto;" />
 </div>
 
 *The Jack Alexander article on AA appeared in the March 1941 edition of the Saturday Evening Post.*
@@ -25,7 +25,7 @@ In accordance with AA's traditions of non-affiliation and autonomy, the Friends 
 The Twelve Traditions of Alcoholics Anonymous, the images from "The Twelve Traditions Illustrated," and "The Twelve Steps Illustrated" are copyrighted intellectual property of Alcoholics Anonymous World Services, Inc. They are used here with permission.
 
 <div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
-  <img src="images/sobrietyneversleeps_Logo.jpg" alt="Sobriety Never Sleeps logo" style="max-width: 100%; height: auto;" />
+  <img src="/images/sobrietyneversleeps_Logo.jpg" alt="Sobriety Never Sleeps logo" style="max-width: 100%; height: auto;" />
 </div>
 
 ## Serenity Prayer
