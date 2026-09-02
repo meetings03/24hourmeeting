@@ -19,6 +19,3 @@ Alcoholics Anonymous General Service Conference-approved literature is available
 - "AA Tradition: How It Developed"
 - "The Twelve Traditions Illustrated"
 
-<div class="tradition-image-row">
-  <img src="/images/eighth_tradition_image.png" alt="Eighth Tradition image" />
-</div>
