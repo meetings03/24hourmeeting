@@ -189,6 +189,7 @@ body {
   justify-content: center;
   background: var(--md-primary-fg-color);
   color: white !important;
+  margin: 0 0 1.25rem;
   padding: 1rem 1.8rem;
   border-radius: 999px;
   font-weight: 800;
