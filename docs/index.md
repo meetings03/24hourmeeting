@@ -327,6 +327,8 @@ The 24 Hour International Marathon Meeting of AA is an open meeting of Alcoholic
   <img src="images/Coffee_Pot.png" alt="Coffee Pot image" />
 </div>
 
+*Alcoholics Anonymous began in Akron, Ohio, in June 1935, when Bill W., a New York businessman in recovery, met Dr. Bob, an Akron physician. Their shared work helped form the first A.A. group and the foundation of the Twelve Step program.*
+
 ### Do I need to turn on my video camera to participate on this 24-hour online AA meeting?
 
 No. Having your video camera on is entirely optional.
