@@ -314,6 +314,10 @@ To join right away, use the Zoom ID **292 371 2604** or click the button below:
 The 24-Hour International Marathon Meeting is a volunteer-run online meeting of Alcoholics Anonymous. The Fifth Tradition states: "Each group has but one primary purpose--to carry its message to the alcoholic who still suffers."
 
 <div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
+  <img src="images/sobrietyneversleeps_Logo.jpg" alt="Sobriety Never Sleeps logo" style="max-width: 100%; height: auto;" />
+</div>
+
+<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
   <img src="images/Twelfth_Tradition.png" alt="Twelfth Tradition image" style="max-width: 100%; height: auto;" />
 </div>
 
