@@ -13,7 +13,7 @@ We are an open meeting of Alcoholics Anonymous. Anyone with a desire to stop dri
 Yes. All alcoholics are welcome in the 24 Hour International Marathon Meeting of AA, regardless of their status, beliefs, lifestyle, or geographic location. Our Third Tradition states: "The only requirement for AA membership is a desire to stop drinking."
 
 <div class="tradition-image-row">
-  <img src="images/third_tradition.png" alt="Third Tradition image" />
+  <img src="/images/third_tradition.png" alt="Third Tradition image" />
 </div>
 
 ## When do the 24-hour online AA marathon meetings start?
@@ -25,7 +25,7 @@ A new meeting begins at the top of each hour, running continuously 24 hours a da
 The meetings run continuously around the clock. Because a new meeting starts at the top of each hour, it aligns perfectly with your time zone, no matter where you live in the world.
 
 <div class="tradition-image-row">
-  <img src="images/AA_International_Logo.png" alt="International AA logo" />
+  <img src="/images/AA_International_Logo.png" alt="International AA logo" />
 </div>
 
 ## What language is this 24/7 international AA Zoom meeting in?
@@ -49,7 +49,7 @@ Yes. The best way to get help in our meeting is to raise your virtual hand and l
 We need chairpersons, timers, and greeters every hour. The Training Team holds regular training sessions. The host will provide details at the top of each hour. There is a monthly business meeting on the fourth Saturday of each month. The host will announce the business meeting at the top of each hour. To find out more about getting into service, send an email to the24hourmeeting@gmail.com.
 
 <div class="tradition-image-row">
-  <img src="images/Step_Ten_Reflection.png" alt="Step Ten reflection image" />
+  <img src="/images/Step_Ten_Reflection.png" alt="Step Ten reflection image" />
 </div>
 
 ## Can I just listen, or do I have to speak in this 24-hour online AA meeting?
@@ -61,7 +61,7 @@ You are completely welcome to just listen. Raise your virtual hand when you feel
 The 24 Hour International Marathon Meeting of AA is an open meeting of Alcoholics Anonymous. This means that everyone is welcome to listen. If you raise your virtual hand to share with us, we ask that you introduce yourself with your first name and let us know if you are an alcoholic or a person who has a desire to stop drinking.
 
 <div class="tradition-image-row">
-  <img src="images/Coffee_Pot.png" alt="Coffee Pot image" />
+  <img src="/images/Coffee_Pot.png" alt="Coffee Pot image" />
 </div>
 
 *Alcoholics Anonymous began in Akron, Ohio, in June 1935, when Bill W., a New York stockbroker, met Dr. Bob, an Akron physician. Early AA pioneers gathered in Dr. Bob's house and drank from this coffee pot, as they shared their experience, strength and hope.*
@@ -75,7 +75,7 @@ No. Having your video camera on is entirely optional.
 No. Alcoholics Anonymous is not allied with any sect, denomination, politics, organization, or institution. While AA's Twelve Steps are spiritual in nature, AA is fully non-religious and open to individuals of all beliefs or no beliefs at all.
 
 <div class="tradition-image-row">
-  <img src="images/sixth_tradition.png" alt="Sixth Tradition image" />
+  <img src="/images/sixth_tradition.png" alt="Sixth Tradition image" />
 </div>
 
 ## Does AA provide medical and detox services or operate drug rehabilitation treatment centers?
@@ -83,7 +83,7 @@ No. Alcoholics Anonymous is not allied with any sect, denomination, politics, or
 No. Alcoholics Anonymous does not counsel problem drinkers or provide any medical advice. Nor does AA operate treatment centers or hospitals. AA's Eighth Tradition states: "Alcoholics Anonymous should remain forever nonprofessional, but our service centers may employ special workers."
 
 <div class="tradition-image-row">
-  <img src="images/easy_does_it_logo.jpg" alt="Easy Does It logo" />
+  <img src="/images/easy_does_it_logo.jpg" alt="Easy Does It logo" />
 </div>
 
 ## How is anonymity protected in a 24-hour online AA meeting?
@@ -95,7 +95,7 @@ Anonymity is the spiritual foundation of all AA's Traditions. You can protect yo
 The 24 Hour International Marathon Meeting of AA follows the online safety suggestions provided by AA World Services. See the "Safety Card for AA Groups," "AA Guidelines on Internet," and "Anonymity Online and Digital Media" available at https://www.aa.org.
 
 <div class="tradition-image-row">
-  <img src="images/man_on_bed.jpg" alt="Person on a bed participating in an online AA meeting" />
+  <img src="/images/man_on_bed.jpg" alt="Person on a bed participating in an online AA meeting" />
 </div>
 
 *The primary purpose of the 24-Hour International Marathon Meeting of Alcoholics Anonymous is to carry AA's life-saving message of hope and recovery to the alcoholic who still suffers.*
@@ -105,7 +105,7 @@ The 24 Hour International Marathon Meeting of AA follows the online safety sugge
 The 24 Hour International Marathon Meeting of AA does not provide attendance verification. However, attendance verification of online meetings is available on the [**NKC verification page**](https://newcomerskeepcoming.org/verification).
 
 <div class="tradition-image-row">
-  <img src="images/Lead_By_Example.png" alt="Lead by example image" />
+  <img src="/images/Lead_By_Example.png" alt="Lead by example image" />
 </div>
 
 ## Who runs AA?
@@ -117,7 +117,7 @@ The Second Tradition of Alcoholics Anonymous states: "For our group purpose ther
 Everyone who shares in the meeting gets five minutes to speak with a gentle reminder when there is one minute remaining.
 
 <div class="tradition-image-row">
-  <img src="images/HALT.jpg" alt="HALT image" />
+  <img src="/images/HALT.jpg" alt="HALT image" />
 </div>
 
 ## Is this an American meeting?
@@ -129,7 +129,7 @@ No. This is an international online AA meeting with participants from around the
 Yes. There are people of all ages on the 24 Hour International Marathon Meeting of AA, which is an open meeting of Alcoholics Anonymous. The only requirement for membership in AA is a desire to stop drinking.
 
 <div class="tradition-image-row">
-  <img src="images/seventh_tradition.png" alt="Seventh Tradition image" />
+  <img src="/images/seventh_tradition.png" alt="Seventh Tradition image" />
 </div>
 
 ## Are there any dues or fees required to join this 24-hour online AA meeting?
@@ -152,7 +152,7 @@ The long form of AA's Third Tradition states: "Our membership ought to include a
 You can email the group at the24hourmeeting@gmail.com.
 
 <div class="tradition-image-row">
-  <img src="images/better-map-projection.jpg" alt="better-map-projection" title="better-map-projection" />
+  <img src="/images/better-map-projection.jpg" alt="better-map-projection" title="better-map-projection" />
 </div>
 
 ## Recovery Resources
