@@ -214,6 +214,10 @@ Alcoholics Anonymous is a fellowship of people who share their experience, stren
 
 [Explore International AA Websites](international-aa-websites.md)
 
+<div class="tradition-image-row">
+  <img src="images/better-map-projection.jpg" alt="Map projection image" style="max-width: 70%; height: auto; display: block; margin: 0 auto;" />
+</div>
+
 ## Do you have a drinking problem?
 
 ### The CAGE Questionnaire
