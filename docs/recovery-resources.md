@@ -2,7 +2,7 @@
 
 ## International Drug Treatment, Rehabilitation & Recovery Resources
 
-Alcoholics Anonymous is not affiliated with any outside enterprise. Inclusion of any non-AA resources does not suggest endorsement or affiliation. The following organizations provide treatment information, recovery resources, education, and referral services for individuals and families affected by substance abuse disorders. These organizations are independent and are not affiliated with Alcoholics Anonymous or the 24 Hour International Marathon Meeting of AA.
+Alcoholics Anonymous is not affiliated with any outside enterprise. Inclusion of any non-AA resources does not suggest endorsement or affiliation. The following organizations provide treatment information, recovery resources, education, and referral services for individuals and families affected by substance abuse disorders. These organizations are independent and are not affiliated with Alcoholics Anonymous or the 24-Hour International Marathon Meeting of AA.
 
 ### Global Drug Treatment and Recovery Organizations
 
@@ -70,7 +70,7 @@ Alcoholics Anonymous is not affiliated with any outside enterprise. Inclusion of
   <img src="images/New_Zealand.jpg" alt="New Zealand image" />
 </div>
 
-*The 24 Hour International Marathon Meeting of AA was founded by two newcomers from New Zealand with cell phones at the beginning of the international pandemic.*
+*The 24-Hour International Marathon Meeting of AA was founded by two newcomers from New Zealand with cell phones at the beginning of the international pandemic.*
 
 ## Professional Chemical Dependency Organizations
 

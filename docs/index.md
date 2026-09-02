@@ -1,20 +1,6 @@
 # 24/7 International Marathon Meeting of AA: 24/7 Online AA Meeting
 
 <style>
-  .tradition-image-row {
-    display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-    justify-content: center;
-    margin: 1.5rem 0 1.5rem 0;
-    gap: 0.75rem;
-  }
-
-  .tradition-image-row img {
-    max-width: 100%;
-    height: auto;
-  }
-
   .tradition-figure {
     margin: 1.5rem auto 2rem;
     max-width: 760px;
@@ -293,7 +279,7 @@ The meetings run continuously around the clock. Because a new meeting starts at 
 
 ### What language is this 24/7 international AA Zoom meeting in?
 
-English is the primary language of most members of the 24 Hour International Marathon Meeting of AA. However, everyone is welcome to participate, no matter their language. Online meetings in languages other than English can be found on the Online Intergroup of AA website: https://aa-intergroup.org
+English is the primary language of most members of the 24-Hour International Marathon Meeting of AA. However, everyone is welcome to participate, no matter their language. Online meetings in languages other than English can be found on the [Online Intergroup of AA website](https://aa-intergroup.org).
 
 ### What is the Zoom ID for the 24/7 International Marathon Meeting of AA?
 
@@ -327,7 +313,7 @@ The 24 Hour International Marathon Meeting of AA is an open meeting of Alcoholic
   <img src="images/Coffee_Pot.png" alt="Coffee Pot image" />
 </div>
 
-*Alcoholics Anonymous began in Akron, Ohio, in June 1935, when Bill W., a New York businessman in recovery, met Dr. Bob, an Akron physician. Their shared work helped form the first A.A. group and the foundation of the Twelve Step program.*
+*Alcoholics Anonymous began in Akron, Ohio, in June 1935, when Bill W., a New York stockbroker, met Dr. Bob, an Akron physician. Early AA pioneers gathered in Dr. Bob's house and drank from this coffee pot, as they shared their experience, strength and hope.*
 
 ### Do I need to turn on my video camera to participate on this 24-hour online AA meeting?
 
@@ -361,7 +347,7 @@ The 24 Hour International Marathon Meeting of AA follows the online safety sugge
   <img src="images/man_on_bed.jpg" alt="Person on a bed participating in an online AA meeting" />
 </div>
 
-*The primary purpose of the 24 Hour International Marathon Meeting of Alcoholics Anonymous is to carry AA's lifesaving message of hope and recovery to the alcoholic who still suffers.*
+*The primary purpose of the 24-Hour International Marathon Meeting of Alcoholics Anonymous is to carry AA's life-saving message of hope and recovery to the alcoholic who still suffers.*
 
 ### Can I have my attendance verified for court or probation on this 24/7 AA Zoom meeting?
 
