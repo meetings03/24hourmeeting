@@ -4,6 +4,10 @@ Alcoholics Anonymous is not affiliated with any outside agency or organization. 
 
 If you or someone you know is in immediate danger, call emergency services right away or go to the nearest emergency department.
 
+<div class="tradition-image-row">
+	<img src="/images/HeartGraph.jpg" alt="Heart graph" />
+</div>
+
 ## Immediate Crisis Support
 
 - United States and Puerto Rico: 988 Suicide & Crisis Lifeline - call or text 988, or visit [988lifeline.org](https://988lifeline.org)
