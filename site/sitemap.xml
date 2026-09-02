@@ -2,6 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://sobrietyneversleeps.org/</loc>
-         <lastmod>2026-08-31</lastmod>
+         <lastmod>2026-09-02</lastmod>
+    </url>
+    <url>
+         <loc>https://sobrietyneversleeps.org/aa-literature/</loc>
+         <lastmod>2026-09-02</lastmod>
+    </url>
+    <url>
+         <loc>https://sobrietyneversleeps.org/crisis-resources/</loc>
+         <lastmod>2026-09-02</lastmod>
+    </url>
+    <url>
+         <loc>https://sobrietyneversleeps.org/international-aa-websites/</loc>
+         <lastmod>2026-09-02</lastmod>
+    </url>
+    <url>
+         <loc>https://sobrietyneversleeps.org/recovery-resources/</loc>
+         <lastmod>2026-09-02</lastmod>
     </url>
 </urlset>
