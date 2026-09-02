@@ -323,4 +323,12 @@ For the full legal notice, permissions, and related guidance, see [Disclaimer an
 
 <a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join Online AA Meeting</a>
 
+## Serenity Prayer
+
+<blockquote style="font-family: Georgia, 'Times New Roman', serif; font-size: 1.25rem; line-height: 1.8; letter-spacing: 0.04em; font-style: italic; color: #2f3a3a; border-left: 3px solid #7a8d8d; padding-left: 1rem; margin: 1.5rem 0;">
+God, grant me the <strong>Serenity</strong> to accept the things I cannot change,<br>
+<strong>Courage</strong> to change the things I can,<br>
+and <strong>Wisdom</strong> to know the difference.
+</blockquote>
+
 
