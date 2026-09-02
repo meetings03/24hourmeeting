@@ -6,6 +6,7 @@ site_url: https://sobrietyneversleeps.org/
 nav:
   - Home: index.md
   - FAQ: faq.md
+  - Disclaimer and Permissions: disclaimer-and-permissions.md
   - AA Literature: aa-literature.md
   - International AA Websites: international-aa-websites.md
   - Crisis and Mental Health Resources: crisis-resources.md
