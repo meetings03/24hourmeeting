@@ -267,6 +267,7 @@ To join right away, use the Zoom ID **292 371 2604** or click the button below:
 
 <div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
   <img src="images/Mayflower.jpg" alt="Mayflower image" style="max-width: 100%; height: auto;" />
+  <div style="width: 100%; text-align: center; font-style: italic; color: #4a5568; margin-top: 0.5rem;">The church directory in the lobby of the Mayflower Hotel in Akron, Ohio that led Bill W. to Dr. Bob, the cofounders of AA.</div>
 </div>
 
 ## Topics for Online AA Meetings
