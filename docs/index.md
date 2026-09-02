@@ -226,31 +226,7 @@ Alcoholics Anonymous is a fellowship of people who share their experience, stren
 
 ### International AA Websites
 
-<ul>
-  <li><strong>Online Intergroup of AA</strong>: <a href="https://aa-intergroup.org" target="_blank" rel="noopener">https://aa-intergroup.org</a></li>
-  <li><strong>AA World Services</strong>: <a href="https://www.aa.org" target="_blank" rel="noopener">https://www.aa.org</a></li>
-  <li><strong>Alcoholics Anonymous Great Britain</strong>: <a href="https://www.alcoholics-anonymous.org.uk" target="_blank" rel="noopener">https://www.alcoholics-anonymous.org.uk</a></li>
-  <li><strong>Australia</strong>: <a href="https://aa.org.au" target="_blank" rel="noopener">https://aa.org.au</a></li>
-  <li><strong>Aotearoa New Zealand</strong>: <a href="https://aa.org.nz" target="_blank" rel="noopener">https://aa.org.nz</a></li>
-  <li><strong>Canada</strong>: <a href="https://www.aatoronto.org" target="_blank" rel="noopener">https://www.aatoronto.org</a></li>
-  <li><strong>Continental European Region</strong>: <a href="https://alcoholics-anonymous.eu" target="_blank" rel="noopener">https://alcoholics-anonymous.eu</a></li>
-  <li><strong>Germany</strong>: <a href="https://anonyme-alkoholiker.de" target="_blank" rel="noopener">https://anonyme-alkoholiker.de</a></li>
-  <li><strong>Spain</strong>: <a href="https://www.alcoholicos-anonimos.org" target="_blank" rel="noopener">https://www.alcoholicos-anonimos.org</a></li>
-  <li><strong>Japan</strong>: <a href="https://aatokyo.org" target="_blank" rel="noopener">https://aatokyo.org</a></li>
-  <li><strong>Ireland</strong>: <a href="https://alcoholicsanonymous.ie" target="_blank" rel="noopener">https://alcoholicsanonymous.ie</a></li>
-  <li><strong>Mexico</strong>: <a href="https://aamexico.org.mx" target="_blank" rel="noopener">https://aamexico.org.mx</a></li>
-  <li><strong>Argentina</strong>: <a href="https://aa.org.ar" target="_blank" rel="noopener">https://aa.org.ar</a></li>
-  <li><strong>South Africa</strong>: <a href="https://aasouthafrica.org.za" target="_blank" rel="noopener">https://aasouthafrica.org.za</a></li>
-  <li><strong>India</strong>: <a href="https://www.aagsoindia.org" target="_blank" rel="noopener">https://www.aagsoindia.org</a></li>
-  <li><strong>Oregon (USA) Area 58, Online District 33</strong>: <a href="https://area58district33.org" target="_blank" rel="noopener">https://area58district33.org</a></li>
-  <li><strong>Morocco</strong>: <a href="https://aamaroc.net" target="_blank" rel="noopener">https://aamaroc.net</a></li>
-  <li><strong>AA Grapevine</strong>: <a href="https://www.aagrapevine.org" target="_blank" rel="noopener">https://www.aagrapevine.org</a></li>
-  <li><strong>Virtual General Service Area of Alcoholics Anonymous</strong>: <a href="https://aavirtualarea.org.au" target="_blank" rel="noopener">https://aavirtualarea.org.au</a></li>
-</ul>
-
-<div class="tradition-image-row">
-  <img src="images/new_flags_international.png" alt="New international flags image" />
-</div>
+[Explore International AA Websites](international-aa-websites.md)
 
 ## Do you have a drinking problem?
 
@@ -279,50 +255,15 @@ The book *Alcoholics Anonymous* (the Big Book) says that alcoholics are men and 
   <img src="images/First_Edition.jpeg" alt="First edition of Alcoholics Anonymous" style="width: 50%; max-width: 100%; height: auto;" />
 </div>
 
-*First edition of the Big Book of Alcoholics Anonymous, first published in April 1935. This is our basic text, which explains the nature of alcoholism and AA's program of recovery--the Twelve Steps.*
+*First edition of the Big Book of Alcoholics Anonymous, first published in April 1939. This is our basic text, which explains the nature of alcoholism and AA's program of recovery--the Twelve Steps.*
 
 ## AA Literature
 
-<a class="join-button" href="https://www.aa.org/resources/literature" target="_blank" rel="noopener">AA Literature</a>
-
-Alcoholics Anonymous General Service Conference-approved literature is available on the AA World Services website, www.aa.org. Below is a list of suggested titles:
-
-### Books
-
-- *Alcoholics Anonymous* (the Big Book)
-- *Twelve Steps and Twelve Traditions*
-- *Alcoholics Anonymous Comes of Age*
-- *Living Sober* (practical suggestions from AA members)
-
-### Pamphlets
-
-- "Questions and Answers on Sponsorship"
-- "Problems Other Than Alcohol"
-- "The AA Group"
-- "AA Tradition: How It Developed"
-- "The Twelve Traditions Illustrated"
-
-<div class="tradition-image-row">
-  <img src="images/eighth_tradition_image.png" alt="Eighth Tradition image" />
-</div>
+[Explore AA Literature](aa-literature.md)
 
 ## Crisis and Mental Health Resources
 
-Alcoholics Anonymous is not affiliated with any outside agency or organization. Below is a list of non-AA crisis resources. Inclusion of any non-AA resources does not suggest endorsement or affiliation.
-
-If you or someone you know is in immediate danger, call emergency services right away or go to the nearest emergency department.
-
-### Immediate crisis support
-
-- United States and Puerto Rico: 988 Suicide & Crisis Lifeline — call or text 988, or visit [988lifeline.org](https://988lifeline.org)
-- Canada: Talk Suicide Canada — call or text 45645, or visit [talksuicide.ca](https://talksuicide.ca)
-- Canada: Wellness Together Canada — call 1-866-585-0455 or visit [wellness-together.ca](https://www.wellnesstogether.ca)
-- United Kingdom: Samaritans — call 116 123 or visit [samaritans.org](https://www.samaritans.org)
-- Australia: Lifeline Australia — call 13 11 14 or visit [lifeline.org.au](https://www.lifeline.org.au)
-- New Zealand: Need to Talk? — call or text 1737 or visit [1737.org.nz](https://1737.org.nz)
-- Substance Abuse and Mental Health Services Administration (SAMHSA) National Helpline (U.S.) — 1-800-662-HELP (4357) for treatment referrals and mental health or substance use support
-- SAFE Project — domestic violence resources — [safeproject.us](https://www.safeproject.us)
-- Befrienders Worldwide — global directory of crisis support services: [befrienders.org](https://www.befrienders.org)
+[Explore Crisis and Mental Health Resources](crisis-resources.md)
 
 ## Frequently Asked Questions About the 24/7 International Marathon Meeting of AA
 
@@ -475,101 +416,9 @@ You can email the group at the24hourmeeting@gmail.com.
   <img src="images/better-map-projection.jpg" alt="better-map-projection" title="better-map-projection" />
 </div>
 
-## Substance Abuse and Drug Rehabilitation Treatment Resources (Non-AA)
+## Recovery Resources
 
-### International Drug Treatment, Rehabilitation & Recovery Resources
-
-Alcoholics Anonymous is not affiliated with any outside enterprise. Inclusion of any non-AA resources does not suggest endorsement or affiliation. The following organizations provide treatment information, recovery resources, education, and referral services for individuals and families affected by substance abuse disorders. These organizations are independent and are not affiliated with Alcoholics Anonymous or the 24 Hour International Marathon Meeting of AA.
-
-#### Global Drug Treatment and Recovery Organizations
-
-- **World Health Organization (WHO)**: International guidance on substance use prevention, treatment, rehabilitation, and recovery. [https://www.who.int/health-topics/substance-use](https://www.who.int/health-topics/substance-use)
-- **United Nations Office on Drugs and Crime (UNODC)**: Global drug treatment and rehabilitation resources. Supports evidence-based prevention, treatment, and recovery initiatives worldwide. [https://www.unodc.org/unodc/en/drug-prevention-and-treatment/](https://www.unodc.org/unodc/en/drug-prevention-and-treatment/)
-- **International Society of Addiction Medicine (ISAM)**: Professional organization focused on addiction medicine, treatment standards, and education. [https://isamweb.org](https://isamweb.org)
-
-#### Government and National Treatment Resources
-
-- **New Zealand - Alcohol Drug Helpline**: Free confidential counseling and referrals. [https://alcoholdrughelp.org.nz](https://alcoholdrughelp.org.nz)
-- **United States - SAMHSA National Helpline**: 24/7 confidential treatment and information service. Phone: 1-800-662-HELP (4357). [https://www.samhsa.gov](https://www.samhsa.gov)
-- **United States - National Institute on Drug Abuse (NIDA)**: Research-based information on addiction treatment and recovery. [https://nida.nih.gov](https://nida.nih.gov)
-- **Canada - Canadian Centre on Substance Use and Addiction (CCSA)**: National resource for prevention, treatment, and recovery information. [https://www.ccsa.ca](https://www.ccsa.ca)
-- **United Kingdom - NHS Addiction Support Services**: National Health Service resource for drug and alcohol treatment. [https://www.nhs.uk/live-well/addiction-support](https://www.nhs.uk/live-well/addiction-support)
-- **Australia - National Alcohol and Other Drug Hotline**: Information and referrals to local treatment services. [https://www.health.gov.au](https://www.health.gov.au)
-
-
-- **European Union - European Union Drugs Agency (EUDA)**: Drug treatment information, data, and country resources across Europe. [https://www.euda.europa.eu](https://www.euda.europa.eu)
-
-<div class="tradition-image-row">
-  <img src="images/Rule_62.png" alt="Rule 62 image" />
-</div>
-
-#### International 12-Step Recovery Programs
-
-- **Narcotics Anonymous (NA)**: The world's largest 12-step fellowship for people seeking recovery from drug addiction. International meetings directory with online and in-person meetings available in numerous languages and countries. [https://www.na.org](https://www.na.org)
-- **Cocaine Anonymous (CA)**: A 12-step fellowship for individuals recovering from cocaine addiction and other mind-altering substances. [https://ca.org](https://ca.org)
-- **Crystal Meth Anonymous (CMA)**: A 12-step fellowship for people recovering from crystal meth addiction and other mind-altering substances. [https://www.crystalmeth.org](https://www.crystalmeth.org)
-- **Marijuana Anonymous (MA)**: 12-step recovery fellowship for marijuana dependency. [https://marijuana-anonymous.org](https://marijuana-anonymous.org)
-- **Heroin Anonymous (HA)**: Recovery support for individuals seeking freedom from heroin addiction. [https://heroinanonymous.org](https://heroinanonymous.org)
-- **Pills Anonymous (PA)**: Support for people recovering from prescription drug dependency. [https://www.pillsanonymous.org](https://www.pillsanonymous.org)
-
-#### Support for Families and Loved Ones Affected by Addiction
-
-- **Nar-Anon Family Groups**: For family members and friends affected by another person's drug addiction. [https://www.nar-anon.org](https://www.nar-anon.org)
-- **Families Anonymous**: Support groups for relatives and friends concerned with substance use and related behavioral issues. [https://www.familiesanonymous.org](https://www.familiesanonymous.org)
-- **Al-Anon Family Groups**: Support for families and friends of people affected by alcoholism. [https://al-anon.org](https://al-anon.org)
-
-#### Non-12-Step Recovery Programs for Addiction Recovery
-
-- **SMART Recovery**: Secular mutual support program emphasizing self-management and evidence-based recovery tools. [https://smartrecovery.org](https://smartrecovery.org)
-- **Came to Believe Recovery**: Find your freedom from addiction. Join a community that has recovered from a variety of addictions. Came to Believe Recovery acknowledges the Christian influence of early AA. The program is committed to helping others break free from addiction through spiritual retreats, workshops, and virtual meetings. It emphasizes the Four Absolutes of Honesty, Purity, Unselfishness, and Love as taught by the Oxford Groups that influenced the AA pioneers. [https://cametobelieverecovery.uk](https://cametobelieverecovery.uk)
-- **LifeRing Secular Recovery**: Secular peer-to-peer support for addiction recovery. [https://lifering.org](https://lifering.org)
-- **Recovery Dharma**: Recovery program based on Buddhist principles and practices. [https://recoverydharma.org](https://recoverydharma.org)
-- **Women for Sobriety**: Recovery support organization focused on the unique needs of women. [https://womenforsobriety.org](https://womenforsobriety.org)
-- **Celebrate Recovery**: A biblically based Christian approach to helping people achieve long-lasting recovery by healing hurts, guiding people toward new healthy truths, and developing life-giving habits. [https://celebraterecovery.com](https://celebraterecovery.com)
-
-<div class="quote-card">
-  <p class="quote-label">Long Form of AA's Eighth Tradition</p>
-  <p class="quote-text">Alcoholics Anonymous should remain forever nonprofessional. We define professionalism as the occupation of counseling alcoholics for fees or hire. But we may employ alcoholics where they are going to perform those services for which we might otherwise have to engage nonalcoholics. Such special services may be well recompensed. But our usual A.A. Twelfth Step work is never to be paid for.</p>
-</div>
-
-## International University Programs in Drug and Alcohol Counselling
-
-- **University of Auckland**: [https://www.auckland.ac.nz](https://www.auckland.ac.nz)
-- **University of Southern Queensland**: [https://www.unisq.edu.au](https://www.unisq.edu.au)
-- **Adelaide University**: [https://adelaide.edu.au](https://adelaide.edu.au)
-- **London South Bank University**: [https://lsbu.ac.uk](https://lsbu.ac.uk)
-- **University of the West of Scotland**: [https://uws.ac.uk](https://uws.ac.uk)
-- **Queen's University Belfast**: [https://qub.ac.uk](https://qub.ac.uk)
-- **Hazelden Betty Ford Graduate School**: [https://hazeldenbettyford.org](https://hazeldenbettyford.org)
-- **University of Minnesota Twin Cities**: [https://umn.edu](https://umn.edu)
-- **Virginia Commonwealth University**: [https://vcu.edu](https://vcu.edu)
-- **Rutgers University**: [https://rutgers.edu](https://rutgers.edu)
-
-<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
-  <img src="images/New_Zealand.jpg" alt="New Zealand image" style="max-width: 100%; height: auto;" />
-</div>
-
-*The 24 Hour International Marathon Meeting of AA was founded by two newcomers from New Zealand with cell phones at the beginning of the international pandemic.*
-
-## Professional Chemical Dependency Organizations
-
-- **International Society of Substance Use Professionals (ISSUP)**: [https://issup.net](https://issup.net)
-- **National Association of Alcoholism and Drug Abuse Counselors (NAADAC)**: [https://naadac.org](https://naadac.org)
-- **Addiction Counselor Certification Board of California (ACCBC)**: [https://accbc.org](https://accbc.org)
-- **Drug and Alcohol Practitioner's Association Aotearoa - New Zealand (DAPAANZ)**: [https://dapaanz.org.nz](https://dapaanz.org.nz)
-- **Addiction Counsellors Ireland (ACI)**: [https://addictioncounsellors.ie](https://addictioncounsellors.ie)
-- **Asia Pacific Association for Addiction Professionals (APAAP)**: [https://apaap.tungwahcsd.org](https://apaap.tungwahcsd.org)
-- **Australian Alcohol and Other Drugs Council (AAODC)**: [https://aadc.org.au](https://aadc.org.au)
-- **Canadian Addiction Counsellors Certification Federation (CACCF)**: [https://caccf.ca](https://caccf.ca)
-
-<div class="quote-card">
-  <p class="quote-label">Long Form of AA's Sixth Tradition</p>
-  <p class="quote-text">Problems of money, property, and authority may easily divert us from our primary spiritual aim. We think, therefore, that any considerable property of genuine use to A.A. should be separately incorporated and managed, thus dividing the material from the spiritual. An A.A. group, as such, should never go into business. Secondary aids to A.A., such as clubs or hospitals which require much property or administration, ought to be incorporated and so set apart that, if necessary, they can be freely discarded by the groups. Hence such facilities ought not to use the A.A. name. Their management should be the sole responsibility of those people who financially support them. For clubs, A.A. managers are usually preferred. But hospitals, as well as other places of recuperation, ought to be well outside A.A. and medically supervised. While an A.A. group may cooperate with anyone, such cooperation ought never go so far as affiliation or endorsement, actual or implied. An A.A. group can bind itself to no one.</p>
-</div>
-
-<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
-  <img src="images/Member_Sharing_at_Mic.png" alt="Member sharing at the microphone image" style="max-width: 100%; height: auto;" />
-</div>
+[Explore Substance Abuse and Drug Rehabilitation Treatment Resources](recovery-resources.md)
 
 ## Topics for Online AA Meetings
 
