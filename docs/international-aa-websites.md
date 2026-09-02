@@ -21,5 +21,5 @@
 - **Virtual General Service Area of Alcoholics Anonymous**: <a href="https://aavirtualarea.org.au" target="_blank" rel="noopener">https://aavirtualarea.org.au</a>
 
 <div class="tradition-image-row">
-  <img src="images/new_flags_international.png" alt="New international flags image" />
+  <img src="/images/new_flags_international.png" alt="New international flags image" />
 </div>

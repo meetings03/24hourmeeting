@@ -21,7 +21,7 @@ Alcoholics Anonymous is not affiliated with any outside enterprise. Inclusion of
 - **European Union - European Union Drugs Agency (EUDA)**: Drug treatment information, data, and country resources across Europe. [https://www.euda.europa.eu](https://www.euda.europa.eu)
 
 <div class="tradition-image-row">
-  <img src="images/Rule_62.png" alt="Rule 62 image" />
+  <img src="/images/Rule_62.png" alt="Rule 62 image" />
 </div>
 
 ### International 12-Step Recovery Programs
@@ -67,7 +67,7 @@ Alcoholics Anonymous is not affiliated with any outside enterprise. Inclusion of
 - **Rutgers University**: [https://rutgers.edu](https://rutgers.edu)
 
 <div class="tradition-image-row">
-  <img src="images/New_Zealand.jpg" alt="New Zealand image" />
+  <img src="/images/New_Zealand.jpg" alt="New Zealand image" />
 </div>
 
 *The 24-Hour International Marathon Meeting of AA was founded by two newcomers from New Zealand with cell phones at the beginning of the international pandemic.*
@@ -89,5 +89,5 @@ Alcoholics Anonymous is not affiliated with any outside enterprise. Inclusion of
 </div>
 
 <div class="tradition-image-row">
-  <img src="images/Member_Sharing_at_Mic.png" alt="Member sharing at the microphone image" />
+  <img src="/images/Member_Sharing_at_Mic.png" alt="Member sharing at the microphone image" />
 </div>
