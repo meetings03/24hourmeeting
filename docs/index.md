@@ -259,6 +259,10 @@ The book *Alcoholics Anonymous* (the Big Book) says that alcoholics are men and 
   <img src="images/Lighthouse.jpg" alt="Lighthouse" style="width: 105%; height: auto;" />
 </div>
 
+<div class="tradition-image-row">
+  <img src="images/HeartGraph.jpg" alt="Heart graph" />
+</div>
+
 ## Crisis and Mental Health Resources
 
 [Explore Crisis and Mental Health Resources](crisis-resources.md)
