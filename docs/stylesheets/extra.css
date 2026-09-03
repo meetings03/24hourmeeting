@@ -209,6 +209,32 @@ body {
   text-decoration: none !important;
 }
 
+.explore-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0.25rem 0 1.25rem;
+  padding: 0.8rem 1.15rem;
+  border: 2px solid #087f78;
+  border-radius: 6px;
+  background: #effaf8;
+  color: #075e59 !important;
+  font-size: 1rem;
+  font-weight: 750;
+  letter-spacing: 0;
+  line-height: 1.35;
+  text-align: center;
+  text-decoration: none !important;
+}
+
+.explore-button:hover,
+.explore-button:focus,
+.explore-button:visited {
+  background: #087f78;
+  color: white !important;
+  text-decoration: none !important;
+}
+
 .site-footer {
   margin-top: 2rem;
   padding-top: 1rem;
