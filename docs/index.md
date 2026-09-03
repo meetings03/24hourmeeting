@@ -338,6 +338,7 @@ To join right away, use the Zoom ID **292 371 2604** or click the button below:
 
 <div class="tradition-image-row">
   <img src="images/Bill_Lois.jpg" alt="Bill and Lois" />
+  <div style="width: 100%; text-align: center; font-style: italic;">AA's cofounder, Bill W., and his wife Lois in 1925.</div>
 </div>
 
 ## Disclaimer and Permissions
