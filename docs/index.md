@@ -336,6 +336,10 @@ To join right away, use the Zoom ID **292 371 2604** or click the button below:
 
 [Learn About This Meeting](about-this-meeting.md)
 
+<div class="tradition-image-row">
+  <img src="images/Bill_Lois.jpg" alt="Bill and Lois" />
+</div>
+
 ## Disclaimer and Permissions
 
 For the full legal notice, permissions, and related guidance, see [Disclaimer and Permissions](disclaimer-and-permissions.md).
