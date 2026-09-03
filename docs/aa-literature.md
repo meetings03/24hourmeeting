@@ -18,4 +18,11 @@ Alcoholics Anonymous General Service Conference-approved literature is available
 - "The AA Group"
 - "AA Tradition: How It Developed"
 - "The Twelve Traditions Illustrated"
+- "A Newcomer Asks"
+- "Is There an Alcoholic in Your Life"
+- "Frequently Asked Questions About A.A."
+- "Is AA for You?"
+- "Do You Think You're Different?"
+- "Women in A.A."
+- "Young People in A.A."
 
