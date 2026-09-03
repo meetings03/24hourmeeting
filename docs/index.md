@@ -201,19 +201,12 @@ Alcoholics Anonymous is a fellowship of people who share their experience, stren
   <img src="images/first_tradition_image.png" alt="First Tradition image" />
 </div>
 
-### Contact Us
+## Contact this 24/7 online AA Meeting
 
-<div class="contact-card">
-  <ul>
-    <li>Zoom: <strong>292 371 2604</strong> (no password needed). The meeting runs continuously 24 hours a day. Join the meeting and raise your virtual hand. We can help best if you speak with us.</li>
-    <li>Email: the24hourmeeting@gmail.com</li>
-    <li>Website: https://sobrietyneversleeps.org</li>
-    <li>Service and Safety Guide: <a href="https://docs.google.com/document/d/1pSFl5atdPmzEInD8yrDzV-Up-ig35-nPtuvRpRc_wj8/edit?usp=sharing" target="_blank" rel="noopener">https://docs.google.com/document/d/1pSFl5atdPmzEInD8yrDzV-Up-ig35-nPtuvRpRc_wj8/edit?usp=sharing</a></li>
-  </ul>
-</div>
+[Contact this 24/7 online AA Meeting](contact-this-24-7-online-aa-meeting.md)
 
 <div class="tradition-image-row">
-  <img src="images/Contact_Us.png" alt="Contact us image" />
+  <img src="images/Contact_Us.png" alt="Contact this 24/7 online AA Meeting" />
 </div>
 
 ### International AA Websites
