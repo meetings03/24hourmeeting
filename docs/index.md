@@ -262,6 +262,10 @@ The book *Alcoholics Anonymous* (the Big Book) says that alcoholics are men and 
   <img src="/images/eighth_tradition_image.png" alt="Eighth Tradition image" />
 </div>
 
+<div class="tradition-image-row">
+  <img src="images/NewcomerAsks.png" alt="A Newcomer Asks pamphlet" />
+</div>
+
 ## Frequently Asked Questions
 
 Need quick answers before joining? Visit our dedicated FAQ page for common questions about the meeting, attendance, safety, anonymity, and participation.
