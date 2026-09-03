@@ -257,6 +257,10 @@ The book *Alcoholics Anonymous* (the Big Book) says that alcoholics are men and 
 
 [Explore AA Literature](aa-literature.md)
 
+<div class="tradition-image-row">
+  <img src="images/PigeonPoint.jpg" alt="Pigeon Point lighthouse" />
+</div>
+
 ## Crisis and Mental Health Resources
 
 [Explore Crisis and Mental Health Resources](crisis-resources.md)
