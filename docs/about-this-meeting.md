@@ -8,10 +8,6 @@ Join the [24/7 Online AA Meeting on Zoom](https://zoom.us/j/2923712604). You can
   <img src="/images/sobrietyneversleeps_Logo.jpg" alt="Sobriety Never Sleeps logo for the 24/7 International Marathon Meeting of AA" style="max-width: 100%; height: auto;" />
 </div>
 
-<div class="tradition-image-row">
-  <img src="/images/24_7_digital_image.jpg" alt="24/7 digital AA meeting image" />
-</div>
-
 <a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join Online AA Meeting</a>
 
 ## How to Access the 24/7 International Online AA Meeting
@@ -48,3 +44,7 @@ The 24 Hour International Marathon Meeting of AA (Where sobriety never sleeps) w
 - Video is optional
 - To raise your virtual hand to share, click the "Raise Your Hand" button on the "Reactions" tab.
 - Accessible 24/7
+
+<div class="tradition-image-row">
+  <img src="/images/24_7_digital_image.jpg" alt="24/7 digital AA meeting image" />
+</div>
