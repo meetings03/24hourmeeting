@@ -1,12 +1,14 @@
-# About This Meeting
+# About the 24/7 International Online AA Meeting
 
 The 24-Hour International Marathon Meeting is a volunteer-run online meeting of Alcoholics Anonymous. The Fifth Tradition states: "Each group has but one primary purpose--to carry its message to the alcoholic who still suffers."
 
+Join the [24/7 Online AA Meeting on Zoom](https://zoom.us/j/2923712604). You can also learn about the meeting in the [Frequently Asked Questions](faq.md), review [Crisis and Mental Health Resources](crisis-resources.md), or explore [AA Literature](aa-literature.md).
+
 <div class="tradition-image-row">
-  <img src="/images/sobrietyneversleeps_Logo.jpg" alt="Sobriety Never Sleeps logo" style="max-width: 100%; height: auto;" />
+  <img src="/images/sobrietyneversleeps_Logo.jpg" alt="Sobriety Never Sleeps logo for the 24/7 International Marathon Meeting of AA" style="max-width: 100%; height: auto;" />
 </div>
 
-## How to Access The 24 Hour International Marathon Meeting of AA (Where sobriety never sleeps)
+## How to Access the 24/7 International Online AA Meeting
 
 The 24 Hour International Marathon Meeting of AA (Where sobriety never sleeps) is a 24/7 online AA meeting that runs continuously on Zoom. It is part of the global AA fellowship. The Zoom access code is 292 371 2604 (no passcode is needed).
 
@@ -22,7 +24,7 @@ The 24 Hour International Marathon Meeting of AA (Where sobriety never sleeps) i
 
 Raise your virtual hand if you would like to share with us. We call on hands in the order they are raised.
 
-## What Newcomers Can Expect on this 24/7 Online AA Meeting
+## What Newcomers Can Expect
 
 A new meeting with a fresh AA topic begins at the top of each hour. Newcomers and long timers share their experience, strength and hope for five minutes. Speakers are given a gentle reminder when there is one minute remaining. Participants are from around the world.
 
