@@ -305,6 +305,12 @@ The link below leads to possible topics for AA meetings. Other topics can be fou
   <img src="images/Members_TalkingatTable.png" alt="Members talking at a table" style="max-width: 100%; height: auto;" />
 </div>
 
+## AA's Three Legacies
+
+The Three Legacies of Alcoholics Anonymous are Recovery, Unity and Service.
+
+<a class="explore-button" href="aas-three-legacies/">Three Legacies</a>
+
 ## About This 24 Hour Online Meeting
 
 The link below provides relevant information concerning the 24 Hour International Marathon Meeting of AA (Where sobriety never sleeps).
