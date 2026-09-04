@@ -322,6 +322,10 @@ For the full legal notice, permissions, and related guidance, see the page below
 
 <a class="explore-button" href="disclaimer-and-permissions/">Read Disclaimer and Permissions</a>
 
+<div class="tradition-image-row">
+  <img src="images/easy_does_it_logo.jpg" alt="Easy Does It logo" />
+</div>
+
 <a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join Online AA Meeting</a>
 
 ## Serenity Prayer
