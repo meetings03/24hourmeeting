@@ -305,10 +305,17 @@ The link below leads to possible topics for AA meetings. Other topics can be fou
   <img src="images/Members_TalkingatTable.png" alt="Members talking at a table" style="max-width: 100%; height: auto;" />
 </div>
 
+## AA's Primary Purpose
+
+The Fifth Tradition of AA: Each group has but one primary purpose; to carry its message to the alcoholic who still suffers.
+
+Our Twelfth Step -- carrying the message -- is the basic service that the A.A. Fellowship gives; this is our principal aim and the main reason for our existence. Therefore, A.A. is more than a set of principles; it is a society of alcoholics in action. We must carry the message, else we ourselves can wither and those who have not been given the truth may die.
+
+<a class="explore-button" href="aa-primary-purpose/">Primary Purpose</a>
+
 ## AA's Three Legacies
 
-The Three Legacies of Alcoholics Anonymous are Recovery, Unity and Service.
-
+The Three Legacies of Alcoholics Anonymous are Recovery, Unity and Service. 
 <a class="explore-button" href="aas-three-legacies/">Three Legacies</a>
 
 ## About This 24 Hour Online Meeting
