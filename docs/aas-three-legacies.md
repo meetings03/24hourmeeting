@@ -18,6 +18,10 @@ Recovery is AA's program of personal sobriety through the Twelve Steps.
 
 Unity is the shared welfare of AA groups and members, expressed through the Twelve Traditions.
 
+<div class="tradition-image-row">
+  <img src="/images/Service_Manual.png?v=1" alt="Alcoholics Anonymous service manual" />
+</div>
+
 ## Service
 
 Service is carrying AA's message to the alcoholic who still suffers, guided by the Twelve Concepts for World Service.
