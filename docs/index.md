@@ -248,6 +248,8 @@ The book *Alcoholics Anonymous* (the Big Book) says that alcoholics are men and 
 
 ## AA Literature
 
+The button below leads to A.A. General Service Conference-approved literature.
+
 <a class="explore-button" href="aa-literature/">Explore AA Literature</a>
 
 <div class="tradition-image-row">
