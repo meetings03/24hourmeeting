@@ -205,7 +205,7 @@ Alcoholics Anonymous is a fellowship of people who share their experience, stren
 
 This link will connect you with the 24 Hour International Marathon Meeting of AA (Where sobriety never sleeps).
 
-<a class="explore-button" href="contact-this-24-7-online-aa-meeting/">Contact this 24/7 online AA Meeting</a>
+<a class="explore-button" href="contact-this-24-7-online-aa-meeting/">Contact Us</a>
 
 <div class="tradition-image-row">
   <img src="images/Contact_Us.png" alt="Contact this 24/7 online AA Meeting" />
