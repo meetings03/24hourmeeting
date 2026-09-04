@@ -10,6 +10,10 @@ The Three Legacies of Alcoholics Anonymous are Recovery, Unity and Service.
 
 Recovery is AA's program of personal sobriety through the Twelve Steps.
 
+<div class="tradition-image-row">
+  <img src="/images/12x12.png?v=1" alt="Alcoholics Anonymous Twelve Steps and Twelve Traditions" />
+</div>
+
 ## Unity
 
 Unity is the shared welfare of AA groups and members, expressed through the Twelve Traditions.
