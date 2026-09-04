@@ -265,10 +265,6 @@ Alcoholics Anonymous is not affilated with any outside entities or organizations
 <a class="explore-button" href="crisis-resources/">Explore Crisis and Mental Health Resources</a>
 
 <div class="tradition-image-row">
-  <img src="/images/eighth_tradition_image.png" alt="Eighth Tradition image" />
-</div>
-
-<div class="tradition-image-row">
   <img src="images/NewcomerAsks.png" alt="A Newcomer Asks pamphlet" />
 </div>
 
@@ -283,6 +279,10 @@ To join right away, use the Zoom ID **292 371 2604** or click the button below:
 <a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join Online AA Meeting</a>
 
 ## Recovery Resources
+
+<div class="tradition-image-row">
+  <img src="/images/eighth_tradition_image.png" alt="Eighth Tradition image" />
+</div>
 
 AA's Eighth Tradition states: "Alcoholics Anonymous should remain forever nonprofessional, but our service centers may employ special workers." The link below leads to a variety of non-AA recovery-related resources. Inclusion on this website does not indicate enorsement or affiliation. Our aim is to be helpful and to cooperate with our friends.
 
