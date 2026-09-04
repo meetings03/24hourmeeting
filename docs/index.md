@@ -282,6 +282,8 @@ To join right away, use the Zoom ID **292 371 2604** or click the button below:
 
 ## Recovery Resources
 
+AA's Eighth Tradition states: "Alcoholics Anonymous should remain forever nonprofessional, but our service centers may employ special workers." The link below leads to a variety of non-AA recovery-related resources. Inclusion on this website does not indicate enorsement or affiliation. Our aim is to be helpful and to cooperate with our friends.
+
 <a class="explore-button" href="recovery-resources/">Explore Substance Abuse and Drug Rehabilitation Treatment Resources</a>
 
 <div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
