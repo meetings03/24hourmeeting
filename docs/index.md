@@ -211,6 +211,8 @@ Alcoholics Anonymous is a fellowship of people who share their experience, stren
 
 ### International AA Websites
 
+Alcoholics Anonymous is a global fellowship. The link below leads to many official international AA websites.
+
 <a class="explore-button" href="international-aa-websites/">Explore International AA Websites</a>
 
 <div class="tradition-image-row">
