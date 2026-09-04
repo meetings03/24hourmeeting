@@ -258,6 +258,8 @@ The button below leads to A.A. General Service Conference-approved literature.
 
 ## Crisis and Mental Health Resources
 
+Alcoholics Anonymous is not affilated with any outside entities or organizations. The link below leads to Non-AA crisis and mental health resources.
+
 <a class="explore-button" href="crisis-resources/">Explore Crisis and Mental Health Resources</a>
 
 <div class="tradition-image-row">
