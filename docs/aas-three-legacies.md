@@ -13,6 +13,7 @@ Recovery is AA's program of personal sobriety through the Twelve Steps.
 
 <div class="tradition-image-row">
   <img src="/images/12x12.png?v=1" alt="Alcoholics Anonymous Twelve Steps and Twelve Traditions" />
+  <div style="width: 100%; text-align: center; font-style: italic;">Twelve Steps and Twelve Traditions is a collection of interpretive essays by an A.A. co-founder that explain the A.A. program of recovery-- the Twelve Steps, and the principles that keep our Society together--the Twelve Traditions. A.A.'s Traditions are also explained in the pamphlets "The Twelve Traditions llustrated" and "A.A. Tradition: How it Developed," and the book "Alcoholics Anonymous Comes of Age: A Brief History of A.A.," available at www.aa.org</div>
 </div>
 
 ## Unity
