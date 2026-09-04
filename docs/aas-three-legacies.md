@@ -32,4 +32,8 @@ A.A. service is anything whatever that helps us to reach a fellow sufferer -- ra
 
 Services include meeting places, hospital cooperation, and intergroup offices; they mean pamphlets, books, and good publicity of almost every description. They call for committees, delegates, trustees, and conferences. And, not to be forgotten, they need voluntary money contributions from within the Fellowship.
 
+<div class="tradition-image-row">
+  <img src="/images/Upside_down_triangle.png?v=1" alt="Alcoholics Anonymous upside-down triangle" />
+</div>
+
 <a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join Online AA Meeting</a>
