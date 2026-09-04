@@ -303,6 +303,8 @@ The link below leads to possible topics for AA meetings. Other topics can be fou
 
 ## About This Meeting
 
+The link below provides relevant information concerning the 24 Hour International Marathon Meeting of AA (Where sobriety never sleeps).
+
 <a class="explore-button" href="about-this-meeting/">Learn About This Meeting</a>
 
 <div class="tradition-image-row">
