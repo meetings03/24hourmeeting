@@ -305,7 +305,7 @@ The link below leads to possible topics for AA meetings. Other topics can be fou
   <img src="images/Members_TalkingatTable.png" alt="Members talking at a table" style="max-width: 100%; height: auto;" />
 </div>
 
-## About This Meeting
+## About This 24 Hour Online Marathon Meeting
 
 The link below provides relevant information concerning the 24 Hour International Marathon Meeting of AA (Where sobriety never sleeps).
 
