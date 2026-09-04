@@ -28,4 +28,8 @@ Unity is the shared welfare of AA groups and members, expressed through the Twel
 
 Service is carrying AA's message to the alcoholic who still suffers, guided by the Twelve Concepts for World Service.
 
+A.A. service is anything whatever that helps us to reach a fellow sufferer -- ranging all the way from the Twelfth Step itself to a ten-cent phone call and a cup of coffee, and to A.A.'s General Service Office for national and international action. The sum total of all these services is our Third Legacy of Service.
+
+Services include meeting places, hospital cooperation, and intergroup offices; they mean pamphlets, books, and good publicity of almost every description. They call for committees, delegates, trustees, and conferences. And, not to be forgotten, they need voluntary money contributions from within the Fellowship.
+
 <a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join Online AA Meeting</a>
