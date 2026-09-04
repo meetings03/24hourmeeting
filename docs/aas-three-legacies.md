@@ -3,7 +3,7 @@
 The Three Legacies of Alcoholics Anonymous are Recovery, Unity and Service.
 
 <div class="tradition-image-row">
-  <img src="images/Basic_Text.png" alt="Alcoholics Anonymous basic text" />
+  <img src="/images/Basic_Text.png" alt="Alcoholics Anonymous basic text" />
 </div>
 
 ## Recovery
