@@ -1,0 +1,37 @@
+# Topics for Online AA Meetings
+
+- Acceptance
+- Surrender
+- Honesty
+- Open-mindedness
+- Willingness
+- Humility
+- Responsibility
+- Gratitude
+- Patience
+- Tolerance
+- Forgiveness
+- Compassion
+- Faith
+- Trust
+- Letting go
+- One day at a time
+- Emotional sobriety
+- Progress, not perfection
+- Facing fear
+- Handling resentment
+- What is alcoholism?
+- The AA Twelve-Step program of recovery
+- The AA Preamble
+- The Ninth Step Promises
+- Sponsorship
+- Home group commitment
+- Anonymity
+- Unity
+- Service
+- Carrying the message
+- Relapse prevention
+- Living sober
+- Spiritual awakening
+- Helping the newcomer
+- Responsibility Declaration

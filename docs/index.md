@@ -293,43 +293,9 @@ AA's Eighth Tradition states: "Alcoholics Anonymous should remain forever nonpro
 
 ## Topics for Online AA Meetings
 
-<ul class="topic-list">
-  <li>Acceptance</li>
-  <li>Surrender</li>
-  <li>Honesty</li>
-  <li>Open-mindedness</li>
-  <li>Willingness</li>
-  <li>Humility</li>
-  <li>Responsibility</li>
-  <li>Gratitude</li>
-  <li>Patience</li>
-  <li>Tolerance</li>
-  <li>Forgiveness</li>
-  <li>Compassion</li>
-  <li>Faith</li>
-  <li>Trust</li>
-  <li>Letting go</li>
-  <li>One day at a time</li>
-  <li>Emotional sobriety</li>
-  <li>Progress, not perfection</li>
-  <li>Facing fear</li>
-  <li>Handling resentment</li>
-  <li>What is alcoholism?</li>
-  <li>The AA Twelve-Step program of recovery</li>
-  <li>The AA Preamble</li>
-  <li>The Ninth Step Promises</li>
-  <li>Sponsorship</li>
-  <li>Home group commitment</li>
-  <li>Anonymity</li>
-  <li>Unity</li>
-  <li>Service</li>
-  <li>Carrying the message</li>
-  <li>Relapse prevention</li>
-  <li>Living sober</li>
-  <li>Spiritual awakening</li>
-  <li>Helping the newcomer</li>
-  <li>Responsibility Declaration</li>
-</ul>
+The link below leads to possible topics for AA meetings. Other topics can be found in the pamphlet "The AA Group" and the book "As Bill Sees It." These titles, and many others are available at [www.aa.org](https://www.aa.org).
+
+<a class="explore-button" href="topics-for-online-aa-meetings/">Explore Topics for Online AA Meetings</a>
 
 <div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
   <img src="images/Members_TalkingatTable.png" alt="Members talking at a table" style="max-width: 100%; height: auto;" />
