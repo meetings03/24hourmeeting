@@ -313,6 +313,10 @@ Our Twelfth Step -- carrying the message -- is the basic service that the A.A. F
 
 <a class="explore-button" href="aa-primary-purpose/">Primary Purpose</a>
 
+<div class="tradition-image-row">
+  <img src="images/Legacies.png" alt="Alcoholics Anonymous Three Legacies" />
+</div>
+
 ## AA's Three Legacies
 
 The Three Legacies of Alcoholics Anonymous are Recovery, Unity and Service. 
