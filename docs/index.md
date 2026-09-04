@@ -203,7 +203,7 @@ Alcoholics Anonymous is a fellowship of people who share their experience, stren
 
 ## Contact this 24/7 online AA Meeting
 
-<a class="explore-button" href="contact-this-24-7-online-aa-meeting.md">Contact this 24/7 online AA Meeting</a>
+<a class="explore-button" href="contact-this-24-7-online-aa-meeting/">Contact this 24/7 online AA Meeting</a>
 
 <div class="tradition-image-row">
   <img src="images/Contact_Us.png" alt="Contact this 24/7 online AA Meeting" />
@@ -211,7 +211,7 @@ Alcoholics Anonymous is a fellowship of people who share their experience, stren
 
 ### International AA Websites
 
-<a class="explore-button" href="international-aa-websites.md">Explore International AA Websites</a>
+<a class="explore-button" href="international-aa-websites/">Explore International AA Websites</a>
 
 <div class="tradition-image-row">
   <img src="images/better-map-projection.jpg" alt="Map projection image" style="max-width: 70%; height: auto; display: block; margin: 0 auto;" />
@@ -248,7 +248,7 @@ The book *Alcoholics Anonymous* (the Big Book) says that alcoholics are men and 
 
 ## AA Literature
 
-<a class="explore-button" href="aa-literature.md">Explore AA Literature</a>
+<a class="explore-button" href="aa-literature/">Explore AA Literature</a>
 
 <div class="tradition-image-row">
   <img src="images/PigeonPoint.jpg" alt="Pigeon Point lighthouse" />
@@ -256,7 +256,7 @@ The book *Alcoholics Anonymous* (the Big Book) says that alcoholics are men and 
 
 ## Crisis and Mental Health Resources
 
-<a class="explore-button" href="crisis-resources.md">Explore Crisis and Mental Health Resources</a>
+<a class="explore-button" href="crisis-resources/">Explore Crisis and Mental Health Resources</a>
 
 <div class="tradition-image-row">
   <img src="/images/eighth_tradition_image.png" alt="Eighth Tradition image" />
@@ -270,7 +270,7 @@ The book *Alcoholics Anonymous* (the Big Book) says that alcoholics are men and 
 
 Need quick answers before joining? Visit our dedicated FAQ page for common questions about the meeting, attendance, safety, anonymity, and participation.
 
-<a class="explore-button" href="faq.md">Read the full FAQ</a>
+<a class="explore-button" href="faq/">Read the full FAQ</a>
 
 To join right away, use the Zoom ID **292 371 2604** or click the button below:
 
@@ -278,7 +278,7 @@ To join right away, use the Zoom ID **292 371 2604** or click the button below:
 
 ## Recovery Resources
 
-<a class="explore-button" href="recovery-resources.md">Explore Substance Abuse and Drug Rehabilitation Treatment Resources</a>
+<a class="explore-button" href="recovery-resources/">Explore Substance Abuse and Drug Rehabilitation Treatment Resources</a>
 
 <div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
   <img src="images/Mayflower.jpg" alt="Mayflower image" style="max-width: 100%; height: auto;" />
@@ -331,7 +331,7 @@ To join right away, use the Zoom ID **292 371 2604** or click the button below:
 
 ## About This Meeting
 
-<a class="explore-button" href="about-this-meeting.md">Learn About This Meeting</a>
+<a class="explore-button" href="about-this-meeting/">Learn About This Meeting</a>
 
 <div class="tradition-image-row">
   <img src="images/Bill_Lois.jpg" alt="Bill and Lois" />
@@ -342,7 +342,7 @@ To join right away, use the Zoom ID **292 371 2604** or click the button below:
 
 For the full legal notice, permissions, and related guidance, see the page below.
 
-<a class="explore-button" href="disclaimer-and-permissions.md">Read Disclaimer and Permissions</a>
+<a class="explore-button" href="disclaimer-and-permissions/">Read Disclaimer and Permissions</a>
 
 <a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join Online AA Meeting</a>
 
