@@ -89,7 +89,7 @@ Join a live 24/7 Online A.A. Meeting on Zoom. This is an open international Alco
 
 <div class="tradition-image-row">
   <img src="images/New_Zealand.jpg" alt="New Zealand AA meeting origin image" />
-  <div style="width: 100%; text-align: center; font-style: italic;">The 24/7 International Marathon Meeting of A.A. began in New Zealand when two newcomers realized they needed fellowship and support to stay sober.</div>
+  <div style="width: 100%; text-align: center; font-style: italic;">The 24 Hour International Marathon Meeting of A.A. was founded at the start of the COVID pandemic by two newcomers from New Zealand who realized they needed the fellowship of other alcoholics if they were to stay sober. It has been operating continuously 24/7 since April 20, 2020.</div>
 </div>
 
 ### Quick Answers
