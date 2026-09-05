@@ -5,6 +5,8 @@ site_url: https://sobrietyneversleeps.org/
 
 nav:
   - Home: index.md
+  - Quick Answers: quick-answers.md
+  - What to Expect When You Join: what-to-expect-when-you-join.md
   - FAQ: faq.md
   - Disclaimer and Permissions: disclaimer-and-permissions.md
   - AA Literature: aa-literature.md

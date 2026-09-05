@@ -89,23 +89,11 @@ Join a live 24/7 Online A.A. Meeting on Zoom. This is an open international Alco
 
 ### Quick Answers
 
-- **What is this?** A live 24/7 Online A.A. Meeting on Zoom for people seeking sobriety.
-- **Who can attend?** This is an open Alcoholics Anonymous meeting, and anyone with a desire to stop drinking is welcome.
-- **How do I join?** Use Zoom Meeting ID **292 371 2604** or click the Join Online A.A. Meeting button above.
-- **Is a password required?** No. You can join without a password.
-- **Who operates this website?** The Friends of 24/7 Recovery developed and maintain this website. We cooperate and network with Code for Recovery, a nonprofit organization that develops open-source technology projects to help the recovery community come together, get organized, and recover from alcoholism and addiction: [https://code4recovery.org](https://code4recovery.org). The Friends of 24/7 Recovery also networks with [Flying Sober 24-7](https://flying-sober.com/24-7-meetings) and [A.A. Directory.com](https://theaadirectory.com).
+<a class="explore-button" href="quick-answers/">Read Quick Answers</a>
 
 ## What to Expect When You Join
 
-We are a live, open, international A.A. meeting that meets continuously on Zoom. Each hour brings a fresh gathering and a new topic, and the meeting is designed to be welcoming for both newcomers and those with long-term sobriety.
-
-- Anyone with a desire to stop drinking is welcome.
-- Each meeting is a fresh opportunity to listen, share, and connect with others working toward sobriety.
-- We keep our focus on alcohol recovery, honesty, and helping one another stay sober.
-- We welcome people from all time zones and backgrounds, with a simple structure that makes it easy to join.
-- You are invited to listen first, and if you are comfortable, you may share when called on.
-
-If you are new, it is okay to simply listen. We have found that a meeting can begin with a single step, a single share, and a willingness to stay connected to the fellowship.
+<a class="explore-button" href="what-to-expect-when-you-join/">Learn What to Expect</a>
 
 <a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join the Meeting Anytime</a>
 
