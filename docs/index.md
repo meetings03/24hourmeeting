@@ -87,6 +87,11 @@ Join a live 24/7 Online A.A. Meeting on Zoom. This is an open international Alco
 
 ## 24/7 A.A. Zoom Meeting
 
+<div class="tradition-image-row">
+  <img src="images/New_Zealand.jpg" alt="New Zealand AA meeting origin image" />
+  <div style="width: 100%; text-align: center; font-style: italic;">The 24/7 International Marathon Meeting of A.A. began in New Zealand when two newcomers realized they needed fellowship and support to stay sober.</div>
+</div>
+
 ### Quick Answers
 
 <a class="explore-button" href="quick-answers/">Read Quick Answers</a>
