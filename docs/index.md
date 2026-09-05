@@ -1,4 +1,4 @@
-# 24/7 International Marathon Meeting of AA: 24/7 Online AA Meeting
+# 24/7 International Marathon Meeting of A.A.: 24/7 Online A.A. Meeting
 
 <style>
   .tradition-figure {
@@ -81,23 +81,23 @@
   }
 </style>
 
-<a id="join-meeting" class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join Online AA Meeting</a>
+<a id="join-meeting" class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join Online A.A. Meeting</a>
 
-Join a live 24/7 Online AA Meeting on Zoom. This is an open international Alcoholics Anonymous meeting with a new session every hour. Join now with Zoom Meeting ID **292 371 2604**. No password required.
+Join a live 24/7 Online A.A. Meeting on Zoom. This is an open international Alcoholics Anonymous meeting with a new session every hour. Join now with Zoom Meeting ID **292 371 2604**. No password required.
 
-## 24/7 AA Zoom Meeting
+## 24/7 A.A. Zoom Meeting
 
 ### Quick Answers
 
-- **What is this?** A live 24/7 Online AA Meeting on Zoom for people seeking sobriety.
+- **What is this?** A live 24/7 Online A.A. Meeting on Zoom for people seeking sobriety.
 - **Who can attend?** This is an open Alcoholics Anonymous meeting, and anyone with a desire to stop drinking is welcome.
-- **How do I join?** Use Zoom Meeting ID **292 371 2604** or click the Join Online AA Meeting button above.
+- **How do I join?** Use Zoom Meeting ID **292 371 2604** or click the Join Online A.A. Meeting button above.
 - **Is a password required?** No. You can join without a password.
-- **Who operates this website?** The Friends of 24/7 Recovery developed and maintain this website. We cooperate and network with Code for Recovery, a nonprofit organization that develops open-source technology projects to help the recovery community come together, get organized, and recover from alcoholism and addiction: [https://code4recovery.org](https://code4recovery.org). The Friends of 24/7 Recovery also networks with [Flying Sober 24-7](https://flying-sober.com/24-7-meetings) and [AA Directory.com](https://theaadirectory.com).
+- **Who operates this website?** The Friends of 24/7 Recovery developed and maintain this website. We cooperate and network with Code for Recovery, a nonprofit organization that develops open-source technology projects to help the recovery community come together, get organized, and recover from alcoholism and addiction: [https://code4recovery.org](https://code4recovery.org). The Friends of 24/7 Recovery also networks with [Flying Sober 24-7](https://flying-sober.com/24-7-meetings) and [A.A. Directory.com](https://theaadirectory.com).
 
 ## What to Expect When You Join
 
-We are a live, open, international AA meeting that meets continuously on Zoom. Each hour brings a fresh gathering and a new topic, and the meeting is designed to be welcoming for both newcomers and those with long-term sobriety.
+We are a live, open, international A.A. meeting that meets continuously on Zoom. Each hour brings a fresh gathering and a new topic, and the meeting is designed to be welcoming for both newcomers and those with long-term sobriety.
 
 - Anyone with a desire to stop drinking is welcome.
 - Each meeting is a fresh opportunity to listen, share, and connect with others working toward sobriety.
@@ -113,9 +113,9 @@ If you are new, it is okay to simply listen. We have found that a meeting can be
   <div class="logo-area" aria-label="Logo placeholder">
     <img src="images/Help_247_7.30.2026.jpg" alt="Help 24/7 online meeting logo" class="hero-logo" width="100%" />
   </div>
-  <h3>International Online AA Zoom Meeting</h3>
-  <p class="hero-copy">The 24/7 International Marathon Meeting of AA is a continuous online Alcoholics Anonymous meeting available worldwide around the clock. A fresh meeting with a new AA topic begins at the top of each hour. We are an open meeting, and anyone with a desire to stop drinking is welcome to participate. Join anytime using Zoom Meeting ID <strong>292 371 2604</strong>. No password is needed.</p>
-  <p class="hero-copy">Our online meeting has been running nonstop since April 20, 2020. It began at the start of the COVID-19 pandemic when two newcomers from New Zealand with cell phones realized they needed fellowship with other alcoholics to stay sober. The 24/7 International Marathon Meeting has carried AA's message of hope and recovery around the world ever since.</p>
+  <h3>International Online A.A. Zoom Meeting</h3>
+  <p class="hero-copy">The 24/7 International Marathon Meeting of A.A. is a continuous online Alcoholics Anonymous meeting available worldwide around the clock. A fresh meeting with a new A.A. topic begins at the top of each hour. We are an open meeting, and anyone with a desire to stop drinking is welcome to participate. Join anytime using Zoom Meeting ID <strong>292 371 2604</strong>. No password is needed.</p>
+  <p class="hero-copy">Our online meeting has been running nonstop since April 20, 2020. It began at the start of the COVID-19 pandemic when two newcomers from New Zealand with cell phones realized they needed fellowship with other alcoholics to stay sober. The 24/7 International Marathon Meeting has carried A.A.'s message of hope and recovery around the world ever since.</p>
   <div class="triangle-logo-wrap">
     <img src="images/Triangle_logo.jpg" alt="Alcoholics Anonymous triangle logo" class="triangle-logo" />
   </div>
@@ -127,15 +127,15 @@ If you are new, it is okay to simply listen. We have found that a meeting can be
   <img src="images/aa_man_on_bed_laptop.png" alt="Person participating in an online AA meeting from a laptop" />
 </div>
 
-Welcome to the 24 Hour International Marathon Meeting of AA, *where sobriety never sleeps*. We are an open meeting of Alcoholics Anonymous, and everyone is welcome to listen. In keeping with AA's singleness of purpose and our Third Tradition, which states that the only requirement for AA membership is a desire to stop drinking, we ask that everyone who shares in our meeting confine their discussion to their problems with alcohol. You can join our online recovery meeting by clicking the "Join Online AA Meeting" button above or by joining the meeting through Zoom. The access code is **292 371 2604**. Join our online recovery meeting and raise your virtual hand. We want to get to know you, and experience has taught us that we can help best if you talk to us. We call on hands in the order they are raised, and everyone gets five minutes to share, with a gentle reminder when there is one minute remaining.
+Welcome to the 24 Hour International Marathon Meeting of A.A., *where sobriety never sleeps*. We are an open meeting of Alcoholics Anonymous, and everyone is welcome to listen. In keeping with A.A.'s singleness of purpose and our Third Tradition, which states that the only requirement for A.A. membership is a desire to stop drinking, we ask that everyone who shares in our meeting confine their discussion to their problems with alcohol. You can join our online recovery meeting by clicking the "Join Online A.A. Meeting" button above or by joining the meeting through Zoom. The access code is **292 371 2604**. Join our online recovery meeting and raise your virtual hand. We want to get to know you, and experience has taught us that we can help best if you talk to us. We call on hands in the order they are raised, and everyone gets five minutes to share, with a gentle reminder when there is one minute remaining.
 
 <div class="tradition-image-row">
   <img src="images/Meeting_Circle.png" alt="Meeting circle image" style="max-width: 70%; height: auto; display: block; margin: 1.5rem auto;" />
 </div>
 
-The 24 Hour International Marathon Meeting of AA, *where sobriety never sleeps*, is dedicated to carrying AA's life-saving message of hope and recovery globally to the alcoholic who still suffers. Individuals seeking support for drug problems and substance use disorders may benefit from professional treatment programs, government resources, rehabilitation services, family support organizations, and other recovery programs and fellowships. Alcoholics Anonymous is not affiliated with any outside agency or enterprise.
+The 24 Hour International Marathon Meeting of A.A., *where sobriety never sleeps*, is dedicated to carrying A.A.'s life-saving message of hope and recovery globally to the alcoholic who still suffers. Individuals seeking support for drug problems and substance use disorders may benefit from professional treatment programs, government resources, rehabilitation services, family support organizations, and other recovery programs and fellowships. Alcoholics Anonymous is not affiliated with any outside agency or enterprise.
 
-<a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join Online AA Meeting</a>
+<a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join Online A.A. Meeting</a>
 
 <div class="tradition-image-row">
   <img src="images/i_am_responsible_image.png" alt="I am Responsible AA image" />

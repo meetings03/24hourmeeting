@@ -1,6 +1,6 @@
-# AA's Three Legacies
+# A.A.'s Three Legacies
 
-The Three Legacies of Alcoholics Anonymous are Recovery, Unity and Service.
+The Three Legacies of Alcoholics Anonymous are Recovery, Unity, and Service.
 
 <div class="tradition-image-row">
   <img src="/images/Basic_Text.png?v=1" alt="Alcoholics Anonymous basic text" />
@@ -9,7 +9,7 @@ The Three Legacies of Alcoholics Anonymous are Recovery, Unity and Service.
 
 ## Recovery
 
-Recovery is AA's program of personal sobriety through the Twelve Steps.
+Recovery is A.A.'s program of personal sobriety through the Twelve Steps.
 
 A.A.'s program of recovery is presented in The Big Book of Alcoholics Anonymous, which describes the grave and progressive nature of alcoholism, and explains how to recover with the Twelve Steps. A.A.'s experience has taught us that the Steps are best taken with a sponsor.
 
@@ -20,7 +20,7 @@ A.A.'s program of recovery is presented in The Big Book of Alcoholics Anonymous,
 
 ## Unity
 
-Unity is the shared welfare of AA groups and members, expressed through the Twelve Traditions.
+Unity is the shared welfare of A.A. groups and members, expressed through the Twelve Traditions.
 
 <div class="tradition-image-row">
   <img src="/images/Service_Manual.png?v=1" alt="Alcoholics Anonymous service manual" />
@@ -28,7 +28,7 @@ Unity is the shared welfare of AA groups and members, expressed through the Twel
 
 ## Service
 
-Service is carrying AA's message to the alcoholic who still suffers, guided by the Twelve Concepts for World Service.
+Service is carrying A.A.'s message to the alcoholic who still suffers, guided by the Twelve Concepts for World Service.
 
 A.A. service is anything whatever that helps us to reach a fellow sufferer -- ranging all the way from the Twelfth Step itself to a ten-cent phone call and a cup of coffee, and to A.A.'s General Service Office for national and international action. The sum total of all these services is our Third Legacy of Service.
 
@@ -38,4 +38,4 @@ Services include meeting places, hospital cooperation, and intergroup offices; t
   <img src="/images/Upside_down_triangle.png?v=1" alt="Alcoholics Anonymous upside-down triangle" />
 </div>
 
-<a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join Online AA Meeting</a>
+<a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join Online A.A. Meeting</a>

@@ -1,15 +1,15 @@
-# AA Literature
+# A.A. Literature
 
-<a class="join-button" href="https://www.aa.org/resources/literature" target="_blank" rel="noopener">AA Literature</a>
+<a class="join-button" href="https://www.aa.org/resources/literature" target="_blank" rel="noopener">A.A. Literature</a>
 
-Alcoholics Anonymous General Service Conference-approved literature is available on the AA World Services website, www.aa.org. Below is a list of suggested titles:
+Alcoholics Anonymous General Service Conference-approved literature is available on the A.A. World Services website, www.aa.org. Below is a list of suggested titles:
 
 ## Books
 
 - *Alcoholics Anonymous* (the Big Book)
 - *Twelve Steps and Twelve Traditions*
 - *Alcoholics Anonymous Comes of Age*
-- *Living Sober* (practical suggestions from AA members)
+- *Living Sober* (practical suggestions from A.A. members)
 
 ## Pamphlets
 
