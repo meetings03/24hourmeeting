@@ -64,9 +64,9 @@ A.A. service is anything whatever that helps us to reach a fellow sufferer -- ra
 
 Services include meeting places, hospital cooperation, and intergroup offices; they mean pamphlets, books, and good publicity of almost every description. They call for committees, delegates, trustees, and conferences. And, not to be forgotten, they need voluntary money contributions from within the Fellowship.
 
-### The Twelve Concepts for World Service (Short Form)
+### THE TWELVE CONCEPTS FOR WORLD SERVICE (SHORT FORM)
 
-The Twelve Concepts for World Service were written by A.A.'s co-founder Bill W. and were adopted by the General Service Conference of Alcoholics Anonymous in 1962. The Concepts are an interpretation of A.A.'s world service structure as it emerged through A.A.'s early history and experience. The short form of the Concepts reads:
+The Twelve Concepts for World Service were written by A.A.'s co-founder Bill W., and were adopted by the General Service Conference of Alcoholics Anonymous in 1962. The Concepts are an interpretation of A.A.'s world service structure as it emerged through A.A.'s early history and experience. The short form of the Concepts reads:
 
 1. Final responsibility and ultimate authority for A.A. world services should always reside in the collective conscience of our whole Fellowship.
 
