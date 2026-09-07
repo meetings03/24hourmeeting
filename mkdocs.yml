@@ -5,6 +5,7 @@ site_url: https://sobrietyneversleeps.org/
 
 nav:
   - Home: index.md
+  - Do you have a drinking problem?: drinking-problem.md
   - Quick Answers: quick-answers.md
   - What to Expect When You Join: what-to-expect-when-you-join.md
   - FAQ: faq.md
