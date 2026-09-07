@@ -62,7 +62,7 @@ A.A.'s program of recovery is presented in The Big Book of Alcoholics Anonymous,
 
 ### (SHORT FORM)
 
-The Twelve Concepts for World Service were written by A.A.’s co-founder Bill W., and were adopted by the General Service Conference of Alcoholics Anonymous in 1962. The Concepts are an interpretation of A.A.’s world service structure as it emerged through A.A.’s early history and experience. The short form of the Concepts reads:
+A.A.'s Twelve Steps are principles for personal recovery. The Twelve Traditions ensure unity of the Fellowship. Written by co-founder Bill W. in 1962, the Twelve Concepts for World Service provide a group of related principles to help ensure that various elements of A.A.'s service structure remain responsive and responsible to those they serve. The "short form" of the Concepts, which follows, was approved by the 1971 General Service Conference.
 
 I. Final responsibility and ultimate authority for A.A. world services should always reside in the collective conscience of our whole Fellowship.
 
