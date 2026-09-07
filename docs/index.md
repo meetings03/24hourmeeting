@@ -104,6 +104,10 @@ Join a live 24/7 Online A.A. Meeting on Zoom. This is an open international Alco
 
 <a class="explore-button" href="what-to-expect-when-you-join/">Learn What to Expect</a>
 
+<div class="tradition-image-row">
+  <img src="images/GlobeAA.jpg" alt="Global AA fellowship image" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
+</div>
+
 <a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join the Meeting Anytime</a>
 
 <div class="hero-card">
