@@ -96,6 +96,10 @@ Join a live 24/7 Online A.A. Meeting on Zoom. This is an open international Alco
 
 <a class="explore-button" href="quick-answers/">Read Quick Answers</a>
 
+<div class="tradition-image-row">
+  <img src="images/sobrietyneversleeps_Logo.jpg" alt="Sobriety Never Sleeps logo" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
+</div>
+
 ## What to Expect When You Join the 24 Hour International Marathon Meeting of AA
 
 <a class="explore-button" href="what-to-expect-when-you-join/">Learn What to Expect</a>
