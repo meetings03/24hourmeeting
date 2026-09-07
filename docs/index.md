@@ -85,18 +85,18 @@
 
 Join a live 24/7 Online A.A. Meeting on Zoom. This is an open international Alcoholics Anonymous meeting with a new session every hour. Join now with Zoom Meeting ID **292 371 2604**. No password required.
 
-## 24/7 A.A. Zoom Meeting
+## 24 Hour International Marathon Meeting of AA (Where sobriety never sleeps)
 
 <div class="tradition-image-row">
   <img src="images/New_Zealand.jpg" alt="New Zealand AA meeting origin image" />
   <div style="width: 100%; text-align: center; font-style: italic;">The 24 Hour International Marathon Meeting of A.A. was founded at the start of the COVID pandemic by two newcomers from New Zealand who realized they needed the fellowship of other alcoholics if they were to stay sober. It has been operating continuously 24/7 since April 20, 2020.</div>
 </div>
 
-### Quick Answers
+### Quick Answers About this 24/7 Online AA Meeting
 
 <a class="explore-button" href="quick-answers/">Read Quick Answers</a>
 
-## What to Expect When You Join
+## What to Expect When You Join the 24 Hour International Marathon Meeting of AA
 
 <a class="explore-button" href="what-to-expect-when-you-join/">Learn What to Expect</a>
 

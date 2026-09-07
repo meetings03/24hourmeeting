@@ -2,7 +2,7 @@
 
 <a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join Online A.A. Meeting</a>
 
-We are a live, open, international A.A. meeting that meets continuously on Zoom. Each hour brings a fresh gathering and a new topic, and the meeting is designed to be welcoming for both newcomers and those with long-term sobriety.
+The 24 Hour International Marathon Meeting of AA is an open meeting that runs continuously 24/7. A new meeting with a fresh AA topic begins at the top of each hour. If you would like to share, raise your virtual hand. The chairperson calls on hands in the order they are raised.
 
 - Anyone with a desire to stop drinking is welcome.
 - Each meeting is a fresh opportunity to listen, share, and connect with others working toward sobriety.
