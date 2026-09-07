@@ -96,6 +96,10 @@ Copyright © 1962
 Alcoholics Anonymous World Services, Inc.
 All rights reserved
 
+A.A. service is anything whatever that helps us to reach a fellow sufferer — ranging all the way from the Twelfth Step itself to a ten-cent phone call and a cup of coffee, and to A.A.’s General Service Office for national and international action. The sum total of all these services is our Third Legacy of Service.
+
+Services include meeting places, hospital cooperation, and intergroup offices; they mean pamphlets, books, and good publicity of almost every description. They call for committees, delegates, trustees, and conferences. And, not to be forgotten, they need voluntary money contributions from within the Fellowship.
+
 <div class="tradition-image-row">
   <img src="/images/Upside_down_triangle.png?v=1" alt="Alcoholics Anonymous upside-down triangle" />
 </div>
