@@ -3,7 +3,7 @@
 The Three Legacies of Alcoholics Anonymous are Recovery, Unity, and Service. By the first, we recover from alcoholism; by the second, we stay together in unity; and by the third, our society functions and serves its primary purpose of carrying the A.A. message to all who need it and want it. (*Alcoholics Anonymous Comes of Age: A Brief History of A.A.*)
 
 <div class="tradition-image-row">
-  <img src="/images/Legacies.png?v=1" alt="Three Legacies of Alcoholics Anonymous" />
+  <img src="/images/Legacies.png?v=1" alt="Three Legacies of Alcoholics Anonymous" style="width: 80%; max-width: 100%; height: auto; display: block; margin: 0 auto;" />
 </div>
 
 ## Recovery

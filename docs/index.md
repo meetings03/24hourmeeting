@@ -327,7 +327,7 @@ The spark that was to flare into the first A.A. group was struck at Akron, Ohio,
 <a class="explore-button" href="aa-primary-purpose/">Primary Purpose</a>
 
 <div class="tradition-image-row">
-  <img src="images/Legacies.png" alt="Alcoholics Anonymous Three Legacies" />
+  <img src="images/Legacies.png" alt="Alcoholics Anonymous Three Legacies" style="width: 80%; max-width: 100%; height: auto; display: block; margin: 0 auto;" />
 </div>
 
 ## AA's Three Legacies
