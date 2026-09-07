@@ -228,6 +228,10 @@ Alcoholics Anonymous is a global fellowship. The link below leads to many offici
 
 <a class="explore-button" href="international-aa-websites/">Explore International AA Websites</a>
 
+<div class="tradition-image-row">
+  <img src="images/Drinking_Problem.jpg" alt="Drinking problem image" />
+</div>
+
 ## Do you have a drinking problem?
 
 ### The CAGE Questionnaire
