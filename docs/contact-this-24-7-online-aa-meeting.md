@@ -1,9 +1,9 @@
-# Contact this 24/7 online AA Meeting
+# Contact this 24/7 online A.A. Meeting
 
 If you are joining for the first time, want to ask a question, or need to connect with the meeting team, you can reach us in the ways below.
 
 <div class="tradition-image-row">
-  <img src="/images/Contact_Us.png" alt="Contact this 24/7 online AA Meeting" />
+  <img src="/images/Contact_Us.png" alt="Contact this 24/7 online A.A. Meeting" />
 </div>
 
 <div class="contact-card">
@@ -17,4 +17,4 @@ If you are joining for the first time, want to ask a question, or need to connec
 
 We are here to help you connect with our online recovery community. If you are seeking a meeting, a question, or more information about how to join, we invite you to reach out or join us on Zoom at any time.
 
-<a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join Online AA Meeting</a>
+<a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join Online A.A. Meeting</a>

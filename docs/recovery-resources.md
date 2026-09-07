@@ -1,8 +1,8 @@
-# Substance Abuse and Drug Rehabilitation Treatment Resources (Non-AA)
+# Substance Abuse and Drug Rehabilitation Treatment Resources (Non-A.A.)
 
 ## International Drug Treatment, Rehabilitation & Recovery Resources
 
-Alcoholics Anonymous is not affiliated with any outside enterprise. Inclusion of any non-AA resources does not suggest endorsement or affiliation. The following organizations provide treatment information, recovery resources, education, and referral services for individuals and families affected by substance abuse disorders. These organizations are independent and are not affiliated with Alcoholics Anonymous or the 24-Hour International Marathon Meeting of AA.
+Alcoholics Anonymous is not affiliated with any outside enterprise. Inclusion of any non-A.A. resources does not suggest endorsement or affiliation. The following organizations provide treatment information, recovery resources, education, and referral services for individuals and families affected by substance abuse disorders. These organizations are independent and are not affiliated with Alcoholics Anonymous or the 24-Hour International Marathon Meeting of A.A.
 
 ### Global Drug Treatment and Recovery Organizations
 
@@ -42,14 +42,14 @@ Alcoholics Anonymous is not affiliated with any outside enterprise. Inclusion of
 ### Non-12-Step Recovery Programs for Addiction Recovery
 
 - **SMART Recovery**: Secular mutual support program emphasizing self-management and evidence-based recovery tools. [https://smartrecovery.org](https://smartrecovery.org)
-- **Came to Believe Recovery**: Find your freedom from addiction. Join a community that has recovered from a variety of addictions. Came to Believe Recovery acknowledges the Christian influence of early AA. The program is committed to helping others break free from addiction through spiritual retreats, workshops, and virtual meetings. It emphasizes the Four Absolutes of Honesty, Purity, Unselfishness, and Love as taught by the Oxford Groups that influenced the AA pioneers. [https://cametobelieverecovery.uk](https://cametobelieverecovery.uk)
+- **Came to Believe Recovery**: Find your freedom from addiction. Join a community that has recovered from a variety of addictions. Came to Believe Recovery acknowledges the Christian influence of early A.A. The program is committed to helping others break free from addiction through spiritual retreats, workshops, and virtual meetings. It emphasizes the Four Absolutes of Honesty, Purity, Unselfishness, and Love as taught by the Oxford Groups that influenced the A.A. pioneers. [https://cametobelieverecovery.uk](https://cametobelieverecovery.uk)
 - **LifeRing Secular Recovery**: Secular peer-to-peer support for addiction recovery. [https://lifering.org](https://lifering.org)
 - **Recovery Dharma**: Recovery program based on Buddhist principles and practices. [https://recoverydharma.org](https://recoverydharma.org)
 - **Women for Sobriety**: Recovery support organization focused on the unique needs of women. [https://womenforsobriety.org](https://womenforsobriety.org)
 - **Celebrate Recovery**: A biblically based Christian approach to helping people achieve long-lasting recovery by healing hurts, guiding people toward new healthy truths, and developing life-giving habits. [https://celebraterecovery.com](https://celebraterecovery.com)
 
 <div class="quote-card">
-  <p class="quote-label">Long Form of AA's Eighth Tradition</p>
+  <p class="quote-label">Long Form of A.A.'s Eighth Tradition</p>
   <p class="quote-text">Alcoholics Anonymous should remain forever nonprofessional. We define professionalism as the occupation of counseling alcoholics for fees or hire. But we may employ alcoholics where they are going to perform those services for which we might otherwise have to engage nonalcoholics. Such special services may be well recompensed. But our usual A.A. Twelfth Step work is never to be paid for.</p>
 </div>
 
@@ -70,7 +70,7 @@ Alcoholics Anonymous is not affiliated with any outside enterprise. Inclusion of
   <img src="/images/New_Zealand.jpg" alt="New Zealand image" />
 </div>
 
-*The 24-Hour International Marathon Meeting of AA was founded by two newcomers from New Zealand with cell phones at the beginning of the international pandemic.*
+*The 24-Hour International Marathon Meeting of A.A. was founded by two newcomers from New Zealand with cell phones at the beginning of the international pandemic.*
 
 ## Professional Chemical Dependency Organizations
 
@@ -84,7 +84,7 @@ Alcoholics Anonymous is not affiliated with any outside enterprise. Inclusion of
 - **Canadian Addiction Counsellors Certification Federation (CACCF)**: [https://caccf.ca](https://caccf.ca)
 
 <div class="quote-card">
-  <p class="quote-label">Long Form of AA's Sixth Tradition</p>
+  <p class="quote-label">Long Form of A.A.'s Sixth Tradition</p>
   <p class="quote-text">Problems of money, property, and authority may easily divert us from our primary spiritual aim. We think, therefore, that any considerable property of genuine use to A.A. should be separately incorporated and managed, thus dividing the material from the spiritual. An A.A. group, as such, should never go into business. Secondary aids to A.A., such as clubs or hospitals which require much property or administration, ought to be incorporated and so set apart that, if necessary, they can be freely discarded by the groups. Hence such facilities ought not to use the A.A. name. Their management should be the sole responsibility of those people who financially support them. For clubs, A.A. managers are usually preferred. But hospitals, as well as other places of recuperation, ought to be well outside A.A. and medically supervised. While an A.A. group may cooperate with anyone, such cooperation ought never go so far as affiliation or endorsement, actual or implied. An A.A. group can bind itself to no one.</p>
 </div>
 

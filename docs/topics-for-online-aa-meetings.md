@@ -1,4 +1,4 @@
-# Topics for Online AA Meetings
+# Topics for Online A.A. Meetings
 
 - Acceptance
 - Surrender
@@ -21,8 +21,8 @@
 - Facing fear
 - Handling resentment
 - What is alcoholism?
-- The AA Twelve-Step program of recovery
-- The AA Preamble
+- The A.A. Twelve-Step program of recovery
+- The A.A. Preamble
 - The Ninth Step Promises
 - Sponsorship
 - Home group commitment

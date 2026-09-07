@@ -1,6 +1,6 @@
 # Crisis and Mental Health Resources
 
-Alcoholics Anonymous is not affiliated with any outside agency or organization. Below is a list of non-AA crisis resources. Inclusion of any non-AA resources does not suggest endorsement or affiliation.
+Alcoholics Anonymous is not affiliated with any outside agency or organization. Below is a list of non-A.A. crisis resources. Inclusion of any non-A.A. resources does not suggest endorsement or affiliation.
 
 If you or someone you know is in immediate danger, call emergency services right away or go to the nearest emergency department.
 

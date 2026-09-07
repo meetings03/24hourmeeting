@@ -25,7 +25,7 @@ A new meeting begins at the top of each hour, running continuously 24 hours a da
 The meetings run continuously around the clock. Because a new meeting starts at the top of each hour, it aligns perfectly with your time zone, no matter where you live in the world.
 
 <div class="tradition-image-row">
-  <img src="/images/AA_International_Logo.png" alt="International AA logo" />
+  <img src="/images/AA_International_Logo.png" alt="International A.A. logo" />
 </div>
 
 ## What language is this 24/7 international A.A. Zoom meeting in?
@@ -64,9 +64,9 @@ The 24 Hour International Marathon Meeting of A.A. is an open meeting of Alcohol
   <img src="/images/Coffee_Pot.png" alt="Coffee Pot image" />
 </div>
 
-*Alcoholics Anonymous began in Akron, Ohio, in June 1935, when Bill W., a New York stockbroker, met Dr. Bob, an Akron physician. Early AA pioneers gathered in Dr. Bob's house and drank from this coffee pot, as they shared their experience, strength and hope.*
+*Alcoholics Anonymous began in Akron, Ohio, in June 1935, when Bill W., a New York stockbroker, met Dr. Bob, an Akron physician. Early A.A. pioneers gathered in Dr. Bob's house and drank from this coffee pot, as they shared their experience, strength and hope.*
 
-## Do I need to turn on my video camera to participate on this 24-hour online AA meeting?
+## Do I need to turn on my video camera to participate on this 24-hour online A.A. meeting?
 
 No. Having your video camera on is entirely optional.
 
@@ -95,10 +95,14 @@ Anonymity is the spiritual foundation of all A.A.'s Traditions. You can protect 
 The 24 Hour International Marathon Meeting of A.A. follows the online safety suggestions provided by A.A. World Services. See the "Safety Card for A.A. Groups," "A.A. Guidelines on Internet," and "Anonymity Online and Digital Media" available at https://www.aa.org.
 
 <div class="tradition-image-row">
-  <img src="/images/man_on_bed.jpg" alt="Person on a bed participating in an online AA meeting" />
+  <img src="/images/man_on_bed.jpg" alt="Person on a bed participating in an online A.A. meeting" />
 </div>
 
 *The primary purpose of the 24-Hour International Marathon Meeting of Alcoholics Anonymous is to carry A.A.'s life-saving message of hope and recovery to the alcoholic who still suffers.*
+
+<div class="tradition-image-row">
+  <img src="/images/Court.png" alt="Court attendance and probation image" />
+</div>
 
 ## Can I have my attendance verified for court or probation on this 24/7 A.A. Zoom meeting?
 

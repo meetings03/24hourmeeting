@@ -5,10 +5,10 @@ The 24-Hour International Marathon Meeting is a volunteer-run online meeting of 
 Join the [24/7 Online A.A. Meeting on Zoom](https://zoom.us/j/2923712604). You can also learn about the meeting in the [Frequently Asked Questions](faq.md), review [Crisis and Mental Health Resources](crisis-resources.md), or explore [A.A. Literature](aa-literature.md).
 
 <div class="tradition-image-row">
-  <img src="/images/sobrietyneversleeps_Logo.jpg" alt="Sobriety Never Sleeps logo for the 24/7 International Marathon Meeting of AA" style="max-width: 100%; height: auto;" />
+  <img src="/images/sobrietyneversleeps_Logo.jpg" alt="Sobriety Never Sleeps logo for the 24/7 International Marathon Meeting of A.A." style="max-width: 100%; height: auto;" />
 </div>
 
-<a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join Online AA Meeting</a>
+<a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join Online A.A. Meeting</a>
 
 ## How to Access the 24/7 International Online A.A. Meeting
 
@@ -46,5 +46,5 @@ The 24 Hour International Marathon Meeting of A.A. (where sobriety never sleeps)
 - Accessible 24/7
 
 <div class="tradition-image-row">
-  <img src="/images/24_7_digital_image.jpg" alt="24/7 digital AA meeting image" />
+  <img src="/images/24_7_digital_image.jpg" alt="24/7 digital A.A. meeting image" />
 </div>

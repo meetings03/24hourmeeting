@@ -13,8 +13,8 @@ Please answer each question honestly with yes or no.
 
 A yes answer does not provide a diagnosis. It may be useful to discuss concerns with a qualified healthcare professional or another trusted source of support.
 
-## AA's perspective
+## A.A.'s perspective
 
-Alcoholics Anonymous does not label people. Each person decides whether the AA program may be helpful for them. Anyone who wants to stop drinking is welcome at an open AA meeting.
+Alcoholics Anonymous does not label people. Each person decides whether the A.A. program may be helpful for them. Anyone who wants to stop drinking is welcome at an open A.A. meeting.
 
-For immediate support, visit our [24/7 online AA meeting](index.md) or review our [recovery resources](recovery-resources.md).
+For immediate support, visit our [24/7 online A.A. meeting](index.md) or review our [recovery resources](recovery-resources.md).

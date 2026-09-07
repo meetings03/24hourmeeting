@@ -1,7 +1,7 @@
-# International AA Websites
+# International A.A. Websites
 
-- **Online Intergroup of AA**: <a href="https://aa-intergroup.org" target="_blank" rel="noopener">https://aa-intergroup.org</a>
-- **AA World Services**: <a href="https://www.aa.org" target="_blank" rel="noopener">https://www.aa.org</a>
+- **Online Intergroup of A.A.**: <a href="https://aa-intergroup.org" target="_blank" rel="noopener">https://aa-intergroup.org</a>
+- **A.A. World Services**: <a href="https://www.aa.org" target="_blank" rel="noopener">https://www.aa.org</a>
 - **Alcoholics Anonymous Great Britain**: <a href="https://www.alcoholics-anonymous.org.uk" target="_blank" rel="noopener">https://www.alcoholics-anonymous.org.uk</a>
 - **Australia**: <a href="https://aa.org.au" target="_blank" rel="noopener">https://aa.org.au</a>
 - **Aotearoa New Zealand**: <a href="https://aa.org.nz" target="_blank" rel="noopener">https://aa.org.nz</a>
@@ -17,7 +17,7 @@
 - **India**: <a href="https://www.aagsoindia.org" target="_blank" rel="noopener">https://www.aagsoindia.org</a>
 - **Oregon (USA) Area 58, Online District 33**: <a href="https://area58district33.org" target="_blank" rel="noopener">https://area58district33.org</a>
 - **Morocco**: <a href="https://aamaroc.net" target="_blank" rel="noopener">https://aamaroc.net</a>
-- **AA Grapevine**: <a href="https://www.aagrapevine.org" target="_blank" rel="noopener">https://www.aagrapevine.org</a>
+- **A.A. Grapevine**: <a href="https://www.aagrapevine.org" target="_blank" rel="noopener">https://www.aagrapevine.org</a>
 - **Virtual General Service Area of Alcoholics Anonymous**: <a href="https://aavirtualarea.org.au" target="_blank" rel="noopener">https://aavirtualarea.org.au</a>
 
 <div class="tradition-image-row">

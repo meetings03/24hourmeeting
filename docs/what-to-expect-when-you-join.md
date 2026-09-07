@@ -2,7 +2,7 @@
 
 <a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join Online A.A. Meeting</a>
 
-The 24 Hour International Marathon Meeting of AA is an open meeting that runs continuously 24/7. A new meeting with a fresh AA topic begins at the top of each hour. If you would like to share, raise your virtual hand. The chairperson calls on hands in the order they are raised.
+The 24 Hour International Marathon Meeting of A.A. is an open meeting that runs continuously 24/7. A new meeting with a fresh A.A. topic begins at the top of each hour. If you would like to share, raise your virtual hand. The chairperson calls on hands in the order they are raised.
 
 - Anyone with a desire to stop drinking is welcome.
 - Each meeting is a fresh opportunity to listen, share, and connect with others working toward sobriety.

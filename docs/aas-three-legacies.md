@@ -39,18 +39,43 @@ A.A.'s program of recovery is presented in The Big Book of Alcoholics Anonymous,
 
 ### The Twelve Traditions
 
-1. Our common welfare should come first; personal recovery depends upon A.A. unity.
-2. For our group purpose there is but one ultimate authority—a loving God as He may express Himself in our group conscience. Our leaders are but trusted servants; they do not govern.
-3. The only requirement for A.A. membership is a desire to stop drinking.
-4. Each group should be autonomous except in matters affecting other groups or A.A. as a whole.
-5. Each group has but one primary purpose—to carry its message to the alcoholic who still suffers.
-6. An A.A. group ought never endorse, finance, or lend the A.A. name to any related facility or outside enterprise, lest problems of money, property, and prestige divert us from our primary purpose.
-7. Every A.A. group ought to be fully self-supporting, declining outside contributions.
-8. Alcoholics Anonymous should remain forever nonprofessional, but our service centers may employ special workers.
-9. A.A., as such, ought never be organized; but we may create service boards or committees directly responsible to those they serve.
-10. Alcoholics Anonymous has no opinion on outside issues; hence the A.A. name ought never be drawn into public controversy.
-11. Our public relations policy is based on attraction rather than promotion; we need always maintain personal anonymity at the level of press, radio, and films.
-12. Anonymity is the spiritual foundation of all our Traditions, ever reminding us to place principles before personalities.
+Service Material from the General Service Office
+
+## THE TWELVE TRADITIONS OF ALCOHOLICS ANONYMOUS
+
+### (LONG FORM)
+
+Our A.A. experience has taught us that:
+
+1. Each member of Alcoholics Anonymous is but a small part of a great whole. A.A. must continue to live or most of us will surely die. Hence our common welfare comes first. But individual welfare follows close afterward.
+
+2. For our group purpose there is but one ultimate authority—a loving God as He may express Himself in our group conscience.
+
+3. Our membership ought to include all who suffer from alcoholism. Hence we may refuse none who wish to recover. Nor ought A.A. membership ever depend upon money or conformity. Any two or three alcoholics gathered together for sobriety may call themselves an A.A. group, provided that, as a group, they have no other affiliation.
+
+4. With respect to its own affairs, each A.A. group should be responsible to no other authority than its own conscience. But when its plans concern the welfare of neighboring groups also, those groups ought to be consulted. And no group, regional committee, or individual should ever take any action that might greatly affect A.A. as a whole without conferring with the Trustees of the General Service Board. On such issues our common welfare is paramount.
+
+5. Each Alcoholics Anonymous group ought to be a spiritual entity having but one primary purpose—that of carrying its message to the alcoholic who still suffers.
+
+6. Problems of money, property, and authority may easily divert us from our primary spiritual aim. We think, therefore, that any considerable property of genuine use to A.A. should be separately incorporated and managed, thus dividing the material from the spiritual. An A.A. group, as such, should never go into business. Secondary aids to A.A., such as clubs or hospitals which require much property or administration, ought to be incorporated and so set apart that, if necessary, they can be freely discarded by the groups. Hence such facilities ought not to use the A.A. name. Their management should be the sole responsibility of those people who financially support them. For clubs, A.A. managers are usually preferred. But hospitals, as well as other places of recuperation, ought to be well outside A.A.- and medically supervised. While an A.A. group may cooperate with anyone, such cooperation ought never go so far as affiliation or endorsement, actual or implied. An A.A. group can bind itself to no one.
+
+7. The A.A. groups themselves ought to be fully supported by the voluntary contributions of their own members. We think that each group should soon achieve this ideal; that any public solicitation of funds using the name of Alcoholics Anonymous is highly dangerous, whether by groups, clubs, hospitals, or other outside agencies; that acceptance of large gifts from any source, or of contributions carrying any obligation whatever, is unwise. Then too, we view with much concern those A.A. treasuries which continue, beyond prudent reserves, to accumulate funds for no stated A.A. purpose. Experience has often warned us that nothing can so surely destroy our spiritual heritage as futile disputes over property, money, and authority.
+
+8. Alcoholics Anonymous should remain forever non-professional. We define professionalism as the occupation of counseling alcoholics for fees or hire. But we may employ alcoholics where they are going to perform those services for which we may otherwise have to engage nonalcoholics. Such special services may be well recompensed. But our usual A.A. "12th Step" work is never to be paid for.
+
+9. Each A.A. group needs the least possible organization. Rotating leadership is the best. The small group may elect its secretary, the large group its rotating committee, and the groups of a large metropolitan area their central or intergroup committee, which often employs a full-time secretary. The trustees of the General Service Board are, in effect, our A.A. General Service Committee. They are the custodians of our A.A. Tradition and the receivers of voluntary A.A. contributions by which we maintain our A.A. General Service Office at New York. They are authorized by the groups to handle our over-all public relations and they guarantee the integrity of our principle newspaper, the A.A. Grapevine. All such representatives are to be guided in the spirit of service, for true leaders in A.A. are but trusted and experienced servants of the whole. They derive no real authority from their titles; they do not govern. Universal respect is the key to their usefulness.
+
+10. No A.A. group or member should ever, in such a way as to implicate A.A., express any opinion on outside controversial issues—particularly those of politics, alcohol reform, or sectarian religion. The Alcoholics Anonymous groups oppose no one. Concerning such matters they can express no views whatever.
+
+11. Our relations with the general public should be characterized by personal anonymity. We think A.A. ought to avoid sensational advertising. Our names and pictures as A.A. members ought not be broadcast, filmed, or publicly printed. Our public relations should be guided by the principle of attraction rather than promotion. There is never need to praise ourselves. We feel it better to let our friends recommend us.
+
+12. And finally, we of Alcoholics Anonymous believe that the principle of anonymity has an immense spiritual significance. It reminds us that we are to place principles before personalities; that we are actually to practice a genuine humility. This to the end that our great blessings may never spoil us; that we shall forever live in thankful contemplation of Him who presides over us all.
+
+Copyright © 1952, 1953, 1981 by The A.A. Grapevine, Inc. and Alcoholics Anonymous Publishing (now known as Alcoholics Anonymous World Services, Inc.)
+All rights reserved.
+A summary of the Twelve Traditions can be found in the appendices of the book Alcoholics Anonymous.
+www.aa.org
+Rev. 10/21 SM F-187
 
 ## Service
 
