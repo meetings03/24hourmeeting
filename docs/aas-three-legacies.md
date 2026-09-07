@@ -62,39 +62,39 @@ Unity is the shared welfare of A.A. groups and members, expressed through the Tw
   <img src="/images/Service_Manual.png?v=1" alt="Alcoholics Anonymous service manual" />
 </div>
 
-A.A. service is anything whatever that helps us to reach a fellow sufferer -- ranging all the way from the Twelfth Step itself to a ten-cent phone call and a cup of coffee, and to A.A.'s General Service Office for national and international action. The sum total of all these services is our Third Legacy of Service.
+## THE TWELVE CONCEPTS FOR WORLD SERVICE
 
-Services include meeting places, hospital cooperation, and intergroup offices; they mean pamphlets, books, and good publicity of almost every description. They call for committees, delegates, trustees, and conferences. And, not to be forgotten, they need voluntary money contributions from within the Fellowship.
+### (SHORT FORM)
 
-### THE TWELVE CONCEPTS FOR WORLD SERVICE (SHORT FORM)
+The Twelve Concepts for World Service were written by A.A.’s co-founder Bill W., and were adopted by the General Service Conference of Alcoholics Anonymous in 1962. The Concepts are an interpretation of A.A.’s world service structure as it emerged through A.A.’s early history and experience. The short form of the Concepts reads:
 
-The Twelve Concepts for World Service were written by A.A.'s co-founder Bill W., and were adopted by the General Service Conference of Alcoholics Anonymous in 1962. The Concepts are an interpretation of A.A.'s world service structure as it emerged through A.A.'s early history and experience. The short form of the Concepts reads:
+I. Final responsibility and ultimate authority for A.A. world services should always reside in the collective conscience of our whole Fellowship.
 
-1. Final responsibility and ultimate authority for A.A. world services should always reside in the collective conscience of our whole Fellowship.
+The General Service Conference of A.A. has become, for nearly every practical purpose, the active voice and the effective conscience of our whole society in its world affairs.
 
-  The General Service Conference of A.A. has become, for nearly every practical purpose, the active voice and the effective conscience of our whole society in its world affairs.
+II. To insure effective leadership, we should endow each element of A.A.—the Conference, the General Service Board and its service corporations, staffs, committees, and executives—with a traditional “Right of Decision.”
 
-2. To insure effective leadership, we should endow each element of A.A.--the Conference, the General Service Board and its service corporations, staffs, committees, and executives--with a traditional "Right of Decision."
+III. At all responsible levels, we ought to maintain a traditional “Right of Participation,” allowing a voting representation in reasonable proportion to the responsibility that each must discharge.
 
-3. At all responsible levels, we ought to maintain a traditional "Right of Participation," allowing a voting representation in reasonable proportion to the responsibility that each must discharge.
+IV. Throughout our structure, a traditional “Right of Appeal” ought to prevail, so that minority opinion will be heard and personal grievances receive careful consideration.
 
-4. Throughout our structure, a traditional "Right of Appeal" ought to prevail, so that minority opinion will be heard and personal grievances receive careful consideration.
+V. The Conference recognizes that the chief initiative and active responsibility in most world service matters should be exercised by the trustee members of the Conference acting as the General Service Board.
 
-5. The Conference recognizes that the chief initiative and active responsibility in most world service matters should be exercised by the trustee members of the Conference acting as the General Service Board.
+VI. The Charter and Bylaws of the General Service Board are legal instruments, empowering the trustees to manage and conduct world service affairs. The Conference Charter is not a legal document; it relies upon tradition and the A.A. purse for final effectiveness.
 
-6. The Charter and Bylaws of the General Service Board are legal instruments, empowering the trustees to manage and conduct world service affairs. The Conference Charter is not a legal document; it relies upon tradition and the A.A. purse for final effectiveness.
+VII. The trustees are the principal planners and administrators of over-all policy and finance. They have custodial oversight of the separately incorporated and constantly active services, exercising this through their ability to elect all the directors of these entities.
 
-7. The trustees are the principal planners and administrators of over-all policy and finance. They have custodial oversight of the separately incorporated and constantly active services, exercising this through their ability to elect all the directors of these entities.
+VIII. Good service leadership at all levels is indispensable for our future functioning and safety. Primary world service leadership, once exercised by the founders, must necessarily be assumed by the trustees.
 
-8. Good service leadership at all levels is indispensable for our future functioning and safety. Primary world service leadership, once exercised by the founders, must necessarily be assumed by the trustees.
+IX. Every service responsibility should be matched by an equal service authority, with the scope of such authority well defined.
 
-9. Every service responsibility should be matched by an equal service authority, with the scope of such authority well defined.
+X. The trustees should always have the best possible committees, corporate service directors, executives, staffs, and consultants. Composition, qualifications, induction procedures, and rights and duties will always be matters of serious concern.
 
-10. The trustees should always have the best possible committees, corporate service directors, executives, staffs, and consultants. Composition, qualifications, induction procedures, and rights and duties will always be matters of serious concern.
+XI. The Conference shall observe the spirit of A.A. tradition, taking care that it never becomes the seat of perilous wealth or power; that sufficient operating funds and reserve be its prudent financial principle; that it place none of its members in a position of unqualified authority over others; that it reach all important decisions by discussion, vote, and whenever possible, substantial unanimity; that its actions never be personally punitive nor an incitement to public controversy; that it never perform acts of government; that, like the Society it serves, it will always remain democratic in thought and action.
 
-11. The Conference shall observe the spirit of A.A. tradition, taking care that it never becomes the seat of perilous wealth or power; that sufficient operating funds and reserve be its prudent financial principle; that it place none of its members in a position of unqualified authority over others; that it reach all important decisions by discussion, vote, and whenever possible, substantial unanimity; that its actions never be personally punitive nor an incitement to public controversy; that it never perform acts of government; that, like the Society it serves, it will always remain democratic in thought and action.
-
-*Copyright © 1962 Alcoholics Anonymous World Services, Inc. All rights reserved.*
+Copyright © 1962
+Alcoholics Anonymous World Services, Inc.
+All rights reserved
 
 <div class="tradition-image-row">
   <img src="/images/Upside_down_triangle.png?v=1" alt="Alcoholics Anonymous upside-down triangle" />
