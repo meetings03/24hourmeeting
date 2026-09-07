@@ -268,6 +268,21 @@ body {
   margin-bottom: 1.2rem;
 }
 
+.md-content p,
+.md-content ul,
+.md-content ol,
+.md-content blockquote {
+  margin: 0 0 1rem;
+  line-height: 1.75;
+}
+
+.md-content img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 1.25rem auto;
+}
+
 .md-content h2,
 .md-content h3 {
   color: var(--md-primary-fg-color);
