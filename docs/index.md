@@ -376,7 +376,7 @@ The link below provides relevant information concerning the 24 Hour Internationa
 
 ## A.A. World Services and A.A. General Service Office
 
-<a class="explore-button" href="https://www.aa.org" target="_blank" rel="noopener">Visit A.A. World Services and General Service Office</a>
+<a class="explore-button" href="https://www.aa.org" target="_blank" rel="noopener">GSO</a>
 
 <div class="tradition-image-row">
   <img src="images/General_Service_Conference.png" alt="A.A. General Service Conference" />
