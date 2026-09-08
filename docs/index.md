@@ -83,6 +83,12 @@
 
 <a id="join-meeting" class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join Online A.A. Meeting</a>
 
+<div style="display: flex; flex-wrap: wrap; gap: 0.75rem; margin: 1rem 0 1.5rem; align-items: center;">
+  <a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join Online A.A. Meeting</a>
+  <a class="explore-button" href="what-to-expect-when-you-join/">Learn What to Expect</a>
+  <a class="explore-button" href="quick-answers/">Read Quick Answers</a>
+</div>
+
 Join a live 24/7 Online A.A. Meeting on Zoom. This is an open international Alcoholics Anonymous meeting with a new session every hour. Join now with Zoom Meeting ID **292 371 2604**. No password required.
 
 ## 24 Hour International Marathon Meeting of A.A. (Where sobriety never sleeps)
@@ -94,8 +100,6 @@ Join a live 24/7 Online A.A. Meeting on Zoom. This is an open international Alco
 
 ### Quick Answers About this 24/7 Online A.A. Meeting
 
-<a class="explore-button" href="quick-answers/">Read Quick Answers About Our 24/7 Online A.A. Meeting</a>
-
 New to A.A.? Start with our <a href="aa-primary-purpose/">Primary Purpose</a> and <a href="aas-three-legacies/">Three Legacies</a> to understand the Fellowship's foundation.
 
 <div class="tradition-image-row">
@@ -103,8 +107,6 @@ New to A.A.? Start with our <a href="aa-primary-purpose/">Primary Purpose</a> an
 </div>
 
 ## What to Expect When You Join the 24 Hour International Marathon Meeting of A.A.
-
-<a class="explore-button" href="what-to-expect-when-you-join/">Learn What to Expect</a>
 
 <div class="tradition-image-row">
   <img src="images/GlobeAA.jpg" alt="Global A.A. fellowship image" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
@@ -366,7 +368,7 @@ Related: <a href="aa-primary-purpose/">Primary Purpose</a> | <a href="about-this
 
 <div class="tradition-image-row">
   <img src="images/Grapevine.png" alt="A.A. Grapevine magazine" />
-  <div style="width: 100%; text-align: center; font-style: italic;">The Grapevine is A.A.'s "meeting in print." La Vina is the Fellowship's Spanish language magazine. Both publications include submissions from ordinary A.A. members from around the world.</div>
+  <div style="width: 100%; text-align: center; font-style: italic;">The Grapevine is A.A.'s "meeting in print." La Viña is the Fellowship's Spanish-language magazine. Both publications include submissions from ordinary A.A. members from around the world.</div>
 </div>
 
 ## A.A. Grapevine and La Vi&ntilde;a

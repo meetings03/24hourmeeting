@@ -13,13 +13,30 @@ body {
   flex-wrap: wrap;
   align-items: center;
   justify-content: center;
-  margin: 1.5rem 0;
-  gap: 0.75rem;
+  margin: 1.25rem 0 1.75rem;
+  gap: 1rem;
 }
 
 .tradition-image-row img {
   max-width: 100%;
   height: auto;
+  display: block;
+}
+
+.info-card {
+  background: linear-gradient(135deg, #f8fbff 0%, #eef4ff 100%);
+  border: 1px solid #dfe7f7;
+  border-left: 4px solid var(--md-primary-fg-color);
+  border-radius: 16px;
+  padding: 1rem 1.15rem;
+  margin: 1.25rem 0 1.5rem;
+  box-shadow: 0 8px 20px rgba(47, 78, 168, 0.05);
+}
+
+.info-card p {
+  margin: 0;
+  color: #324055;
+  line-height: 1.7;
 }
 
 .publication-logo {
@@ -32,7 +49,8 @@ body {
   background: linear-gradient(135deg, #f4f7ff 0%, #e8eefc 100%);
   border-radius: 24px;
   padding: 1.2rem 1.2rem 1.8rem;
-  margin-bottom: 1.5rem;
+  margin: 2.25rem auto 2.5rem;
+  max-width: 1100px;
   box-shadow: 0 12px 35px rgba(47, 78, 168, 0.12);
   text-align: center;
 }
@@ -195,7 +213,7 @@ body {
   justify-content: center;
   background: var(--md-primary-fg-color);
   color: white !important;
-  margin: 0 0 1.25rem;
+  margin: 0.15rem 0 1.3rem;
   padding: 1rem 1.8rem;
   border-radius: 999px;
   font-weight: 800;
@@ -219,7 +237,7 @@ body {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  margin: 0.25rem 0 1.25rem;
+  margin: 0.2rem 0 1.3rem;
   padding: 0.8rem 1.15rem;
   border: 2px solid #087f78;
   border-radius: 6px;
@@ -274,11 +292,15 @@ body {
   margin-bottom: 1.2rem;
 }
 
+.md-content {
+  max-width: 78rem;
+}
+
 .md-content p,
 .md-content ul,
 .md-content ol,
 .md-content blockquote {
-  margin: 0 0 1rem;
+  margin: 0 0 1.15rem;
   line-height: 1.75;
 }
 
@@ -286,7 +308,7 @@ body {
   display: block;
   max-width: 100%;
   height: auto;
-  margin: 1.25rem auto;
+  margin: 0.9rem auto 1.25rem;
 }
 
 .md-content h2,
@@ -294,8 +316,8 @@ body {
   color: var(--md-primary-fg-color);
   font-weight: 700;
   letter-spacing: 0.01em;
-  margin-top: 1.5rem;
-  margin-bottom: 0.6rem;
+  margin-top: 1.8rem;
+  margin-bottom: 0.7rem;
   padding-bottom: 0.25rem;
   border-bottom: 1px solid #dfe7f7;
 }
