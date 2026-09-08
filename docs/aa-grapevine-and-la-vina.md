@@ -2,17 +2,15 @@
 
 A.A. Grapevine and La Vi&ntilde;a are the international magazines of Alcoholics Anonymous. They share the experience, strength, and hope of A.A. members around the world.
 
-<a class="explore-button" href="https://www.aagrapevine.org/" target="_blank" rel="noopener">Visit A.A. Grapevine</a>
-
-<a class="explore-button" href="https://www.aagrapevine.org/lavina" target="_blank" rel="noopener">Visit La Vi&ntilde;a</a>
-
 <div class="tradition-image-row">
-	<img src="/images/Grapevine.png" alt="A.A. Grapevine" />
+	<img class="publication-logo" src="/images/Grapevine.png" alt="A.A. Grapevine" />
 </div>
 
-## AA Grapevine: The International Journal of Alcoholics Anonymous
+## A.A. Grapevine: The International Journal of Alcoholics Anonymous
 
 A.A. Grapevine is published in English and shares stories, reflections, and recovery-related content written by A.A. members.
+
+<a class="explore-button" href="https://www.aagrapevine.org/" target="_blank" rel="noopener">Visit A.A. Grapevine</a>
 
 ### The A.A. Grapevine Mission Statement
 
@@ -45,11 +43,21 @@ The Grapevine was in fact appealing to "alcoholics everywhere" and in 1945, at t
 Later issues of the Grapevine reported on important developments in the growth of the Fellowship worldwide, such as the birth of the General Service Structure, World Service Meetings, and the publication of the Third and Fourth editions of the Big Book. The history of the Grapevine is the history of the growth of Alcoholics Anonymous. In 1986, the General Service Conference reaffirmed the magazine's place in A.A. with an advisory action that recognized it as the international journal of Alcoholics Anonymous.
 
 <div class="tradition-image-row">
-	<img src="/images/LaVina.png" alt="La Vi&ntilde;a magazine" />
+	<img class="publication-logo" src="/images/LaVina.png" alt="La Vi&ntilde;a magazine" />
 </div>
 
 ## La Vi&ntilde;a
 
 La Vi&ntilde;a is the Spanish-language magazine of Alcoholics Anonymous. It shares the experience, strength, and hope of Spanish-speaking A.A. members.
+
+<a class="explore-button" href="https://www.aagrapevine.org/lavina" target="_blank" rel="noopener">Visit La Vi&ntilde;a</a>
+
+### La Misi&oacute;n del A.A. Grapevine
+
+El A.A. Grapevine, Inc. es el publicador de la revista Internacional de Alcoh&oacute;licos An&oacute;nimos. Su principal prop&oacute;sito es llevar el mensaje de A.A. a todas las personas interesadas en el alcoholismo a trav&eacute;s de sus revistas, sitios web y productos similares, reflejando la experiencia, la fortaleza y la esperanza de sus miembros y amigos, en temas relacionados con la recuperaci&oacute;n, la unidad y el servicio. Se esfuerza en todas sus actividades para operar de acuerdo con los Doce Pasos, las Doce Tradiciones y los Doce Conceptos de A.A., sin solicitar contribuciones monetarias de los miembros o grupos de A.A. para financiar los gastos operativos.
+
+### El Prop&oacute;sito de A.A. Grapevine
+
+Como lo expres&oacute; Bill W. en 1946, “el Grapevine ser&aacute; la voz del movimiento de Alcoh&oacute;licos An&oacute;nimos. Sus editores y su personal ser&aacute;n los principales responsables ante el movimiento de A.A. en general ... Dentro de los l&iacute;mites de accesibilidad y el buen gusto, el Grapevine disfrutar&aacute; de perfecta libertad de expresi&oacute;n en todos los asuntos directamente relacionados con Alcoh&oacute;licos An&oacute;nimos ... Al igual que el movimiento de Alcoh&oacute;licos An&oacute;nimos, reflejar&aacute; como un espejo, su &uacute;nico y central prop&oacute;sito: El Grapevine intentar&aacute; llevar el mensaje de A.A. a los alcoh&oacute;licos y practicar los principios de A.A. en todos sus asuntos”.
 
 For current issues, subscriptions, books, and other materials, visit the official A.A. Grapevine website.
