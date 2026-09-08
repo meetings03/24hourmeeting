@@ -347,6 +347,10 @@ The Three Legacies of Alcoholics Anonymous are Recovery, Unity, and Service. By 
   <img src="images/StepsTraditionsConcepts.png" alt="A.A. Steps, Traditions, and Concepts" />
 </div>
 
+<div class="tradition-image-row">
+  <img src="images/Grapevine.png" alt="A.A. Grapevine magazine" />
+</div>
+
 ## A.A. Grapevine and La Vi&ntilde;a
 
 ### Welcome to the A.A. Grapevine and La Vi&ntilde;a
