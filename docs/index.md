@@ -1,4 +1,4 @@
-# 24/7 International Marathon Meeting of A.A.: 24/7 Online A.A. Meeting
+# 24/7 International Marathon Meeting of A.A. — 24/7 Online A.A. Meeting
 
 <style>
   .tradition-figure {
