@@ -350,6 +350,7 @@ The Three Legacies of Alcoholics Anonymous are Recovery, Unity, and Service. By 
 
 <div class="tradition-image-row">
   <img src="images/Grapevine.png" alt="A.A. Grapevine magazine" />
+  <div style="width: 100%; text-align: center; font-style: italic;">The Grapevine is A.A.'s "meeting in print." La Vina is the Fellowship's Spanish language magazine. Both publications include submissions from ordinary A.A. members from around the world.</div>
 </div>
 
 ## A.A. Grapevine and La Vi&ntilde;a
