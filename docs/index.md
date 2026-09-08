@@ -380,6 +380,10 @@ The link below provides relevant information concerning the 24 Hour Internationa
   <img src="images/General_Service_Conference.png" alt="A.A. General Service Conference" />
 </div>
 
+<div class="tradition-image-row">
+  <img src="images/Box459.png" alt="Box 459 newsletter image" />
+</div>
+
 ## Box 459
 
 Join our Box 459 newsletter digital delivery mailing list.
