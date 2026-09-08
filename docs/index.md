@@ -83,10 +83,9 @@
 
 <a id="join-meeting" class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join Online A.A. Meeting</a>
 
-<div style="display: flex; flex-wrap: wrap; gap: 0.75rem; margin: 1rem 0 1.5rem; align-items: center;">
-  <a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join Online A.A. Meeting</a>
-  <a class="explore-button" href="what-to-expect-when-you-join/">Learn What to Expect</a>
+<div style="display: flex; flex-direction: column; align-items: flex-start; gap: 0.25rem; margin: 1rem 0 1.5rem;">
   <a class="explore-button" href="quick-answers/">Read Quick Answers</a>
+  <a class="explore-button" href="what-to-expect-when-you-join/">Learn What to Expect</a>
 </div>
 
 Join a live 24/7 Online A.A. Meeting on Zoom. This is an open international Alcoholics Anonymous meeting with a new session every hour. Join now with Zoom Meeting ID **292 371 2604**. No password required.
