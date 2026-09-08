@@ -272,6 +272,14 @@ body {
   text-decoration: none;
 }
 
+.site-footer nav {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.5rem 1rem;
+  margin-top: 0.75rem;
+}
+
 .site-footer a:hover,
 .site-footer a:focus {
   text-decoration: underline;

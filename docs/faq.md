@@ -2,7 +2,7 @@
 
 <a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join Online A.A. Meeting</a>
 
-If you are looking for quick answers about the meeting, the schedule, participation, or anonymity, this page brings together the most common questions we receive.
+If you are looking for quick answers about the meeting, the schedule, participation, or anonymity, this page brings together the most common questions we receive. Newcomers can also read [What to Expect When You Join](what-to-expect-when-you-join.md), review [Quick Answers](quick-answers.md), or learn more [About This Meeting](about-this-meeting.md).
 
 ## Who is allowed to attend this 24-hour online A.A. meeting?
 
