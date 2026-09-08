@@ -345,6 +345,7 @@ The Three Legacies of Alcoholics Anonymous are Recovery, Unity, and Service. By 
 
 <div class="tradition-image-row">
   <img src="images/StepsTraditionsConcepts.png" alt="A.A. Steps, Traditions, and Concepts" />
+  <div style="width: 100%; text-align: center; font-style: italic;">A.A.'s Three Legacies of Recovery, Unity, and Service were adopted by the Fellowship at the International Convention of Alcoholics Anonymous at St. Louis in 1955. Read about this historic event in the book <em>Alcoholics Anonymous Comes of Age: A Brief History of A.A.</em></div>
 </div>
 
 <div class="tradition-image-row">
