@@ -351,6 +351,8 @@ Welcome to your digital connection to **A.A. Grapevine** and **La Vi&ntilde;a**,
 
 Whether you are looking for daily inspiration, diverse perspectives on the Twelve Steps, or a deep dive into recovery history, Grapevine and La Vi&ntilde;a offer a wealth of shared experience, strength, and hope to support you on your journey - because here, sobriety never sleeps.
 
+<a class="explore-button" href="aa-grapevine-and-la-vina/">Explore A.A. Grapevine and La Vi&ntilde;a</a>
+
 ## About This 24 Hour Online Meeting
 
 The link below provides relevant information concerning the 24 Hour International Marathon Meeting of A.A. (Where sobriety never sleeps).
