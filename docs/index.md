@@ -384,6 +384,7 @@ The link below provides relevant information concerning the 24 Hour Internationa
 
 <div class="tradition-image-row">
   <img src="images/Box459.png" alt="Box 459 newsletter image" />
+  <div style="width: 100%; text-align: center; font-style: italic;">Box 459 is the official newsletter of the A.A. General Service Office.</div>
 </div>
 
 ## Box 459
