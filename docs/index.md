@@ -394,6 +394,10 @@ For the full legal notice, permissions, and related guidance, see the page below
 
 ---
 
+<div class="tradition-image-row">
+  <img src="images/aa_hearts.png" alt="A.A. Hearts image" />
+</div>
+
 ## Quick Links and Resources
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 2rem; margin: 2rem 0;">
