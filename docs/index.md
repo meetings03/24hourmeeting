@@ -368,6 +368,10 @@ The link below provides relevant information concerning the 24 Hour Internationa
   <div style="width: 100%; text-align: center; font-style: italic;">A.A.'s cofounder, Bill W., and his wife Lois in 1925.</div>
 </div>
 
+## A.A. World Services and A.A. General Service Office
+
+<a class="explore-button" href="https://www.aa.org" target="_blank" rel="noopener">GSO</a>
+
 ## Disclaimer and Permissions
 
 For the full legal notice, permissions, and related guidance, see the page below.
