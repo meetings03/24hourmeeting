@@ -345,9 +345,11 @@ The Three Legacies of Alcoholics Anonymous are Recovery, Unity, and Service. By 
 
 ## A.A. Grapevine and La Vi&ntilde;a
 
-A.A. Grapevine and La Vi&ntilde;a are the international magazines of Alcoholics Anonymous, sharing the experience, strength, and hope of A.A. members around the world.
+### Welcome to the A.A. Grapevine and La Vi&ntilde;a
 
-<a class="explore-button" href="aa-grapevine-and-la-vina/">Explore A.A. Grapevine and La Vi&ntilde;a</a>
+Welcome to your digital connection to **A.A. Grapevine** and **La Vi&ntilde;a**, the international journals of Alcoholics Anonymous. Often described as A.A.'s "meeting in print," these magazines provide a powerful monthly collection of stories, humor, and insights written directly by fellowship members worldwide.
+
+Whether you are looking for daily inspiration, diverse perspectives on the Twelve Steps, or a deep dive into recovery history, Grapevine and La Vi&ntilde;a offer a wealth of shared experience, strength, and hope to support you on your journey - because here, sobriety never sleeps.
 
 ## About This 24 Hour Online Meeting
 
