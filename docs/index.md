@@ -94,7 +94,7 @@ Join a live 24/7 Online A.A. Meeting on Zoom. This is an open international Alco
 
 ### Quick Answers About this 24/7 Online A.A. Meeting
 
-<a class="explore-button" href="quick-answers/">Read Quick Answers</a>
+<a class="explore-button" href="quick-answers/">Read Quick Answers About Our 24/7 Online A.A. Meeting</a>
 
 <div class="tradition-image-row">
   <img src="images/sobrietyneversleeps_Logo.jpg" alt="Sobriety Never Sleeps logo" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
@@ -293,7 +293,7 @@ Alcoholics Anonymous is not affiliated with any outside entities or organization
 
 Need quick answers before joining? Visit our dedicated FAQ page for common questions about the meeting, attendance, safety, anonymity, and participation.
 
-<a class="explore-button" href="faq/">Read the full FAQ</a>
+<a class="explore-button" href="faq/">Read our Online AA Meeting FAQ</a>
 
 To join right away, use the Zoom ID **292 371 2604** or click the button below:
 
@@ -331,7 +331,7 @@ The Fifth Tradition of A.A.: Each group has but one primary purpose; to carry it
 Our Twelfth Step -- carrying the message -- is the basic service that the A.A. Fellowship gives; this is our principal aim and the main reason for our existence. Therefore, A.A. is more than a set of principles; it is a society of alcoholics in action. We must carry the message, else we ourselves can wither and those who have not been given the truth may die. 
 
 
-<a class="explore-button" href="aa-primary-purpose/">Primary Purpose</a>
+<a class="explore-button" href="aa-primary-purpose/">Learn About A.A.'s Primary Purpose</a>
 
 <div class="tradition-image-row">
   <img src="images/Legacies.png" alt="Alcoholics Anonymous Three Legacies" style="width: 80%; max-width: 100%; height: auto; display: block; margin: 0 auto;" />
@@ -341,7 +341,7 @@ Our Twelfth Step -- carrying the message -- is the basic service that the A.A. F
 
 The Three Legacies of Alcoholics Anonymous are Recovery, Unity, and Service. By the first, we recover from alcoholism; by the second, we stay together in unity; and by the third, our society functions and serves its primary purpose of carrying the A.A. message to all who need it and want it. (*Alcoholics Anonymous Comes of Age: A Brief History of A.A.*)
 
-<a class="explore-button" href="aas-three-legacies/">Three Legacies</a>
+<a class="explore-button" href="aas-three-legacies/">Discover A.A.'s Three Legacies: Recovery, Unity, and Service</a>
 
 <div class="tradition-image-row">
   <img src="images/StepsTraditionsConcepts.png" alt="A.A. Steps, Traditions, and Concepts" />
@@ -365,7 +365,7 @@ Whether you are looking for daily inspiration, diverse perspectives on the Twelv
 
 The link below provides relevant information concerning the 24 Hour International Marathon Meeting of A.A. (Where sobriety never sleeps).
 
-<a class="explore-button" href="about-this-meeting/">Learn About This Meeting</a>
+<a class="explore-button" href="about-this-meeting/">Learn More About this 24 Hour International Marathon Meeting</a>
 
 <div class="tradition-image-row">
   <img src="images/Bill_Lois.jpg" alt="Bill and Lois" />
@@ -374,19 +374,61 @@ The link below provides relevant information concerning the 24 Hour Internationa
 
 ## A.A. World Services and A.A. General Service Office
 
-<a class="explore-button" href="https://www.aa.org" target="_blank" rel="noopener">GSO</a>
+<a class="explore-button" href="https://www.aa.org" target="_blank" rel="noopener">Visit A.A. World Services and General Service Office</a>
 
 ## Disclaimer and Permissions
 
 For the full legal notice, permissions, and related guidance, see the page below.
 
-<a class="explore-button" href="disclaimer-and-permissions/">Read Disclaimer and Permissions</a>
+<a class="explore-button" href="disclaimer-and-permissions/">Read Our Disclaimer and Permissions</a>
 
 <div class="tradition-image-row">
   <img src="images/easy_does_it_logo.jpg" alt="Easy Does It logo" />
 </div>
 
 <a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join Online A.A. Meeting</a>
+
+---
+
+## Quick Links and Resources
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 2rem; margin: 2rem 0;">
+  <div>
+    <h4>Learn More</h4>
+    <ul style="list-style: none; padding: 0; margin: 0;">
+      <li style="margin: 0.5rem 0;"><a href="about-this-meeting/">About this Meeting</a></li>
+      <li style="margin: 0.5rem 0;"><a href="faq/">FAQ</a></li>
+      <li style="margin: 0.5rem 0;"><a href="what-to-expect-when-you-join/">What to Expect</a></li>
+      <li style="margin: 0.5rem 0;"><a href="contact-this-24-7-online-aa-meeting/">Contact Us</a></li>
+    </ul>
+  </div>
+  <div>
+    <h4>A.A. Resources</h4>
+    <ul style="list-style: none; padding: 0; margin: 0;">
+      <li style="margin: 0.5rem 0;"><a href="aa-literature/">A.A. Literature</a></li>
+      <li style="margin: 0.5rem 0;"><a href="aa-primary-purpose/">A.A.'s Primary Purpose</a></li>
+      <li style="margin: 0.5rem 0;"><a href="aas-three-legacies/">A.A.'s Three Legacies</a></li>
+      <li style="margin: 0.5rem 0;"><a href="international-aa-websites/">International A.A. Websites</a></li>
+    </ul>
+  </div>
+  <div>
+    <h4>Support Resources</h4>
+    <ul style="list-style: none; padding: 0; margin: 0;">
+      <li style="margin: 0.5rem 0;"><a href="topics-for-online-aa-meetings/">Meeting Topics</a></li>
+      <li style="margin: 0.5rem 0;"><a href="crisis-resources/">Crisis Resources</a></li>
+      <li style="margin: 0.5rem 0;"><a href="recovery-resources/">Recovery Resources</a></li>
+      <li style="margin: 0.5rem 0;"><a href="https://www.aa.org" target="_blank" rel="noopener">A.A. General Service Office</a></li>
+    </ul>
+  </div>
+  <div>
+    <h4>Legal</h4>
+    <ul style="list-style: none; padding: 0; margin: 0;">
+      <li style="margin: 0.5rem 0;"><a href="disclaimer-and-permissions/">Disclaimer and Permissions</a></li>
+    </ul>
+  </div>
+</div>
+
+---
 
 ## Serenity Prayer
 
