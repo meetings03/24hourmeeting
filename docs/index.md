@@ -157,6 +157,11 @@ Alcoholics Anonymous is a fellowship of people who share their experience, stren
 
 ### A Declaration of Unity
 
+<div class="quote-card">
+  <p class="quote-label">Declaration of Unity</p>
+  <p class="quote-text">This we owe to A.A.'s future: To place our common welfare first; to keep our Fellowship united. For on A.A. unity depend our lives and the lives of those to come.</p>
+</div>
+
 <div class="tradition-image-row">
   <img src="images/Bob_and_Bill.png" alt="Bob and Bill image" class="portrait-image" />
 </div>
@@ -164,6 +169,12 @@ Alcoholics Anonymous is a fellowship of people who share their experience, stren
 *Dr. Bob and Bill W., the cofounders of Alcoholics Anonymous*
 
 ### I Am Responsible
+
+<div class="quote-card">
+  <p class="quote-label">Toronto Responsibility Statement</p>
+  <p class="quote-text">I am responsible.</p>
+  <p class="quote-text">When anyone, anywhere, reaches out for help, I want the hand of A.A. always to be there. And for that I am responsible.</p>
+</div>
 
 <div class="tradition-image-row">
   <img src="images/first_tradition_image.png" alt="First Tradition image" />
