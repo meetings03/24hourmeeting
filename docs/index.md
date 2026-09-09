@@ -29,26 +29,6 @@
     padding: 1.3rem 2.34rem;
   }
 
-  .quote-card {
-    margin: 1.5rem 0;
-    padding: 1.5rem;
-    border-left: 4px solid #ccc;
-    background-color: #fafafa;
-    font-style: italic;
-  }
-
-  .quote-label {
-    font-weight: bold;
-    font-style: normal;
-    margin-bottom: 0.5rem;
-    display: block;
-  }
-
-  .quote-text {
-    margin: 0.5rem 0;
-    line-height: 1.6;
-  }
-
   .contact-card {
     margin: 1.5rem 0;
     padding: 1.5rem;
@@ -66,17 +46,6 @@
     line-height: 1.6;
   }
 
-  .hero-card {
-    margin: 2rem 0;
-    padding: 2rem;
-    text-align: center;
-  }
-
-  .hero-copy {
-    line-height: 1.8;
-    margin: 1rem 0;
-  }
-
   .portrait-image {
     display: block;
     width: 100%;
@@ -87,11 +56,6 @@
 </style>
 
 <a id="join-meeting" class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join Online A.A. Meeting</a>
-
-<div style="display: flex; flex-direction: column; align-items: flex-start; gap: 0.25rem; margin: 1rem 0 1.5rem;">
-  <a class="explore-button" href="quick-answers/">Read Quick Answers</a>
-  <a class="explore-button" href="what-to-expect-when-you-join/">Learn What to Expect</a>
-</div>
 
 Join a live 24/7 Online A.A. Meeting on Zoom. This is an open international Alcoholics Anonymous meeting with a new session every hour. Join now with Zoom Meeting ID **292 371 2604**. No password required.
 
@@ -104,6 +68,8 @@ Join a live 24/7 Online A.A. Meeting on Zoom. This is an open international Alco
 
 ### Quick Answers About this 24/7 Online A.A. Meeting
 
+<a class="explore-button" href="quick-answers/">Read Quick Answers</a>
+
 New to A.A.? Start with our <a href="aa-primary-purpose/">Primary Purpose</a> and <a href="aas-three-legacies/">Three Legacies</a> to understand the Fellowship's foundation.
 
 <div class="tradition-image-row">
@@ -112,23 +78,13 @@ New to A.A.? Start with our <a href="aa-primary-purpose/">Primary Purpose</a> an
 
 ## What to Expect When You Join the 24 Hour International Marathon Meeting of A.A.
 
+<a class="explore-button" href="what-to-expect-when-you-join/">Learn What to Expect</a>
+
 <div class="tradition-image-row">
   <img src="images/GlobeAA.jpg" alt="Global A.A. fellowship image" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
 </div>
 
 <a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join the Meeting Anytime</a>
-
-<div class="hero-card">
-  <div class="logo-area" aria-label="Logo placeholder">
-    <img src="images/Help_247_7.30.2026.jpg" alt="Help 24/7 online meeting logo" class="hero-logo" width="100%" />
-  </div>
-  <h3>International Online A.A. Zoom Meeting</h3>
-  <p class="hero-copy">The 24/7 International Marathon Meeting of A.A. is a continuous online Alcoholics Anonymous meeting available worldwide around the clock. A fresh meeting with a new A.A. topic begins at the top of each hour. We are an open meeting, and anyone with a desire to stop drinking is welcome to participate. Join anytime using Zoom Meeting ID <strong>292 371 2604</strong>. No password is needed.</p>
-  <p class="hero-copy">Our online meeting has been running nonstop since April 20, 2020. It began at the start of the COVID-19 pandemic when two newcomers from New Zealand with cell phones realized they needed fellowship with other alcoholics to stay sober. The 24/7 International Marathon Meeting has carried A.A.'s message of hope and recovery around the world ever since.</p>
-  <div class="triangle-logo-wrap">
-    <img src="images/Triangle_logo.jpg" alt="Alcoholics Anonymous triangle logo" class="triangle-logo" />
-  </div>
-</div>
 
 ## Welcome to Online Recovery
 
@@ -139,7 +95,7 @@ New to A.A.? Start with our <a href="aa-primary-purpose/">Primary Purpose</a> an
 Welcome to the 24 Hour International Marathon Meeting of A.A., *where sobriety never sleeps*. We are an open meeting of Alcoholics Anonymous, and everyone is welcome to listen. In keeping with A.A.'s singleness of purpose and our Third Tradition, which states that the only requirement for A.A. membership is a desire to stop drinking, we ask that everyone who shares in our meeting confine their discussion to their problems with alcohol. You can join our online recovery meeting by clicking the "Join Online A.A. Meeting" button above or by joining the meeting through Zoom. The access code is **292 371 2604**. Join our online recovery meeting and raise your virtual hand. We want to get to know you, and experience has taught us that we can help best if you talk to us. We call on hands in the order they are raised, and everyone gets five minutes to share, with a gentle reminder when there is one minute remaining.
 
 <div class="tradition-image-row">
-  <img src="images/Meeting_Circle.png" alt="Online A.A. meeting circle" style="max-width: 87.5%; height: auto; display: block; margin: 1.5rem auto;" />
+  <img src="images/Meeting_Circle.png" alt="Meeting circle image" style="max-width: 87.5%; height: auto; display: block; margin: 1.5rem auto;" />
 </div>
 
 The 24 Hour International Marathon Meeting of A.A., *where sobriety never sleeps*, is dedicated to carrying A.A.'s life-saving message of hope and recovery globally to the alcoholic who still suffers. Individuals seeking support for drug problems and substance use disorders may benefit from professional treatment programs, government resources, rehabilitation services, family support organizations, and other recovery programs and fellowships. Alcoholics Anonymous is not affiliated with any outside agency or enterprise.
@@ -201,11 +157,6 @@ Alcoholics Anonymous is a fellowship of people who share their experience, stren
 
 ### A Declaration of Unity
 
-<div class="quote-card">
-  <p class="quote-label">Declaration of Unity</p>
-  <p class="quote-text">This we owe to A.A.'s future: To place our common welfare first; to keep our Fellowship united. For on A.A. unity depend our lives and the lives of those to come.</p>
-</div>
-
 <div class="tradition-image-row">
   <img src="images/Bob_and_Bill.png" alt="Bob and Bill image" class="portrait-image" />
 </div>
@@ -213,12 +164,6 @@ Alcoholics Anonymous is a fellowship of people who share their experience, stren
 *Dr. Bob and Bill W., the cofounders of Alcoholics Anonymous*
 
 ### I Am Responsible
-
-<div class="quote-card">
-  <p class="quote-label">Toronto Responsibility Statement</p>
-  <p class="quote-text">I am responsible.</p>
-  <p class="quote-text">When anyone, anywhere, reaches out for help, I want the hand of A.A. always to be there. And for that I am responsible.</p>
-</div>
 
 <div class="tradition-image-row">
   <img src="images/first_tradition_image.png" alt="First Tradition image" />
@@ -232,7 +177,7 @@ This link will connect you with the 24 Hour International Marathon Meeting of A.
   <img src="images/Contact_Us.png" alt="Contact this 24/7 online A.A. Meeting" />
 </div>
 
-<a class="explore-button" href="contact-this-24-7-online-aa-meeting/">Contact the 24/7 Online A.A. Meeting</a>
+<a class="explore-button" href="contact-this-24-7-online-aa-meeting/">Contact Us</a>
 
 ### International A.A. Websites
 
@@ -326,7 +271,7 @@ A.A.'s Eighth Tradition states: "Alcoholics Anonymous should remain forever nonp
 Complement with: <a href="crisis-resources/">Crisis and Mental Health Resources</a>
 
 <div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
-  <img src="images/Mayflower.jpg" alt="Mayflower Hotel directory that connected Bill W. and Dr. Bob" style="max-width: 100%; height: auto;" />
+  <img src="images/Mayflower.jpg" alt="Mayflower image" style="max-width: 100%; height: auto;" />
   <div style="width: 100%; text-align: center; font-style: italic; color: #4a5568; margin-top: 0.5rem;">The church directory in the lobby of the Mayflower Hotel in Akron, Ohio that led Bill W. to Dr. Bob. The two men went on to co-found Alcoholics Anonymous.</div>
 </div>
 
@@ -339,7 +284,7 @@ The link below leads to possible topics for A.A. meetings. Other topics can be f
 Read: <a href="aa-primary-purpose/">A.A.'s Primary Purpose</a> and <a href="aas-three-legacies/">Three Legacies</a> to ground your discussions.
 
 <div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
-  <img src="images/Members_TalkingatTable.png" alt="A.A. members talking together at a table" style="max-width: 100%; height: auto;" />
+  <img src="images/Members_TalkingatTable.png" alt="Members talking at a table" style="max-width: 100%; height: auto;" />
 </div>
 
 ## A.A.'s Primary Purpose
@@ -381,7 +326,7 @@ Related: <a href="aa-primary-purpose/">Primary Purpose</a> | <a href="about-this
 
 Welcome to your digital connection to **A.A. Grapevine** and **La Vi&ntilde;a**, the international journals of Alcoholics Anonymous. Often described as A.A.'s "meeting in print," these magazines provide a powerful monthly collection of stories, humor, and insights written directly by fellowship members worldwide.
 
-Whether you are looking for daily inspiration, diverse perspectives on the Twelve Steps, or a deep dive into A.A. history, Grapevine and La Vi&ntilde;a offer a wealth of shared experience, strength, and hope to support you on your journey - because here, sobriety never sleeps.
+Whether you are looking for daily inspiration, diverse perspectives on the Twelve Steps, or a deep dive into recovery history, Grapevine and La Vi&ntilde;a offer a wealth of shared experience, strength, and hope to support you on your journey - because here, sobriety never sleeps.
 
 <a class="explore-button" href="aa-grapevine-and-la-vina/">Read A.A. Grapevine and La Viña Publications</a>
 
@@ -396,13 +341,13 @@ The link below provides relevant information concerning the 24 Hour Internationa
 Connect with: <a href="aas-three-legacies/">A.A.'s Three Legacies</a> | <a href="aa-primary-purpose/">Primary Purpose</a>
 
 <div class="tradition-image-row">
-  <img src="images/Bill_Lois.jpg" alt="A.A. cofounder Bill W. and Lois" />
+  <img src="images/Bill_Lois.jpg" alt="Bill and Lois" />
   <div style="width: 100%; text-align: center; font-style: italic;">A.A.'s cofounder, Bill W., and his wife Lois in 1925.</div>
 </div>
 
 ## A.A. World Services and A.A. General Service Office
 
-<a class="explore-button" href="https://www.aa.org" target="_blank" rel="noopener">Visit A.A. World Services</a>
+<a class="explore-button" href="https://www.aa.org" target="_blank" rel="noopener">GSO</a>
 
 <div class="tradition-image-row">
   <img src="images/General_Service_Conference.png" alt="A.A. General Service Conference" />
