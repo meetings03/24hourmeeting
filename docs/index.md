@@ -266,7 +266,7 @@ To join right away, use the Zoom ID **292 371 2604** or click the button below:
 
 <div class="quote-card">
   <p class="quote-label">Long Form of Tradition Eight</p>
-  <p class="quote-text">Alcoholics Anonymous should remain forever nonprofessional, but our service centers may employ special workers.</p>
+  <p class="quote-text">Alcoholics Anonymous should remain forever nonprofessional. We define professionalism as the occupation of counseling alcoholics for fees or hire. But we may employ alcoholics where they are going to perform those services for which we might otherwise have to engage nonalcoholics. Such special services may be well recompensed. But our usual A.A. Twelfth Step work is never to be paid for.</p>
 </div>
 
 A.A.'s Eighth Tradition states: "Alcoholics Anonymous should remain forever nonprofessional, but our service centers may employ special workers." The link below leads to a variety of non-A.A. recovery-related resources. Inclusion on this website does not indicate endorsement or affiliation. Our aim is to be helpful and to cooperate with our friends.
