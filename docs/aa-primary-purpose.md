@@ -8,7 +8,8 @@
 The Fifth Tradition of A.A.: Each group has but one primary purpose; to carry its message to the alcoholic who still suffers.
 
 <div class="info-card">
-  <p><strong>Why this matters:</strong> Long Form of Tradition Five: Each Alcoholics Anonymous group ought to be a spiritual entity having but one primary purpose--that of carrying its message to the alcoholic who still suffers.</p>
+	<p><strong>Long Form of Tradition Eight</strong></p>
+	<p>Alcoholics Anonymous should remain forever nonprofessional. We define professionalism as the occupation of counseling alcoholics for fees or hire. But we may employ alcoholics where they are going to perform those services for which we might otherwise have to engage nonalcoholics. Such special services may be well recompensed. But our usual A.A. Twelfth Step work is never to be paid for.</p>
 </div>
 
 Our Twelfth Step -- carrying the message -- is the basic service that the A.A. Fellowship gives; this is our principal aim and the main reason for our existence. Therefore, A.A. is more than a set of principles; it is a society of alcoholics in action. We must carry the message, else we ourselves can wither and those who have not been given the truth may die.
