@@ -320,6 +320,8 @@ Connection: <a href="aas-three-legacies/">A.A.'s Three Legacies</a> provide the 
 
 The Three Legacies of Alcoholics Anonymous are Recovery, Unity, and Service. By the first, we recover from alcoholism; by the second, we stay together in unity; and by the third, our society functions and serves its primary purpose of carrying the A.A. message to all who need it and want it. (*Alcoholics Anonymous Comes of Age: A Brief History of A.A.*)
 
+<a class="explore-button" href="aas-three-legacies/">Learn About A.A.'s Three Legacies</a>
+
 ## Problems Other Than Alcohol
 
 The problem of drug addiction in its several forms lies close to us all. It stirs our deepest interest and sympathy. Many A.A. members, especially those who have suffered these particular addictions, are now asking, "What can we do about drugs--within our Fellowship, and without?" Bill W. wrote these words in the pamphlet *Problems Other Than Alcohol*.
