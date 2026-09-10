@@ -5,8 +5,6 @@
 	<div style="width: 100%; text-align: center; font-style: italic;">The primary purpose of the 24-Hour International Marathon Meeting of Alcoholics Anonymous is to carry A.A.'s life-saving message of hope and recovery to the alcoholic who still suffers.</div>
 </div>
 
-The Fifth Tradition of A.A.: Each group has but one primary purpose; to carry its message to the alcoholic who still suffers.
-
 <div class="info-card">
 	<p><strong>Long Form of Tradition Eight</strong></p>
 	<p>Alcoholics Anonymous should remain forever nonprofessional. We define professionalism as the occupation of counseling alcoholics for fees or hire. But we may employ alcoholics where they are going to perform those services for which we might otherwise have to engage nonalcoholics. Such special services may be well recompensed. But our usual A.A. Twelfth Step work is never to be paid for.</p>
