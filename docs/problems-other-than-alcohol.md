@@ -1,5 +1,9 @@
 # Questions and Answers Regarding Drugs and A.A. Membership
 
+<div class="tradition-image-row">
+  <img src="images/Problems_Other_Than_Alcohol.png" alt="Problems Other Than Alcohol pamphlet cover" />
+</div>
+
 The problem of drug addiction in its several forms lies close to us all. It stirs our deepest interest and sympathy. Many A.A. members, especially those who have suffered these particular addictions, are now asking, "What can we do about drugs--within our Fellowship, and without?" Bill W., from the pamphlet "Problems Other Than Alcohol."
 
 ## Questions and Answers Regarding Drugs and A.A. Membership
