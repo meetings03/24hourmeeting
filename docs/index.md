@@ -322,16 +322,16 @@ The Three Legacies of Alcoholics Anonymous are Recovery, Unity, and Service. By 
 
 <a class="explore-button" href="aas-three-legacies/">Learn About A.A.'s Three Legacies</a>
 
+<div class="tradition-image-row">
+  <img src="images/StepsTraditionsConcepts.png" alt="A.A. Steps, Traditions, and Concepts" />
+  <div style="width: 100%; text-align: center; font-style: italic;">A.A.'s Three Legacies of Recovery, Unity, and Service were adopted by the Fellowship at the International Convention of Alcoholics Anonymous at St. Louis in 1955. Read about this historic event in the book <em>Alcoholics Anonymous Comes of Age: A Brief History of A.A.</em></div>
+</div>
+
 ## Problems Other Than Alcohol
 
 The problem of drug addiction in its several forms lies close to us all. It stirs our deepest interest and sympathy. Many A.A. members, especially those who have suffered these particular addictions, are now asking, "What can we do about drugs--within our Fellowship, and without?" Bill W. wrote these words in the pamphlet *Problems Other Than Alcohol*.
 
 <a class="explore-button" href="problems-other-than-alcohol/">Problems Other Than Alcohol</a>
-
-<div class="tradition-image-row">
-  <img src="images/StepsTraditionsConcepts.png" alt="A.A. Steps, Traditions, and Concepts" />
-  <div style="width: 100%; text-align: center; font-style: italic;">A.A.'s Three Legacies of Recovery, Unity, and Service were adopted by the Fellowship at the International Convention of Alcoholics Anonymous at St. Louis in 1955. Read about this historic event in the book <em>Alcoholics Anonymous Comes of Age: A Brief History of A.A.</em></div>
-</div>
 
 <div class="tradition-image-row">
   <img src="images/Grapevine.png" alt="A.A. Grapevine magazine" />
