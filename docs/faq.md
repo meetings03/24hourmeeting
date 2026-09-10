@@ -1,8 +1,6 @@
 # Frequently Asked Questions About the 24/7 International Marathon Meeting of A.A.
 
-<a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join Online A.A. Meeting</a>
-
-If you are looking for quick answers about the meeting, the schedule, participation, or anonymity, this page brings together the most common questions we receive. Newcomers can also read [What to Expect When You Join](what-to-expect-when-you-join.md), review [Quick Answers](quick-answers.md), or learn more [About This Meeting](about-this-meeting.md).
+If you are looking for quick answers about the meeting, the schedule, participation, or anonymity, this page brings together the most common questions we receive.
 
 ## Who is allowed to attend this 24-hour online A.A. meeting?
 
@@ -37,8 +35,6 @@ English is the primary language of most members of the 24-Hour International Mar
 The Zoom meeting ID is **292 371 2604**. No password is required to join. You can connect from anywhere in the world at any time.
 
 To share your experience, strength, and hope, simply raise your virtual hand. The chairperson calls on hands in the exact order they are raised.
-
-<a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join Online A.A. Meeting</a>
 
 ## Can I get a sponsor on this 24-hour marathon A.A. meeting?
 
@@ -145,11 +141,6 @@ No. A.A. groups are supported by the voluntary contributions of their members.
 In keeping with our primary purpose of carrying the A.A. message to the alcoholic who still suffers, we ask that everyone who shares confine their discussion to their problem with alcohol.
 
 The long form of A.A.'s Third Tradition states: "Our membership ought to include all who suffer from alcoholism. Hence we may refuse none who wish to recover. Nor ought A.A. membership ever depend upon money or conformity. Any two or three alcoholics gathered together for sobriety may call themselves an A.A. group, provided that, as a group, they have no other affiliation."
-
-<div class="quote-card">
-  <p class="quote-label">Long Form of A.A.'s Tenth Tradition</p>
-  <p class="quote-text">No A.A. group or member should ever, in such a way as to implicate A.A., express any opinion on outside controversial issues--particularly those of politics, alcohol reform, or sectarian religion. The Alcoholics Anonymous groups oppose no one. Concerning such matters they can express no views whatever.</p>
-</div>
 
 ## How can I contact the 24-hour International Marathon Meeting of A.A.?
 

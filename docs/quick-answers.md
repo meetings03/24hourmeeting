@@ -1,9 +1,5 @@
 # Quick Answers
 
-<a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join Online A.A. Meeting</a>
-
-For a fuller introduction, read [What to Expect When You Join](what-to-expect-when-you-join.md) or browse the [Frequently Asked Questions](faq.md).
-
 - **What is this?** A live 24/7 Online A.A. Meeting on Zoom for people seeking sobriety.
 - **Who can attend?** This is an open Alcoholics Anonymous meeting, and anyone with a desire to stop drinking is welcome.
 - **How do I join?** Use Zoom Meeting ID **292 371 2604** or click the Join Online A.A. Meeting button above.
@@ -13,5 +9,3 @@ For a fuller introduction, read [What to Expect When You Join](what-to-expect-wh
 <div class="tradition-image-row">
   <img src="images/Help_247_7.30.2026.jpg" alt="Help 24/7 online meeting logo" />
 </div>
-
-<a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join the Meeting Anytime</a>
