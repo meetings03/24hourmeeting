@@ -48,11 +48,6 @@ Alcoholics Anonymous is not affiliated with any outside enterprise. Inclusion of
 - **Women for Sobriety**: Recovery support organization focused on the unique needs of women. [https://womenforsobriety.org](https://womenforsobriety.org)
 - **Celebrate Recovery**: A biblically based Christian approach to helping people achieve long-lasting recovery by healing hurts, guiding people toward new healthy truths, and developing life-giving habits. [https://celebraterecovery.com](https://celebraterecovery.com)
 
-<div class="quote-card">
-  <p class="quote-label">Long Form of A.A.'s Eighth Tradition</p>
-  <p class="quote-text">Alcoholics Anonymous should remain forever nonprofessional. We define professionalism as the occupation of counseling alcoholics for fees or hire. But we may employ alcoholics where they are going to perform those services for which we might otherwise have to engage nonalcoholics. Such special services may be well recompensed. But our usual A.A. Twelfth Step work is never to be paid for.</p>
-</div>
-
 ## International University Programs in Drug and Alcohol Counselling
 
 - **University of Auckland**: [https://www.auckland.ac.nz](https://www.auckland.ac.nz)
@@ -82,11 +77,6 @@ Alcoholics Anonymous is not affiliated with any outside enterprise. Inclusion of
 - **Asia Pacific Association for Addiction Professionals (APAAP)**: [https://apaap.tungwahcsd.org](https://apaap.tungwahcsd.org)
 - **Australian Alcohol and Other Drugs Council (AAODC)**: [https://aadc.org.au](https://aadc.org.au)
 - **Canadian Addiction Counsellors Certification Federation (CACCF)**: [https://caccf.ca](https://caccf.ca)
-
-<div class="quote-card">
-  <p class="quote-label">Long Form of A.A.'s Sixth Tradition</p>
-  <p class="quote-text">Problems of money, property, and authority may easily divert us from our primary spiritual aim. We think, therefore, that any considerable property of genuine use to A.A. should be separately incorporated and managed, thus dividing the material from the spiritual. An A.A. group, as such, should never go into business. Secondary aids to A.A., such as clubs or hospitals which require much property or administration, ought to be incorporated and so set apart that, if necessary, they can be freely discarded by the groups. Hence such facilities ought not to use the A.A. name. Their management should be the sole responsibility of those people who financially support them. For clubs, A.A. managers are usually preferred. But hospitals, as well as other places of recuperation, ought to be well outside A.A. and medically supervised. While an A.A. group may cooperate with anyone, such cooperation ought never go so far as affiliation or endorsement, actual or implied. An A.A. group can bind itself to no one.</p>
-</div>
 
 <div class="tradition-image-row">
   <img src="/images/Member_Sharing_at_Mic.png" alt="Member sharing at the microphone image" />

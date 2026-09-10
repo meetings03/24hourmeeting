@@ -5,26 +5,8 @@
   {% set is_home_page = page and page.url == '' %}
   {% set is_about_page = page and page.url == 'about-this-meeting/' %}
   {% set canonical_url = 'https://sobrietyneversleeps.org/' if is_home_page else 'https://sobrietyneversleeps.org/' ~ page.url %}
-  {% set page_descriptions = {
-    '': 'Join a 24/7 Online AA Meeting on Zoom. Open international Alcoholics Anonymous meeting every hour. Zoom ID 292 371 2604. No password required.',
-    'drinking-problem/': 'Learn about signs of a drinking problem, the CAGE questions, and how an open 24/7 online Alcoholics Anonymous meeting may help.',
-    'quick-answers/': 'Find quick answers about joining the 24/7 online Alcoholics Anonymous meeting, Zoom access, participation, anonymity, and meeting support.',
-    'what-to-expect-when-you-join/': 'Learn what to expect when you join the 24/7 International Marathon Meeting of Alcoholics Anonymous on Zoom.',
-    'faq/': 'Read frequently asked questions about the 24/7 online Alcoholics Anonymous meeting, participation, safety, anonymity, and recovery support.',
-    'disclaimer-and-permissions/': 'Review the website disclaimer, permissions, affiliations, and guidance for the 24/7 International Marathon Meeting of Alcoholics Anonymous.',
-    'aa-literature/': 'Explore Alcoholics Anonymous General Service Conference-approved literature and resources for recovery, unity, and service.',
-    'international-aa-websites/': 'Find official international Alcoholics Anonymous websites and online fellowship resources from around the world.',
-    'crisis-resources/': 'Find crisis and mental health support resources. This page is independent of Alcoholics Anonymous and outside organizations.',
-    'recovery-resources/': 'Explore professional treatment, rehabilitation, and recovery resources for substance use and related concerns.',
-    'topics-for-online-aa-meetings/': 'Browse discussion topics for online Alcoholics Anonymous meetings, including recovery, unity, service, and sobriety.',
-    'aa-primary-purpose/': 'Learn about Alcoholics Anonymous primary purpose and the Fifth Tradition: carrying the message to the alcoholic who still suffers.',
-    'aas-three-legacies/': 'Learn how Recovery, Unity, and Service form the Three Legacies of Alcoholics Anonymous.',
-    'aa-grapevine-and-la-vina/': 'Explore A.A. Grapevine and La Viña publications, member stories, recovery writing, and fellowship history.',
-    'about-this-meeting/': 'Learn how the 24/7 International Marathon Meeting of Alcoholics Anonymous works, how to join Zoom, and what newcomers can expect.',
-    'contact-this-24-7-online-aa-meeting/': 'Find contact information and service details for the 24/7 International Marathon Meeting of Alcoholics Anonymous.'
-  } %}
-  {% set page_title = '24/7 Online AA Meeting | Join Live on Zoom' if is_home_page else ('About the 24/7 International Online AA Meeting' if is_about_page else (page.title if page and page.title else config.site_name)) %}
-  {% set page_description = page_descriptions.get(page.url, config.site_description) %}
+  {% set page_title = '24/7 Online AA Meeting | Join Live on Zoom' if is_home_page else ('About the 24/7 International Online AA Meeting' if is_about_page else page.title) %}
+  {% set page_description = 'Join a 24/7 Online AA Meeting on Zoom. Open international Alcoholics Anonymous meeting every hour. Zoom ID 292 371 2604. No password required.' if is_home_page else ('Learn how the 24/7 International Marathon Meeting of AA works, how to join Zoom, what newcomers can expect, and how to share.' if is_about_page else config.site_description) %}
   <link rel="canonical" href="{{ canonical_url }}" />
   <meta name="description" content="{{ page_description }}" />
   <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
@@ -50,28 +32,6 @@
   <link rel="alternate" hreflang="x-default" href="{{ canonical_url }}" />
   <meta name="keywords" content="24/7 AA Zoom Meeting, International Online AA Zoom Meeting, Online AA Meeting, AA Zoom Meeting" />
   <meta name="subject" content="24/7 AA Zoom Meeting" />
-  {% if not is_home_page %}
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://sobrietyneversleeps.org/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": {{ page_title | tojson }},
-        "item": {{ canonical_url | tojson }}
-      }
-    ]
-  }
-  </script>
-  {% endif %}
   {% if is_about_page %}
   <script type="application/ld+json">
   {
@@ -452,12 +412,5 @@
   {{ super() }}
   <div class="site-footer">
     <a href="/disclaimer-and-permissions/">Disclaimer and Permissions</a>
-    <nav aria-label="Related recovery resources">
-      <a href="/quick-answers/">Quick Answers</a>
-      <a href="/what-to-expect-when-you-join/">What to Expect When You Join</a>
-      <a href="/faq/">Frequently Asked Questions</a>
-      <a href="/about-this-meeting/">About This Meeting</a>
-      <a href="/topics-for-online-aa-meetings/">Online A.A. Meeting Topics</a>
-    </nav>
   </div>
 {% endblock %}
