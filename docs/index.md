@@ -276,7 +276,6 @@ To join right away, use the Zoom ID **292 371 2604** or click the button below:
   <div style="width: 100%; text-align: center;">
     <p><strong>Long Form of Tradition Eight</strong></p>
     <p>Alcoholics Anonymous should remain forever nonprofessional. We define professionalism as the occupation of counseling alcoholics for fees or hire. But we may employ alcoholics where they are going to perform those services for which we might otherwise have to engage nonalcoholics. Such special services may be well recompensed. But our usual A.A. Twelfth Step work is never to be paid for.</p>
-    <a class="explore-button" href="recovery-resources/">Find Recovery Resources</a>
   </div>
 </div>
 
