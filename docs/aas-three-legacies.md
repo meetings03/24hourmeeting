@@ -3,13 +3,13 @@
 The Three Legacies of Alcoholics Anonymous are Recovery, Unity, and Service. By the first, we recover from alcoholism; by the second, we stay together in unity; and by the third, our society functions and serves its primary purpose of carrying the A.A. message to all who need it and want it. (*Alcoholics Anonymous Comes of Age: A Brief History of A.A.*)
 
 <div class="tradition-image-row">
-  <img src="/images/Legacies.png?v=1" alt="Three Legacies of Alcoholics Anonymous" style="width: 80%; max-width: 100%; height: auto; display: block; margin: 0 auto;" />
+  <img src="../images/Legacies.png?v=1" alt="Three Legacies of Alcoholics Anonymous" style="width: 80%; max-width: 100%; height: auto; display: block; margin: 0 auto;" />
 </div>
 
 ## Recovery
 
 <div class="tradition-image-row">
-  <img src="/images/Basic_Text.png?v=1" alt="Alcoholics Anonymous basic text" />
+  <img src="../images/Basic_Text.png?v=1" alt="Alcoholics Anonymous basic text" />
   <div style="width: 100%; text-align: center; font-style: italic;">Alcoholics Anonymous: The story of how many thousands of men and women have recovered from alcoholism.</div>
 </div>
 
@@ -39,7 +39,7 @@ A.A.'s program of recovery is presented in The Big Book of Alcoholics Anonymous,
 ## Unity
 
 <div class="tradition-image-row">
-  <img src="/images/12x12.png?v=1" alt="Alcoholics Anonymous Twelve Steps and Twelve Traditions" />
+  <img src="../images/12x12.png?v=1" alt="Alcoholics Anonymous Twelve Steps and Twelve Traditions" />
   <div style="width: 100%; text-align: center; font-style: italic;">Twelve Steps and Twelve Traditions is a collection of interpretive essays by an A.A. co-founder that explain the A.A. program of recovery-- the Twelve Steps, and the principles that keep our Society together--the Twelve Traditions. A.A.'s Traditions are also explained in the pamphlets "The Twelve Traditions llustrated" and "A.A. Tradition: How it Developed," and the book "Alcoholics Anonymous Comes of Age: A Brief History of A.A.," available at www.aa.org</div>
 </div>
 
