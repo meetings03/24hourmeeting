@@ -2,10 +2,6 @@
 
 The Three Legacies of Alcoholics Anonymous are Recovery, Unity, and Service. By the first, we recover from alcoholism; by the second, we stay together in unity; and by the third, our society functions and serves its primary purpose of carrying the A.A. message to all who need it and want it. (*Alcoholics Anonymous Comes of Age: A Brief History of A.A.*)
 
-<div class="info-card">
-  <p><strong>How these work together:</strong> Recovery gives us a new life, Unity keeps the Fellowship strong, and Service ensures that the message continues to reach the alcoholic who still suffers.</p>
-</div>
-
 <div class="tradition-image-row">
   <img src="/images/Legacies.png?v=1" alt="Three Legacies of Alcoholics Anonymous" style="width: 80%; max-width: 100%; height: auto; display: block; margin: 0 auto;" />
 </div>
@@ -15,6 +11,12 @@ The Three Legacies of Alcoholics Anonymous are Recovery, Unity, and Service. By 
 <div class="tradition-image-row">
   <img src="/images/Basic_Text.png?v=1" alt="Alcoholics Anonymous basic text" />
   <div style="width: 100%; text-align: center; font-style: italic;">Alcoholics Anonymous: The story of how many thousands of men and women have recovered from alcoholism.</div>
+</div>
+
+<div class="quote-card">
+  <p class="quote-label">What is an A.A. group?</p>
+  <p class="quote-text">Any gathering of two or more alcoholics who wish to recover and have no other affiliation may call themselves an A.A. group. Membership at the group level is open to all who have a desire to recover from alcoholism. There are no dues, fees, requirements or restrictions of any kind. There’s no formal application to join a group.</p>
+  <p class="quote-text">What’s the purpose of A.A. groups? All groups exist to help those who suffer from the disease of alcoholism.</p>
 </div>
 
 A.A.'s program of recovery is presented in The Big Book of Alcoholics Anonymous, which describes the grave and progressive nature of alcoholism, and explains how to recover with the Twelve Steps. A.A.'s experience has taught us that the Steps are best taken with a sponsor.
