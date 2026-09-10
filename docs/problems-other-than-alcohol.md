@@ -4,7 +4,7 @@
   <img src="../images/Problems_Other_Than_Alcohol.png" alt="Problems Other Than Alcohol pamphlet cover" />
 </div>
 
-[Read Problems Other Than Alcohol as a PDF](pdfs/Problems_Other_Than_Alcohol.pdf)
+<a class="explore-button" href="pdfs/Problems_Other_Than_Alcohol.pdf" target="_blank" rel="noopener">Read Problems Other Than Alcohol as a PDF</a>
 
 The problem of drug addiction in its several forms lies close to us all. It stirs our deepest interest and sympathy. Many A.A. members, especially those who have suffered these particular addictions, are now asking, "What can we do about drugs--within our Fellowship, and without?" Bill W., from the pamphlet "Problems Other Than Alcohol."
 
