@@ -271,13 +271,13 @@ To join right away, use the Zoom ID **292 371 2604** or click the button below:
 
 ## Recovery Resources
 
-<div class="tradition-image-row">
-  <img src="/images/eighth_tradition_image.png" alt="Eighth Tradition image" />
-</div>
-
-<div class="quote-card">
-  <p class="quote-label">Long Form of Tradition Eight</p>
-  <p class="quote-text">Alcoholics Anonymous should remain forever nonprofessional. We define professionalism as the occupation of counseling alcoholics for fees or hire. But we may employ alcoholics where they are going to perform those services for which we might otherwise have to engage nonalcoholics. Such special services may be well recompensed. But our usual A.A. Twelfth Step work is never to be paid for.</p>
+<div class="tradition-image-row" style="margin: 1.5rem 0; padding: 1rem; border: 1px solid rgba(47, 78, 168, 0.12); border-radius: 12px; background: linear-gradient(180deg, #f9fbff 0%, #f2f6ff 100%);">
+  <img src="images/eighth_tradition_image.png" alt="Eighth Tradition image" style="max-width: 330px; width: 100%; height: auto; display: block; border-radius: 8px; box-shadow: 0 10px 24px rgba(47, 78, 168, 0.12);" />
+  <div style="width: 100%; text-align: center;">
+    <p><strong>Long Form of Tradition Eight</strong></p>
+    <p>Alcoholics Anonymous should remain forever nonprofessional. We define professionalism as the occupation of counseling alcoholics for fees or hire. But we may employ alcoholics where they are going to perform those services for which we might otherwise have to engage nonalcoholics. Such special services may be well recompensed. But our usual A.A. Twelfth Step work is never to be paid for.</p>
+    <a class="explore-button" href="recovery-resources/">Find Recovery Resources</a>
+  </div>
 </div>
 
 A.A.'s Eighth Tradition states: "Alcoholics Anonymous should remain forever nonprofessional, but our service centers may employ special workers." The link below leads to a variety of non-A.A. recovery-related resources. Inclusion on this website does not indicate endorsement or affiliation. Our aim is to be helpful and to cooperate with our friends.
