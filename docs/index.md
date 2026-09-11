@@ -254,7 +254,7 @@ Alcoholics Anonymous is a fellowship of people who share their experience, stren
   <img src="images/first_tradition_image.png" alt="First Tradition image" />
 </div>
 
-## Contact this 24/7 online A.A. Meeting
+## Contact the 24 Hour International Marathon Meeting of AA
 
 This link will connect you with the 24 Hour International Marathon Meeting of A.A. (Where sobriety never sleeps).
 
@@ -371,6 +371,11 @@ The link below leads to possible topics for A.A. meetings. Other topics can be f
 <a class="explore-button" href="topics-for-online-aa-meetings/">View Meeting Topics and Discussion Ideas</a>
 
 Read: <a href="aa-primary-purpose/">A.A.'s Primary Purpose</a> and <a href="aas-three-legacies/">Three Legacies</a> to ground your discussions.
+
+<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
+  <img src="images/Coffee_Pot.png" alt="Coffee pot used by early Alcoholics Anonymous pioneers in Akron, Ohio" style="max-width: 100%; height: auto;" />
+  <div style="width: 100%; text-align: center; font-style: italic; color: #4a5568; margin-top: 0.5rem;">Alcoholics Anonymous began in Akron, Ohio, in June 1935, when Bill W., a New York stockbroker, met Dr. Bob, an Akron physician. Early A.A. pioneers gathered in Dr. Bob's house and drank from this coffee pot, as they shared their experience, strength and hope.</div>
+</div>
 
 ## A.A.'s Primary Purpose
 
