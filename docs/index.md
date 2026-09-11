@@ -347,10 +347,6 @@ The link below leads to possible topics for A.A. meetings. Other topics can be f
 
 Read: <a href="aa-primary-purpose/">A.A.'s Primary Purpose</a> and <a href="aas-three-legacies/">Three Legacies</a> to ground your discussions.
 
-<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
-  <img src="images/Members_TalkingatTable.png" alt="Members talking at a table" style="max-width: 100%; height: auto;" />
-</div>
-
 ## A.A.'s Primary Purpose
 
 Our Twelfth Step -- carrying the message -- is the basic service that the A.A. Fellowship gives; this is our principal aim and the main reason for our existence. Therefore, A.A. is more than a set of principles; it is a society of alcoholics in action. We must carry the message, else we ourselves can wither and those who have not been given the truth may die. 
@@ -376,6 +372,10 @@ The Three Legacies of Alcoholics Anonymous are Recovery, Unity, and Service. By 
 </div>
 
 ## Sponsorship
+
+<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
+  <img src="images/Members_TalkingatTable.png" alt="Members talking at a table" style="max-width: 100%; height: auto;" />
+</div>
 
 <a class="explore-button" href="sponsorship/">Sponsorship</a>
 
