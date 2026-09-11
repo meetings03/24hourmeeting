@@ -314,6 +314,10 @@ The button below leads to A.A. General Service Conference-approved literature.
 
 <a class="explore-button" href="aa-literature/">Access A.A. General Service Conference-approved Literature</a>
 
+<div class="tradition-image-row">
+  <img src="images/AA_Literature.png" alt="A.A. Literature" />
+</div>
+
 See also: <a href="aa-grapevine-and-la-vina/">A.A. Grapevine and La Viña</a> for member-written stories and insights.
 
 <div class="tradition-image-row">
