@@ -12,15 +12,15 @@ Join the [24/7 Online A.A. Meeting on Zoom](https://zoom.us/j/2923712604). You c
 
 ## How to Access the 24/7 International Online A.A. Meeting
 
-The 24 Hour International Marathon Meeting of A.A. (where sobriety never sleeps) is a 24/7 online A.A. meeting that runs continuously on Zoom. It is part of the global A.A. fellowship. The Zoom access code is 292 371 2604 (no passcode is needed).
+The 24-Hour International Marathon Meeting of A.A. (where sobriety never sleeps) is a 24/7 online A.A. meeting that runs continuously on Zoom. It is part of the global A.A. fellowship. The Zoom access code is 292 371 2604 (no passcode is needed).
 
 ## Meeting Format
 
-A chairperson reads an opening script at the top of each hour and introduces an A.A. topic, and then unmutes one participant at a time.
+A chairperson reads an opening script at the top of each hour and introduces an A.A. topic, and then unmutes one participant at a time. Each speaker gets five minutes to share, with a gentle reminder when one minute remains.
 
 ## Open Meeting
 
-The 24 Hour International Marathon Meeting of A.A. (where sobriety never sleeps) is an open meeting. This means that visitors are welcome. We ask that only alcoholics or persons with a desire to stop drinking share.
+The 24-Hour International Marathon Meeting of A.A. (where sobriety never sleeps) is an open meeting. This means that visitors are welcome. We ask that only alcoholics or persons with a desire to stop drinking share.
 
 ## How to Share
 
@@ -32,15 +32,15 @@ A new meeting with a fresh A.A. topic begins at the top of each hour. Newcomers 
 
 ## Primary Purpose of the Meeting
 
-The 24 Hour International Marathon Meeting of A.A. (where sobriety never sleeps) follows the Twelve Traditions of A.A. The Fifth Tradition states: "Each group has but one primary purpose; to carry its message to the alcoholic who still suffers." The meeting is not affiliated with any outside organizations and stresses anonymity and A.A.'s singleness of purpose.
+The 24-Hour International Marathon Meeting of A.A. (where sobriety never sleeps) follows the Twelve Traditions of A.A. The Fifth Tradition states: "Each group has but one primary purpose; to carry its message to the alcoholic who still suffers." The meeting is not affiliated with any outside organizations and stresses anonymity and A.A.'s singleness of purpose.
 
 ## History of the Meeting
 
-The 24 Hour International Marathon Meeting of A.A. (where sobriety never sleeps) was founded by two newcomers in New Zealand at the start of the COVID pandemic in April 2020. They realized they needed the fellowship of other alcoholics if they were to stay sober. The meeting quickly spread around the world and has been operating continuously ever since.
+The 24-Hour International Marathon Meeting of A.A. (where sobriety never sleeps) was founded by two newcomers in New Zealand at the start of the COVID pandemic in April 2020. They realized they needed the fellowship of other alcoholics if they were to stay sober. The meeting quickly spread around the world and has been operating continuously ever since.
 
 ## How to Join the Meeting
 
-- Zoom ID: 292 371 2604 (no passcode needed)
+- Zoom ID: 292 371 2604 (no passcode is needed)
 - Video is optional
 - To raise your virtual hand to share, click the "Raise Your Hand" button on the "Reactions" tab.
 - Accessible 24/7
