@@ -15,6 +15,4 @@ If you are joining for the first time, want to ask a question, or need to connec
   </ul>
 </div>
 
-We are here to help you connect with our online recovery community. If you are seeking a meeting, a question, or more information about how to join, we invite you to reach out or join us on Zoom at any time.
-
 <a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join Online A.A. Meeting</a>
