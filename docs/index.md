@@ -328,6 +328,8 @@ Alcoholics Anonymous is not affiliated with any outside entities or organization
 
 Also explore: <a href="recovery-resources/">Substance Abuse and Drug Rehabilitation Resources</a> and <a href="topics-for-online-aa-meetings/">Meeting Topics</a> for peer support.
 
+## A Newcomer Asks
+
 <div class="tradition-image-row">
   <img src="images/NewcomerAsks.png" alt="A Newcomer Asks pamphlet" />
 </div>
