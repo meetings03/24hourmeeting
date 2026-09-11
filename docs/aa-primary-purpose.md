@@ -15,3 +15,7 @@ Our Twelfth Step -- carrying the message -- is the basic service that the A.A. F
 The spark that was to flare into the first A.A. group was struck at Akron, Ohio, in June 1935, during a talk between a New York stockbroker and an Akron physician. Six months earlier, the broker had been relieved of his drink obsession by a sudden spiritual experience following a meeting with a friend who had been in contact with the Oxford Groups of that day. He had also been greatly helped by the late Dr. William D. Silkworth, a New York specialist in alcoholism who is now accounted no less than a medical saint by A.A. members, and whose story of the early days of our Society appears in the chapter The Doctor's Opinion in the Big Book of Alcoholics Anonymous. From this doctor, the broker had learned of the grave nature of alcoholism. Though he could not accept all the tenets of the Oxford Groups, he was convinced of the need for moral inventory, confession of personality defects, restitution to those harmed, helpfulness to others, and the necessity of belief in and dependence upon God.
 
 <a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join Online A.A. Meeting</a>
+
+<div class="tradition-image-row">
+	<img src="/images/TalkingWalls.png" alt="Talking Walls image" />
+</div>
