@@ -66,6 +66,10 @@ Join a live 24/7 Online A.A. Meeting on Zoom. This is an open international Alco
   <div style="width: 100%; text-align: center; font-style: italic;">The 24 Hour International Marathon Meeting of A.A. was founded at the start of the COVID pandemic by two newcomers from New Zealand who realized they needed the fellowship of other alcoholics if they were to stay sober. It has been operating continuously 24/7 since April 20, 2020.</div>
 </div>
 
+<div class="tradition-image-row">
+  <img src="images/Help_247.jpg" alt="Help 24/7 online meeting logo" />
+</div>
+
 ### Quick Answers About this 24/7 Online A.A. Meeting
 
 <a class="explore-button" href="quick-answers/">Read Quick Answers</a>
