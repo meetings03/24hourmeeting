@@ -98,6 +98,31 @@
   .quote-text:last-of-type {
     margin-bottom: 0;
   }
+
+  .legacy-vignette {
+    margin: 2rem auto;
+    padding: 2rem 2.25rem;
+    max-width: 820px;
+    background: linear-gradient(180deg, #f9fbff 0%, #f2f6ff 100%);
+    border: 1px solid rgba(47, 78, 168, 0.15);
+    border-radius: 12px;
+    box-shadow: 0 10px 24px rgba(47, 78, 168, 0.12);
+  }
+
+  .legacy-vignette h3 {
+    margin-top: 0;
+    text-align: center;
+    letter-spacing: 0.03em;
+  }
+
+  .legacy-vignette h4 {
+    color: #2f4ea8;
+  }
+
+  .legacy-vignette p {
+    line-height: 1.7;
+    color: #324055;
+  }
 </style>
 
 <a id="join-meeting" class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join Online A.A. Meeting</a>
@@ -379,6 +404,33 @@ The Three Legacies of Alcoholics Anonymous are Recovery, Unity, and Service. By 
 </div>
 
 <a class="explore-button" href="sponsorship/">Sponsorship</a>
+
+<article class="legacy-vignette">
+<h3>Sponsorship Within A.A.'s Three Legacies</h3>
+
+<p>The Three Legacies of Alcoholics Anonymous grew out of the individual and collective experience of A.A.'s early members as they struggled to gain, maintain and pass along the hard-won lessons of sobriety to other alcoholics. For these once-hopeless drinkers, the principles and the program of Alcoholics Anonymous provided the firm foundation for a new life based on the Twelve Steps, the Twelve Traditions and the Twelve Concepts. These principles continue to be vital foundations for countless alcoholics all over the world and in many languages. The Legacies of Recovery, Unity and Service — represented in the Steps, Traditions and Concepts — are interconnected and interdependent.</p>
+
+<p>In meetings around the world, the metaphor of A.A. as a three-legged stool supported by the Three Legacies is often used. Remove one leg and the stool tips over. Without Recovery, as found in A.A.'s Twelve Steps, there would be no need for Unity. Without Unity, as supported by A.A.'s Twelve Traditions, groups would not survive, and there would be no need for Service. Without Service, as represented in A.A.'s Twelve Concepts, there would be no one available to carry the message, leaving Recovery unattainable to suffering alcoholics.</p>
+
+<h4>Recovery</h4>
+<p>The Twelve Steps provide the basis for recovery. First articulated in the Big Book, Alcoholics Anonymous, the Steps were written by A.A. co-founder Bill W. based on spiritual principles and practices from the fields of religion, medicine and psychology.</p>
+<p>Reflecting upon these inspirations, Bill wrote, "The Oxford Groups of that day threw heavy emphasis on personal work, one member with another. A.A.'s Twelfth Step had its origin in that vital practice. The moral backbone of the 'O.G.' was absolute honesty, absolute purity, absolute unselfishness, and absolute love. They also practiced a type of confession, which they called 'sharing'; the making of amends for harms done they called 'restitution.' They believed deeply in their 'quiet time,' a meditation practiced by groups and individuals alike, in which the guidance of God was sought for every detail of living, great or small." (The Language of the Heart, page 196)</p>
+<p>Bill noted that Dr. Silkworth "contribute[d] a very great idea without which A.A. could never have succeeded. For years he had been proclaiming alcoholism an illness, an obsession of the mind coupled with an allergy of the body ... That's where medical science, personified by this benign little doctor, began to fit in. Held in the hands of one alcoholic talking to the next, this double-edged truth was a sledgehammer which could shatter the tough alcoholic's ego at depth and lay him wide open to the grace of God."</p>
+<p>Bill also wrote about contributions from psychology. "William James did even more. Not only, he [James] said, could spiritual experiences make people saner, they could transform men and women so that they could do, feel, and believe what had hitherto been impossible to them."</p>
+
+<h4>Unity</h4>
+<p>The Twelve Traditions were hammered out on the anvil of A.A. experience and presented to the Fellowship by Bill W. in 1946 through a series of articles in the AA Grapevine. Based on the trial-and-error experiences of A.A.'s early groups, Bill W. set out to write down what was working in the Fellowship and what was not. Major questions about membership, money and the relationship of one group to another threatened to crowd out the early success members were having in getting and staying sober. Recognizing the importance of unity within the newly formed Fellowship, Bill noted at one point that if all the rules and requirements in effect in different groups had been active across the entire Fellowship at the same time no one, including himself, would have qualified for membership. Bill called those early members "children of chaos," noting however, that having "defiantly played with every brand of fire," as a Fellowship they had emerged unharmed and wiser.</p>
+<p>So, how do we hold the Fellowship together? How do we arrange ourselves with sufficient — but not too much — organization? How do we relate ourselves rightly with the outside world? How do we identify and stick to our singular purpose — that of carrying the message to the still-suffering alcoholic?</p>
+<p>In Alcoholics Anonymous Comes of Age, Bill addressed the purpose fulfilled by the Twelve Traditions. "The Twelve Traditions ... point straight at many of our individual defects. By implication they ask each of us to lay aside pride and resentment. They ask for personal as well as group sacrifice. They ask us never to use the A.A. name in any quest for personal power or distinction or money. The Traditions guarantee the equality of all members and the independence of all groups. They show how we may best relate ourselves to each other and to the world outside. They indicate how we can best function in harmony as a great whole. For the sake of the welfare of our entire society, the Traditions ask that every individual and every group and every area in A.A. shall lay aside all desires, ambitions, and untoward actions that could bring serious division among us or lose for us the confidence of the world at large. The Twelve Traditions of Alcoholics Anonymous symbolize the sacrificial character of our life together and they are the greatest force for unity that we know."</p>
+
+<h4>Service</h4>
+<p>On a fateful day in November 1934, Bill W.'s old friend Ebby T. visited him in Brooklyn with hopeful news about recovery — "one alcoholic had effectively carried the message to another." This fundamental transmission of hope, repeated when Bill W. met Dr. Bob on Mother's Day in 1935, put into motion a chain reaction of recovery that continues to this day.</p>
+<p>Initially dependent on the ongoing guidance of the co-founders, a service structure slowly grew up around early A.A.s that came to include the General Service Office, the General Service Board and the General Service Conference, the designated successor to the co-founders.</p>
+<p>In his article in AA Grapevine titled "A.A.'s Legacy of Service," Bill remarked on this development: "Until 1950, these overall services were the sole function of a few old-time A.A.s, several nonalcoholic friends, Doctor Bob, and me. For all the years of A.A.'s infancy, we old-timers had been the self-appointed trustees for Alcoholics Anonymous.</p>
+<p>At this time, we realized that A.A. had grown up, that our Fellowship was ready and able to take these responsibilities from us ... This meant that we had to form a conference representing our membership which could meet yearly with our Board of Trustees in New York and thus assume direct responsibility for the guardianship of A.A. tradition and the direction of our principal service affairs."</p>
+<p>With the growth of the Conference and the ongoing evolution of A.A., in 1962 Bill put forward the Twelve Concepts for World Service, a set of principles bringing form and clarity to A.A.'s world service structure. As noted in their introduction, "These Concepts ... aim to record the 'why' of our service structure in such a fashion that the highly valuable experience of the past, and the lessons we have drawn from that experience, can never be forgotten or lost."</p>
+<p>Bill summed it up this way in The Language of the Heart: "By our Twelve Steps we have recovered, by our Twelve Traditions we have unified, and through A.A.'s Third Legacy — Service — we shall carry the A.A. message down through all the corridors of time to come."</p>
+</article>
 
 ## Problems Other Than Alcohol
 
