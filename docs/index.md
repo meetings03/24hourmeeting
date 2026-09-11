@@ -295,6 +295,7 @@ Source: [Johns Hopkins University Hospital](https://www.hopkinsmedicine.org)
 
 <div class="tradition-image-row">
   <img src="images/step_one.png" alt="Step One image" />
+  <div style="width: 100%; text-align: center; font-style: italic;">Alcoholics are women and men who have lost the ability to control their drinking. Recovery begins when we concede to our innermost selves that we are alcoholics.</div>
 </div>
 
 ### A.A.'s Two Questions
