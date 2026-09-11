@@ -464,10 +464,6 @@ Whether you are looking for daily inspiration, diverse perspectives on the Twelv
 
 Explore: <a href="aa-literature/">A.A. Literature</a> | <a href="topics-for-online-aa-meetings/">Meeting Topics</a>
 
-<div class="tradition-image-row">
-  <img src="images/FlagGlobe.png" alt="Flags around the globe image" />
-</div>
-
 ## About This 24 Hour Online Meeting
 
 The link below provides relevant information concerning the 24 Hour International Marathon Meeting of A.A. (Where sobriety never sleeps).
@@ -500,6 +496,10 @@ Connect with: <a href="aas-three-legacies/">A.A.'s Three Legacies</a> | <a href=
 Join our Box 459 newsletter digital delivery mailing list.
 
 <a class="explore-button" href="https://www.aa.org/box-459" target="_blank" rel="noopener">Subscribe to Box 459 Newsletter</a>
+
+<div class="tradition-image-row">
+  <img src="images/FlagGlobe.png" alt="Flags around the globe image" />
+</div>
 
 ## A.A. Around the World
 
