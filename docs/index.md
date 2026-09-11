@@ -513,6 +513,8 @@ Join our Box 459 newsletter digital delivery mailing list.
 <p>Described as a living and growing exchange of experience responding to the needs of A.A. worldwide, WSM sessions cover a broad range of issues pertinent to the development of A.A. in participating countries.</p>
 </article>
 
+<a class="explore-button" href="https://www.aa.org/28th-alcoholics-anonymous-world-service-meeting-final-report" target="_blank" rel="noopener">World Service Meeting Report</a>
+
 ## Disclaimer and Permissions
 
 For the full legal notice, permissions, and related guidance, see the page below.
