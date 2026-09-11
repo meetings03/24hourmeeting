@@ -479,7 +479,7 @@ Connect with: <a href="aas-three-legacies/">A.A.'s Three Legacies</a> | <a href=
 
 ## A.A. World Services and A.A. General Service Office
 
-<a class="explore-button" href="https://www.aa.org" target="_blank" rel="noopener">GSO</a>
+<a class="explore-button" href="https://www.aa.org" target="_blank" rel="noopener">Contact the A.A. General Service Office (GSO)</a>
 
 <div class="tradition-image-row">
   <img src="images/General_Service_Conference.png" alt="A.A. General Service Conference" />
