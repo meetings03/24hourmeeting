@@ -1889,6 +1889,51 @@
     height: auto;
     margin: 1.5rem auto;
   }
+
+  .quote-card {
+    position: relative;
+    margin: 1.5rem auto 2rem;
+    padding: 2rem 2.25rem;
+    max-width: 640px;
+    background: linear-gradient(180deg, #f5f7fc 0%, #eef1fa 100%);
+    border-left: 5px solid #2f4ea8;
+    border-radius: 8px;
+    box-shadow: 0 10px 24px rgba(47, 78, 168, 0.12);
+    text-align: center;
+  }
+
+  .quote-card::before {
+    content: "\201C";
+    position: absolute;
+    top: -0.5rem;
+    left: 1rem;
+    font-size: 4rem;
+    line-height: 1;
+    color: #2f4ea8;
+    opacity: 0.25;
+    font-family: Georgia, serif;
+  }
+
+  .quote-label {
+    margin: 0 0 1rem;
+    font-size: 0.85rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #2f4ea8;
+  }
+
+  .quote-text {
+    margin: 0.5rem 0;
+    font-size: 1.15rem;
+    font-style: italic;
+    line-height: 1.7;
+    color: #324055;
+  }
+
+  .quote-text:last-of-type {
+    margin-bottom: 0;
+  }
 </style>
 
 <p><a id="join-meeting" class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join Online A.A. Meeting</a></p>
