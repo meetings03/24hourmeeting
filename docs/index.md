@@ -459,6 +459,10 @@ Whether you are looking for daily inspiration, diverse perspectives on the Twelv
 
 Explore: <a href="aa-literature/">A.A. Literature</a> | <a href="topics-for-online-aa-meetings/">Meeting Topics</a>
 
+<div class="tradition-image-row">
+  <img src="images/FlagGlobe.png" alt="Flags around the globe image" />
+</div>
+
 ## About This 24 Hour Online Meeting
 
 The link below provides relevant information concerning the 24 Hour International Marathon Meeting of A.A. (Where sobriety never sleeps).
