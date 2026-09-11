@@ -1,8 +1,3 @@
-<div class="tradition-image-row">
-  <img src="/images/Coffee_Pot.png" alt="Coffee pot image for online A.A. meeting topics" />
-</div>
-<div style="width: 100%; text-align: center; font-style: italic; margin-bottom: 1.5rem;">“Keep it simple.”</div>
-
 # Topics for Online A.A. Meetings
 
 <ul class="topic-list">
