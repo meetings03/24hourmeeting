@@ -332,6 +332,8 @@ Also explore: <a href="recovery-resources/">Substance Abuse and Drug Rehabilitat
   <img src="images/NewcomerAsks.png" alt="A Newcomer Asks pamphlet" />
 </div>
 
+<a class="explore-button" href="https://www.aa.org/newcomer-asks" target="_blank" rel="noopener">Read the pamphlet A Newcomer Asks from A.A. World Services</a>
+
 ## Frequently Asked Questions
 
 Need quick answers before joining? Visit our dedicated FAQ page for common questions about the meeting, attendance, safety, anonymity, and participation.
