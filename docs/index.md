@@ -440,6 +440,26 @@ The Three Legacies of Alcoholics Anonymous are Recovery, Unity, and Service. By 
 
 <a class="explore-button" href="sponsorship/">Sponsorship</a>
 
+## The A.A. Group
+
+### What is an A.A. group?
+
+Any gathering of two or more alcoholics who wish to recover and have no other affiliation may call themselves an A.A. group. Membership at the group level is open to all who have a desire to recover from alcoholism. There are no dues, fees, requirements or restrictions of any kind. There’s no formal application to join a group.
+
+### What’s the purpose of A.A. groups?
+
+All groups exist to help those who suffer from the disease of alcoholism.
+
+<div class="tradition-image-row">
+  <img src="images/AA_group.png" alt="The A.A. Group pamphlet" />
+</div>
+
+*The A.A. Group...Where It All Begins*
+
+This informational guide tells how a group works most effectively, how a new group can be started, and how each group can be linked to A.A. as a whole. General Service Conference-approved.
+
+<a class="explore-button" href="https://www.aa.org/aa-groupwhere-it-all-begins" target="_blank" rel="noopener">The A.A. Group...Where It All Begins</a>
+
 ## Problems Other Than Alcohol
 
 <div class="tradition-image-row" style="margin: 1rem 0 1.75rem; padding: 1rem; border: 1px solid rgba(47, 78, 168, 0.12); border-radius: 12px; background: linear-gradient(180deg, #f9fbff 0%, #f2f6ff 100%);">
