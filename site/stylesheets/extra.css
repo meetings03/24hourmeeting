@@ -44,6 +44,10 @@ body {
   text-align: center;
 }
 
+.aa-group-caption {
+  font-size: 1.05rem;
+}
+
 .contact-card {
   background: linear-gradient(135deg, #f8fbff 0%, #eef4ff 100%);
   border: 1px solid #dfe7f7;
