@@ -16,6 +16,13 @@ The spark that was to flare into the first A.A. group was struck at Akron, Ohio,
 
 <a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join Online A.A. Meeting</a>
 
+<ol style="font-size: 0.8rem; margin: 0.5rem 0 1rem; padding-left: 1.25rem;">
+	<li>Click the button.</li>
+	<li>Zoom will open directly.</li>
+	<li>You can just sit back and listen; you do not have to turn on your camera unless you want to.</li>
+	<li>If you would like to share, raise your virtual hand. The chairperson will call on hands in the order they are raised.</li>
+</ol>
+
 <div class="tradition-image-row">
 	<img src="/images/TalkingWalls.png" alt="Talking Walls image" />
 </div>

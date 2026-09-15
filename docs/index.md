@@ -127,6 +127,13 @@
 
 <a id="join-meeting" class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join Online A.A. Meeting</a>
 
+<ol style="font-size: 0.8rem; margin: 0.5rem 0 1rem; padding-left: 1.25rem;">
+  <li>Click the button.</li>
+  <li>Zoom will open directly.</li>
+  <li>You can just sit back and listen; you do not have to turn on your camera unless you want to.</li>
+  <li>If you would like to share, raise your virtual hand. The chairperson will call on hands in the order they are raised.</li>
+</ol>
+
 Join a live 24/7 Online A.A. Meeting on Zoom. This is an open international Alcoholics Anonymous meeting with a new session every hour. Join now with Zoom Meeting ID **292 371 2604**. No password required.
 
 ## 24 Hour International Marathon Meeting of A.A. (Where sobriety never sleeps)
@@ -175,6 +182,13 @@ Welcome to the 24 Hour International Marathon Meeting of A.A., *where sobriety n
 The 24 Hour International Marathon Meeting of A.A., *where sobriety never sleeps*, is dedicated to carrying A.A.'s life-saving message of hope and recovery globally to the alcoholic who still suffers. Individuals seeking support for drug problems and substance use disorders may benefit from professional treatment programs, government resources, rehabilitation services, family support organizations, and other recovery programs and fellowships. Alcoholics Anonymous is not affiliated with any outside agency or enterprise.
 
 <a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join Online A.A. Meeting</a>
+
+<ol style="font-size: 0.8rem; margin: 0.5rem 0 1rem; padding-left: 1.25rem;">
+  <li>Click the button.</li>
+  <li>Zoom will open directly.</li>
+  <li>You can just sit back and listen; you do not have to turn on your camera unless you want to.</li>
+  <li>If you would like to share, raise your virtual hand. The chairperson will call on hands in the order they are raised.</li>
+</ol>
 
 <div class="tradition-image-row">
   <img src="images/i_am_responsible_image.png" alt="I am Responsible A.A. image" />
@@ -352,6 +366,13 @@ To join right away, use the Zoom ID **292 371 2604** or click the button below:
 
 <a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join Online A.A. Meeting</a>
 
+<ol style="font-size: 0.8rem; margin: 0.5rem 0 1rem; padding-left: 1.25rem;">
+  <li>Click the button.</li>
+  <li>Zoom will open directly.</li>
+  <li>You can just sit back and listen; you do not have to turn on your camera unless you want to.</li>
+  <li>If you would like to share, raise your virtual hand. The chairperson will call on hands in the order they are raised.</li>
+</ol>
+
 ## Recovery Resources
 
 <div class="tradition-image-row" style="margin: 1.5rem 0; padding: 1rem; border: 1px solid rgba(47, 78, 168, 0.12); border-radius: 12px; background: linear-gradient(180deg, #f9fbff 0%, #f2f6ff 100%);">
@@ -508,6 +529,13 @@ For the full legal notice, permissions, and related guidance, see the page below
 </div>
 
 <a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join Online A.A. Meeting</a>
+
+<ol style="font-size: 0.8rem; margin: 0.5rem 0 1rem; padding-left: 1.25rem;">
+  <li>Click the button.</li>
+  <li>Zoom will open directly.</li>
+  <li>You can just sit back and listen; you do not have to turn on your camera unless you want to.</li>
+  <li>If you would like to share, raise your virtual hand. The chairperson will call on hands in the order they are raised.</li>
+</ol>
 
 ---
 

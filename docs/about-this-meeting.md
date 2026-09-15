@@ -10,6 +10,13 @@ Join the [24/7 Online A.A. Meeting on Zoom](https://zoom.us/j/2923712604). You c
 
 <a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join Online A.A. Meeting</a>
 
+<ol style="font-size: 0.8rem; margin: 0.5rem 0 1rem; padding-left: 1.25rem;">
+  <li>Click the button.</li>
+  <li>Zoom will open directly.</li>
+  <li>You can just sit back and listen; you do not have to turn on your camera unless you want to.</li>
+  <li>If you would like to share, raise your virtual hand. The chairperson will call on hands in the order they are raised.</li>
+</ol>
+
 ## How to Access the 24/7 International Online A.A. Meeting
 
 The 24-Hour International Marathon Meeting of A.A. (where sobriety never sleeps) is a 24/7 online A.A. meeting that runs continuously on Zoom. It is part of the global A.A. fellowship. The Zoom access code is 292 371 2604 (no passcode is needed).
