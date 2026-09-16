@@ -238,21 +238,21 @@ Alcoholics Anonymous is a fellowship of people who share their experience, stren
 11. Our public relations policy is based on attraction rather than promotion; we need always maintain personal anonymity at the level of press, radio, and films.
 12. Anonymity is the spiritual foundation of all our Traditions, ever reminding us to place principles before personalities.
 
+## A Newcomer Asks
+
 <div class="tradition-image-row">
   <img src="images/fifth_tradition_image_part_1.png" alt="Fifth Tradition Part 1 image" />
 </div>
 
-## A Newcomer Asks
+<div class="tradition-image-row">
+  <img src="images/fifth_tradition_image_part_2.png" alt="Fifth Tradition Part 2 image" />
+</div>
 
 <div class="tradition-image-row">
   <img src="images/NewcomerAsks.png" alt="A Newcomer Asks pamphlet" />
 </div>
 
 <a class="explore-button" href="https://www.aa.org/newcomer-asks" target="_blank" rel="noopener">Read the pamphlet &quot;A Newcomer Asks&quot; from A.A. World Services</a>
-
-<div class="tradition-image-row">
-  <img src="images/fifth_tradition_image_part_2.png" alt="Fifth Tradition Part 2 image" />
-</div>
 
 ### A Declaration of Unity
 
@@ -434,11 +434,11 @@ The Three Legacies of Alcoholics Anonymous are Recovery, Unity, and Service. By 
   <div style="width: 100%; text-align: center; font-style: italic;">A.A.'s Three Legacies of Recovery, Unity, and Service were adopted by the Fellowship at the International Convention of Alcoholics Anonymous at St. Louis in 1955. Read about this historic event in the book <em>Alcoholics Anonymous Comes of Age: A Brief History of A.A.</em></div>
 </div>
 
-## Sponsorship
+## Sponsorship in A.A.
 
 <div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
   <img src="images/Members_TalkingatTable.png" alt="Members talking at a table" style="max-width: 100%; height: auto;" />
-  <div style="width: 100%; text-align: center; font-style: italic;">Sponsorship responsibility is unwritten and informal, but it is a basic part of the A.A. approach to recovery from alcoholism through the Twelve Steps. Sponsorship can be a longterm relationship.</div>
+  <div style="width: 100%; text-align: center; font-style: italic;">Sponsorship responsibility is unwritten and informal, but it is a basic part of the A.A. approach to recovery from alcoholism through the Twelve Steps. Sponsorship styles and relationships vary. The important thing is that the newcomer is introduced to A. A. literature, particuluarly the Big Book of Alcoholics Anonymous, and is guided through the Twelve Steps.</div>
 </div>
 
 <a class="explore-button" href="sponsorship/">Sponsorship</a>
