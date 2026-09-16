@@ -1,4 +1,4 @@
-# Sponsorship
+# Sponsorship in A.A.
 
 <div class="tradition-image-row">
   <img src="/images/SponsorshipQA.png" alt="Sponsorship Questions and Answers" />
