@@ -240,6 +240,17 @@ Alcoholics Anonymous is a fellowship of people who share their experience, stren
 
 <div class="tradition-image-row">
   <img src="images/fifth_tradition_image_part_1.png" alt="Fifth Tradition Part 1 image" />
+</div>
+
+## A Newcomer Asks
+
+<div class="tradition-image-row">
+  <img src="images/NewcomerAsks.png" alt="A Newcomer Asks pamphlet" />
+</div>
+
+<a class="explore-button" href="https://www.aa.org/newcomer-asks" target="_blank" rel="noopener">Read the pamphlet &quot;A Newcomer Asks&quot; from A.A. World Services</a>
+
+<div class="tradition-image-row">
   <img src="images/fifth_tradition_image_part_2.png" alt="Fifth Tradition Part 2 image" />
 </div>
 
@@ -346,14 +357,6 @@ Alcoholics Anonymous is not affiliated with any outside entities or organization
 
 Also explore: <a href="recovery-resources/">Substance Abuse and Drug Rehabilitation Resources</a> and <a href="topics-for-online-aa-meetings/">Meeting Topics</a> for peer support.
 
-## A Newcomer Asks
-
-<div class="tradition-image-row">
-  <img src="images/NewcomerAsks.png" alt="A Newcomer Asks pamphlet" />
-</div>
-
-<a class="explore-button" href="https://www.aa.org/newcomer-asks" target="_blank" rel="noopener">Read the pamphlet &quot;A Newcomer Asks&quot; from A.A. World Services</a>
-
 ## Frequently Asked Questions
 
 Need quick answers before joining? Visit our dedicated FAQ page for common questions about the meeting, attendance, safety, anonymity, and participation.
@@ -440,7 +443,7 @@ The Three Legacies of Alcoholics Anonymous are Recovery, Unity, and Service. By 
 
 <a class="explore-button" href="sponsorship/">Sponsorship</a>
 
-## The A.A. Group
+## The A.A. Group...Where it All Begins
 
 ### What is an A.A. group?
 
