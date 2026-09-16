@@ -241,18 +241,18 @@ Alcoholics Anonymous is a fellowship of people who share their experience, stren
 ## A Newcomer Asks
 
 <div class="tradition-image-row">
+  <img src="images/NewcomerAsks.png" alt="A Newcomer Asks pamphlet" />
+</div>
+
+<a class="explore-button" href="https://www.aa.org/newcomer-asks" target="_blank" rel="noopener">Read the pamphlet &quot;A Newcomer Asks&quot; from A.A. World Services</a>
+
+<div class="tradition-image-row">
   <img src="images/fifth_tradition_image_part_1.png" alt="Fifth Tradition Part 1 image" />
 </div>
 
 <div class="tradition-image-row">
   <img src="images/fifth_tradition_image_part_2.png" alt="Fifth Tradition Part 2 image" />
 </div>
-
-<div class="tradition-image-row">
-  <img src="images/NewcomerAsks.png" alt="A Newcomer Asks pamphlet" />
-</div>
-
-<a class="explore-button" href="https://www.aa.org/newcomer-asks" target="_blank" rel="noopener">Read the pamphlet &quot;A Newcomer Asks&quot; from A.A. World Services</a>
 
 ### A Declaration of Unity
 
