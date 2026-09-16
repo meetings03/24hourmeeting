@@ -209,7 +209,7 @@ Alcoholics Anonymous is a fellowship of people who share their experience, stren
   <img src="images/traditions_distilation.png" alt="Traditions distillation image" />
 </div>
 
-## The Twelve Traditions
+## The Twelve Traditions of Alcoholics Anonymous
 
 1. Our common welfare should come first; personal recovery depends upon A.A. unity.
 2. For our group purpose there is but one ultimate authority—a loving God as He may express Himself in our group conscience. Our leaders are but trusted servants; they do not govern.
