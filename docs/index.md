@@ -1,20 +1,6 @@
-# 24/7 International Marathon Meeting of A.A. — 24/7 Online A.A. Meeting
+# 24 Hour International Marathon Meeting of A.A. — 24/7 Online A.A. Meeting
 
 <style>
-  .tradition-figure {
-    margin: 1.5rem auto 2rem;
-    max-width: 760px;
-    text-align: center;
-  }
-
-  .tradition-figure figcaption {
-    margin-top: 0.75rem;
-    font-style: italic;
-    line-height: 1.7;
-    color: #324055;
-    text-align: center;
-  }
-
   .join-button {
     display: inline-block;
     margin: 1.5rem 0;
@@ -194,7 +180,7 @@ The 24 Hour International Marathon Meeting of A.A., *where sobriety never sleeps
   <img src="images/i_am_responsible_image.png" alt="I am Responsible A.A. image" />
 </div>
 
-## Preamble of A.A.
+## Preamble
 
 Alcoholics Anonymous is a fellowship of people who share their experience, strength, and hope with each other so that they may solve their common problem and help others recover from alcoholism. The only requirement for membership is a desire to stop drinking. There are no dues or fees for A.A. membership; we are self-supporting through our own contributions. A.A. is not allied with any sect, denomination, politics, organization, or institution; does not wish to engage in any controversy, neither endorses nor opposes any causes. Our primary purpose is to stay sober and help other alcoholics achieve sobriety.
 
@@ -204,7 +190,7 @@ Alcoholics Anonymous is a fellowship of people who share their experience, stren
   <img src="images/How_It_Works.png" alt="How it works image" />
 </div>
 
-## The Twelve Steps of Alcoholics Anonymous
+## The Twelve Steps
 
 1. We admitted we were powerless over alcohol—that our lives had become unmanageable.
 2. Came to believe that a Power greater than ourselves could restore us to sanity.
@@ -279,7 +265,7 @@ Alcoholics Anonymous is a fellowship of people who share their experience, stren
   <img src="images/first_tradition_image.png" alt="First Tradition image" />
 </div>
 
-## Contact the 24 Hour International Marathon Meeting of AA
+## Contact the 24 Hour International Marathon Meeting of A.A.
 
 This link will connect you with the 24 Hour International Marathon Meeting of A.A. (Where sobriety never sleeps).
 
@@ -303,7 +289,7 @@ Alcoholics Anonymous is a global fellowship. The link below leads to many offici
   <img src="images/Drinking_Problem.jpg" alt="Drinking problem image" />
 </div>
 
-## Do you have a drinking problem?
+## Do You Have a Drinking Problem?
 
 ### The CAGE Questionnaire
 
@@ -331,7 +317,7 @@ The book *Alcoholics Anonymous* (the Big Book) says that alcoholics are men and 
   <img src="images/First_Edition.jpeg" alt="First edition of Alcoholics Anonymous" style="width: 50%; max-width: 100%; height: auto;" />
 </div>
 
-*First edition of the Big Book of Alcoholics Anonymous, published in April 1939. This is our basic text, which explains the nature of alcoholism and A.A.'s program of recovery--the Twelve Steps.*
+*First edition of the Big Book of Alcoholics Anonymous, published in April 1939. This is our basic text, which explains the nature of alcoholism and A.A.'s program of recovery—the Twelve Steps.*
 
 ## A.A. Literature
 
@@ -412,8 +398,7 @@ Read: <a href="aa-primary-purpose/">A.A.'s Primary Purpose</a> and <a href="aas-
 
 ## A.A.'s Primary Purpose
 
-Our Twelfth Step -- carrying the message -- is the basic service that the A.A. Fellowship gives; this is our principal aim and the main reason for our existence. Therefore, A.A. is more than a set of principles; it is a society of alcoholics in action. We must carry the message, else we ourselves can wither and those who have not been given the truth may die. 
-
+Our Twelfth Step—carrying the message—is the basic service that the A.A. Fellowship gives; this is our principal aim and the main reason for our existence. Therefore, A.A. is more than a set of principles; it is a society of alcoholics in action. We must carry the message, else we ourselves can wither and those who have not been given the truth may die.
 
 <a class="explore-button" href="aa-primary-purpose/">Learn About A.A.'s Primary Purpose</a>
 
@@ -434,20 +419,20 @@ The Three Legacies of Alcoholics Anonymous are Recovery, Unity, and Service. By 
   <div style="width: 100%; text-align: center; font-style: italic;">A.A.'s Three Legacies of Recovery, Unity, and Service were adopted by the Fellowship at the International Convention of Alcoholics Anonymous at St. Louis in 1955. Read about this historic event in the book <em>Alcoholics Anonymous Comes of Age: A Brief History of A.A.</em></div>
 </div>
 
-## Sponsorship in A.A.
+## Sponsorship
 
 <div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
   <img src="images/Members_TalkingatTable.png" alt="Members talking at a table" style="max-width: 100%; height: auto;" />
-  <div style="width: 100%; text-align: center; font-style: italic;">Sponsorship responsibility is unwritten and informal, but it is a basic part of the A.A. approach to recovery from alcoholism through the Twelve Steps. Sponsorship styles and relationships vary. The important thing is that the newcomer is introduced to A. A. literature, particuluarly the Big Book of Alcoholics Anonymous, and is guided through the Twelve Steps.</div>
+  <div style="width: 100%; text-align: center; font-style: italic;">Sponsorship responsibility is unwritten and informal, but it is a basic part of the A.A. approach to recovery from alcoholism through the Twelve Steps. Sponsorship styles and relationships vary. The important thing is that the newcomer is introduced to A.A. literature, particularly the Big Book of Alcoholics Anonymous, and is guided through the Twelve Steps.</div>
 </div>
 
 <a class="explore-button" href="sponsorship/">Sponsorship</a>
 
-## The A.A. Group...Where it All Begins
+## The A.A. Group...Where It All Begins
 
 ### What is an A.A. group?
 
-Any gathering of two or more alcoholics who wish to recover and have no other affiliation may call themselves an A.A. group. Membership at the group level is open to all who have a desire to recover from alcoholism. There are no dues, fees, requirements or restrictions of any kind. There’s no formal application to join a group.
+Any gathering of two or more alcoholics who wish to recover and have no other affiliation may call themselves an A.A. group. Membership at the group level is open to all who have a desire to recover from alcoholism. There are no dues, fees, requirements or restrictions of any kind. There's no formal application to join a group.
 
 ### What is the purpose of an A.A. group?
 
@@ -469,7 +454,7 @@ This informational guide tells how a group works most effectively, how a new gro
   <img src="images/Problems_Other_Than_Alcohol.png" alt="Problems Other Than Alcohol pamphlet cover" style="max-width: 330px; width: 100%; height: auto; display: block; border-radius: 8px; box-shadow: 0 10px 24px rgba(47, 78, 168, 0.12);" />
 </div>
 
-The problem of drug addiction in its several forms lies close to us all. It stirs our deepest interest and sympathy. Many A.A. members, especially those who have suffered these particular addictions, are now asking, "What can we do about drugs--within our Fellowship, and without?" Bill W. wrote these words in the pamphlet *Problems Other Than Alcohol*.
+The problem of drug addiction in its several forms lies close to us all. It stirs our deepest interest and sympathy. Many A.A. members, especially those who have suffered these particular addictions, are now asking, "What can we do about drugs—within our Fellowship, and without?" Bill W. wrote these words in the pamphlet *Problems Other Than Alcohol*.
 
 <a class="explore-button" href="problems-other-than-alcohol/">Problems Other Than Alcohol</a>
 
@@ -478,19 +463,19 @@ The problem of drug addiction in its several forms lies close to us all. It stir
   <div style="width: 100%; text-align: center; font-style: italic;">The Grapevine is A.A.'s "meeting in print." La Viña is the Fellowship's Spanish-language magazine. Both publications include submissions from ordinary A.A. members from around the world.</div>
 </div>
 
-## A.A. Grapevine and La Vi&ntilde;a
+## A.A. Grapevine and La Viña
 
-### Welcome to the A.A. Grapevine and La Vi&ntilde;a
+### Welcome to the A.A. Grapevine and La Viña
 
-Welcome to your digital connection to **A.A. Grapevine** and **La Vi&ntilde;a**, the international journals of Alcoholics Anonymous. Often described as A.A.'s "meeting in print," these magazines provide a powerful monthly collection of stories, humor, and insights written directly by fellowship members worldwide.
+Welcome to your digital connection to **A.A. Grapevine** and **La Viña**, the international journals of Alcoholics Anonymous. Often described as A.A.'s "meeting in print," these magazines provide a powerful monthly collection of stories, humor, and insights written directly by fellowship members worldwide.
 
-Whether you are looking for daily inspiration, diverse perspectives on the Twelve Steps, or a deep dive into recovery history, Grapevine and La Vi&ntilde;a offer a wealth of shared experience, strength, and hope to support you on your journey - because here, sobriety never sleeps.
+Whether you are looking for daily inspiration, diverse perspectives on the Twelve Steps, or a deep dive into recovery history, Grapevine and La Viña offer a wealth of shared experience, strength, and hope to support you on your journey—because here, sobriety never sleeps.
 
 <a class="explore-button" href="aa-grapevine-and-la-vina/">Read A.A. Grapevine and La Viña Publications</a>
 
 Explore: <a href="aa-literature/">A.A. Literature</a> | <a href="topics-for-online-aa-meetings/">Meeting Topics</a>
 
-## About the 24 Hour International Marathon Meeting of AA
+## About the 24 Hour International Marathon Meeting of A.A.
 
 The link below provides relevant information concerning the 24 Hour International Marathon Meeting of A.A. (Where sobriety never sleeps).
 
@@ -509,7 +494,7 @@ Connect with: <a href="aas-three-legacies/">A.A.'s Three Legacies</a> | <a href=
 
 <div class="tradition-image-row">
   <img src="images/General_Service_Conference.png" alt="A.A. General Service Conference" />
-  <div style="width: 100%; text-align: center; font-style: italic;">The General Service Conference of A.A. has become, for nearly every practical purpose, the active voice and the effective conscience of our whole society in its world affairs (Concept II). The workings of the Conference and the A.A. General Service structure are explained in the A.A. Service Manual and Twelve Concepts for World Service by Bill W. available at www.aa.org</div>
+  <div style="width: 100%; text-align: center; font-style: italic;">The General Service Conference of A.A. has become, for nearly every practical purpose, the active voice and the effective conscience of our whole society in its world affairs (Concept II). The workings of the Conference and the A.A. General Service structure are explained in the A.A. Service Manual and Twelve Concepts for World Service by Bill W. available at [www.aa.org](https://www.aa.org)</div>
 </div>
 
 <div class="tradition-image-row">
