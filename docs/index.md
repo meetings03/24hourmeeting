@@ -122,7 +122,7 @@
 
 Join a live 24/7 Online A.A. Meeting on Zoom. This is an open international Alcoholics Anonymous meeting with a new session every hour. Join now with Zoom Meeting ID **292 371 2604**. No password required.
 
-## 24 Hour International Marathon Meeting of A.A. (Where sobriety never sleeps)
+## Where Sobriety Never Sleeps
 
 <div class="tradition-image-row">
   <img src="images/New_Zealand.jpg" alt="New Zealand A.A. meeting origin image" />
@@ -143,7 +143,7 @@ New to A.A.? Start with our <a href="aa-primary-purpose/">Primary Purpose</a> an
   <img src="images/sobrietyneversleeps_Logo.jpg" alt="Sobriety Never Sleeps logo" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
 </div>
 
-## What to Expect When You Join the 24 Hour International Marathon Meeting of A.A.
+## What to Expect When You Join
 
 <a class="explore-button" href="what-to-expect-when-you-join/">Learn What to Expect</a>
 
@@ -265,7 +265,7 @@ Alcoholics Anonymous is a fellowship of people who share their experience, stren
   <img src="images/first_tradition_image.png" alt="First Tradition image" />
 </div>
 
-## Contact the 24 Hour International Marathon Meeting of A.A.
+## Contact This Meeting
 
 This link will connect you with the 24 Hour International Marathon Meeting of A.A. (Where sobriety never sleeps).
 
@@ -475,7 +475,7 @@ Whether you are looking for daily inspiration, diverse perspectives on the Twelv
 
 Explore: <a href="aa-literature/">A.A. Literature</a> | <a href="topics-for-online-aa-meetings/">Meeting Topics</a>
 
-## About the 24 Hour International Marathon Meeting of A.A.
+## About This Meeting
 
 The link below provides relevant information concerning the 24 Hour International Marathon Meeting of A.A. (Where sobriety never sleeps).
 
