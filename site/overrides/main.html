@@ -5,8 +5,8 @@
   {% set is_home_page = page and page.url == '' %}
   {% set is_about_page = page and page.url == 'about-this-meeting/' %}
   {% set canonical_url = 'https://sobrietyneversleeps.org/' if is_home_page else 'https://sobrietyneversleeps.org/' ~ page.url %}
-  {% set page_title = '24/7 Online AA Meeting | Join Live on Zoom' if is_home_page else ('About the 24/7 International Online AA Meeting' if is_about_page else page.title) %}
-  {% set page_description = 'Join a 24/7 Online AA Meeting on Zoom. Open international Alcoholics Anonymous meeting every hour. Zoom ID 292 371 2604. No password required.' if is_home_page else ('Learn how the 24/7 International Marathon Meeting of AA works, how to join Zoom, what newcomers can expect, and how to share.' if is_about_page else config.site_description) %}
+  {% set page_title = '24/7 Online AA Meeting | Live on Zoom' if is_home_page else ('About the 24/7 International Online AA Meeting' if is_about_page else page.title) %}
+  {% set page_description = 'A continuous, international 24-hour Alcoholics Anonymous marathon meeting. Join anytime. Zoom ID: 292 371 2604. No password required.' if is_home_page else ('Learn how the 24/7 International Marathon Meeting of AA works, how to join Zoom, what newcomers can expect, and how to share.' if is_about_page else config.site_description) %}
   <link rel="canonical" href="{{ canonical_url }}" />
   <meta name="description" content="{{ page_description }}" />
   <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
@@ -17,12 +17,14 @@
   <meta name="theme-color" content="#0f4c81" />
   <meta property="og:locale" content="en_US" />
   <meta property="og:type" content="website" />
-  <meta property="og:site_name" content="24 Hour International Marathon Meeting of AA" />
+  <meta property="og:site_name" content="Sobriety Never Sleeps" />
   <meta property="og:title" content="{{ page_title }}" />
   <meta property="og:description" content="{{ page_description }}" />
   <meta property="og:url" content="{{ canonical_url }}" />
   <meta property="og:image" content="https://sobrietyneversleeps.org/images/sobrietyneversleeps_Logo.jpg" />
-  <meta property="og:image:alt" content="24 Hour International Marathon Meeting of AA logo" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+  <meta property="og:image:alt" content="Sobriety Never Sleeps 24/7 Online AA Meeting Logo" />
   <meta property="og:image:type" content="image/jpeg" />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="{{ page_title }}" />
