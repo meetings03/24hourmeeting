@@ -3,13 +3,13 @@
 The Three Legacies of Alcoholics Anonymous are Recovery, Unity, and Service. By the first, we recover from alcoholism; by the second, we stay together in unity; and by the third, our society functions and serves its primary purpose of carrying the A.A. message to all who need it and want it. (*Alcoholics Anonymous Comes of Age: A Brief History of A.A.*)
 
 <div class="tradition-image-row">
-  <img src="../images/Legacies.png?v=1" alt="Three Legacies of Alcoholics Anonymous" style="width: 80%; max-width: 100%; height: auto; display: block; margin: 0 auto;" />
+  <img src="../images/Legacies.png?v=1" alt="Three legacies of Alcoholics Anonymous: Recovery, Unity, and Service" title="Three legacies of Alcoholics Anonymous: Recovery, Unity, and Service" style="width: 80%; max-width: 100%; height: auto; display: block; margin: 0 auto;" />
 </div>
 
 ## Recovery
 
 <div class="tradition-image-row">
-  <img src="../images/Basic_Text.png?v=1" alt="Alcoholics Anonymous basic text" />
+  <img src="../images/Basic_Text.png?v=1" alt="The Big Book of Alcoholics Anonymous, the basic text for recovery" title="The Big Book of Alcoholics Anonymous, the basic text for recovery" />
   <div class="tradition-caption">Alcoholics Anonymous: The story of how many thousands of men and women have recovered from alcoholism.</div>
 </div>
 
@@ -33,7 +33,7 @@ A.A.'s program of recovery is presented in The Big Book of Alcoholics Anonymous,
 ## Unity
 
 <div class="tradition-image-row">
-  <img src="../images/12x12.png?v=1" alt="Alcoholics Anonymous Twelve Steps and Twelve Traditions" />
+  <img src="../images/12x12.png?v=1" alt="Twelve Steps and Twelve Traditions book by Alcoholics Anonymous" title="Twelve Steps and Twelve Traditions book by Alcoholics Anonymous" />
   <div class="tradition-caption">Twelve Steps and Twelve Traditions is a collection of interpretive essays by an A.A. co-founder that explain the A.A. program of recovery-- the Twelve Steps, and the principles that keep our Society together--the Twelve Traditions. A.A.'s Traditions are also explained in the pamphlets "The Twelve Traditions llustrated" and "A.A. Tradition: How it Developed," and the book "Alcoholics Anonymous Comes of Age: A Brief History of A.A.," available at www.aa.org</div>
 </div>
 
@@ -80,7 +80,7 @@ Rev. 10/21 SM F-187
 ## Service
 
 <div class="tradition-image-row">
-  <img src="/images/Service_Manual.png?v=1" alt="Alcoholics Anonymous service manual" />
+  <img src="/images/Service_Manual.png?v=1" alt="Alcoholics Anonymous service manual cover" title="Alcoholics Anonymous service manual cover" />
 </div>
 
 ## THE TWELVE CONCEPTS FOR WORLD SERVICE
@@ -128,7 +128,7 @@ All rights reserved
 </article>
 
 <div class="tradition-image-row">
-  <img src="/images/Upside_down_triangle.png?v=1" alt="Alcoholics Anonymous upside-down triangle" />
+  <img src="/images/Upside_down_triangle.png?v=1" alt="Alcoholics Anonymous upside-down triangle symbol representing service and the Third Legacy" title="Alcoholics Anonymous upside-down triangle symbol representing service and the Third Legacy" />
 </div>
 
 <a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join Online A.A. Meeting</a>

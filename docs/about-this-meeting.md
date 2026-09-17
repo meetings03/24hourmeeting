@@ -53,5 +53,5 @@ The 24-Hour International Marathon Meeting of A.A. (where sobriety never sleeps)
 - Accessible 24/7
 
 <div class="tradition-image-row">
-  <img src="/images/24_7_digital_image.jpg" alt="24/7 digital A.A. meeting image" />
+  <img src="/images/24_7_digital_image.jpg" alt="Digital illustration of the 24/7 online Alcoholics Anonymous meeting" title="Digital illustration of the 24/7 online Alcoholics Anonymous meeting" />
 </div>

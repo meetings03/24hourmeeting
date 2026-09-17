@@ -125,12 +125,12 @@ Join a live 24/7 Online A.A. Meeting on Zoom. This is an open international Alco
 ## Where Sobriety Never Sleeps
 
 <div class="tradition-image-row">
-  <img src="images/New_Zealand.jpg" alt="New Zealand A.A. meeting origin image" />
+  <img src="images/New_Zealand.jpg" alt="New Zealand scene representing the origin of the 24/7 international Alcoholics Anonymous meeting" title="New Zealand scene representing the origin of the 24/7 international Alcoholics Anonymous meeting" />
   <div style="width: 100%; text-align: center; font-style: italic;">The 24 Hour International Marathon Meeting of A.A. was founded at the start of the COVID pandemic by two newcomers from New Zealand who realized they needed the fellowship of other alcoholics if they were to stay sober. It has been operating continuously 24/7 since April 20, 2020.</div>
 </div>
 
 <div class="tradition-image-row">
-  <img src="images/Help_247.jpg" alt="Help 24/7 online meeting logo" />
+  <img src="images/Help_247.jpg" alt="Help 24/7 online Alcoholics Anonymous meeting logo" title="Help 24/7 online Alcoholics Anonymous meeting logo" />
 </div>
 
 ### Quick Answers About this 24/7 Online A.A. Meeting
@@ -140,7 +140,7 @@ Join a live 24/7 Online A.A. Meeting on Zoom. This is an open international Alco
 New to A.A.? Start with our <a href="aa-primary-purpose/">Primary Purpose</a> and <a href="aas-three-legacies/">Three Legacies</a> to understand the Fellowship's foundation.
 
 <div class="tradition-image-row">
-  <img src="images/sobrietyneversleeps_Logo.jpg" alt="Sobriety Never Sleeps logo" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
+  <img src="images/sobrietyneversleeps_Logo.jpg" alt="Sobriety Never Sleeps logo for the 24/7 International Marathon Meeting of Alcoholics Anonymous" title="Sobriety Never Sleeps logo for the 24/7 International Marathon Meeting of Alcoholics Anonymous" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
 </div>
 
 ## What to Expect When You Join
@@ -148,7 +148,7 @@ New to A.A.? Start with our <a href="aa-primary-purpose/">Primary Purpose</a> an
 <a class="explore-button" href="what-to-expect-when-you-join/">Learn What to Expect</a>
 
 <div class="tradition-image-row">
-  <img src="images/GlobeAA.jpg" alt="Global A.A. fellowship image" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
+  <img src="images/GlobeAA.jpg" alt="Global Alcoholics Anonymous fellowship image showing the worldwide reach of recovery" title="Global Alcoholics Anonymous fellowship image showing the worldwide reach of recovery" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
 </div>
 
 <a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join the Meeting Anytime</a>
@@ -156,13 +156,13 @@ New to A.A.? Start with our <a href="aa-primary-purpose/">Primary Purpose</a> an
 ## Welcome to Online Recovery
 
 <div class="tradition-image-row">
-  <img src="images/aa_man_on_bed_laptop.png" alt="Person participating in an online AA meeting from a laptop" />
+  <img src="images/aa_man_on_bed_laptop.png" alt="Person participating in an online Alcoholics Anonymous meeting from a laptop" title="Person participating in an online Alcoholics Anonymous meeting from a laptop" />
 </div>
 
 Welcome to the 24 Hour International Marathon Meeting of A.A., *where sobriety never sleeps*. We are an open meeting of Alcoholics Anonymous, and everyone is welcome to listen. In keeping with A.A.'s singleness of purpose and our Third Tradition, which states that the only requirement for A.A. membership is a desire to stop drinking, we ask that everyone who shares in our meeting confine their discussion to their problems with alcohol. You can join our online recovery meeting by clicking the "Join Online A.A. Meeting" button above or by joining the meeting through Zoom. The access code is **292 371 2604**. Join our online recovery meeting and raise your virtual hand. We want to get to know you, and experience has taught us that we can help best if you talk to us. We call on hands in the order they are raised, and everyone gets five minutes to share, with a gentle reminder when there is one minute remaining.
 
 <div class="tradition-image-row">
-  <img src="images/Meeting_Circle.png" alt="Meeting circle image" style="max-width: 87.5%; height: auto; display: block; margin: 1.5rem auto;" />
+  <img src="images/Meeting_Circle.png" alt="A.A. meeting circle with members gathering in recovery and fellowship" title="A.A. meeting circle with members gathering in recovery and fellowship" style="max-width: 87.5%; height: auto; display: block; margin: 1.5rem auto;" />
 </div>
 
 The 24 Hour International Marathon Meeting of A.A., *where sobriety never sleeps*, is dedicated to carrying A.A.'s life-saving message of hope and recovery globally to the alcoholic who still suffers. Individuals seeking support for drug problems and substance use disorders may benefit from professional treatment programs, government resources, rehabilitation services, family support organizations, and other recovery programs and fellowships. Alcoholics Anonymous is not affiliated with any outside agency or enterprise.

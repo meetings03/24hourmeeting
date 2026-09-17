@@ -5,7 +5,7 @@ Alcoholics Anonymous is not affiliated with any outside agency or organization. 
 If you or someone you know is in immediate danger, call emergency services right away or go to the nearest emergency department.
 
 <div class="tradition-image-row">
-	<img src="/images/HeartGraph.jpg" alt="Heart graph" />
+	<img src="/images/HeartGraph.jpg" alt="Heart graph illustrating recovery, crisis support, and mental health care resources" title="Heart graph illustrating recovery, crisis support, and mental health care resources" />
 </div>
 
 ## Immediate Crisis Support

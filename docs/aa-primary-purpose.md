@@ -1,7 +1,7 @@
 # A.A.'s Primary Purpose
 
 <div class="tradition-image-row">
-	<img src="/images/man_on_bed.jpg?v=1" alt="Person on a bed participating in an online A.A. meeting" />
+	<img src="/images/man_on_bed.jpg?v=1" alt="Alcoholics Anonymous member participating in an online recovery meeting from a bed" title="Alcoholics Anonymous member participating in an online recovery meeting from a bed" />
 	<div style="width: 100%; text-align: center; font-style: italic;">The primary purpose of the 24-Hour International Marathon Meeting of Alcoholics Anonymous is to carry A.A.'s life-saving message of hope and recovery to the alcoholic who still suffers.</div>
 </div>
 
@@ -24,5 +24,5 @@ The spark that was to flare into the first A.A. group was struck at Akron, Ohio,
 </ol>
 
 <div class="tradition-image-row">
-	<img src="/images/TalkingWalls.png" alt="Talking Walls image" />
+	<img src="/images/TalkingWalls.png" alt="Talking Walls illustration about sharing experience, strength, and hope in Alcoholics Anonymous" title="Talking Walls illustration about sharing experience, strength, and hope in Alcoholics Anonymous" />
 </div>
