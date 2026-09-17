@@ -117,6 +117,8 @@ Copyright © 1962
 Alcoholics Anonymous World Services, Inc.
 All rights reserved
 
+<a class="explore-button" href="https://aaws.widen.net/content/wbktsxdemg/pdf/bm-31_2024-2026_aa_service_manual_online.pdf?v=dff43d04-f10a-4acb-a784-8eb056f3526d" target="_blank" rel="noopener">A.A. Service Manual and Twelve Concepts for World Service</a>
+
 <article class="legacy-vignette">
 <h3>Why Do We Need a Conference?</h3>
 
