@@ -339,6 +339,8 @@ See also: <a href="aa-grapevine-and-la-vina/">A.A. Grapevine and La Viña</a> fo
   <img src="images/PigeonPoint.jpg" alt="Pigeon Point lighthouse" />
 </div>
 
+<div style="width: 100%; text-align: center; font-style: italic;">If you are in immediate danger or facing an emergency, contact emergency services. In the U.S. call 911.</div>
+
 ## Crisis and Mental Health Resources
 
 Alcoholics Anonymous is not affiliated with any outside entities or organizations. The link below leads to non-A.A. crisis and mental health resources.
