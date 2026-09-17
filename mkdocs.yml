@@ -33,6 +33,7 @@ theme:
   features:
     - navigation.instant
     - content.code.copy
+    - navigation.sections
 
 extra_css:
   - stylesheets/extra.css
