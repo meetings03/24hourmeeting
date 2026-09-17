@@ -329,9 +329,9 @@ The button below leads to A.A. General Service Conference-approved literature.
   <img src="images/AA_Literature.png" alt="A.A. Literature" />
 </div>
 
-<a class="explore-button" href="https://www.alcoholics-anonymous.org.uk/shop/" target="_blank" rel="noopener">A.A. Great Britain Literature</a>
-
 <div style="width: 100%; text-align: center; font-style: italic;">The Great Britain A.A. General Service Office provides a variety of services, including A.A. literature.</div>
+
+<a class="explore-button" href="https://www.alcoholics-anonymous.org.uk/shop/" target="_blank" rel="noopener">A.A. Great Britain Literature</a>
 
 See also: <a href="aa-grapevine-and-la-vina/">A.A. Grapevine and La Viña</a> for member-written stories and insights.
 
