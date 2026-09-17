@@ -177,7 +177,7 @@ The 24 Hour International Marathon Meeting of A.A., *where sobriety never sleeps
 </ol>
 
 <div class="tradition-image-row">
-  <img src="images/i_am_responsible_image.png" alt="I am Responsible A.A. image" />
+  <img src="images/i_am_responsible_image.png" alt="I am Responsible statement: A.A. member responsibility to ensure help is available to any alcoholic" title="I am Responsible statement: A.A. member responsibility to ensure help is available to any alcoholic" />
 </div>
 
 ## Preamble of A.A.
@@ -187,7 +187,7 @@ Alcoholics Anonymous is a fellowship of people who share their experience, stren
 *Copyright by A.A. Grapevine, Inc.; reprinted with permission.*
 
 <div class="tradition-image-row">
-  <img src="images/How_It_Works.png" alt="How it works image" />
+  <img src="images/How_It_Works.png" alt="How It Works illustration explaining the A.A. recovery program and principles" title="How It Works illustration explaining the A.A. recovery program and principles" />
 </div>
 
 ## The Twelve Steps of Alcoholics Anonymous
@@ -206,7 +206,7 @@ Alcoholics Anonymous is a fellowship of people who share their experience, stren
 12. Having had a spiritual awakening as the result of these steps, we tried to carry this message to alcoholics, and to practice these principles in all our affairs.
 
 <div class="tradition-image-row">
-  <img src="images/traditions_distilation.png" alt="Traditions distillation image" />
+  <img src="images/traditions_distilation.png" alt="Traditions distillation illustration showing the Twelve Traditions of Alcoholics Anonymous" title="Traditions distillation illustration showing the Twelve Traditions of Alcoholics Anonymous" />
 </div>
 
 ## The Twelve Traditions of Alcoholics Anonymous
@@ -233,11 +233,11 @@ Alcoholics Anonymous is a fellowship of people who share their experience, stren
 <a class="explore-button" href="https://www.aa.org/newcomer-asks" target="_blank" rel="noopener">Read the pamphlet &quot;A Newcomer Asks&quot; from A.A. World Services</a>
 
 <div class="tradition-image-row">
-  <img src="images/fifth_tradition_image_part_1.png" alt="Fifth Tradition Part 1 image" />
+  <img src="images/fifth_tradition_image_part_1.png" alt="Fifth Tradition Part 1 illustration: Each A.A. group's primary purpose is carrying the message to suffering alcoholics" title="Fifth Tradition Part 1 illustration: Each A.A. group's primary purpose is carrying the message to suffering alcoholics" />
 </div>
 
 <div class="tradition-image-row">
-  <img src="images/fifth_tradition_image_part_2.png" alt="Fifth Tradition Part 2 image" />
+  <img src="images/fifth_tradition_image_part_2.png" alt="Fifth Tradition Part 2 illustration: A.A. groups carry the message through service and Twelfth Step work" title="Fifth Tradition Part 2 illustration: A.A. groups carry the message through service and Twelfth Step work" />
 </div>
 
 ### A Declaration of Unity
@@ -248,7 +248,7 @@ Alcoholics Anonymous is a fellowship of people who share their experience, stren
 </div>
 
 <div class="tradition-image-row">
-  <img src="images/Bob_and_Bill.png" alt="Bob and Bill image" class="portrait-image" />
+  <img src="images/Bob_and_Bill.png" alt="Bob and Bill image, cofounders of Alcoholics Anonymous" class="portrait-image" title="Bob and Bill, cofounders of Alcoholics Anonymous" />
 </div>
 
 *Dr. Bob and Bill W., the cofounders of Alcoholics Anonymous*
@@ -262,7 +262,7 @@ Alcoholics Anonymous is a fellowship of people who share their experience, stren
 </div>
 
 <div class="tradition-image-row">
-  <img src="images/first_tradition_image.png" alt="First Tradition image" />
+  <img src="images/first_tradition_image.png" alt="First Tradition illustration: A.A.'s common welfare comes first, personal recovery depends on unity" title="First Tradition illustration: A.A.'s common welfare comes first, personal recovery depends on unity" />
 </div>
 
 ## Contact This Meeting
@@ -286,7 +286,7 @@ Alcoholics Anonymous is a global fellowship. The link below leads to many offici
 <a class="explore-button" href="international-aa-websites/">Explore International A.A. Websites</a>
 
 <div class="tradition-image-row">
-  <img src="images/Drinking_Problem.jpg" alt="Drinking problem image" />
+  <img src="images/Drinking_Problem.jpg" alt="Illustration for identifying a drinking problem and seeking help in Alcoholics Anonymous" title="Illustration for identifying a drinking problem and seeking help in Alcoholics Anonymous" />
 </div>
 
 ## Do You Have a Drinking Problem?
@@ -305,7 +305,7 @@ Please answer each question honestly with a yes or no.
 Source: [Johns Hopkins University Hospital](https://www.hopkinsmedicine.org)
 
 <div class="tradition-image-row">
-  <img src="images/step_one.png" alt="Step One image" />
+  <img src="images/step_one.png" alt="Step One of Alcoholics Anonymous: We admitted we were powerless over alcohol" title="Step One of Alcoholics Anonymous: We admitted we were powerless over alcohol" />
   <div style="width: 100%; text-align: center; font-style: italic;">Alcoholics are women and men who have lost the ability to control their drinking. Recovery begins when we concede to our innermost selves that we are alcoholics.</div>
 </div>
 
@@ -365,7 +365,7 @@ To join right away, use the Zoom ID **292 371 2604** or click the button below:
 ## Recovery Resources
 
 <div class="tradition-image-row" style="margin: 1.5rem 0; padding: 1rem; border: 1px solid rgba(47, 78, 168, 0.12); border-radius: 12px; background: linear-gradient(180deg, #f9fbff 0%, #f2f6ff 100%);">
-  <img src="images/eighth_tradition_image.png" alt="Eighth Tradition image" style="max-width: 330px; width: 100%; height: auto; display: block; border-radius: 8px; box-shadow: 0 10px 24px rgba(47, 78, 168, 0.12);" />
+  <img src="images/eighth_tradition_image.png" alt="Eighth Tradition of Alcoholics Anonymous: A.A. should remain forever nonprofessional" title="Eighth Tradition of Alcoholics Anonymous: A.A. should remain forever nonprofessional" style="max-width: 330px; width: 100%; height: auto; display: block; border-radius: 8px; box-shadow: 0 10px 24px rgba(47, 78, 168, 0.12);" />
   <div style="width: 100%; text-align: center;">
     <p><strong>Long Form of Tradition Eight</strong></p>
     <p>Alcoholics Anonymous should remain forever nonprofessional. We define professionalism as the occupation of counseling alcoholics for fees or hire. But we may employ alcoholics where they are going to perform those services for which we might otherwise have to engage nonalcoholics. Such special services may be well recompensed. But our usual A.A. Twelfth Step work is never to be paid for.</p>
@@ -379,7 +379,7 @@ A.A.'s Eighth Tradition states: "Alcoholics Anonymous should remain forever nonp
 Complement with: <a href="crisis-resources/">Crisis and Mental Health Resources</a>
 
 <div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
-  <img src="images/Mayflower.jpg" alt="Mayflower image" style="max-width: 100%; height: auto;" />
+  <img src="images/Mayflower.jpg" alt="The Mayflower Hotel in Akron, Ohio where Bill W. found Dr. Bob, leading to the founding of Alcoholics Anonymous" title="The Mayflower Hotel in Akron, Ohio where Bill W. found Dr. Bob, leading to the founding of Alcoholics Anonymous" style="max-width: 100%; height: auto;" />
   <div style="width: 100%; text-align: center; font-style: italic; color: #4a5568; margin-top: 0.5rem;">The church directory in the lobby of the Mayflower Hotel in Akron, Ohio that led Bill W. to Dr. Bob. The two men went on to co-found Alcoholics Anonymous.</div>
 </div>
 
@@ -415,14 +415,14 @@ The Three Legacies of Alcoholics Anonymous are Recovery, Unity, and Service. By 
 <a class="explore-button" href="aas-three-legacies/">Learn About A.A.'s Three Legacies</a>
 
 <div class="tradition-image-row">
-  <img src="images/StepsTraditionsConcepts.png" alt="A.A. Steps, Traditions, and Concepts" />
+  <img src="images/StepsTraditionsConcepts.png" alt="A.A. Steps, Traditions, and Concepts: The Three Legacies adopted at the 1955 International Convention" title="A.A. Steps, Traditions, and Concepts: The Three Legacies adopted at the 1955 International Convention" />
   <div style="width: 100%; text-align: center; font-style: italic;">A.A.'s Three Legacies of Recovery, Unity, and Service were adopted by the Fellowship at the International Convention of Alcoholics Anonymous at St. Louis in 1955. Read about this historic event in the book <em>Alcoholics Anonymous Comes of Age: A Brief History of A.A.</em></div>
 </div>
 
 ## Sponsorship in A.A.
 
 <div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
-  <img src="images/Members_TalkingatTable.png" alt="Members talking at a table" style="max-width: 100%; height: auto;" />
+  <img src="images/Members_TalkingatTable.png" alt="A.A. members talking at a table during sponsorship and peer recovery support" title="A.A. members talking at a table during sponsorship and peer recovery support" style="max-width: 100%; height: auto;" />
   <div style="width: 100%; text-align: center; font-style: italic;">Sponsorship responsibility is unwritten and informal, but it is a basic part of the A.A. approach to recovery from alcoholism through the Twelve Steps. Sponsorship styles and relationships vary. The important thing is that the newcomer is introduced to A.A. literature, particularly the Big Book of Alcoholics Anonymous, and is guided through the Twelve Steps.</div>
 </div>
 
@@ -439,7 +439,7 @@ Any gathering of two or more alcoholics who wish to recover and have no other af
 All groups exist to help those who suffer from the disease of alcoholism.
 
 <div class="tradition-image-row">
-  <img src="images/AA_group.png" alt="The A.A. Group pamphlet" />
+  <img src="images/AA_group.png" alt="The A.A. Group...Where It All Begins pamphlet cover explaining how A.A. groups function" title="The A.A. Group...Where It All Begins pamphlet cover explaining how A.A. groups function" />
 </div>
 
 <p class="aa-group-caption"><em>The A.A. Group...Where It All Begins</em></p>
@@ -459,7 +459,7 @@ The problem of drug addiction in its several forms lies close to us all. It stir
 <a class="explore-button" href="problems-other-than-alcohol/">Problems Other Than Alcohol</a>
 
 <div class="tradition-image-row">
-  <img src="images/Grapevine.png" alt="A.A. Grapevine magazine" />
+  <img src="images/Grapevine.png" alt="A.A. Grapevine magazine cover, the international journal of Alcoholics Anonymous" title="A.A. Grapevine magazine cover, the international journal of Alcoholics Anonymous" />
   <div style="width: 100%; text-align: center; font-style: italic;">The Grapevine is A.A.'s "meeting in print." La Viña is the Fellowship's Spanish-language magazine. Both publications include submissions from ordinary A.A. members from around the world.</div>
 </div>
 
@@ -493,12 +493,12 @@ Connect with: <a href="aas-three-legacies/">A.A.'s Three Legacies</a> | <a href=
 <a class="explore-button" href="https://www.aa.org" target="_blank" rel="noopener">Contact the A.A. General Service Office (GSO)</a>
 
 <div class="tradition-image-row">
-  <img src="images/General_Service_Conference.png" alt="A.A. General Service Conference" />
+  <img src="images/General_Service_Conference.png" alt="A.A. General Service Conference, the active voice and conscience of the Fellowship" title="A.A. General Service Conference, the active voice and conscience of the Fellowship" />
   <div style="width: 100%; text-align: center; font-style: italic;">The General Service Conference of A.A. has become, for nearly every practical purpose, the active voice and the effective conscience of our whole society in its world affairs (Concept II). The workings of the Conference and the A.A. General Service structure are explained in the A.A. Service Manual and Twelve Concepts for World Service by Bill W. available at [www.aa.org](https://www.aa.org)</div>
 </div>
 
 <div class="tradition-image-row">
-  <img src="images/Box459.png" alt="Box 459 newsletter image" />
+  <img src="images/Box459.png" alt="Box 459 newsletter, the official newsletter of the A.A. General Service Office" title="Box 459 newsletter, the official newsletter of the A.A. General Service Office" />
   <div style="width: 100%; text-align: center; font-style: italic;">Box 459 is the official newsletter of the A.A. General Service Office.</div>
 </div>
 
@@ -509,7 +509,7 @@ Join our Box 459 newsletter digital delivery mailing list.
 <a class="explore-button" href="https://www.aa.org/box-459" target="_blank" rel="noopener">Subscribe to Box 459 Newsletter</a>
 
 <div class="tradition-image-row">
-  <img src="images/FlagGlobe.png" alt="Flags around the globe image" />
+  <img src="images/FlagGlobe.png" alt="International A.A. flags around the globe representing the worldwide fellowship" title="International A.A. flags around the globe representing the worldwide fellowship" />
 </div>
 
 ## A.A. Around the World
@@ -533,7 +533,7 @@ For the full legal notice, permissions, and related guidance, see the page below
 <a class="explore-button" href="disclaimer-and-permissions/">Read Our Disclaimer and Permissions</a>
 
 <div class="tradition-image-row">
-  <img src="images/easy_does_it_logo.jpg" alt="Easy Does It logo" />
+  <img src="images/easy_does_it_logo.jpg" alt="Easy Does It recovery slogan used by Alcoholics Anonymous" title="Easy Does It recovery slogan used by Alcoholics Anonymous" />
 </div>
 
 <a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join Online A.A. Meeting</a>
@@ -548,7 +548,7 @@ For the full legal notice, permissions, and related guidance, see the page below
 ---
 
 <div class="tradition-image-row">
-  <img src="images/aa_hearts.png" alt="A.A. Hearts image" />
+  <img src="images/aa_hearts.png" alt="A.A. Hearts illustration of love and fellowship at the heart of recovery" title="A.A. Hearts illustration of love and fellowship at the heart of recovery" />
 </div>
 
 ## Quick Links and Resources

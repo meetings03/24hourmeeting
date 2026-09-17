@@ -9,5 +9,5 @@ The booklet "Living Sober" has many practical suggestions for gaining and mainta
 > What's more, you'll usually find us quite a friendly bunch, doing a lot of laughing—at ourselves. That is why, if you are hung-over, an A.A. gathering provides a cheerful environment for getting past the hang-over and beginning to feel much, much better (p.75)
 
 <div class="tradition-image-row">
-  <img src="/images/Meeting_Circle.png" alt="Meeting circle image" style="max-width: 70%; height: auto; display: block; margin: 1.5rem auto;" />
+  <img src="/images/Meeting_Circle.png" alt="A.A. meeting circle with members gathering in recovery and fellowship" title="A.A. meeting circle with members gathering in recovery and fellowship" style="max-width: 70%; height: auto; display: block; margin: 1.5rem auto;" />
 </div>
