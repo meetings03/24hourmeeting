@@ -10,7 +10,7 @@ The Three Legacies of Alcoholics Anonymous are Recovery, Unity, and Service. By 
 
 <div class="tradition-image-row">
   <img src="../images/Basic_Text.png?v=1" alt="Alcoholics Anonymous basic text" />
-  <div style="width: 100%; text-align: center; font-style: italic;">Alcoholics Anonymous: The story of how many thousands of men and women have recovered from alcoholism.</div>
+  <div class="tradition-caption">Alcoholics Anonymous: The story of how many thousands of men and women have recovered from alcoholism.</div>
 </div>
 
 A.A.'s program of recovery is presented in The Big Book of Alcoholics Anonymous, which describes the grave and progressive nature of alcoholism, and explains how to recover with the Twelve Steps. A.A.'s experience has taught us that the Steps are best taken with a sponsor.
@@ -34,7 +34,7 @@ A.A.'s program of recovery is presented in The Big Book of Alcoholics Anonymous,
 
 <div class="tradition-image-row">
   <img src="../images/12x12.png?v=1" alt="Alcoholics Anonymous Twelve Steps and Twelve Traditions" />
-  <div style="width: 100%; text-align: center; font-style: italic;">Twelve Steps and Twelve Traditions is a collection of interpretive essays by an A.A. co-founder that explain the A.A. program of recovery-- the Twelve Steps, and the principles that keep our Society together--the Twelve Traditions. A.A.'s Traditions are also explained in the pamphlets "The Twelve Traditions llustrated" and "A.A. Tradition: How it Developed," and the book "Alcoholics Anonymous Comes of Age: A Brief History of A.A.," available at www.aa.org</div>
+  <div class="tradition-caption">Twelve Steps and Twelve Traditions is a collection of interpretive essays by an A.A. co-founder that explain the A.A. program of recovery-- the Twelve Steps, and the principles that keep our Society together--the Twelve Traditions. A.A.'s Traditions are also explained in the pamphlets "The Twelve Traditions llustrated" and "A.A. Tradition: How it Developed," and the book "Alcoholics Anonymous Comes of Age: A Brief History of A.A.," available at www.aa.org</div>
 </div>
 
 ### The Twelve Traditions
