@@ -10,6 +10,7 @@ The Three Legacies of Alcoholics Anonymous are Recovery, Unity, and Service. By 
 
 <div class="tradition-image-row">
   <img src="../images/Basic_Text.png?v=1" alt="The Big Book of Alcoholics Anonymous, the basic text for recovery" title="The Big Book of Alcoholics Anonymous, the basic text for recovery" />
+  <a class="explore-button" href="https://www.aa.org/the-big-book" target="_blank" rel="noopener">Read Big Book of Alcoholics Anonymous</a>
   <div class="tradition-caption">Alcoholics Anonymous: The story of how many thousands of men and women have recovered from alcoholism.</div>
 </div>
 
@@ -34,6 +35,7 @@ A.A.'s program of recovery is presented in The Big Book of Alcoholics Anonymous,
 
 <div class="tradition-image-row">
   <img src="../images/12x12.png?v=1" alt="Twelve Steps and Twelve Traditions book by Alcoholics Anonymous" title="Twelve Steps and Twelve Traditions book by Alcoholics Anonymous" />
+  <a class="explore-button" href="https://www.aa.org/twelve-steps-twelve-traditions" target="_blank" rel="noopener">Read Twelve Steps and Twelve Traditions</a>
   <div class="tradition-caption">Twelve Steps and Twelve Traditions is a collection of interpretive essays by an A.A. co-founder that explain the A.A. program of recovery-- the Twelve Steps, and the principles that keep our Society together--the Twelve Traditions. A.A.'s Traditions are also explained in the pamphlets "The Twelve Traditions llustrated" and "A.A. Tradition: How it Developed," and the book "Alcoholics Anonymous Comes of Age: A Brief History of A.A.," available at www.aa.org</div>
 </div>
 
