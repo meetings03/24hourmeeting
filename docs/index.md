@@ -143,8 +143,8 @@ New to A.A.? Start with our <a href="aa-primary-purpose/">Primary Purpose</a> an
   <img src="images/sobrietyneversleeps_Logo.jpg" alt="Sobriety Never Sleeps logo for the 24/7 International Marathon Meeting of Alcoholics Anonymous" title="Sobriety Never Sleeps logo for the 24/7 International Marathon Meeting of Alcoholics Anonymous" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
 </div>
 
-## What to Expect When You Join
-
+## What to Expect When You Enter the 24 Hour International Marathon Meeting of AA
+  
 <a class="explore-button" href="what-to-expect-when-you-join/">Learn What to Expect</a>
 
 <div class="tradition-image-row">
