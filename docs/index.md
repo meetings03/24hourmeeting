@@ -97,7 +97,7 @@ Alcoholics Anonymous is a fellowship of people who share their experience, stren
 
 Read the full text of A.A.'s <a href="aas-three-legacies/">Twelve Steps and Twelve Traditions</a>, the Declaration of Unity, and the Toronto Responsibility Statement on our Three Legacies page. New to A.A.? The General Service Office pamphlet <a href="https://www.aa.org/newcomer-asks" target="_blank" rel="noopener">"A Newcomer Asks"</a> is a good place to start; see more on our <a href="aa-literature/">AA Literature</a> page.
 
-## Contact This Meeting
+## Contact This 24/7 Online A.A. Meeting
 
 This link will connect you with the 24 Hour International Marathon Meeting of A.A. (Where sobriety never sleeps).
 
