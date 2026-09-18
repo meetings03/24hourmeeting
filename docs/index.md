@@ -27,6 +27,8 @@
 
 Join a live 24/7 Online A.A. Meeting on Zoom. This is an open international Alcoholics Anonymous meeting with a new session every hour. Join now with Zoom Meeting ID **292 371 2604**. No password required.
 
+<a class="explore-button" href="new-to-aa-start-here/">New to AA? Start Here</a>
+
 ## Where Sobriety Never Sleeps
 
 <div class="tradition-image-row">
@@ -42,7 +44,7 @@ Join a live 24/7 Online A.A. Meeting on Zoom. This is an open international Alco
 
 <a class="explore-button" href="quick-answers/">Read Quick Answers</a>
 
-New to A.A.? Start with our <a href="aa-primary-purpose/">Primary Purpose</a> and <a href="aas-three-legacies/">Three Legacies</a> to understand the Fellowship's foundation.
+New to A.A.? Visit our <a href="new-to-aa-start-here/">New to A.A.? Start Here</a> page, or start with our <a href="aa-primary-purpose/">Primary Purpose</a> and <a href="aas-three-legacies/">Three Legacies</a> to understand the Fellowship's foundation.
 
 <div class="tradition-image-row">
   <img src="images/sobrietyneversleeps_Logo.jpg" alt="Sobriety Never Sleeps logo for the 24/7 International Marathon Meeting of Alcoholics Anonymous" title="Sobriety Never Sleeps logo for the 24/7 International Marathon Meeting of Alcoholics Anonymous" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
@@ -95,7 +97,7 @@ Alcoholics Anonymous is a fellowship of people who share their experience, stren
   <img src="images/How_It_Works.png" alt="How It Works illustration explaining the A.A. recovery program and principles" title="How It Works illustration explaining the A.A. recovery program and principles" />
 </div>
 
-Read the full text of A.A.'s <a href="aas-three-legacies/">Twelve Steps and Twelve Traditions</a>, the Declaration of Unity, and the Toronto Responsibility Statement on our Three Legacies page. New to A.A.? The General Service Office pamphlet <a href="https://www.aa.org/newcomer-asks" target="_blank" rel="noopener">"A Newcomer Asks"</a> is a good place to start; see more on our <a href="aa-literature/">AA Literature</a> page.
+Read the full text of A.A.'s <a href="aas-three-legacies/">Twelve Steps and Twelve Traditions</a>, the Declaration of Unity, and the Toronto Responsibility Statement on our Three Legacies page. New to A.A.? Visit our <a href="new-to-aa-start-here/">New to A.A.? Start Here</a> page, which links to the General Service Office pamphlet "A Newcomer Asks"; see more on our <a href="aa-literature/">AA Literature</a> page.
 
 ## Contact This 24/7 Online A.A. Meeting
 
@@ -313,6 +315,7 @@ For the full legal notice, permissions, and related guidance, see the page below
   <div>
     <h4>Getting Started</h4>
     <ul style="list-style: none; padding: 0; margin: 0;">
+      <li style="margin: 0.5rem 0;"><a href="new-to-aa-start-here/">New to A.A.? Start Here</a></li>
       <li style="margin: 0.5rem 0;"><a href="what-to-expect-when-you-join/">What to Expect</a></li>
       <li style="margin: 0.5rem 0;"><a href="quick-answers/">Quick Answers</a></li>
       <li style="margin: 0.5rem 0;"><a href="faq/">Frequently Asked Questions</a></li>
