@@ -3,6 +3,11 @@ site_description: Join a 24/7 Online AA Meeting on Zoom. Open international Alco
 site_author: Help 24/7
 site_url: https://sobrietyneversleeps.org/
 
+extra:
+  social:
+    - icon: fontawesome/solid/paper-plane
+      link: https://sobrietyneversleeps.org
+
 nav:
   - Home: index.md
   - Do you have a drinking problem?: drinking-problem.md
@@ -22,6 +27,9 @@ nav:
   - Sponsorship: sponsorship.md
   - About This Meeting: about-this-meeting.md
   - Contact this 24/7 online AA Meeting: contact-this-24-7-online-aa-meeting.md
+
+plugins:
+  - search
 
 theme:
   name: material

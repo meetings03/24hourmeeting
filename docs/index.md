@@ -14,101 +14,6 @@
     font-size: 1.365rem;
     padding: 1.3rem 2.34rem;
   }
-
-  .contact-card {
-    margin: 1.5rem 0;
-    padding: 1.5rem;
-    background-color: #f5f5f5;
-    border-radius: 4px;
-  }
-
-  .contact-card ul {
-    margin: 0;
-    padding-left: 1.5rem;
-  }
-
-  .contact-card li {
-    margin: 0.75rem 0;
-    line-height: 1.6;
-  }
-
-  .portrait-image {
-    display: block;
-    width: 100%;
-    max-width: 260px;
-    height: auto;
-    margin: 1.5rem auto;
-  }
-
-  .quote-card {
-    position: relative;
-    margin: 1.5rem auto 2rem;
-    padding: 2rem 2.25rem;
-    max-width: 640px;
-    background: linear-gradient(180deg, #f5f7fc 0%, #eef1fa 100%);
-    border-left: 5px solid #2f4ea8;
-    border-radius: 8px;
-    box-shadow: 0 10px 24px rgba(47, 78, 168, 0.12);
-    text-align: center;
-  }
-
-  .quote-card::before {
-    content: "\201C";
-    position: absolute;
-    top: -0.5rem;
-    left: 1rem;
-    font-size: 4rem;
-    line-height: 1;
-    color: #2f4ea8;
-    opacity: 0.25;
-    font-family: Georgia, serif;
-  }
-
-  .quote-label {
-    margin: 0 0 1rem;
-    font-size: 0.85rem;
-    font-weight: 700;
-    letter-spacing: 0.08em;
-    text-transform: uppercase;
-    color: #2f4ea8;
-  }
-
-  .quote-text {
-    margin: 0.5rem 0;
-    font-size: 1.15rem;
-    font-style: italic;
-    line-height: 1.7;
-    color: #324055;
-  }
-
-  .quote-text:last-of-type {
-    margin-bottom: 0;
-  }
-
-  .legacy-vignette {
-    margin: 2rem auto;
-    padding: 2rem 2.25rem;
-    max-width: 820px;
-    background: linear-gradient(180deg, #f9fbff 0%, #f2f6ff 100%);
-    border: 1px solid rgba(47, 78, 168, 0.15);
-    border-radius: 12px;
-    box-shadow: 0 10px 24px rgba(47, 78, 168, 0.12);
-  }
-
-  .legacy-vignette h3 {
-    margin-top: 0;
-    text-align: center;
-    letter-spacing: 0.03em;
-  }
-
-  .legacy-vignette h4 {
-    color: #2f4ea8;
-  }
-
-  .legacy-vignette p {
-    line-height: 1.7;
-    color: #324055;
-  }
 </style>
 
 <a id="join-meeting" class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join Online A.A. Meeting</a>
@@ -190,80 +95,7 @@ Alcoholics Anonymous is a fellowship of people who share their experience, stren
   <img src="images/How_It_Works.png" alt="How It Works illustration explaining the A.A. recovery program and principles" title="How It Works illustration explaining the A.A. recovery program and principles" />
 </div>
 
-## The Twelve Steps of Alcoholics Anonymous
-
-1. We admitted we were powerless over alcohol—that our lives had become unmanageable.
-2. Came to believe that a Power greater than ourselves could restore us to sanity.
-3. Made a decision to turn our will and our lives over to the care of God *as we understood Him*.
-4. Made a searching and fearless moral inventory of ourselves.
-5. Admitted to God, to ourselves, and to another human being the exact nature of our wrongs.
-6. Were entirely ready to have God remove all these defects of character.
-7. Humbly asked Him to remove our shortcomings.
-8. Made a list of all persons we had harmed, and became willing to make amends to them all.
-9. Made direct amends to such people wherever possible, except when to do so would injure them or others.
-10. Continued to take personal inventory and when we were wrong promptly admitted it.
-11. Sought through prayer and meditation to improve our conscious contact with God *as we understood Him*, praying only for knowledge of His will for us and the power to carry that out.
-12. Having had a spiritual awakening as the result of these steps, we tried to carry this message to alcoholics, and to practice these principles in all our affairs.
-
-<div class="tradition-image-row">
-  <img src="images/traditions_distilation.png" alt="Traditions distillation illustration showing the Twelve Traditions of Alcoholics Anonymous" title="Traditions distillation illustration showing the Twelve Traditions of Alcoholics Anonymous" />
-</div>
-
-## The Twelve Traditions of Alcoholics Anonymous
-
-1. Our common welfare should come first; personal recovery depends upon A.A. unity.
-2. For our group purpose there is but one ultimate authority—a loving God as He may express Himself in our group conscience. Our leaders are but trusted servants; they do not govern.
-3. The only requirement for A.A. membership is a desire to stop drinking.
-4. Each group should be autonomous except in matters affecting other groups or A.A. as a whole.
-5. Each group has but one primary purpose—to carry its message to the alcoholic who still suffers.
-6. An A.A. group ought never endorse, finance, or lend the A.A. name to any related facility or outside enterprise, lest problems of money, property, and prestige divert us from our primary purpose.
-7. Every A.A. group ought to be fully self-supporting, declining outside contributions.
-8. Alcoholics Anonymous should remain forever nonprofessional, but our service centers may employ special workers.
-9. A.A., as such, ought never be organized; but we may create service boards or committees directly responsible to those they serve.
-10. Alcoholics Anonymous has no opinion on outside issues; hence the A.A. name ought never be drawn into public controversy.
-11. Our public relations policy is based on attraction rather than promotion; we need always maintain personal anonymity at the level of press, radio, and films.
-12. Anonymity is the spiritual foundation of all our Traditions, ever reminding us to place principles before personalities.
-
-## A Newcomer Asks
-
-<div class="tradition-image-row">
-  <img src="images/NewcomerAsks.png" alt="A Newcomer Asks pamphlet" />
-</div>
-
-<a class="explore-button" href="https://www.aa.org/newcomer-asks" target="_blank" rel="noopener">Read the pamphlet &quot;A Newcomer Asks&quot; from A.A. World Services</a>
-
-<div class="tradition-image-row">
-  <img src="images/fifth_tradition_image_part_1.png" alt="Fifth Tradition Part 1 illustration: Each A.A. group's primary purpose is carrying the message to suffering alcoholics" title="Fifth Tradition Part 1 illustration: Each A.A. group's primary purpose is carrying the message to suffering alcoholics" />
-</div>
-
-<div class="tradition-image-row">
-  <img src="images/fifth_tradition_image_part_2.png" alt="Fifth Tradition Part 2 illustration: A.A. groups carry the message through service and Twelfth Step work" title="Fifth Tradition Part 2 illustration: A.A. groups carry the message through service and Twelfth Step work" />
-</div>
-
-### A Declaration of Unity
-
-<div class="quote-card">
-  <p class="quote-label">Declaration of Unity</p>
-  <p class="quote-text">This we owe to A.A.'s future: To place our common welfare first; to keep our Fellowship united. For on A.A. unity depend our lives and the lives of those to come.</p>
-</div>
-
-<div class="tradition-image-row">
-  <img src="images/Bob_and_Bill.png" alt="Bob and Bill image, cofounders of Alcoholics Anonymous" class="portrait-image" title="Bob and Bill, cofounders of Alcoholics Anonymous" />
-</div>
-
-*Dr. Bob and Bill W., the cofounders of Alcoholics Anonymous*
-
-### I Am Responsible
-
-<div class="quote-card">
-  <p class="quote-label">Toronto Responsibility Statement</p>
-  <p class="quote-text">I am responsible.</p>
-  <p class="quote-text">When anyone, anywhere, reaches out for help, I want the hand of A.A. always to be there. And for that I am responsible.</p>
-</div>
-
-<div class="tradition-image-row">
-  <img src="images/first_tradition_image.png" alt="First Tradition illustration: A.A.'s common welfare comes first, personal recovery depends on unity" title="First Tradition illustration: A.A.'s common welfare comes first, personal recovery depends on unity" />
-</div>
+Read the full text of A.A.'s <a href="aas-three-legacies/">Twelve Steps and Twelve Traditions</a>, the Declaration of Unity, and the Toronto Responsibility Statement on our Three Legacies page. New to A.A.? The General Service Office pamphlet <a href="https://www.aa.org/newcomer-asks" target="_blank" rel="noopener">"A Newcomer Asks"</a> is a good place to start; see more on our <a href="aa-literature/">AA Literature</a> page.
 
 ## Contact This Meeting
 
@@ -291,33 +123,9 @@ Alcoholics Anonymous is a global fellowship. The link below leads to many offici
 
 ## Do You Have a Drinking Problem?
 
-### The CAGE Questionnaire
+Not sure if drinking has become a problem? Our <a href="drinking-problem/">Drinking Problem</a> page walks through the CAGE questionnaire, a short screening tool recognized by institutions such as Johns Hopkins University Hospital, along with A.A.'s own two questions for self-assessment.
 
-The CAGE questionnaire is a short, widely used screening tool designed to help individuals identify possible problems with alcohol use. Originally introduced by Dr. John A. Ewing, it is commonly used in clinical settings and is recognized by institutions such as Johns Hopkins University Hospital.
-
-Please answer each question honestly with a yes or no.
-
-- C — Cut down: Have you ever felt you should cut down on your drinking?
-- A — Annoyed: Have people annoyed you by criticizing your drinking?
-- G — Guilty: Have you ever felt bad or guilty about your drinking?
-- E — Eye-opener: Have you ever had a drink first thing in the morning to steady your nerves or relieve a hangover?
-
-Source: [Johns Hopkins University Hospital](https://www.hopkinsmedicine.org)
-
-<div class="tradition-image-row">
-  <img src="images/step_one.png" alt="Step One of Alcoholics Anonymous: We admitted we were powerless over alcohol" title="Step One of Alcoholics Anonymous: We admitted we were powerless over alcohol" />
-  <div style="width: 100%; text-align: center; font-style: italic;">Alcoholics are women and men who have lost the ability to control their drinking. Recovery begins when we concede to our innermost selves that we are alcoholics.</div>
-</div>
-
-### Are You an Alcoholic? A.A.'s Two Questions
-
-The book *Alcoholics Anonymous* (the Big Book) says that alcoholics are men and women who have lost the ability to control their drinking. A.A. does not pronounce anyone as being an alcoholic. The following passage from page 44 of the Big Book states: "In the preceding chapters you have learned something of alcoholism. We hope we have made clear the distinction between the alcoholic and the non-alcoholic. If, when you honestly want to, you find you cannot quit entirely, or if when drinking, you have little control over the amount you take, you are probably alcoholic. If that be the case, you may be suffering from an illness which only a spiritual experience will conquer."
-
-<div class="tradition-image-row">
-  <img src="images/First_Edition.jpeg" alt="First edition of Alcoholics Anonymous" style="width: 60%; max-width: 100%; height: auto;" />
-</div>
-
-*First edition of the Big Book of Alcoholics Anonymous, published in April 1939. This is our basic text, which explains the nature of alcoholism and A.A.'s program of recovery—the Twelve Steps.*
+<a class="explore-button" href="drinking-problem/">Do You Have a Drinking Problem?</a>
 
 ## A.A. Literature
 
@@ -369,14 +177,6 @@ To join right away, use the Zoom ID **292 371 2604** or click the button below:
 </ol>
 
 ## Recovery Resources
-
-<div class="tradition-image-row" style="margin: 1.5rem 0; padding: 1rem; border: 1px solid rgba(47, 78, 168, 0.12); border-radius: 12px; background: linear-gradient(180deg, #f9fbff 0%, #f2f6ff 100%);">
-  <img src="images/eighth_tradition_image.png" alt="Eighth Tradition of Alcoholics Anonymous: A.A. should remain forever nonprofessional" title="Eighth Tradition of Alcoholics Anonymous: A.A. should remain forever nonprofessional" style="max-width: 330px; width: 100%; height: auto; display: block; border-radius: 8px; box-shadow: 0 10px 24px rgba(47, 78, 168, 0.12);" />
-  <div style="width: 100%; text-align: center;">
-    <p><strong>Long Form of Tradition Eight</strong></p>
-    <p>Alcoholics Anonymous should remain forever nonprofessional. We define professionalism as the occupation of counseling alcoholics for fees or hire. But we may employ alcoholics where they are going to perform those services for which we might otherwise have to engage nonalcoholics. Such special services may be well recompensed. But our usual A.A. Twelfth Step work is never to be paid for.</p>
-  </div>
-</div>
 
 A.A.'s Eighth Tradition states: "Alcoholics Anonymous should remain forever nonprofessional, but our service centers may employ special workers." The link below leads to a variety of non-A.A. recovery-related resources. Inclusion on this website does not indicate endorsement or affiliation. Our aim is to be helpful and to cooperate with our friends.
 
@@ -436,31 +236,13 @@ The Three Legacies of Alcoholics Anonymous are Recovery, Unity, and Service. By 
 
 ## The A.A. Group...Where It All Begins
 
-### What is an A.A. group?
-
-Any gathering of two or more alcoholics who wish to recover and have no other affiliation may call themselves an A.A. group. Membership at the group level is open to all who have a desire to recover from alcoholism. There are no dues, fees, requirements or restrictions of any kind. There's no formal application to join a group.
-
-### What is the purpose of an A.A. group?
-
-All groups exist to help those who suffer from the disease of alcoholism.
-
-<div class="tradition-image-row">
-  <img src="images/AA_group.png" alt="The A.A. Group...Where It All Begins pamphlet cover explaining how A.A. groups function" title="The A.A. Group...Where It All Begins pamphlet cover explaining how A.A. groups function" />
-</div>
-
-<p class="aa-group-caption"><em>The A.A. Group...Where It All Begins</em></p>
-
-This informational guide tells how a group works most effectively, how a new group can be started, and how each group can be linked to A.A. as a whole. General Service Conference-approved.
+Any gathering of two or more alcoholics who wish to recover, with no other affiliation, may call themselves an A.A. group. Learn more in the General Service Conference-approved pamphlet.
 
 <a class="explore-button" href="https://www.aa.org/aa-groupwhere-it-all-begins" target="_blank" rel="noopener">The A.A. Group...Where It All Begins</a>
 
 ## Problems Other Than Alcohol
 
-<div class="tradition-image-row" style="margin: 1rem 0 1.75rem; padding: 1rem; border: 1px solid rgba(47, 78, 168, 0.12); border-radius: 12px; background: linear-gradient(180deg, #f9fbff 0%, #f2f6ff 100%);">
-  <img src="images/Problems_Other_Than_Alcohol.png" alt="Problems Other Than Alcohol pamphlet cover" style="max-width: 330px; width: 100%; height: auto; display: block; border-radius: 8px; box-shadow: 0 10px 24px rgba(47, 78, 168, 0.12);" />
-</div>
-
-The problem of drug addiction in its several forms lies close to us all. It stirs our deepest interest and sympathy. Many A.A. members, especially those who have suffered these particular addictions, are now asking, "What can we do about drugs—within our Fellowship, and without?" Bill W. wrote these words in the pamphlet *Problems Other Than Alcohol*.
+A.A. members are sometimes asked what the Fellowship can do about drug addiction. Our <a href="problems-other-than-alcohol/">Problems Other Than Alcohol</a> page answers common questions about non-alcoholic membership.
 
 <a class="explore-button" href="problems-other-than-alcohol/">Problems Other Than Alcohol</a>
 
@@ -471,11 +253,7 @@ The problem of drug addiction in its several forms lies close to us all. It stir
 
 ## A.A. Grapevine and La Viña
 
-### Welcome to the A.A. Grapevine and La Viña
-
-Welcome to your digital connection to **A.A. Grapevine** and **La Viña**, the international journals of Alcoholics Anonymous. Often described as A.A.'s "meeting in print," these magazines provide a powerful monthly collection of stories, humor, and insights written directly by fellowship members worldwide.
-
-Whether you are looking for daily inspiration, diverse perspectives on the Twelve Steps, or a deep dive into recovery history, Grapevine and La Viña offer a wealth of shared experience, strength, and hope to support you on your journey—because here, sobriety never sleeps.
+A.A.'s "meeting in print" and its Spanish-language counterpart share stories, humor, and insights from members worldwide.
 
 <a class="explore-button" href="aa-grapevine-and-la-vina/">Read A.A. Grapevine and La Viña Publications</a>
 
@@ -500,37 +278,9 @@ Connect with: <a href="aas-three-legacies/">A.A.'s Three Legacies</a> | <a href=
 
 <div class="tradition-image-row">
   <img src="images/General_Service_Conference.png" alt="A.A. General Service Conference, the active voice and conscience of the Fellowship" title="A.A. General Service Conference, the active voice and conscience of the Fellowship" />
-  <div style="width: 100%; text-align: center; font-style: italic;">The General Service Conference of A.A. has become, for nearly every practical purpose, the active voice and the effective conscience of our whole society in its world affairs (Concept II). The workings of the Conference and the A.A. General Service structure are explained in the A.A. Service Manual and Twelve Concepts for World Service by Bill W. available at [www.aa.org](https://www.aa.org)</div>
 </div>
 
-<div class="tradition-image-row">
-  <img src="images/Box459.png" alt="Box 459 newsletter, the official newsletter of the A.A. General Service Office" title="Box 459 newsletter, the official newsletter of the A.A. General Service Office" />
-  <div style="width: 100%; text-align: center; font-style: italic;">Box 459 is the official newsletter of the A.A. General Service Office.</div>
-</div>
-
-## Box 459
-
-Join our Box 459 newsletter digital delivery mailing list.
-
-<a class="explore-button" href="https://www.aa.org/box-459" target="_blank" rel="noopener">Subscribe to Box 459 Newsletter</a>
-
-<div class="tradition-image-row">
-  <img src="images/FlagGlobe.png" alt="International A.A. flags around the globe representing the worldwide fellowship" title="International A.A. flags around the globe representing the worldwide fellowship" />
-</div>
-
-## A.A. Around the World
-
-<article class="legacy-vignette">
-<h3>The World Service Meeting</h3>
-
-<p>Since its inauguration in 1969, the World Service Meeting (WSM) has provided an ongoing international forum for shared experience and ideas on carrying the A.A. message of recovery from alcoholism. Held biennially, the event alternates between New York and other locations around the globe, and has convened in such diverse cities as Cartagena, Colombia; Auckland, New Zealand; Oviedo, Spain; Malahide, Ireland; Mexico City, Mexico; Warsaw, Poland; and Durban, South Africa. Participating countries select delegates to attend this meeting.</p>
-
-<p>The primary purpose of the World Service Meeting is the same as that of all A.A. activity: to carry the message of recovery to the alcoholic who still suffers, wherever in the world they may be, whatever language they may speak. The World Service Meeting seeks ways and means of accomplishing this goal by serving as a forum for sharing the experience, strength and hope of WSM delegates who come together every two years from all parts of the world.</p>
-
-<p>Described as a living and growing exchange of experience responding to the needs of A.A. worldwide, WSM sessions cover a broad range of issues pertinent to the development of A.A. in participating countries.</p>
-</article>
-
-<a class="explore-button" href="https://www.aa.org/28th-alcoholics-anonymous-world-service-meeting-final-report" target="_blank" rel="noopener">World Service Meeting Report</a>
+Learn about Box 459, the World Service Meeting, and A.A.'s service structure worldwide on our <a href="aas-three-legacies/">Three Legacies</a> page.
 
 ## Disclaimer and Permissions
 

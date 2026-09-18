@@ -2,6 +2,15 @@
 
 {% block extrahead %}
   {{ super() }}
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-Z48YTGQQJE"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-Z48YTGQQJE');
+  </script>
   {% set is_home_page = page and page.url == '' %}
   {% set is_about_page = page and page.url == 'about-this-meeting/' %}
   {% set canonical_url = 'https://sobrietyneversleeps.org/' if is_home_page else 'https://sobrietyneversleeps.org/' ~ page.url %}

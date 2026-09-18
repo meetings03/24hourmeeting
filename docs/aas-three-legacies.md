@@ -39,6 +39,17 @@ A.A.'s program of recovery is presented in The Big Book of Alcoholics Anonymous,
   <div class="tradition-caption">Twelve Steps and Twelve Traditions is a collection of interpretive essays by an A.A. co-founder that explain the A.A. program of recovery-- the Twelve Steps, and the principles that keep our Society together--the Twelve Traditions. A.A.'s Traditions are also explained in the pamphlets "The Twelve Traditions llustrated" and "A.A. Tradition: How it Developed," and the book "Alcoholics Anonymous Comes of Age: A Brief History of A.A.," available at www.aa.org</div>
 </div>
 
+<div class="quote-card">
+  <p class="quote-label">Declaration of Unity</p>
+  <p class="quote-text">This we owe to A.A.'s future: To place our common welfare first; to keep our Fellowship united. For on A.A. unity depend our lives and the lives of those to come.</p>
+</div>
+
+<div class="tradition-image-row">
+  <img src="../images/Bob_and_Bill.png" alt="Bob and Bill image, cofounders of Alcoholics Anonymous" class="portrait-image" title="Bob and Bill, cofounders of Alcoholics Anonymous" />
+</div>
+
+*Dr. Bob and Bill W., the cofounders of Alcoholics Anonymous*
+
 ### The Twelve Traditions
 
 Service Material from the General Service Office
@@ -133,6 +144,40 @@ All rights reserved
 <div class="tradition-image-row">
   <img src="/images/Upside_down_triangle.png?v=1" alt="Alcoholics Anonymous upside-down triangle symbol representing service and the Third Legacy" title="Alcoholics Anonymous upside-down triangle symbol representing service and the Third Legacy" />
 </div>
+
+<div class="quote-card">
+  <p class="quote-label">Toronto Responsibility Statement</p>
+  <p class="quote-text">I am responsible.</p>
+  <p class="quote-text">When anyone, anywhere, reaches out for help, I want the hand of A.A. always to be there. And for that I am responsible.</p>
+</div>
+
+<div class="tradition-image-row">
+  <img src="/images/first_tradition_image.png" alt="First Tradition illustration: A.A.'s common welfare comes first, personal recovery depends on unity" title="First Tradition illustration: A.A.'s common welfare comes first, personal recovery depends on unity" />
+</div>
+
+### A.A. Around the World
+
+<article class="legacy-vignette">
+<h3>The World Service Meeting</h3>
+
+<p>Since its inauguration in 1969, the World Service Meeting (WSM) has provided an ongoing international forum for shared experience and ideas on carrying the A.A. message of recovery from alcoholism. Held biennially, the event alternates between New York and other locations around the globe, and has convened in such diverse cities as Cartagena, Colombia; Auckland, New Zealand; Oviedo, Spain; Malahide, Ireland; Mexico City, Mexico; Warsaw, Poland; and Durban, South Africa. Participating countries select delegates to attend this meeting.</p>
+
+<p>The primary purpose of the World Service Meeting is the same as that of all A.A. activity: to carry the message of recovery to the alcoholic who still suffers, wherever in the world they may be, whatever language they may speak. The World Service Meeting seeks ways and means of accomplishing this goal by serving as a forum for sharing the experience, strength and hope of WSM delegates who come together every two years from all parts of the world.</p>
+
+<p>Described as a living and growing exchange of experience responding to the needs of A.A. worldwide, WSM sessions cover a broad range of issues pertinent to the development of A.A. in participating countries.</p>
+</article>
+
+<a class="explore-button" href="https://www.aa.org/28th-alcoholics-anonymous-world-service-meeting-final-report" target="_blank" rel="noopener">World Service Meeting Report</a>
+
+<div class="tradition-image-row">
+  <img src="/images/FlagGlobe.png" alt="International A.A. flags around the globe representing the worldwide fellowship" title="International A.A. flags around the globe representing the worldwide fellowship" />
+</div>
+
+#### Box 459
+
+Box 459 is the official newsletter of the A.A. General Service Office.
+
+<a class="explore-button" href="https://www.aa.org/box-459" target="_blank" rel="noopener">Subscribe to Box 459 Newsletter</a>
 
 <a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join Online A.A. Meeting</a>
 
