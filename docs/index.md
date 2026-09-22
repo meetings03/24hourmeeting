@@ -405,7 +405,7 @@ Our Twelfth Step—carrying the message—is the basic service that the A.A. Fel
 
 <a class="explore-button" href="aa-primary-purpose/">Learn About A.A.'s Primary Purpose</a>
 
-Connection: <a href="aas-three-legacies/">A.A.'s Three Legacies</a> provide the framework for this purpose.
+Connection: <a href="aas-three-legacies/">A.A.'s Three Legacies</a> provide the framework for the primary purpose of carrying the A.A. message of hope and recovery to the alcoholic who still suffers.
 
 <div class="tradition-image-row">
   <img src="images/Legacies.png" alt="Alcoholics Anonymous Three Legacies" style="width: 80%; max-width: 100%; height: auto; display: block; margin: 0 auto;" />
