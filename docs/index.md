@@ -267,7 +267,7 @@ Alcoholics Anonymous is a fellowship of people who share their experience, stren
   <img src="images/first_tradition_image.png" alt="First Tradition image" />
 </div>
 
-## Contact This Meeting
+## Contact This 24/7 Online A.A. Meeting
 
 This link will connect you with the 24 Hour International Marathon Meeting of A.A. (Where sobriety never sleeps).
 
