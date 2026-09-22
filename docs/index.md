@@ -273,6 +273,7 @@ This link will connect you with the 24 Hour International Marathon Meeting of A.
 
 <div class="tradition-image-row">
   <img src="images/Contact_Us.png" alt="Contact this 24/7 online A.A. Meeting" />
+  <p><em>We are available 24 hours a day on Zoom <strong>292 371 2604</strong>. If you have any questions, or would like to get involved in service, click the link below.</em></p>
 </div>
 
 <a class="explore-button" href="contact-this-24-7-online-aa-meeting/">Contact Us</a>
