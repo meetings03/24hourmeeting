@@ -336,6 +336,7 @@ See also: <a href="aa-grapevine-and-la-vina/">A.A. Grapevine and La Viña</a> fo
 
 <div class="tradition-image-row">
   <img src="images/PigeonPoint.jpg" alt="Pigeon Point lighthouse" />
+  <p><em>Help is available! If you are facing a medical emergency, contact your local emergency department. In the United States dial 911.</em></p>
 </div>
 
 ## Crisis and Mental Health Resources
