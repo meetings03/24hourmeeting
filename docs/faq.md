@@ -110,7 +110,7 @@ The 24 Hour International Marathon Meeting of A.A. does not provide attendance v
 
 ## Who runs A.A.?
 
-The Second Tradition of Alcoholics Anonymous states: "For our group purpose there is but one ultimate authority--a loving God as He may express Himself in our group conscience. Our leaders are but trusted servants; they do not govern."
+The Second Tradition of Alcoholics Anonymous states: "For our group purpose there is but one ultimate authority — a loving God as He may express Himself in our group conscience. Our leaders are but trusted servants; they do not govern."
 
 ## How long does each person speak in this 24-hour online A.A. meeting?
 

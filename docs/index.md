@@ -150,7 +150,7 @@ New to A.A.? Start with our <a href="aa-primary-purpose/">Primary Purpose</a> an
 
 <div class="tradition-image-row">
   <img src="images/GlobeAA.jpg" alt="Global A.A. fellowship image" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
-  <p><em>This 24/7 online Zoom meeting is an open meeting of Alcoholics Anonymous. Everyone is welcome to listen. We ask that only alcoholics or pesons with a desire to stop drinking speak.</em></p>
+  <p><em>This 24/7 online Zoom meeting is an open meeting of Alcoholics Anonymous. Everyone is welcome to listen. We ask that only alcoholics or persons with a desire to stop drinking speak.</em></p>
 </div>
 
 <a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join the Meeting Anytime</a>
@@ -513,21 +513,21 @@ Join our Box 459 newsletter digital delivery mailing list.
 
 <div class="tradition-image-row">
   <img src="images/FlagGlobe.png" alt="Flags around the globe image" />
+  <p><em>Alcoholics Anonymous has known groups in 180 countries worldwide, with an estimated 2 million members, supported by more than 123,000 groups globally.</em></p>
 </div>
 
 ## A.A. Around the World
 
-<article class="legacy-vignette">
-<h3>The World Service Meeting</h3>
+<details class="legacy-vignette">
+<summary><strong>The World Service Meeting</strong></summary>
 
 <p>Since its inauguration in 1969, the World Service Meeting (WSM) has provided an ongoing international forum for shared experience and ideas on carrying the A.A. message of recovery from alcoholism. Held biennially, the event alternates between New York and other locations around the globe, and has convened in such diverse cities as Cartagena, Colombia; Auckland, New Zealand; Oviedo, Spain; Malahide, Ireland; Mexico City, Mexico; Warsaw, Poland; and Durban, South Africa. Participating countries select delegates to attend this meeting.</p>
 
 <p>The primary purpose of the World Service Meeting is the same as that of all A.A. activity: to carry the message of recovery to the alcoholic who still suffers, wherever in the world they may be, whatever language they may speak. The World Service Meeting seeks ways and means of accomplishing this goal by serving as a forum for sharing the experience, strength and hope of WSM delegates who come together every two years from all parts of the world.</p>
 
 <p>Described as a living and growing exchange of experience responding to the needs of A.A. worldwide, WSM sessions cover a broad range of issues pertinent to the development of A.A. in participating countries.</p>
-</article>
-
 <a class="explore-button" href="https://www.aa.org/28th-alcoholics-anonymous-world-service-meeting-final-report" target="_blank" rel="noopener">World Service Meeting Report</a>
+</details>
 
 ## Disclaimer and Permissions
 
@@ -537,6 +537,7 @@ For the full legal notice, permissions, and related guidance, see the page below
 
 <div class="tradition-image-row">
   <img src="images/easy_does_it_logo.jpg" alt="Easy Does It logo" />
+  <p><em>A.A. has many slogans and mottoes.</em></p>
 </div>
 
 <a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join Online A.A. Meeting</a>
