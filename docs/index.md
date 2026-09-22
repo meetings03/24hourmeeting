@@ -469,12 +469,6 @@ The problem of drug addiction in its several forms lies close to us all. It stir
 
 ## A.A. Grapevine and La Viña
 
-### Welcome to the A.A. Grapevine and La Viña
-
-Welcome to your digital connection to **A.A. Grapevine** and **La Viña**, the international journals of Alcoholics Anonymous. Often described as A.A.'s "meeting in print," these magazines provide a powerful monthly collection of stories, humor, and insights written directly by fellowship members worldwide.
-
-Whether you are looking for daily inspiration, diverse perspectives on the Twelve Steps, or a deep dive into recovery history, Grapevine and La Viña offer a wealth of shared experience, strength, and hope to support you on your journey—because here, sobriety never sleeps.
-
 <a class="explore-button" href="aa-grapevine-and-la-vina/">Read A.A. Grapevine and La Viña Publications</a>
 
 Explore: <a href="aa-literature/">A.A. Literature</a> | <a href="topics-for-online-aa-meetings/">Meeting Topics</a>
