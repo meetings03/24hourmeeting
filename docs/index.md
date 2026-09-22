@@ -537,7 +537,7 @@ For the full legal notice, permissions, and related guidance, see the page below
 
 <div class="tradition-image-row">
   <img src="images/easy_does_it_logo.jpg" alt="Easy Does It logo" />
-  <p><em>A.A. has many slogans and mottoes.</em></p>
+  <p><em>A.A. has many slogans and mottoes that help our members stay away from the first drink—<strong>one day at a time</strong>.</em></p>
 </div>
 
 <a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join Online A.A. Meeting</a>
