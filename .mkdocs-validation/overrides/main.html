@@ -2,11 +2,20 @@
 
 {% block extrahead %}
   {{ super() }}
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-Z48YTGQQJE"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-Z48YTGQQJE');
+  </script>
   {% set is_home_page = page and page.url == '' %}
   {% set is_about_page = page and page.url == 'about-this-meeting/' %}
   {% set canonical_url = 'https://sobrietyneversleeps.org/' if is_home_page else 'https://sobrietyneversleeps.org/' ~ page.url %}
-  {% set page_title = '24/7 Online AA Meeting | Join Live on Zoom' if is_home_page else ('About the 24/7 International Online AA Meeting' if is_about_page else page.title) %}
-  {% set page_description = 'Join a 24/7 Online AA Meeting on Zoom. Open international Alcoholics Anonymous meeting every hour. Zoom ID 292 371 2604. No password required.' if is_home_page else ('Learn how the 24/7 International Marathon Meeting of AA works, how to join Zoom, what newcomers can expect, and how to share.' if is_about_page else config.site_description) %}
+  {% set page_title = '24/7 Online AA Meeting | Live on Zoom' if is_home_page else ('About the 24/7 International Online AA Meeting' if is_about_page else page.title) %}
+  {% set page_description = 'A continuous, international 24-hour Alcoholics Anonymous marathon meeting. Join anytime. Zoom ID: 292 371 2604. No password required.' if is_home_page else ('Learn how the 24/7 International Marathon Meeting of AA works, how to join Zoom, what newcomers can expect, and how to share.' if is_about_page else config.site_description) %}
   <link rel="canonical" href="{{ canonical_url }}" />
   <meta name="description" content="{{ page_description }}" />
   <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
@@ -17,12 +26,14 @@
   <meta name="theme-color" content="#0f4c81" />
   <meta property="og:locale" content="en_US" />
   <meta property="og:type" content="website" />
-  <meta property="og:site_name" content="24 Hour International Marathon Meeting of AA" />
+  <meta property="og:site_name" content="Sobriety Never Sleeps" />
   <meta property="og:title" content="{{ page_title }}" />
   <meta property="og:description" content="{{ page_description }}" />
   <meta property="og:url" content="{{ canonical_url }}" />
   <meta property="og:image" content="https://sobrietyneversleeps.org/images/sobrietyneversleeps_Logo.jpg" />
-  <meta property="og:image:alt" content="24 Hour International Marathon Meeting of AA logo" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+  <meta property="og:image:alt" content="Sobriety Never Sleeps 24/7 Online AA Meeting Logo" />
   <meta property="og:image:type" content="image/jpeg" />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="{{ page_title }}" />
@@ -84,6 +95,13 @@
         "logo": "https://sobrietyneversleeps.org/images/sobrietyneversleeps_Logo.jpg",
         "email": "the24hourmeeting@gmail.com",
         "description": "Join a 24/7 Online AA Meeting on Zoom. Open international Alcoholics Anonymous meeting every hour. Zoom ID 292 371 2604. No password required.",
+        "knowsAbout": [
+          "Alcoholics Anonymous",
+          "Twelve Steps",
+          "Twelve Traditions",
+          "CAGE Questionnaire",
+          "Alcoholism Recovery"
+        ],
         "sameAs": [
           "https://www.aa.org",
           "https://aa-intergroup.org"
@@ -118,7 +136,22 @@
         "provider": {
           "@id": "https://sobrietyneversleeps.org/#org"
         },
-        "isAccessibleForFree": true,
+        "hoursAvailable": [
+          {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "Monday",
+              "Tuesday",
+              "Wednesday",
+              "Thursday",
+              "Friday",
+              "Saturday",
+              "Sunday"
+            ],
+            "opens": "00:00",
+            "closes": "23:59"
+          }
+        ],
         "offers": {
           "@type": "Offer",
           "price": "0",
@@ -127,8 +160,7 @@
         },
         "availableChannel": {
           "@type": "ServiceChannel",
-          "serviceUrl": "https://zoom.us/j/2923712604",
-          "serviceType": "Online meeting"
+          "serviceUrl": "https://zoom.us/j/2923712604"
         }
       },
       {
@@ -374,6 +406,38 @@
               "@type": "Answer",
               "text": "Email the group at the24hourmeeting@gmail.com."
             }
+          },
+          {
+            "@type": "Question",
+            "name": "How do I join the 24/7 International Marathon Meeting of A.A.?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "You can join our continuous, live online Alcoholics Anonymous meeting at any time via Zoom. Use Zoom Meeting ID 292 371 2604 with no password required, or click the direct join button on our website."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is the online AA meeting free to attend?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes. There are no fees or dues for AA membership. In accordance with the 7th Tradition, we are fully self-supporting through the voluntary contributions of our own members."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Do I have to turn on my camera or speak to join?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No. You are completely welcome to just sit back and listen to the meeting. Turning on your camera and sharing are entirely voluntary to respect your personal comfort and anonymity."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Are the meetings confidential and anonymous?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes. Anonymity is the spiritual foundation of all our traditions. What is said in the meeting, and who you see there, remains completely confidential."
+            }
           }
         ],
         "about": {
@@ -403,6 +467,12 @@
 {% block content %}
   {% if page.url and page.url != "/" and page.url != "" %}
     <a id="join-meeting" class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join Online AA Meeting</a>
+    <ol style="font-size: 0.8rem; margin: 0.5rem 0 1rem; padding-left: 1.25rem;">
+      <li>Click the button.</li>
+      <li>Zoom will open directly.</li>
+      <li>You can just sit back and listen; you do not have to turn on your camera unless you want to.</li>
+      <li>If you would like to share, raise your virtual hand. The chairperson will call on hands in the order they are raised.</li>
+    </ol>
       {% if page and page.url == 'international-aa-websites/' %}
       <div class="tradition-image-row">
         <img src="{{ base_url }}/images/GlobeAA.jpg" alt="Globe representing international Alcoholics Anonymous" />
