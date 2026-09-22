@@ -144,7 +144,7 @@ New to A.A.? Start with our <a href="aa-primary-purpose/">Primary Purpose</a> an
   <p><em>The 24 Hour International Marathon Meeting of A.A. is a 24/7 online A.A. meeting that runs continuously. A new meeting with a fresh topic begins at the top of each hour.</em></p>
 </div>
 
-## What to Expect When You Join
+## What to Expect When You Join This 24 Hour Zoom A.A. Meeting
 
 <a class="explore-button" href="what-to-expect-when-you-join/">Learn What to Expect</a>
 
