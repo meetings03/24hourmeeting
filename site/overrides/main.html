@@ -1,5 +1,16 @@
 {% extends "base.html" %}
 
+{% set is_home_page = page and page.url == '' %}
+{% set is_about_page = page and page.url == 'about-this-meeting/' %}
+{% set is_faq_page = page and page.url == 'faq/' %}
+{% set canonical_url = 'https://sobrietyneversleeps.org/' if is_home_page else 'https://sobrietyneversleeps.org/' ~ page.url %}
+{% set page_title = '24/7 Online AA Meeting | Join Live on Zoom' if is_home_page else ('About the 24/7 International Online AA Meeting | How It Works' if is_about_page else ('Frequently Asked Questions About This 24/7 Online AA Meeting | Zoom ID 292 371 2604' if is_faq_page else (page.title ~ ' | 24/7 Online AA Meeting' if page and page.title else '24/7 Online AA Meeting'))) %}
+{% set page_description = 'A continuous, international 24-hour Alcoholics Anonymous marathon meeting. Join anytime. Zoom ID: 292 371 2604. No password required.' if is_home_page else ('Learn how the 24/7 International Marathon Meeting of AA works, how to join Zoom, what newcomers can expect, and how to share.' if is_about_page else ('Find answers to common questions about this 24/7 online AA meeting, meeting times, anonymity, Zoom access, and participation.' if is_faq_page else config.site_description)) %}
+
+{% block htmltitle %}
+  <title>{{ page_title }}</title>
+{% endblock %}
+
 {% block extrahead %}
   {{ super() }}
   <!-- Google tag (gtag.js) -->
@@ -11,12 +22,6 @@
 
     gtag('config', 'G-Z48YTGQQJE');
   </script>
-  {% set is_home_page = page and page.url == '' %}
-  {% set is_about_page = page and page.url == 'about-this-meeting/' %}
-  {% set is_faq_page = page and page.url == 'faq/' %}
-  {% set canonical_url = 'https://sobrietyneversleeps.org/' if is_home_page else 'https://sobrietyneversleeps.org/' ~ page.url %}
-  {% set page_title = '24/7 Online AA Meeting | Join Live on Zoom' if is_home_page else ('About the 24/7 International Online AA Meeting | How It Works' if is_about_page else ('Frequently Asked Questions About This 24/7 Online AA Meeting | Zoom ID 292 371 2604' if is_faq_page else (page.title ~ ' | 24/7 Online AA Meeting' if page and page.title else '24/7 Online AA Meeting'))) %}
-  {% set page_description = 'A continuous, international 24-hour Alcoholics Anonymous marathon meeting. Join anytime. Zoom ID: 292 371 2604. No password required.' if is_home_page else ('Learn how the 24/7 International Marathon Meeting of AA works, how to join Zoom, what newcomers can expect, and how to share.' if is_about_page else ('Find answers to common questions about this 24/7 online AA meeting, meeting times, anonymity, Zoom access, and participation.' if is_faq_page else config.site_description)) %}
   <link rel="canonical" href="{{ canonical_url }}" />
   <meta name="description" content="{{ page_description }}" />
   <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
