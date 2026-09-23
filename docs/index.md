@@ -348,7 +348,7 @@ Alcoholics Anonymous is not affiliated with any outside entities or organization
 
 Also explore: <a href="recovery-resources/">Substance Abuse and Drug Rehabilitation Resources</a> and <a href="topics-for-online-aa-meetings/">Meeting Topics</a> for peer support.
 
-## Frequently Asked Questions
+## Frequently Asked Questions About This 24/7 Online A.A. Meeting
 
 Need quick answers before joining? Visit our dedicated FAQ page for common questions about the meeting, attendance, safety, anonymity, and participation.
 
