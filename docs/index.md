@@ -117,7 +117,7 @@ description: Join a continuous international 24/7 online Alcoholics Anonymous me
 
 <a id="join-meeting" class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join the 24/7 Online A.A. Meeting</a>
 
-<ol style="font-size: 0.8rem; margin: 0.5rem 0 1rem; padding-left: 1.25rem;">
+<ol class="small-instruction-list">
   <li>Click the button.</li>
   <li>Zoom will open directly.</li>
   <li>You can just sit back and listen; you do not have to turn on your camera unless you want to.</li>
@@ -130,7 +130,7 @@ Join a live 24/7 Online A.A. Meeting on Zoom. This is an open international Alco
 
 <div class="tradition-image-row">
   <img src="images/New_Zealand.jpg" alt="New Zealand A.A. meeting origin image" />
-  <div style="width: 100%; text-align: center; font-style: italic;">The 24 Hour International Marathon Meeting of A.A. was founded at the start of the COVID pandemic by two newcomers from New Zealand who realized they needed the fellowship of other alcoholics if they were to stay sober. It has been operating continuously 24/7 since April 20, 2020.</div>
+  <div class="image-caption">The 24 Hour International Marathon Meeting of A.A. was founded at the start of the COVID pandemic by two newcomers from New Zealand who realized they needed the fellowship of other alcoholics if they were to stay sober. It has been operating continuously 24/7 since April 20, 2020.</div>
 </div>
 
 <div class="tradition-image-row">
@@ -144,7 +144,7 @@ Join a live 24/7 Online A.A. Meeting on Zoom. This is an open international Alco
 New to A.A.? Start with our <a href="aa-primary-purpose/">Primary Purpose</a> and <a href="aas-three-legacies/">Three Legacies</a> to understand the Fellowship's foundation.
 
 <div class="tradition-image-row">
-  <img src="images/sobrietyneversleeps_Logo.jpg" alt="Sobriety Never Sleeps logo" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
+  <img class="responsive-image" src="images/sobrietyneversleeps_Logo.jpg" alt="Sobriety Never Sleeps logo" />
   <p><em>The 24 Hour International Marathon Meeting of A.A. is a 24/7 online A.A. meeting that runs continuously. A new meeting with a fresh topic begins at the top of each hour.</em></p>
 </div>
 
@@ -153,7 +153,7 @@ New to A.A.? Start with our <a href="aa-primary-purpose/">Primary Purpose</a> an
 <a class="explore-button" href="what-to-expect-when-you-join/">Learn What to Expect</a>
 
 <div class="tradition-image-row">
-  <img src="images/GlobeAA.jpg" alt="Global A.A. fellowship image" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
+  <img class="responsive-image" src="images/GlobeAA.jpg" alt="Global A.A. fellowship image" />
   <p><em>This 24/7 online Zoom meeting is an open meeting of Alcoholics Anonymous. Everyone is welcome to listen. We ask that only alcoholics or persons with a desire to stop drinking speak.</em></p>
 </div>
 
@@ -175,7 +175,7 @@ The 24 Hour International Marathon Meeting of A.A., *where sobriety never sleeps
 
 <a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join and Listen on Zoom</a>
 
-<ol style="font-size: 0.8rem; margin: 0.5rem 0 1rem; padding-left: 1.25rem;">
+<ol class="small-instruction-list">
   <li>Click the button.</li>
   <li>Zoom will open directly.</li>
   <li>You can just sit back and listen; you do not have to turn on your camera unless you want to.</li>
@@ -364,7 +364,7 @@ To join right away, use the Zoom ID **292 371 2604** or click the button below:
 
 <a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join Online A.A. Meeting</a>
 
-<ol style="font-size: 0.8rem; margin: 0.5rem 0 1rem; padding-left: 1.25rem;">
+<ol class="small-instruction-list">
   <li>Click the button.</li>
   <li>Zoom will open directly.</li>
   <li>You can just sit back and listen; you do not have to turn on your camera unless you want to.</li>
@@ -542,7 +542,7 @@ For the full legal notice, permissions, and related guidance, see the page below
 
 <a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join Online A.A. Meeting</a>
 
-<ol style="font-size: 0.8rem; margin: 0.5rem 0 1rem; padding-left: 1.25rem;">
+<ol class="small-instruction-list">
   <li>Click the button.</li>
   <li>Zoom will open directly.</li>
   <li>You can just sit back and listen; you do not have to turn on your camera unless you want to.</li>

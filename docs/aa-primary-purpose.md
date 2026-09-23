@@ -6,7 +6,7 @@ description: Learn about Alcoholics Anonymous' primary purpose and how an online
 
 <div class="tradition-image-row">
 	<img src="/images/man_on_bed.jpg?v=1" alt="Alcoholics Anonymous member participating in an online recovery meeting from a bed" title="Alcoholics Anonymous member participating in an online recovery meeting from a bed" />
-	<div style="width: 100%; text-align: center; font-style: italic;">The primary purpose of the 24-Hour International Marathon Meeting of Alcoholics Anonymous is to carry A.A.'s life-saving message of hope and recovery to the alcoholic who still suffers.</div>
+	<div class="image-caption">The primary purpose of the 24-Hour International Marathon Meeting of Alcoholics Anonymous is to carry A.A.'s life-saving message of hope and recovery to the alcoholic who still suffers.</div>
 </div>
 
 <div class="info-card">
@@ -20,7 +20,7 @@ The spark that was to flare into the first A.A. group was struck at Akron, Ohio,
 
 <a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join Online A.A. Meeting</a>
 
-<ol style="font-size: 0.8rem; margin: 0.5rem 0 1rem; padding-left: 1.25rem;">
+<ol class="small-instruction-list">
 	<li>Click the button.</li>
 	<li>Zoom will open directly.</li>
 	<li>You can just sit back and listen; you do not have to turn on your camera unless you want to.</li>

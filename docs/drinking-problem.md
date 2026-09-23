@@ -23,7 +23,7 @@ Source: [Johns Hopkins University Hospital](https://www.hopkinsmedicine.org)
 
 <div class="tradition-image-row">
   <img src="/images/step_one.png" alt="Step One of Alcoholics Anonymous: We admitted we were powerless over alcohol" title="Step One of Alcoholics Anonymous: We admitted we were powerless over alcohol" />
-  <div style="width: 100%; text-align: center; font-style: italic;">Alcoholics are women and men who have lost the ability to control their drinking. Recovery begins when we concede to our innermost selves that we are alcoholics.</div>
+  <div class="image-caption">Alcoholics are women and men who have lost the ability to control their drinking. Recovery begins when we concede to our innermost selves that we are alcoholics.</div>
 </div>
 
 ## Are You an Alcoholic? A.A.'s Two Questions

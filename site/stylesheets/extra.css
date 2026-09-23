@@ -5,7 +5,37 @@
 }
 
 body {
-  font-family: "Segoe UI", Roboto, sans-serif;
+  font-family: "Source Sans 3", "Segoe UI", sans-serif;
+}
+
+.md-content h1,
+.md-content h2,
+.md-content h3 {
+  font-family: Georgia, "Times New Roman", serif;
+}
+
+.image-caption {
+  width: 100%;
+  text-align: center;
+  font-style: italic;
+}
+
+.image-caption--muted {
+  color: #4a5568;
+  margin-top: 0.5rem;
+}
+
+.responsive-image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+.small-instruction-list {
+  font-size: 0.8rem;
+  margin: 0.5rem 0 1rem;
+  padding-left: 1.25rem;
 }
 
 .tradition-image-row {
@@ -138,7 +168,7 @@ body {
   color: white !important;
   margin: 0.15rem 0 1.3rem;
   padding: 1rem 1.8rem;
-  border-radius: 999px;
+  border-radius: 8px;
   font-weight: 800;
   font-size: 1.05rem;
   letter-spacing: 0.02em;
@@ -163,7 +193,7 @@ body {
   margin: 0.2rem 0 1.3rem;
   padding: 0.8rem 1.15rem;
   border: 2px solid #087f78;
-  border-radius: 6px;
+  border-radius: 8px;
   background: #effaf8;
   color: #075e59 !important;
   font-size: 1rem;

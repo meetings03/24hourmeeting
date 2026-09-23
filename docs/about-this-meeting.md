@@ -14,7 +14,7 @@ Join the [24/7 Online A.A. Meeting on Zoom](https://zoom.us/j/2923712604). You c
 
 <a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join Online A.A. Meeting</a>
 
-<ol style="font-size: 0.8rem; margin: 0.5rem 0 1rem; padding-left: 1.25rem;">
+<ol class="small-instruction-list">
   <li>Click the button.</li>
   <li>Zoom will open directly.</li>
   <li>You can just sit back and listen; you do not have to turn on your camera unless you want to.</li>
