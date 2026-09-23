@@ -337,7 +337,7 @@ See also: <a href="aa-grapevine-and-la-vina/">A.A. Grapevine and La Viña</a> fo
 
 <div class="tradition-image-row">
   <img src="images/PigeonPoint.jpg" alt="Pigeon Point lighthouse" />
-  <p><em>Help is available! If you are facing a medical emergency, contact your local emergency services. In Canada and the United States dial 911, in Ireland dial 112, in UK dial 999, in New Zealand dial 111, in Australia dial 000.</em></p>
+  <p><em>Help is available! If you are facing a medical emergency, contact your local first responders. In Canada and the United States dial <strong>911</strong>, in Ireland dial <strong>112</strong>, in UK dial <strong>999</strong>, in New Zealand dial <strong>111</strong>, in Australia dial <strong>000</strong>.</em></p>
 </div>
 
 ## Crisis and Mental Health Resources
@@ -533,7 +533,7 @@ For the full legal notice, permissions, and related guidance, see the page below
 
 <div class="tradition-image-row">
   <img src="images/easy_does_it_logo.jpg" alt="Easy Does It logo" />
-  <p><em>A.A. has many slogans and mottoes that help our members stay away from the first drink—<strong>one day at a time</strong>.</em></p>
+  <p><em>Alcoholics Anonymous has many slogans and mottoes that help our members stay away from the first drink—<strong>one day at a time</strong>.</em></p>
 </div>
 
 <a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join Online A.A. Meeting</a>
