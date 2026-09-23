@@ -115,7 +115,7 @@ description: Join a continuous international 24/7 online Alcoholics Anonymous me
   }
 </style>
 
-<a id="join-meeting" class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join Online A.A. Meeting</a>
+<a id="join-meeting" class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join the 24/7 Online A.A. Meeting</a>
 
 <ol style="font-size: 0.8rem; margin: 0.5rem 0 1rem; padding-left: 1.25rem;">
   <li>Click the button.</li>
@@ -157,7 +157,7 @@ New to A.A.? Start with our <a href="aa-primary-purpose/">Primary Purpose</a> an
   <p><em>This 24/7 online Zoom meeting is an open meeting of Alcoholics Anonymous. Everyone is welcome to listen. We ask that only alcoholics or persons with a desire to stop drinking speak.</em></p>
 </div>
 
-<a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join the Meeting Anytime</a>
+<a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join the Next Meeting</a>
 
 ## Welcome to Online Recovery
 
@@ -173,7 +173,7 @@ Welcome to the 24 Hour International Marathon Meeting of A.A., *where sobriety n
 
 The 24 Hour International Marathon Meeting of A.A., *where sobriety never sleeps*, is dedicated to carrying A.A.'s life-saving message of hope and recovery globally to the alcoholic who still suffers. Individuals seeking support for drug problems and substance use disorders may benefit from professional treatment programs, government resources, rehabilitation services, family support organizations, and other recovery programs and fellowships. Alcoholics Anonymous is not affiliated with any outside agency or enterprise.
 
-<a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join Online A.A. Meeting</a>
+<a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join and Listen on Zoom</a>
 
 <ol style="font-size: 0.8rem; margin: 0.5rem 0 1rem; padding-left: 1.25rem;">
   <li>Click the button.</li>
