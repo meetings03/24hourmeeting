@@ -267,6 +267,10 @@ body {
   text-align: center;
 }
 
+.meeting-meta-footer p {
+  font-size: 1.05rem;
+}
+
 .site-footer a {
   color: var(--md-primary-fg-color);
   font-weight: 700;
