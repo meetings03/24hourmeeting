@@ -1,3 +1,7 @@
+---
+description: Explore A.A. Grapevine and La Vina, the international journal of Alcoholics Anonymous, along with its mission, history, and literature.
+---
+
 # A.A. Grapevine and La Vi&ntilde;a
 
 A.A. Grapevine and La Vi&ntilde;a are the international magazines of Alcoholics Anonymous. They share the experience, strength, and hope of A.A. members around the world.

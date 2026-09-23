@@ -1,3 +1,7 @@
+---
+description: Consider questions about drinking and learn how Alcoholics Anonymous can help people who have a desire to stop drinking.
+---
+
 # Do you have a drinking problem?
 
 These questions are intended to help someone think about whether drinking may be causing concern. Alcoholics Anonymous does not diagnose anyone or decide who is an alcoholic.

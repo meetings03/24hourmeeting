@@ -1,3 +1,7 @@
+---
+description: Find international treatment, rehabilitation, recovery, and family resources for substance use beyond Alcoholics Anonymous.
+---
+
 # Substance Abuse and Drug Rehabilitation Treatment Resources (Non-A.A.)
 
 ## International Drug Treatment, Rehabilitation & Recovery Resources

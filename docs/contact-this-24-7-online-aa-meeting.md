@@ -1,3 +1,7 @@
+---
+description: Contact the 24 Hour International Marathon Meeting of A.A. with questions, feedback, or information about this online meeting.
+---
+
 # Contact the 24 Hour International Marathon Meeting of AA
 
 If you are joining for the first time, want to ask a question, or need to connect with the meeting team, you can reach us in the ways below.

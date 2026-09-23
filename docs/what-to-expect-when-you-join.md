@@ -1,3 +1,7 @@
+---
+description: Learn what happens when you join this open 24/7 online A.A. meeting, including Zoom access, anonymity, and sharing.
+---
+
 # What to Expect When You Join
 
 The 24 Hour International Marathon Meeting of A.A. is an open meeting that runs continuously 24/7. A new meeting with a fresh A.A. topic begins at the top of each hour. If you would like to share, raise your virtual hand. The chairperson calls on hands in the order they are raised.

@@ -1,3 +1,7 @@
+---
+description: Read the website disclaimer, permissions, independence statement, and guidelines for using content from this online A.A. resource.
+---
+
 # Disclaimer and Permissions
 
 ## Disclaimer

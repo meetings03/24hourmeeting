@@ -1,3 +1,7 @@
+---
+description: Find answers about this 24/7 online A.A. meeting, including the schedule, Zoom access, participation, anonymity, and meeting format.
+---
+
 # Frequently Asked Questions About the 24/7 International Marathon Meeting of A.A.
 
 If you are looking for quick answers about the meeting, the schedule, participation, or anonymity, this page brings together the most common questions we receive.

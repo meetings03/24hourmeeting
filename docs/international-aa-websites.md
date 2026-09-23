@@ -1,3 +1,7 @@
+---
+description: Find official Alcoholics Anonymous websites and international resources for fellowship, information, recovery, and service.
+---
+
 # International A.A. Websites
 
 - **Online Intergroup of A.A.**: <a href="https://aa-intergroup.org" target="_blank" rel="noopener">https://aa-intergroup.org</a>

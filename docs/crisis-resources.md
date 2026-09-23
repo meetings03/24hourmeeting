@@ -1,3 +1,7 @@
+---
+description: Find crisis, mental health, treatment, and recovery resources for anyone seeking immediate support alongside online A.A. information.
+---
+
 # Crisis and Mental Health Resources
 
 Alcoholics Anonymous is not affiliated with any outside agency or organization. Below is a list of non-A.A. crisis resources. Inclusion of any non-A.A. resources does not suggest endorsement or affiliation.

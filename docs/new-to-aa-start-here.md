@@ -1,3 +1,7 @@
+---
+description: New to Alcoholics Anonymous? Learn what to expect, how to join the online meeting, and how to participate at your own pace.
+---
+
 # New to A.A.? Start Here
 
 <div class="tradition-image-row">

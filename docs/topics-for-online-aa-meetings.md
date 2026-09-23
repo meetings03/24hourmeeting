@@ -1,3 +1,7 @@
+---
+description: Browse thoughtful topics for sharing, discussion, and reflection in online Alcoholics Anonymous meetings.
+---
+
 # Topics for Online A.A. Meetings
 
 <ul class="topic-list">

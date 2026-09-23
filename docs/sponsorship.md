@@ -1,3 +1,7 @@
+---
+description: Learn what A.A. sponsorship is, how a sponsor supports recovery, and how newcomers can begin seeking guidance.
+---
+
 # Sponsorship in A.A.
 
 <div class="tradition-image-row">

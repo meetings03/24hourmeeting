@@ -1,3 +1,7 @@
+---
+description: Explore books, pamphlets, and other Alcoholics Anonymous literature for recovery, service, and understanding A.A. principles.
+---
+
 # A.A. Literature
 
 <a class="join-button" href="https://www.aa.org/resources/literature" target="_blank" rel="noopener">A.A. Literature</a>

@@ -1,3 +1,7 @@
+---
+description: Get quick answers about joining the 24/7 online A.A. meeting, Zoom access, meeting times, participation, and anonymity.
+---
+
 # Quick Answers
 
 - **What is this?** A live 24/7 Online A.A. Meeting on Zoom for people seeking sobriety.

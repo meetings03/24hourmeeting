@@ -1,3 +1,7 @@
+---
+description: Learn about Alcoholics Anonymous' primary purpose and how an online A.A. meeting carries a message of hope and recovery.
+---
+
 # A.A.'s Primary Purpose
 
 <div class="tradition-image-row">
