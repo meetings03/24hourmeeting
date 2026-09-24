@@ -271,6 +271,8 @@ Alcoholics Anonymous is a fellowship of people who share their experience, stren
   <p class="quote-text">When anyone, anywhere, reaches out for help, I want the hand of A.A. always to be there. And for that I am responsible.</p>
 </div>
 
+<div style="text-align: center; font-style: italic; color: #4a5568; margin: 0.5rem 0 1.5rem;">The responsibility statement was written for the 1965 International Convention in Toronto, and it remains a core principle of A.A. service today.</div>
+
 <div class="tradition-image-row">
   <img src="images/first_tradition_image.png" alt="First Tradition image" />
 </div>
