@@ -347,7 +347,7 @@ See also: <a href="aa-grapevine-and-la-vina/">A.A. Grapevine and La Viña</a> fo
 
 <div class="tradition-image-row">
   <img src="images/PigeonPoint.jpg" alt="Pigeon Point lighthouse" />
-  <p><em>Help is available! If you are facing a medical emergency, contact your local first responders. In Canada and the United States dial <strong>911</strong>, in Ireland dial <strong>112</strong>, in UK dial <strong>999</strong>, in New Zealand dial <strong>111</strong>, in Australia dial <strong>000</strong>.</em></p>
+  <p><em>Help is available! If you are facing a medical emergency, contact your local first responders. In Canada and the United States dial <strong>911</strong>, in Ireland dial <strong>112</strong>, in UK dial <strong>999</strong>, in New Zealand dial <strong>111</strong>, in Australia dial <strong>000</strong>. Alcoholics Anonymous does not provide medical advice, emergency medical services or detox treatment.</em></p>
 </div>
 
 ## Crisis and Mental Health Resources
