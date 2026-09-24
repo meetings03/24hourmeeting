@@ -137,7 +137,7 @@ Join a live 24/7 Online A.A. Meeting on Zoom. This is an open international Alco
   <img src="images/Help_247.jpg" alt="Help 24/7 online meeting logo" />
 </div>
 
-<em>The 24 Hour International Marathon Meeting of A.A. (Where sobriety never sleeps) is a continuous 24/7 online AA meeting on Zoom: an international Alcoholics Anonymous marathon meeting with a new session every hour. Join now with Zoom Meeting ID <strong>292 371 2604</strong>. No password required.</em>
+<em>The 24 Hour International Marathon Meeting of A.A. (Where sobriety never sleeps) is a continuous 24/7 online AA meeting on Zoom: an international Alcoholics Anonymous marathon meeting with a new session every hour. Join now with Zoom Meeting ID <strong class="zoom-meeting-id">292 371 2604</strong>. No password required.</em>
 
 ### Quick Answers About this 24/7 Online A.A. Meeting
 
@@ -254,6 +254,8 @@ Alcoholics Anonymous is a fellowship of people who share their experience, stren
   <p class="quote-label">Declaration of Unity</p>
   <p class="quote-text">This we owe to A.A.'s future: To place our common welfare first; to keep our Fellowship united. For on A.A. unity depend our lives and the lives of those to come.</p>
 </div>
+
+<div style="text-align: center; font-style: italic; color: #4a5568; margin: 0.5rem 0 1.5rem;">The Declaration was adopted by the Fellowship at the 35th International A.A. Convention at Miami in 1970.</div>
 
 <div class="tradition-image-row">
   <img src="images/Bob_and_Bill.png" alt="Bob and Bill image" class="portrait-image" />
