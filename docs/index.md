@@ -118,6 +118,7 @@ description: Join a continuous international 24/7 online Alcoholics Anonymous me
 <a id="join-meeting" class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join the 24/7 Online A.A. Meeting</a>
 
 <ol class="small-instruction-list">
+  <li>New to A.A.? Do you need help now?</li>
   <li>Click the button.</li>
   <li>Zoom will open directly.</li>
   <li>You can just sit back and listen; you do not have to turn on your camera unless you want to.</li>

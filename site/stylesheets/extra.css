@@ -10,8 +10,11 @@ body {
 
 .md-content h1,
 .md-content h2,
-.md-content h3 {
-  font-family: Georgia, "Times New Roman", serif;
+.md-content h3,
+.md-content h4,
+.md-content h5,
+.md-content h6 {
+  font-family: Helvetica, Arial, sans-serif;
 }
 
 .image-caption {
