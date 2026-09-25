@@ -233,7 +233,7 @@ Alcoholics Anonymous is a fellowship of people who share their experience, stren
 11. Our public relations policy is based on attraction rather than promotion; we need always maintain personal anonymity at the level of press, radio, and films.
 12. Anonymity is the spiritual foundation of all our Traditions, ever reminding us to place principles before personalities.
 
-## A Newcomer Asks
+## Are You New to Alcoholics Anonymous?
 
 <div class="tradition-image-row">
   <img src="images/NewcomerAsks.png" alt="A Newcomer Asks pamphlet" />
