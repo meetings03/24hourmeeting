@@ -140,10 +140,12 @@ Join a live 24/7 Online A.A. Meeting on Zoom. This is an open international Alco
 
 <em>The 24 Hour International Marathon Meeting of A.A. (Where sobriety never sleeps) is a continuous 24/7 online AA meeting on Zoom: an international Alcoholics Anonymous marathon meeting with a new session every hour. Join now with Zoom Meeting ID <strong class="zoom-meeting-id">292 371 2604</strong>. No password required.</em>
 
-## Get Help Now
+## Get Help Now from OIAA 12th Step Committee
 
 <div class="tradition-image-row">
-  <img class="help-image-frame" src="images/Get_Help_Now.png" alt="Get help now through Alcoholics Anonymous" />
+  <div class="help-image-frame">
+    <img src="images/Get_Help_Now.png" alt="Get help now through Alcoholics Anonymous" />
+  </div>
 </div>
 
 <a class="help-button" href="https://aa-intergroup.org/get-help-now/" target="_blank" rel="noopener">Get Help Now</a>
