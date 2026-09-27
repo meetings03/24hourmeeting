@@ -143,7 +143,7 @@ Join a live 24/7 Online A.A. Meeting on Zoom. This is an open international Alco
 ## Get Help Now
 
 <div class="tradition-image-row">
-  <img src="images/Get_Help_Now.png" alt="Get help now through Alcoholics Anonymous" />
+  <img class="help-image-frame" src="images/Get_Help_Now.png" alt="Get help now through Alcoholics Anonymous" />
 </div>
 
 <a class="help-button" href="https://aa-intergroup.org/get-help-now/" target="_blank" rel="noopener">Get Help Now</a>
