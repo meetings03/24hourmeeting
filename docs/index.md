@@ -152,8 +152,8 @@ Join a live 24/7 Online A.A. Meeting on Zoom. This is an open international Alco
 
 <div style="text-align: center; font-style: italic; color: #4a5568; margin: 0.5rem 0 1.5rem;">
   <p><strong>Can’t Stop Drinking?</strong></p>
-  <p>If you want to stop drinking and you’re having trouble doing it, you’re in the right place. Many of us have faced the same drinking problem and found a way forward in A.A.</p>
-  <p>A.A. helps connect people who <em>want</em> to stop drinking with support from others who’ve been there. All you need is a desire to stop drinking.</p>
+  <p>If you want to stop drinking and you’re having trouble doing it, you’re in the right place.</p>
+  <p>Alcoholics Anonymous connects people who <em>want</em> to stop drinking with support from others who understand the struggle. All you need is a desire to stop drinking.</p>
   <p>If you’re looking for help right now, the link above will connect you with the <strong>Online Intergroup of Alcoholics Anonymous (OIAA) 12th Step Committee</strong>, where you can reach sober members who understand what you’re going through.</p>
 </div>
 
@@ -185,7 +185,7 @@ New to A.A.? Start with our <a href="aa-primary-purpose/">Primary Purpose</a> an
   <img src="images/aa_man_on_bed_laptop.png" alt="Person participating in an online AA meeting from a laptop" />
 </div>
 
-Welcome to the 24-Hour International Marathon Meeting of A.A., *where sobriety never sleeps*. We are an open online Alcoholics Anonymous meeting for people looking for an AA meeting, recovery support, or a welcoming place to connect with others who understand alcoholism. In keeping with A.A.'s singleness of purpose and our Third Tradition, which states that the only requirement for A.A. membership is a desire to stop drinking, we ask that everyone who shares in our meeting confine their discussion to their problems with alcohol. You can join our online recovery meeting by clicking the "Join Online A.A. Meeting" button above or by joining the meeting through Zoom. The access code is **292 371 2604**. Join our online recovery meeting and raise your virtual hand. We want to get to know you, and experience has taught us that we can help best if you talk to us. We call on hands in the order they are raised, and everyone gets five minutes to share, with a gentle reminder when there is one minute remaining.
+Welcome to the 24-Hour International Marathon Meeting of A.A., *where sobriety never sleeps*. We are an open online Alcoholics Anonymous meeting for people looking for an AA meeting, recovery support, or a welcoming place to connect with others who understand alcoholism. In keeping with A.A.'s singleness of purpose and our Third Tradition, which states that the only requirement for A.A. membership is a desire to stop drinking, we ask that everyone who shares in our meeting keep the focus on their experience with alcohol. You can join our online recovery meeting by clicking the "Join Online A.A. Meeting" button above or by joining the meeting through Zoom. The access code is **292 371 2604**. Join our online recovery meeting and raise your virtual hand. We want to get to know you, and experience has taught us that we can help best if you talk to us. We call on hands in the order they are raised, and everyone gets five minutes to share, with a gentle reminder when there is one minute remaining.
 
 <div class="tradition-image-row">
   <img src="images/Meeting_Circle.png" alt="Meeting circle image" style="max-width: 87.5%; height: auto; display: block; margin: 1.5rem auto;" />
