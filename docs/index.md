@@ -253,9 +253,15 @@ Alcoholics Anonymous is a fellowship of people who share their experience, stren
 
 ## Find A.A. Near You
 
-<a class="explore-button" href="https://www.aa.org/find-aa" target="_blank" rel="noopener">A.A. World Services</a>
+<div class="near-you-resource">
+  <a class="explore-button" href="https://www.aa.org/find-aa" target="_blank" rel="noopener">A.A. World Services</a>
+  <img src="images/GSO.png" alt="A.A. General Service Office logo" />
+</div>
 
-<a class="explore-button" href="https://aa-intergroup.org/meetings/" target="_blank" rel="noopener">Online Intergroup of Alcoholics Anonymous</a>
+<div class="near-you-resource">
+  <a class="explore-button" href="https://aa-intergroup.org/meetings/" target="_blank" rel="noopener">Online Intergroup of Alcoholics Anonymous</a>
+  <img src="images/OIAA.png" alt="Online Intergroup of Alcoholics Anonymous logo" />
+</div>
 
 <em>Help is available. The links above can connect you with both in-person and online A.A. meetings. The A.A. World Services button leads to in-person meetings around the world. You can likely find a &quot;brick and mortar&quot; meeting in your local community. The Online Intergroup of Alcoholics Anonymous button leads to online meetings from around the world in many different languages.</em>
 

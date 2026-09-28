@@ -61,6 +61,22 @@ body {
   display: block;
 }
 
+.near-you-resource {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0 1rem;
+  margin: 0 0 0.5rem;
+}
+
+.near-you-resource img {
+  display: block;
+  width: 120px;
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 1.3rem;
+}
+
 .tradition-caption {
   width: 100%;
   margin-top: 0.35rem;
