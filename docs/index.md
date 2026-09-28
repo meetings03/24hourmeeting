@@ -155,7 +155,7 @@ Join a live 24/7 Online A.A. Meeting on Zoom. This is an open international Alco
   <p><strong>Can’t Stop Drinking?</strong></p>
   <p>If you want to stop drinking and you’re having trouble doing it, you’re in the right place.</p>
   <p>Alcoholics Anonymous connects people who <em>want</em> to stop drinking with support from others who understand the struggle. All you need is a desire to stop drinking.</p>
-  <p>If you’re looking for help right now, the link above will connect you with the <strong>Online Intergroup of Alcoholics Anonymous (OIAA) 12th Step Committee</strong>, where you can reach sober members who understand what you’re going through. Many A.A. members around the world speak different languages and are available to help.</p>
+  <p>If you’re looking for help right now, the link above will connect you with the <strong>Online Intergroup of Alcoholics Anonymous (OIAA) 12th Step Committee</strong>, where you can reach sober members who understand what you’re going through. A.A. members from around the world who speak many different languages are available to help right now.</p>
 </div>
 </section>
 
