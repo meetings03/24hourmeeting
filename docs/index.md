@@ -257,7 +257,7 @@ Alcoholics Anonymous is a fellowship of people who share their experience, stren
 
 <a class="explore-button" href="https://aa-intergroup.org/meetings/" target="_blank" rel="noopener">Online Intergroup of Alcoholics Anonymous</a>
 
-<em>Help is available. The links above can connect you with both in-person and online A.A. meetings. The A.A. World Services button leads to in-person meetings around the world. You can likely find a local &quot;brick and mortar&quot; meeting in your local community. The Online Intergroup of Alcoholics Anonymous button leads to online meetings from around the world in many different languages.</em>
+<em>Help is available. The links above can connect you with both in-person and online A.A. meetings. The A.A. World Services button leads to in-person meetings around the world. You can likely find a &quot;brick and mortar&quot; meeting in your local community. The Online Intergroup of Alcoholics Anonymous button leads to online meetings from around the world in many different languages.</em>
 
 <div class="tradition-image-row">
   <img src="images/fifth_tradition_image_part_1.png" alt="Fifth Tradition Part 1 image" />
