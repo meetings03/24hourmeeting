@@ -30,13 +30,6 @@ You don't need to wait, sign up, or prepare anything. The 24 Hour International 
 
 <a id="join-meeting" class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join this 24/7 online A.A. meeting NOW</a>
 
-<ol class="small-instruction-list">
-  <li>Click the button.</li>
-  <li>Zoom will open directly.</li>
-  <li>You can just sit back and listen; you do not have to turn on your camera unless you want to.</li>
-  <li>If you would like to share, raise your virtual hand. The chairperson will call on hands in the order they are raised.</li>
-</ol>
-
 ## What Happens Next
 
 Not sure what to expect once you join? Our <a href="what-to-expect-when-you-join/">What to Expect When You Join</a> page walks through it step by step, including how sharing works and what "raising your virtual hand" means.

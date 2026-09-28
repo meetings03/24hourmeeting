@@ -136,10 +136,3 @@ All rights reserved
 </div>
 
 <a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join this 24/7 online A.A. meeting NOW</a>
-
-<ol class="small-instruction-list">
-  <li>Click the button.</li>
-  <li>Zoom will open directly.</li>
-  <li>You can just sit back and listen; you do not have to turn on your camera unless you want to.</li>
-  <li>If you would like to share, raise your virtual hand. The chairperson will call on hands in the order they are raised.</li>
-</ol>
