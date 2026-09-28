@@ -140,9 +140,10 @@ Join a live 24/7 Online A.A. Meeting on Zoom. This is an open international Alco
 
 <em>The 24 Hour International Marathon Meeting of A.A. (Where sobriety never sleeps) is a continuous 24/7 online AA meeting on Zoom: an international Alcoholics Anonymous marathon meeting with a new session every hour. Join now with Zoom Meeting ID <strong class="zoom-meeting-id">292 371 2604</strong>. No password required.</em>
 
-## Get Help Now from OIAA 12th Step Committee
+<section class="help-vignette" aria-labelledby="help-now-heading">
+<h2 id="help-now-heading">Get Help Now from OIAA 12th Step Committee</h2>
 
-<div class="tradition-image-row">
+<div class="tradition-image-row help-vignette__image">
   <div class="help-image-frame">
     <img src="images/Get_Help_Now.png" alt="Get help now through Alcoholics Anonymous" />
   </div>
@@ -150,12 +151,13 @@ Join a live 24/7 Online A.A. Meeting on Zoom. This is an open international Alco
 
 <a class="help-button" href="https://aa-intergroup.org/get-help-now/" target="_blank" rel="noopener">Get Help Now</a>
 
-<div style="text-align: center; font-style: italic; color: #4a5568; margin: 0.5rem 0 1.5rem;">
+<div class="help-vignette__copy">
   <p><strong>Can’t Stop Drinking?</strong></p>
   <p>If you want to stop drinking and you’re having trouble doing it, you’re in the right place.</p>
   <p>Alcoholics Anonymous connects people who <em>want</em> to stop drinking with support from others who understand the struggle. All you need is a desire to stop drinking.</p>
   <p>If you’re looking for help right now, the link above will connect you with the <strong>Online Intergroup of Alcoholics Anonymous (OIAA) 12th Step Committee</strong>, where you can reach sober members who understand what you’re going through.</p>
 </div>
+</section>
 
 ### Quick Answers About this 24/7 Online A.A. Meeting
 
