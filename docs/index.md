@@ -181,7 +181,7 @@ New to A.A.? Start with our <a href="aa-primary-purpose/">Primary Purpose</a> an
   <p><em>This 24/7 online AA meeting is an open Alcoholics Anonymous meeting for anyone seeking recovery support. Everyone is welcome to listen, and we ask that only alcoholics or those with a desire to stop drinking share.</em></p>
 </div>
 
-<a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join the Next Meeting</a>
+<a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join 24/7 online A.A. meeting NOW</a>
 
 ## Welcome to Online Recovery
 
@@ -261,6 +261,14 @@ Alcoholics Anonymous is a fellowship of people who share their experience, stren
 </div>
 
 <a class="explore-button" href="https://www.aa.org/newcomer-asks" target="_blank" rel="noopener">Read the pamphlet &quot;A Newcomer Asks&quot; from A.A. World Services</a>
+
+## Find A.A. Near You
+
+<a class="explore-button" href="https://www.aa.org/find-aa" target="_blank" rel="noopener">A.A. World Services</a>
+
+<a class="explore-button" href="https://aa-intergroup.org/meetings/" target="_blank" rel="noopener">Online Intergroup of Alcoholics Anonymous</a>
+
+<em>Help is available. The links above can connect you with both in-person and online A.A. meetings. The A.A. World Services button leads to in-person meetings around the world. You can likely find a local &quot;brick and mortar&quot; meeting in your local community. The Online Intergroup of Alcoholics Anonymous button leads to online meetings from around the world in many different languages.</em>
 
 <div class="tradition-image-row">
   <img src="images/fifth_tradition_image_part_1.png" alt="Fifth Tradition Part 1 image" />
