@@ -262,6 +262,10 @@ Alcoholics Anonymous is a fellowship of people who share their experience, stren
 
 <a class="explore-button" href="https://www.aa.org/newcomer-asks" target="_blank" rel="noopener">Read the pamphlet &quot;A Newcomer Asks&quot; from A.A. World Services</a>
 
+<div class="tradition-image-row">
+  <img src="images/TalkingWalls.png" alt="Talking Walls" />
+</div>
+
 ## Find A.A. Near You
 
 <a class="explore-button" href="https://www.aa.org/find-aa" target="_blank" rel="noopener">A.A. World Services</a>
