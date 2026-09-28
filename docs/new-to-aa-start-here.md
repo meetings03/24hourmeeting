@@ -44,4 +44,4 @@ Not sure what to expect once you join? Our <a href="what-to-expect-when-you-join
   <li><a href="aa-literature/">A.A. Literature</a> — more Conference-approved reading</li>
 </ul>
 
-<div style="width: 100%; text-align: center; font-style: italic;">If you are in immediate danger or facing an emergency, contact emergency services. In the U.S. call 911.</div>
+<div class="centered-note">If you are in immediate danger or facing an emergency, contact emergency services. In the U.S. call 911.</div>

@@ -6,8 +6,8 @@ description: Read the website disclaimer, permissions, independence statement, a
 
 ## Disclaimer
 
-<div class="tradition-image-row" style="margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center;">
-  <img src="/images/Friends247_Recovery.jpg" alt="Friends of 24/7 Recovery nonprofit organization supporting the online marathon meeting" title="Friends of 24/7 Recovery nonprofit organization supporting the online marathon meeting" style="max-width: 100%; height: auto;" />
+<div class="tradition-image-row tradition-image-row--spaced">
+  <img src="/images/Friends247_Recovery.jpg" alt="Friends of 24/7 Recovery nonprofit organization supporting the online marathon meeting" title="Friends of 24/7 Recovery nonprofit organization supporting the online marathon meeting" />
 </div>
 
 This website (https://sobrietyneversleeps.org) was independently and anonymously developed and is maintained by the Friends of 24/7 Recovery, which is solely responsible for its content. The Friends of 24/7 Recovery is a virtual international, non-affiliated, nonprofit organization based in New Zealand. Its members reside in many countries, including Germany, Canada, Australia, the United Kingdom, South Africa, and the United States. This website is not affiliated with or endorsed by the coordinators or GC of the 24 Hour International Marathon Meeting of A.A.
@@ -22,7 +22,7 @@ The Twelve Traditions of Alcoholics Anonymous, the images from "The Twelve Tradi
 
 ## Serenity Prayer
 
-<blockquote style="font-family: Georgia, 'Times New Roman', serif; font-size: 1.25rem; line-height: 1.8; letter-spacing: 0.04em; font-style: italic; color: #2f3a3a; border-left: 3px solid #7a8d8d; padding-left: 1rem; margin: 1.5rem 0;">
+<blockquote class="serenity-prayer">
 God, grant me the <strong>Serenity</strong> to accept the things I cannot change,<br>
 <strong>Courage</strong> to change the things I can,<br>
 and <strong>Wisdom</strong> to know the difference.
