@@ -6,7 +6,7 @@ description: Get quick answers about joining the 24/7 online A.A. meeting, Zoom 
 
 - **What is this?** A live 24/7 Online A.A. Meeting on Zoom for people seeking sobriety.
 - **Who can attend?** This is an open Alcoholics Anonymous meeting, and anyone with a desire to stop drinking is welcome.
-- **How do I join?** Use Zoom Meeting ID **292 371 2604** or click the Join Online A.A. Meeting button above.
+- **How do I join?** Use Zoom Meeting ID **292 371 2604** or click the Join this 24/7 online A.A. meeting NOW button above.
 - **Is a password required?** No. You can join without a password.
 - **Who operates this website?** The Friends of 24/7 Recovery developed and maintain this website. We cooperate and network with Code for Recovery, a nonprofit organization that develops open-source technology projects to help the recovery community come together, get organized, and recover from alcoholism and addiction: [https://code4recovery.org](https://code4recovery.org). The Friends of 24/7 Recovery also networks with [Flying Sober 24-7](https://flying-sober.com/24-7-meetings) and [A.A. Directory.com](https://theaadirectory.com).
 

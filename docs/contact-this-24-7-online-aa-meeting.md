@@ -19,7 +19,7 @@ If you are joining for the first time, want to ask a question, or need to connec
   </ul>
 </div>
 
-<a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join Online A.A. Meeting</a>
+<a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join this 24/7 online A.A. meeting NOW</a>
 
 <ol class="small-instruction-list">
   <li>Click the button.</li>

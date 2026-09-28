@@ -28,7 +28,7 @@ The A.A. General Service Office pamphlet *"A Newcomer Asks"* answers the questio
 
 You don't need to wait, sign up, or prepare anything. The 24 Hour International Marathon Meeting of A.A. is running right now, and there's a new session every hour, every day of the year.
 
-<a id="join-meeting" class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join Online A.A. Meeting</a>
+<a id="join-meeting" class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join this 24/7 online A.A. meeting NOW</a>
 
 <ol class="small-instruction-list">
   <li>Click the button.</li>
