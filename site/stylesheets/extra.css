@@ -102,6 +102,10 @@ body {
   height: auto;
 }
 
+.near-you-resource img.near-you-resource__image--oiaa {
+  width: 234px;
+}
+
 .tradition-caption {
   width: 100%;
   margin-top: 0.35rem;
