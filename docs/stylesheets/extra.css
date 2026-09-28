@@ -95,6 +95,11 @@ body {
   margin: 0 0 0.5rem;
 }
 
+.near-you-resource--stacked {
+  flex-direction: column;
+  align-items: flex-start;
+}
+
 .near-you-resource img {
   display: block;
   width: 180px;
@@ -103,7 +108,7 @@ body {
 }
 
 .near-you-resource img.near-you-resource__image--oiaa {
-  width: 234px;
+  width: 304px;
 }
 
 .tradition-caption {

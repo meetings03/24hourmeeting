@@ -147,7 +147,7 @@ Alcoholics Anonymous is a fellowship of people who share their experience, stren
   <img src="images/GSO.png" alt="A.A. General Service Office logo" />
 </div>
 
-<div class="near-you-resource">
+<div class="near-you-resource near-you-resource--stacked">
   <a class="explore-button" href="https://aa-intergroup.org/meetings/" target="_blank" rel="noopener">Online Intergroup of Alcoholics Anonymous</a>
   <img class="near-you-resource__image--oiaa" src="images/OIAA.png" alt="Online Intergroup of Alcoholics Anonymous logo" />
 </div>
