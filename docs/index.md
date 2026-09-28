@@ -159,6 +159,8 @@ Join a live 24/7 Online A.A. Meeting on Zoom. This is an open international Alco
 </div>
 </section>
 
+<a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join 24/7 online A.A. meeting NOW</a>
+
 ### Quick Answers About this 24/7 Online A.A. Meeting
 
 <a class="explore-button" href="quick-answers/">Read Quick Answers</a>
