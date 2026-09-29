@@ -200,7 +200,7 @@ This link will connect you with the 24 Hour International Marathon Meeting of A.
   <p><em>We are available 24 hours a day on Zoom <strong>292 371 2604</strong>. If you have any questions, or would like to get involved in service, click the link below.</em></p>
 </div>
 
-<a class="explore-button" href="contact-this-24-7-online-aa-meeting/">Contact the International Marathon Meeting of AA</a>
+<a class="explore-button" href="contact-this-24-7-online-aa-meeting/">Contact the 24 Hour International Marathon Meeting of AA</a>
 
 <div class="tradition-image-row">
   <img src="images/AroundGlobe.png" alt="Globe representing the international A.A. fellowship" />
