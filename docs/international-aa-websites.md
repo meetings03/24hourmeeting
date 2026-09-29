@@ -26,6 +26,3 @@ These links connect to Alcoholics Anonymous (A.A.) organizations, service resour
 - <a href="https://www.aagrapevine.org" target="_blank" rel="noopener">A.A. Grapevine</a> — Read the international A.A. journal and member stories.
 - <a href="https://aavirtualarea.org.au" target="_blank" rel="noopener">Virtual General Service Area of Alcoholics Anonymous</a> — Explore information about this virtual A.A. service area.
 
-<div class="tradition-image-row">
-  <img src="/images/new_flags_international.png" alt="International Alcoholics Anonymous flags representing the global A.A. fellowship" title="International Alcoholics Anonymous flags representing the global A.A. fellowship" />
-</div>

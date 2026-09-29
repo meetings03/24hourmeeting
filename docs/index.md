@@ -210,10 +210,6 @@ This link will connect you with the 24 Hour International Marathon Meeting of A.
 
 Alcoholics Anonymous is a global fellowship. The link below leads to many official international A.A. websites.
 
-<div class="tradition-image-row">
-  <img src="images/new_flags_international.png" alt="International A.A. flags" />
-</div>
-
 <a class="explore-button" href="international-aa-websites/">Explore International A.A. Websites</a>
 
 <div class="tradition-image-row">
