@@ -429,6 +429,10 @@ Join our Box 459 newsletter digital delivery mailing list.
 
 <a class="explore-button" href="https://www.aa.org/box-459" target="_blank" rel="noopener">Subscribe to Box 459 Newsletter</a>
 
+<div class="tradition-image-row">
+  <img src="images/LitFlags.png" alt="A.A. Around the World flags" />
+</div>
+
 ## A.A. Around the World
 
 <details class="legacy-vignette">
