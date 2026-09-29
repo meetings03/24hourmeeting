@@ -372,7 +372,7 @@ All groups exist to help those who suffer from the disease of alcoholism.
 
 This informational guide tells how a group works most effectively, how a new group can be started, and how each group can be linked to A.A. as a whole. General Service Conference-approved.
 
-<a class="explore-button" href="https://www.aa.org/aa-groupwhere-it-all-begins" target="_blank" rel="noopener">The A.A. Group...Where It All Begins</a>
+<a class="explore-button" href="https://www.aa.org/aa-groupwhere-it-all-begins" target="_blank" rel="noopener">Read the pamphlet &quot;The A.A. Group... Where it all Begins&quot; from A.A. World Services</a>
 
 ## Problems Other Than Alcohol
 
@@ -382,7 +382,7 @@ This informational guide tells how a group works most effectively, how a new gro
 
 The problem of drug addiction in its several forms lies close to us all. It stirs our deepest interest and sympathy. Many A.A. members, especially those who have suffered these particular addictions, are now asking, "What can we do about drugs—within our Fellowship, and without?" Bill W. wrote these words in the pamphlet *Problems Other Than Alcohol*.
 
-<a class="explore-button" href="problems-other-than-alcohol/">Problems Other Than Alcohol</a>
+<a class="explore-button" href="problems-other-than-alcohol/">Read the pamphlet &quot;Problems other than Alcohol by Bill W.&quot; from A.A. World Services</a>
 
 <div class="tradition-image-row">
   <img src="images/Grapevine.png" alt="A.A. Grapevine magazine" />
