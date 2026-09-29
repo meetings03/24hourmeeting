@@ -117,7 +117,7 @@ Alcoholics Anonymous is a fellowship of people who share their experience, stren
 
 ## Find A.A. Near You
 
-<div class="near-you-resource">
+<div class="near-you-resource near-you-resource--stacked">
   <a class="explore-button" href="https://www.aa.org/find-aa" target="_blank" rel="noopener">A.A. World Services</a>
   <img src="images/GSO.png" alt="A.A. General Service Office logo" />
 </div>
