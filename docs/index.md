@@ -289,9 +289,7 @@ To join right away, use the Zoom ID **292 371 2604** or click the button below:
 
 <a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join this 24/7 online A.A. meeting NOW</a>
 
-<div class="tradition-image-row">
-  <img src="images/DoorAA.png" alt="DoorAA image" />
-</div>
+![DoorAA image](images/DoorAA.png)
 
 ## Recovery Resources
 
