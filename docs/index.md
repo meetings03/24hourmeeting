@@ -10,25 +10,18 @@ Join a live 24/7 Online A.A. Meeting on Zoom. This is an open international Alco
 
 ## Where Sobriety Never Sleeps
 
-<div class="tradition-image-row">
-  <img src="images/New_Zealand.jpg" alt="New Zealand A.A. meeting origin image" />
-  <div class="image-caption">The 24 Hour International Marathon Meeting of A.A. was founded at the start of the COVID pandemic by two newcomers from New Zealand who realized they needed the fellowship of other alcoholics if they were to stay sober. It has been operating continuously 24/7 since April 20, 2020.</div>
-</div>
+![New Zealand A.A. meeting origin image](images/New_Zealand.jpg)
 
-<div class="tradition-image-row">
-  <img src="images/Help_247.jpg" alt="Help 24/7 online meeting logo" />
-</div>
+*The 24 Hour International Marathon Meeting of A.A. was founded at the start of the COVID pandemic by two newcomers from New Zealand who realized they needed the fellowship of other alcoholics if they were to stay sober. It has been operating continuously 24/7 since April 20, 2020.*
+
+![Help 24/7 online meeting logo](images/Help_247.jpg)
 
 <em>The 24 Hour International Marathon Meeting of A.A. (Where sobriety never sleeps) is a continuous 24/7 online AA meeting on Zoom: an international Alcoholics Anonymous marathon meeting with a new session every hour. Join now with Zoom Meeting ID <strong class="zoom-meeting-id">292 371 2604</strong>. No password required.</em>
 
 <section class="help-vignette" aria-labelledby="help-now-heading">
 <h2 id="help-now-heading">Get Help Now from OIAA 12th Step Committee</h2>
 
-<div class="tradition-image-row help-vignette__image">
-  <div class="help-image-frame">
-    <img src="images/Get_Help_Now.png" alt="Get help now through Alcoholics Anonymous" />
-  </div>
-</div>
+![Get help now through Alcoholics Anonymous](images/Get_Help_Now.png)
 
 <a class="help-button" href="https://aa-intergroup.org/get-help-now/" target="_blank" rel="noopener">Get Help Now</a>
 
@@ -48,41 +41,33 @@ Join a live 24/7 Online A.A. Meeting on Zoom. This is an open international Alco
 
 New to A.A.? Start with our <a href="aa-primary-purpose/">Primary Purpose</a> and <a href="aas-three-legacies/">Three Legacies</a> to understand the Fellowship's foundation.
 
-<div class="tradition-image-row">
-  <img class="responsive-image" src="images/sobrietyneversleeps_Logo.jpg" alt="Sobriety Never Sleeps logo" />
-  <p><em>The 24-Hour International Marathon Meeting of A.A. is a continuous, 24/7 online Alcoholics Anonymous meeting open to anyone seeking support. A new AA meeting with a fresh recovery topic begins every hour, making it easy for newcomers to find an online AA meeting anytime—day or night.</em></p>
-</div>
+![Sobriety Never Sleeps logo](images/sobrietyneversleeps_Logo.jpg)
+
+*The 24-Hour International Marathon Meeting of A.A. is a continuous, 24/7 online Alcoholics Anonymous meeting open to anyone seeking support. A new AA meeting with a fresh recovery topic begins every hour, making it easy for newcomers to find an online AA meeting anytime—day or night.*
 
 ## What to Expect When You Join This 24 Hour Zoom A.A. Meeting
 
 <a class="explore-button" href="what-to-expect-when-you-join/">Learn What to Expect</a>
 
-<div class="tradition-image-row">
-  <img class="responsive-image" src="images/GlobeAA.jpg" alt="Global A.A. fellowship image" />
-  <p><em>This 24/7 online AA meeting is an open Alcoholics Anonymous meeting for anyone seeking recovery support. Everyone is welcome to listen, and we ask that only alcoholics or those with a desire to stop drinking share.</em></p>
-</div>
+![Global A.A. fellowship image](images/GlobeAA.jpg)
+
+*This 24/7 online AA meeting is an open Alcoholics Anonymous meeting for anyone seeking recovery support. Everyone is welcome to listen, and we ask that only alcoholics or those with a desire to stop drinking share.*
 
 <a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join this 24/7 online A.A. meeting NOW</a>
 
 ## Welcome to Online Recovery
 
-<div class="tradition-image-row">
-  <img src="images/aa_man_on_bed_laptop.png" alt="Person participating in an online AA meeting from a laptop" />
-</div>
+![Person participating in an online AA meeting from a laptop](images/aa_man_on_bed_laptop.png)
 
 Welcome to the 24-Hour International Marathon Meeting of A.A., *where sobriety never sleeps*. We are an open online Alcoholics Anonymous meeting for people looking for an AA meeting, recovery support, or a welcoming place to connect with others who understand alcoholism. In keeping with A.A.'s singleness of purpose and our Third Tradition, which states that the only requirement for A.A. membership is a desire to stop drinking, we ask that everyone who shares in our meeting keep the focus on their experience with alcohol. You can join our online recovery meeting by clicking the "Join this 24/7 online A.A. meeting NOW" button above or by joining the meeting through Zoom. The access code is **292 371 2604**. Join our online recovery meeting and raise your virtual hand. We want to get to know you, and experience has taught us that we can help best if you talk to us. We call on hands in the order they are raised, and everyone gets five minutes to share, with a gentle reminder when there is one minute remaining.
 
-<div class="tradition-image-row">
-  <img class="meeting-circle-image meeting-circle-image--wide" src="images/Meeting_Circle.png" alt="Meeting circle image" />
-</div>
+![Meeting circle image](images/Meeting_Circle.png)
 
 The 24 Hour International Marathon Meeting of A.A., *where sobriety never sleeps*, is dedicated to carrying A.A.'s life-saving message of hope and recovery globally to the alcoholic who still suffers. Individuals seeking support for drug problems and substance use disorders may benefit from professional treatment programs, government resources, rehabilitation services, family support organizations, and other recovery programs and fellowships. Alcoholics Anonymous is not affiliated with any outside agency or enterprise.
 
 <a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join this 24/7 online A.A. meeting NOW</a>
 
-<div class="tradition-image-row">
-  <img src="images/i_am_responsible_image.png" alt="I am Responsible A.A. image" />
-</div>
+![I am Responsible A.A. image](images/i_am_responsible_image.png)
 
 ## Preamble of A.A.
 
@@ -90,9 +75,7 @@ Alcoholics Anonymous is a fellowship of people who share their experience, stren
 
 *Copyright by A.A. Grapevine, Inc.; reprinted with permission.*
 
-<div class="tradition-image-row">
-  <img src="images/How_It_Works.png" alt="How it works image" />
-</div>
+![How it works image](images/How_It_Works.png)
 
 ## The Twelve Steps of Alcoholics Anonymous
 
@@ -109,9 +92,7 @@ Alcoholics Anonymous is a fellowship of people who share their experience, stren
 11. Sought through prayer and meditation to improve our conscious contact with God *as we understood Him*, praying only for knowledge of His will for us and the power to carry that out.
 12. Having had a spiritual awakening as the result of these steps, we tried to carry this message to alcoholics, and to practice these principles in all our affairs.
 
-<div class="tradition-image-row">
-  <img src="images/traditions_distilation.png" alt="Traditions distillation image" />
-</div>
+![Traditions distillation image](images/traditions_distilation.png)
 
 ## The Twelve Traditions of Alcoholics Anonymous
 
@@ -130,37 +111,27 @@ Alcoholics Anonymous is a fellowship of people who share their experience, stren
 
 ## Are You New to Alcoholics Anonymous?
 
-<div class="tradition-image-row">
-  <img src="images/NewcomerAsks.png" alt="A Newcomer Asks pamphlet" />
-</div>
+![A Newcomer Asks pamphlet](images/NewcomerAsks.png)
 
 <a class="explore-button" href="https://www.aa.org/newcomer-asks" target="_blank" rel="noopener">Read the pamphlet &quot;A Newcomer Asks&quot; from A.A. World Services</a>
 
-<div class="tradition-image-row">
-  <img src="images/TalkingWalls.png" alt="Talking Walls" />
-</div>
+![Talking Walls](images/TalkingWalls.png)
 
 ## Find A.A. Near You
 
-<div class="near-you-resource">
-  <a class="explore-button" href="https://www.aa.org/find-aa" target="_blank" rel="noopener">A.A. World Services</a>
-  <img src="images/GSO.png" alt="A.A. General Service Office logo" />
-</div>
+A.A. World Services
 
-<div class="near-you-resource near-you-resource--stacked">
-  <a class="explore-button" href="https://aa-intergroup.org/meetings/" target="_blank" rel="noopener">Online Intergroup of Alcoholics Anonymous</a>
-  <img class="near-you-resource__image--oiaa" src="images/OIAA.png" alt="Online Intergroup of Alcoholics Anonymous logo" />
-</div>
+![A.A. General Service Office logo](images/GSO.png)
+
+Online Intergroup of Alcoholics Anonymous
+
+![Online Intergroup of Alcoholics Anonymous logo](images/OIAA.png)
 
 <em>Help is available. The links above can connect you with both in-person and online A.A. meetings. The A.A. World Services button leads to in-person meetings around the world. You can likely find a &quot;brick and mortar&quot; meeting in your local community. The Online Intergroup of Alcoholics Anonymous button leads to online meetings from around the world in many different languages.</em>
 
-<div class="tradition-image-row">
-  <img src="images/fifth_tradition_image_part_1.png" alt="Fifth Tradition Part 1 image" />
-</div>
+![Fifth Tradition Part 1 image](images/fifth_tradition_image_part_1.png)
 
-<div class="tradition-image-row">
-  <img src="images/fifth_tradition_image_part_2.png" alt="Fifth Tradition Part 2 image" />
-</div>
+![Fifth Tradition Part 2 image](images/fifth_tradition_image_part_2.png)
 
 ### A Declaration of Unity
 
@@ -171,9 +142,7 @@ Alcoholics Anonymous is a fellowship of people who share their experience, stren
 
 <div class="centered-note">The Declaration was adopted by the Fellowship at the 35th International A.A. Convention at Miami in 1970.</div>
 
-<div class="tradition-image-row">
-  <img src="images/Bob_and_Bill.png" alt="Bob and Bill image" class="portrait-image" />
-</div>
+![Bob and Bill image](images/Bob_and_Bill.png)
 
 *Dr. Bob and Bill W., the cofounders of Alcoholics Anonymous*
 
@@ -187,40 +156,33 @@ Alcoholics Anonymous is a fellowship of people who share their experience, stren
 
 <div class="centered-note">The responsibility statement was written for the 1965 International Convention in Toronto, and it remains a core principle of A.A. service today.</div>
 
-<div class="tradition-image-row">
-  <img src="images/first_tradition_image.png" alt="First Tradition image" />
-</div>
+![First Tradition image](images/first_tradition_image.png)
 
 ## Contact This 24/7 Online A.A. Meeting
 
 This link will connect you with the 24 Hour International Marathon Meeting of A.A. (Where sobriety never sleeps).
 
-<div class="tradition-image-row">
-  <img src="images/Contact_Us.png" alt="Contact this 24/7 online A.A. Meeting" />
-  <p><em>We are available 24 hours a day on Zoom <strong>292 371 2604</strong>. If you have any questions, or would like to get involved in service, click the link below.</em></p>
-</div>
+![Contact this 24/7 online A.A. Meeting](images/Contact_Us.png)
+
+*We are available 24 hours a day on Zoom 292 371 2604. If you have any questions, or would like to get involved in service, click the link below.*
 
 <a class="explore-button" href="contact-this-24-7-online-aa-meeting/">Contact the 24 Hour International Marathon Meeting of AA</a>
 
-<div class="tradition-image-row">
-  <img src="images/AroundGlobe.png" alt="Globe representing the international A.A. fellowship" />
-</div>
+![Globe representing the international A.A. fellowship](images/AroundGlobe.png)
 
 ### International A.A. Websites
 
 Alcoholics Anonymous is a global fellowship. The link below leads to many official international A.A. websites.
 
-<div class="tradition-image-row">
-  <img src="images/FlagGlobe.png" alt="Flags around the globe image" />
-  <p><em>Alcoholics Anonymous has known groups in 180 countries worldwide, with an estimated 2 million members, supported by more than 123,000 groups globally.</em></p>
-</div>
+![Flags around the globe image](images/FlagGlobe.png)
+
+*Alcoholics Anonymous has known groups in 180 countries worldwide, with an estimated 2 million members, supported by more than 123,000 groups globally.*
 
 <a class="explore-button" href="international-aa-websites/">Explore International A.A. Websites</a>
 
-<div class="tradition-image-row">
-  <img src="images/Drinking_Problem.jpg" alt="Drinking problem image" />
-  <p><em>The only requirement for A.A. membership is a desire to stop drinking. A.A. does not pronounce anyone as an alcoholic.</em></p>
-</div>
+![Drinking problem image](images/Drinking_Problem.jpg)
+
+*The only requirement for A.A. membership is a desire to stop drinking. A.A. does not pronounce anyone as an alcoholic.*
 
 ## Do You Have a Drinking Problem?
 
@@ -237,18 +199,15 @@ Please answer each question honestly with a yes or no.
 
 Source: [Johns Hopkins University Hospital](https://www.hopkinsmedicine.org)
 
-<div class="tradition-image-row">
-  <img src="images/step_one.png" alt="Step One image" />
-  <div class="image-caption">Alcoholics are women and men who have lost the ability to control their drinking. Recovery begins when we concede to our innermost selves that we are alcoholics.</div>
-</div>
+![Step One image](images/step_one.png)
+
+*Alcoholics are women and men who have lost the ability to control their drinking. Recovery begins when we concede to our innermost selves that we are alcoholics.*
 
 ### A.A.'s Two Questions
 
 The book *Alcoholics Anonymous* (the Big Book) says that alcoholics are men and women who have lost the ability to control their drinking. A.A. does not pronounce anyone as being an alcoholic. The following passage from page 44 of the Big Book states: "In the preceding chapters you have learned something of alcoholism. We hope we have made clear the distinction between the alcoholic and the non-alcoholic. If, when you honestly want to, you find you cannot quit entirely, or if when drinking, you have little control over the amount you take, you are probably alcoholic. If that be the case, you may be suffering from an illness which only a spiritual experience will conquer."
 
-<div class="tradition-image-row">
-  <img class="content-image--half" src="images/First_Edition.jpeg" alt="First edition of Alcoholics Anonymous" />
-</div>
+![First edition of Alcoholics Anonymous](images/First_Edition.jpeg)
 
 *First edition of the Big Book of Alcoholics Anonymous, published in April 1939. This is our basic text, which explains the nature of alcoholism and A.A.'s program of recovery—the Twelve Steps.*
 
@@ -258,16 +217,13 @@ The button below leads to A.A. General Service Conference-approved literature.
 
 <a class="explore-button" href="aa-literature/">Access A.A. General Service Conference-approved Literature</a>
 
-<div class="tradition-image-row">
-  <img src="images/AA_Literature.png" alt="A.A. Literature" />
-</div>
+![A.A. Literature](images/AA_Literature.png)
 
 See also: <a href="aa-grapevine-and-la-vina/">A.A. Grapevine and La Viña</a> for member-written stories and insights.
 
-<div class="tradition-image-row">
-  <img src="images/PigeonPoint.jpg" alt="Pigeon Point lighthouse" />
-  <p><em>Help is available! If you are facing a medical emergency, contact your local first responders. In Canada and the United States dial <strong>911</strong>, in Ireland dial <strong>112</strong>, in UK dial <strong>999</strong>, in New Zealand dial <strong>111</strong>, in Australia dial <strong>000</strong>. Alcoholics Anonymous does not provide medical advice, emergency medical services or detox treatment.</em></p>
-</div>
+![Pigeon Point lighthouse](images/PigeonPoint.jpg)
+
+*Help is available! If you are facing a medical emergency, contact your local first responders. In Canada and the United States dial 911, in Ireland dial 112, in UK dial 999, in New Zealand dial 111, in Australia dial 000. Alcoholics Anonymous does not provide medical advice, emergency medical services or detox treatment.*
 
 ## Crisis and Mental Health Resources
 
@@ -293,13 +249,11 @@ To join right away, use the Zoom ID **292 371 2604** or click the button below:
 
 ## Recovery Resources
 
-<div class="tradition-image-row tradition-image-row--card">
-  <img class="tradition-card-image" src="images/eighth_tradition_image.png" alt="Eighth Tradition image" />
-  <div class="tradition-card-content">
-    <p><strong>Long Form of Tradition Eight</strong></p>
-    <p>Alcoholics Anonymous should remain forever nonprofessional. We define professionalism as the occupation of counseling alcoholics for fees or hire. But we may employ alcoholics where they are going to perform those services for which we might otherwise have to engage nonalcoholics. Such special services may be well recompensed. But our usual A.A. Twelfth Step work is never to be paid for.</p>
-  </div>
-</div>
+![Eighth Tradition image](images/eighth_tradition_image.png)
+
+**Long Form of Tradition Eight**
+
+Alcoholics Anonymous should remain forever nonprofessional. We define professionalism as the occupation of counseling alcoholics for fees or hire. But we may employ alcoholics where they are going to perform those services for which we might otherwise have to engage nonalcoholics. Such special services may be well recompensed. But our usual A.A. Twelfth Step work is never to be paid for.
 
 A.A.'s Eighth Tradition states: "Alcoholics Anonymous should remain forever nonprofessional, but our service centers may employ special workers." The link below leads to a variety of non-A.A. recovery-related resources. Inclusion on this website does not indicate endorsement or affiliation. Our aim is to be helpful and to cooperate with our friends.
 
@@ -307,10 +261,9 @@ A.A.'s Eighth Tradition states: "Alcoholics Anonymous should remain forever nonp
 
 Complement with: <a href="crisis-resources/">Crisis and Mental Health Resources</a>
 
-<div class="tradition-image-row tradition-image-row--spaced">
-  <img src="images/Mayflower.jpg" alt="Mayflower image" />
-  <div class="image-caption">The church directory in the lobby of the Mayflower Hotel in Akron, Ohio that led Bill W. to Dr. Bob. The two men went on to co-found Alcoholics Anonymous.</div>
-</div>
+![Mayflower image](images/Mayflower.jpg)
+
+*The church directory in the lobby of the Mayflower Hotel in Akron, Ohio that led Bill W. to Dr. Bob. The two men went on to co-found Alcoholics Anonymous.*
 
 ## Topics for Online A.A. Meetings
 
@@ -320,10 +273,9 @@ The link below leads to possible topics for A.A. meetings. Other topics can be f
 
 Read: <a href="aa-primary-purpose/">A.A.'s Primary Purpose</a> and <a href="aas-three-legacies/">Three Legacies</a> to ground your discussions.
 
-<div class="tradition-image-row tradition-image-row--spaced">
-  <img src="images/Coffee_Pot.png" alt="Coffee pot used by early Alcoholics Anonymous pioneers in Akron, Ohio" />
-  <div class="image-caption">Alcoholics Anonymous began in Akron, Ohio, in June 1935, when Bill W., a New York stockbroker, met Dr. Bob, an Akron physician. Early A.A. pioneers gathered in Dr. Bob's house and drank from this coffee pot, as they shared their experience, strength and hope.</div>
-</div>
+![Coffee pot used by early Alcoholics Anonymous pioneers in Akron, Ohio](images/Coffee_Pot.png)
+
+*Alcoholics Anonymous began in Akron, Ohio, in June 1935, when Bill W., a New York stockbroker, met Dr. Bob, an Akron physician. Early A.A. pioneers gathered in Dr. Bob's house and drank from this coffee pot, as they shared their experience, strength and hope.*
 
 ## A.A.'s Primary Purpose
 
@@ -333,9 +285,7 @@ Our Twelfth Step—carrying the message—is the basic service that the A.A. Fel
 
 Connection: <a href="aas-three-legacies/">A.A.'s Three Legacies</a> provide the framework for the primary purpose of carrying the A.A. message of hope and recovery to the alcoholic who still suffers.
 
-<div class="tradition-image-row">
-  <img class="legacy-image" src="images/Legacies.png" alt="Alcoholics Anonymous Three Legacies" />
-</div>
+![Alcoholics Anonymous Three Legacies](images/Legacies.png)
 
 ## A.A.'s Three Legacies: Recovery, Unity, and Service
 
@@ -343,17 +293,15 @@ The Three Legacies of Alcoholics Anonymous are Recovery, Unity, and Service. By 
 
 <a class="explore-button" href="aas-three-legacies/">Learn About A.A.'s Three Legacies</a>
 
-<div class="tradition-image-row">
-  <img src="images/StepsTraditionsConcepts.png" alt="A.A. Steps, Traditions, and Concepts" />
-  <div class="image-caption">A.A.'s Three Legacies of Recovery, Unity, and Service were adopted by the Fellowship at the International Convention of Alcoholics Anonymous at St. Louis in 1955. Read about this historic event in the book <em>Alcoholics Anonymous Comes of Age: A Brief History of A.A.</em></div>
-</div>
+![A.A. Steps, Traditions, and Concepts](images/StepsTraditionsConcepts.png)
+
+*A.A.'s Three Legacies of Recovery, Unity, and Service were adopted by the Fellowship at the International Convention of Alcoholics Anonymous at St. Louis in 1955. Read about this historic event in the book Alcoholics Anonymous Comes of Age: A Brief History of A.A.*
 
 ## Sponsorship in A.A.
 
-<div class="tradition-image-row tradition-image-row--spaced">
-  <img src="images/Members_TalkingatTable.png" alt="Members talking at a table" />
-  <div class="image-caption">Sponsorship responsibility is unwritten and informal, but it is a basic part of the A.A. approach to recovery from alcoholism through the Twelve Steps. Sponsorship styles and relationships vary. The important thing is that the newcomer is introduced to A.A. literature, particularly the Big Book of Alcoholics Anonymous, and is guided through the Twelve Steps.</div>
-</div>
+![Members talking at a table](images/Members_TalkingatTable.png)
+
+*Sponsorship responsibility is unwritten and informal, but it is a basic part of the A.A. approach to recovery from alcoholism through the Twelve Steps. Sponsorship styles and relationships vary. The important thing is that the newcomer is introduced to A.A. literature, particularly the Big Book of Alcoholics Anonymous, and is guided through the Twelve Steps.*
 
 <a class="explore-button" href="sponsorship/">Sponsorship</a>
 
@@ -367,9 +315,7 @@ Any gathering of two or more alcoholics who wish to recover and have no other af
 
 All groups exist to help those who suffer from the disease of alcoholism.
 
-<div class="tradition-image-row">
-  <img src="images/AA_group.png" alt="The A.A. Group pamphlet" />
-</div>
+![The A.A. Group pamphlet](images/AA_group.png)
 
 <p class="aa-group-caption"><em>The A.A. Group...Where It All Begins</em></p>
 
@@ -379,18 +325,15 @@ This informational guide tells how a group works most effectively, how a new gro
 
 ## Problems Other Than Alcohol
 
-<div class="tradition-image-row tradition-image-row--card tradition-image-row--card-compact">
-  <img class="tradition-card-image" src="images/Problems_Other_Than_Alcohol.png" alt="Problems Other Than Alcohol pamphlet cover" />
-</div>
+![Problems Other Than Alcohol pamphlet cover](images/Problems_Other_Than_Alcohol.png)
 
 The problem of drug addiction in its several forms lies close to us all. It stirs our deepest interest and sympathy. Many A.A. members, especially those who have suffered these particular addictions, are now asking, "What can we do about drugs—within our Fellowship, and without?" Bill W. wrote these words in the pamphlet *Problems Other Than Alcohol*.
 
 <a class="explore-button" href="problems-other-than-alcohol/">Read the pamphlet &quot;Problems other than Alcohol by Bill W.&quot; from A.A. World Services</a>
 
-<div class="tradition-image-row">
-  <img src="images/Grapevine.png" alt="A.A. Grapevine magazine" />
-  <div class="image-caption">The Grapevine is A.A.'s "meeting in print." La Viña is the Fellowship's Spanish-language magazine. Both publications include submissions from ordinary A.A. members from around the world.</div>
-</div>
+![A.A. Grapevine magazine](images/Grapevine.png)
+
+*The Grapevine is A.A.'s "meeting in print." La Viña is the Fellowship's Spanish-language magazine. Both publications include submissions from ordinary A.A. members from around the world.*
 
 ## A.A. Grapevine and La Viña
 
@@ -406,24 +349,21 @@ The link below provides relevant information concerning the 24 Hour Internationa
 
 Connect with: <a href="aas-three-legacies/">A.A.'s Three Legacies</a> | <a href="aa-primary-purpose/">Primary Purpose</a>
 
-<div class="tradition-image-row">
-  <img src="images/Bill_Lois.jpg" alt="Bill and Lois" />
-  <div class="image-caption">A.A.'s cofounder, Bill W., and his wife Lois in 1925.</div>
-</div>
+![Bill and Lois](images/Bill_Lois.jpg)
+
+*A.A.'s cofounder, Bill W., and his wife Lois in 1925.*
 
 ## A.A. World Services and A.A. General Service Office
 
 <a class="explore-button" href="https://www.aa.org" target="_blank" rel="noopener">Contact the A.A. General Service Office (GSO)</a>
 
-<div class="tradition-image-row">
-  <img src="images/General_Service_Conference.png" alt="A.A. General Service Conference" />
-  <div class="image-caption">The General Service Conference of A.A. has become, for nearly every practical purpose, the active voice and the effective conscience of our whole society in its world affairs.</div>
-</div>
+![A.A. General Service Conference](images/General_Service_Conference.png)
 
-<div class="tradition-image-row">
-  <img src="images/Box459.png" alt="Box 459 newsletter image" />
-  <div class="image-caption">Box 459 is the official newsletter of the A.A. General Service Office.</div>
-</div>
+*The General Service Conference of A.A. has become, for nearly every practical purpose, the active voice and the effective conscience of our whole society in its world affairs.*
+
+![Box 459 newsletter image](images/Box459.png)
+
+*Box 459 is the official newsletter of the A.A. General Service Office.*
 
 ## Box 459
 
@@ -431,9 +371,7 @@ Join our Box 459 newsletter digital delivery mailing list.
 
 <a class="explore-button" href="https://www.aa.org/box-459" target="_blank" rel="noopener">Subscribe to Box 459 Newsletter</a>
 
-<div class="tradition-image-row">
-  <img src="images/LitFlags.png" alt="A.A. Around the World flags" />
-</div>
+![A.A. Around the World flags](images/LitFlags.png)
 
 ## A.A. Around the World
 
@@ -454,18 +392,15 @@ For the full legal notice, permissions, and related guidance, see the page below
 
 <a class="explore-button" href="disclaimer-and-permissions/">Read Our Disclaimer and Permissions</a>
 
-<div class="tradition-image-row">
-  <img src="images/easy_does_it_logo.jpg" alt="Easy Does It logo" />
-  <p><em>Alcoholics Anonymous has many slogans and mottoes that help our members stay away from the first drink—<strong>one day at a time</strong>.</em></p>
-</div>
+![Easy Does It logo](images/easy_does_it_logo.jpg)
+
+*Alcoholics Anonymous has many slogans and mottoes that help our members stay away from the first drink—one day at a time.*
 
 <a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join this 24/7 online A.A. meeting NOW</a>
 
 ---
 
-<div class="tradition-image-row">
-  <img src="images/aa_hearts.png" alt="A.A. Hearts image" />
-</div>
+![A.A. Hearts image](images/aa_hearts.png)
 
 ## Quick Links and Resources
 
