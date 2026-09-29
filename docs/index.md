@@ -172,11 +172,9 @@ This link will connect you with the 24 Hour International Marathon Meeting of A.
 
 ### International A.A. Websites
 
-Alcoholics Anonymous is a global fellowship. The link below leads to many official international A.A. websites.
-
 ![Flags around the globe image](images/FlagGlobe.png)
 
-*Alcoholics Anonymous has known groups in 180 countries worldwide, with an estimated 2 million members, supported by more than 123,000 groups globally.*
+*A.A. is a global Fellowship. Alcoholics Anonymous has known groups in 180 countries worldwide, with an estimated 2 million members, supported by more than 123,000 groups globally. The link below leads to many official international A.A. websites.*
 
 <a class="explore-button" href="international-aa-websites/">Explore International A.A. Websites</a>
 
