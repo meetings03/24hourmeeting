@@ -210,6 +210,11 @@ This link will connect you with the 24 Hour International Marathon Meeting of A.
 
 Alcoholics Anonymous is a global fellowship. The link below leads to many official international A.A. websites.
 
+<div class="tradition-image-row">
+  <img src="images/FlagGlobe.png" alt="Flags around the globe image" />
+  <p><em>Alcoholics Anonymous has known groups in 180 countries worldwide, with an estimated 2 million members, supported by more than 123,000 groups globally.</em></p>
+</div>
+
 <a class="explore-button" href="international-aa-websites/">Explore International A.A. Websites</a>
 
 <div class="tradition-image-row">
@@ -423,11 +428,6 @@ Connect with: <a href="aas-three-legacies/">A.A.'s Three Legacies</a> | <a href=
 Join our Box 459 newsletter digital delivery mailing list.
 
 <a class="explore-button" href="https://www.aa.org/box-459" target="_blank" rel="noopener">Subscribe to Box 459 Newsletter</a>
-
-<div class="tradition-image-row">
-  <img src="images/FlagGlobe.png" alt="Flags around the globe image" />
-  <p><em>Alcoholics Anonymous has known groups in 180 countries worldwide, with an estimated 2 million members, supported by more than 123,000 groups globally.</em></p>
-</div>
 
 ## A.A. Around the World
 
