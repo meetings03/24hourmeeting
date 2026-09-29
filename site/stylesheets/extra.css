@@ -100,6 +100,14 @@ body {
   align-items: flex-start;
 }
 
+.near-you-resource > .explore-button {
+  flex: 1 1 240px;
+  min-width: 220px;
+  max-width: 100%;
+  padding: 1rem 1.5rem;
+  font-size: 1.15rem;
+}
+
 .near-you-resource img {
   display: block;
   width: 180px;
@@ -318,7 +326,12 @@ body {
   max-width: 56rem;
   margin: 0 auto;
   color: #4a5568;
-  font-style: italic;
+  font-family: "Trebuchet MS", Arial, sans-serif;
+  font-style: normal;
+}
+
+.help-vignette__copy em {
+  font-style: normal;
 }
 
 .help-vignette__copy p:last-child {
