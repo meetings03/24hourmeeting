@@ -21,8 +21,6 @@ Join a live 24/7 Online A.A. Meeting on Zoom. This is an open international Alco
 <section class="help-vignette" aria-labelledby="help-now-heading">
 <h2 id="help-now-heading">Get Help Now from OIAA 12th Step Committee</h2>
 
-![Get help now through Alcoholics Anonymous](images/Get_Help_Now.png)
-
 <a class="help-button" href="https://aa-intergroup.org/get-help-now/" target="_blank" rel="noopener">Get Help Now</a>
 
 <div class="help-vignette__copy">
@@ -119,13 +117,15 @@ Alcoholics Anonymous is a fellowship of people who share their experience, stren
 
 ## Find A.A. Near You
 
-A.A. World Services
+<div class="near-you-resource">
+  <a class="explore-button" href="https://www.aa.org/find-aa" target="_blank" rel="noopener">A.A. World Services</a>
+  <img src="images/GSO.png" alt="A.A. General Service Office logo" />
+</div>
 
-![A.A. General Service Office logo](images/GSO.png)
-
-Online Intergroup of Alcoholics Anonymous
-
-![Online Intergroup of Alcoholics Anonymous logo](images/OIAA.png)
+<div class="near-you-resource">
+  <a class="explore-button" href="https://aa-intergroup.org/meetings/" target="_blank" rel="noopener">Online Intergroup of Alcoholics Anonymous</a>
+  <img class="near-you-resource__image--oiaa" src="images/OIAA.png" alt="Online Intergroup of Alcoholics Anonymous logo" />
+</div>
 
 <em>Help is available. The links above can connect you with both in-person and online A.A. meetings. The A.A. World Services button leads to in-person meetings around the world. You can likely find a &quot;brick and mortar&quot; meeting in your local community. The Online Intergroup of Alcoholics Anonymous button leads to online meetings from around the world in many different languages.</em>
 
