@@ -2,7 +2,7 @@
 description: Join a continuous international 24/7 online Alcoholics Anonymous meeting on Zoom. New sessions every hour. Zoom ID 292 371 2604.
 ---
 
-# 24 Hour International Marathon Meeting of A.A. — 24/7 Online A.A. Meeting
+# 24 Hour International Marathon Meeting Online — 24/7 Online A.A. Meeting
 
 <a id="join-meeting" class="join-button home-join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join this 24/7 online A.A. meeting NOW</a>
 
@@ -12,7 +12,7 @@ Join a live 24/7 Online A.A. Meeting on Zoom. This is an open international Alco
 
 ![New Zealand A.A. meeting origin image](images/New_Zealand.jpg)
 
-*The 24 Hour International Marathon Meeting of A.A. was founded at the start of the COVID pandemic by two newcomers from New Zealand who realized they needed the fellowship of other alcoholics if they were to stay sober. It has been operating continuously 24/7 since April 20, 2020.*
+*The 24 Hour International Marathon Meeting of A.A. Online was founded at the start of the COVID pandemic by two newcomers from New Zealand who realized they needed the fellowship of other alcoholics if they were to stay sober. It has been operating continuously 24/7 since April 20, 2020.*
 
 ![Help 24/7 online meeting logo](images/Help_247.jpg)
 
