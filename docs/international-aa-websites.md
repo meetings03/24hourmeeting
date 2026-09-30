@@ -20,8 +20,8 @@ These links connect to Alcoholics Anonymous (A.A.) organizations, service resour
 - <a href="https://aamexico.org.mx" target="_blank" rel="noopener">Alcoholics Anonymous in Mexico</a> — Visit for A.A. information related to Mexico.
 - <a href="https://aa.org.ar" target="_blank" rel="noopener">Alcoholics Anonymous in Argentina</a> — Find A.A. information related to Argentina.
 - <a href="https://aasouthafrica.org.za" target="_blank" rel="noopener">Alcoholics Anonymous in South Africa</a> — Visit for A.A. information related to South Africa.
-- <a href="https://www.aagsoindia.org" target="_blank" rel="noopener">Alcoholics Anonymous in India</a> — Find A.A. information related to India.
-- <a href="https://area58district33.org" target="_blank" rel="noopener">Oregon Area 58, Online District 33</a> — Explore local A.A. information for Online District 33 in Oregon.
+- <a href="https://www.aagsoindia.org" target="_blank" rel="noopener">Alcoholics Anonymous in India</a> — AA’s message of recovery reached India in the mid‑20th century, where early groups formed in major cities and steadily grew into a nationwide Fellowship that now supports thousands seeking sobriety through the Twelve Steps.
+- <a href="https://area58district33.org" target="_blank" rel="noopener">Oregon (USA) Area 58, Online District 33</a> — District 33 is an online service district that serves the international online A.A. community.  It is connected to the General Service Conference throuh Oregon Area 58.
 - <a href="https://aamaroc.net" target="_blank" rel="noopener">Alcoholics Anonymous in Morocco</a> — A.A. began in Morocco in the mid-20th century, with early groups forming in Casablanca and serving both local and international communities.
 - <a href="https://www.aagrapevine.org" target="_blank" rel="noopener">A.A. Grapevine</a> — Read the international A.A. journal and member stories.
 - <a href="https://aavirtualarea.org.au" target="_blank" rel="noopener">Virtual General Service Area of Alcoholics Anonymous</a> — Explore information about this virtual A.A. service area.
