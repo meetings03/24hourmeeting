@@ -4,9 +4,20 @@ description: Join a continuous international 24/7 online Alcoholics Anonymous me
 
 # 24 Hour International Marathon Meeting Online — 24/7 Online A.A. Meeting
 
+Join a live 24/7 Online A.A. Meeting on Zoom. This is an open international Alcoholics Anonymous meeting with a new session every hour. Join now with Zoom Meeting ID **292 371 2604**. No password required.
+
 <a id="join-meeting" class="join-button home-join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join this 24/7 online A.A. meeting NOW</a>
 
-Join a live 24/7 Online A.A. Meeting on Zoom. This is an open international Alcoholics Anonymous meeting with a new session every hour. Join now with Zoom Meeting ID **292 371 2604**. No password required.
+<nav class="home-section-index" aria-label="On this page">
+  <strong>On this page</strong>
+  <a href="#quick-answers-about-this-247-online-aa-meeting">Quick answers</a>
+  <a href="#what-to-expect-when-you-join-this-24-hour-aa-meeting-on-zoom">What to expect</a>
+  <a href="#are-you-new-to-alcoholics-anonymous">New to A.A.</a>
+  <a href="#find-aa-near-you">Find A.A.</a>
+  <a href="#do-you-have-a-drinking-problem">Drinking problem</a>
+  <a href="#crisis-and-mental-health-resources">Crisis resources</a>
+  <a href="#recovery-resources">Recovery resources</a>
+</nav>
 
 ## Where Sobriety Never Sleeps
 
@@ -31,8 +42,6 @@ Join a live 24/7 Online A.A. Meeting on Zoom. This is an open international Alco
 </div>
 </section>
 
-<a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join this 24/7 online A.A. meeting NOW</a>
-
 ### Quick Answers About this 24/7 Online A.A. Meeting
 
 <a class="explore-button" href="quick-answers/">Read Quick Answers</a>
@@ -50,8 +59,6 @@ New to A.A.? Start with our <a href="aa-primary-purpose/">Primary Purpose</a> an
 ![Global A.A. fellowship image](images/GlobeAA.jpg)
 
 *This 24/7 online AA meeting is an open Alcoholics Anonymous meeting for anyone seeking recovery support. Everyone is welcome to listen, and we ask that only alcoholics or those with a desire to stop drinking share.*
-
-<a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join this 24/7 online A.A. meeting NOW</a>
 
 ## Welcome to Online Recovery
 
@@ -240,8 +247,6 @@ Need quick answers before joining? Visit our dedicated FAQ page for common quest
 Related: <a href="quick-answers/">Quick Answers</a> | <a href="what-to-expect-when-you-join/">What to Expect</a>
 
 To join right away, use the Zoom ID **292 371 2604** or click the button below:
-
-<a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join this 24/7 online A.A. meeting NOW</a>
 
 ![DoorAA image](images/DoorAA.png)
 
