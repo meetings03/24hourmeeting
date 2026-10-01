@@ -43,7 +43,7 @@ New to A.A.? Start with our <a href="aa-primary-purpose/">Primary Purpose</a> an
 
 *The 24-Hour International Marathon Meeting of A.A. is a continuous, 24/7 online Alcoholics Anonymous meeting open to anyone seeking support. A new AA meeting with a fresh recovery topic begins every hour, making it easy for newcomers to find an online AA meeting anytime—day or night.*
 
-## What to Expect When You Join This 24 Hour Zoom A.A. Meeting
+## What to Expect When You Join This 24 Hour A.A. Meeting on Zoom
 
 <a class="explore-button" href="what-to-expect-when-you-join/">Learn What to Expect</a>
 
@@ -279,7 +279,7 @@ Read: <a href="aa-primary-purpose/">A.A.'s Primary Purpose</a> and <a href="aas-
 
 Our Twelfth Step—carrying the message—is the basic service that the A.A. Fellowship gives; this is our principal aim and the main reason for our existence. Therefore, A.A. is more than a set of principles; it is a society of alcoholics in action. We must carry the message, else we ourselves can wither and those who have not been given the truth may die.
 
-<a class="explore-button" href="aa-primary-purpose/">Learn About A.A.'s Primary Purpose</a>
+<a class="explore-button" href="aa-primary-purpose/">Read About A.A.'s Primary Purpose</a>
 
 Connection: <a href="aas-three-legacies/">A.A.'s Three Legacies</a> provide the framework for the primary purpose of carrying the A.A. message of hope and recovery to the alcoholic who still suffers.
 
