@@ -5,7 +5,7 @@ description: Read A.A. information about drugs, membership, and how the Twelve S
 # Questions and Answers Regarding Drugs and A.A. Membership
 
 <div class="tradition-image-row">
-  <img src="../images/Problems_Other_Than_Alcohol.png" alt="Problems Other Than Alcohol pamphlet cover" />
+  <img src="../images/Problems_Other_Than_Alcohol.webp" alt="Problems Other Than Alcohol pamphlet cover" />
 </div>
 
 <a class="explore-button" href="/pdfs/Problems_Other_Than_Alcohol.pdf" target="_blank" rel="noopener">Read Problems Other Than Alcohol as a PDF</a>

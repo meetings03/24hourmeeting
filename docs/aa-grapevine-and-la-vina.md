@@ -7,7 +7,7 @@ description: Explore A.A. Grapevine and La Vina, the international journal of Al
 A.A. Grapevine and La Vi&ntilde;a are the international magazines of Alcoholics Anonymous. They share the experience, strength, and hope of A.A. members around the world.
 
 <div class="tradition-image-row">
-	<img class="publication-logo" src="/images/Grapevine.png" alt="A.A. Grapevine magazine logo, the international journal of Alcoholics Anonymous" title="A.A. Grapevine magazine logo, the international journal of Alcoholics Anonymous" />
+	<img class="publication-logo" src="/images/Grapevine.webp" alt="A.A. Grapevine magazine logo, the international journal of Alcoholics Anonymous" title="A.A. Grapevine magazine logo, the international journal of Alcoholics Anonymous" />
 </div>
 
 ## A.A. Grapevine: The International Journal of Alcoholics Anonymous
@@ -47,7 +47,7 @@ The Grapevine was in fact appealing to "alcoholics everywhere" and in 1945, at t
 Later issues of the Grapevine reported on important developments in the growth of the Fellowship worldwide, such as the birth of the General Service Structure, World Service Meetings, and the publication of the Third and Fourth editions of the Big Book. The history of the Grapevine is the history of the growth of Alcoholics Anonymous. In 1986, the General Service Conference reaffirmed the magazine's place in A.A. with an advisory action that recognized it as the international journal of Alcoholics Anonymous.
 
 <div class="tradition-image-row">
-	<img class="publication-logo" src="/images/LaVina.png" alt="La Viña magazine logo, the Spanish-language journal of Alcoholics Anonymous" title="La Viña magazine logo, the Spanish-language journal of Alcoholics Anonymous" />
+	<img class="publication-logo" src="/images/LaVina.webp" alt="La Viña magazine logo, the Spanish-language journal of Alcoholics Anonymous" title="La Viña magazine logo, the Spanish-language journal of Alcoholics Anonymous" loading="lazy" decoding="async" />
 </div>
 
 ## La Vi&ntilde;a

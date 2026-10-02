@@ -21,5 +21,5 @@ The spark that was to flare into the first A.A. group was struck at Akron, Ohio,
 <a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join this 24/7 online A.A. meeting NOW</a>
 
 <div class="tradition-image-row">
-	<img src="/images/TalkingWalls.png" alt="Talking Walls illustration about sharing experience, strength, and hope in Alcoholics Anonymous" title="Talking Walls illustration about sharing experience, strength, and hope in Alcoholics Anonymous" />
+	<img src="/images/TalkingWalls.webp" alt="Talking Walls illustration about sharing experience, strength, and hope in Alcoholics Anonymous" title="Talking Walls illustration about sharing experience, strength, and hope in Alcoholics Anonymous" loading="lazy" decoding="async" />
 </div>

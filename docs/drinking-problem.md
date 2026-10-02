@@ -22,7 +22,7 @@ A yes answer does not provide a diagnosis. It may be useful to discuss concerns 
 Source: [Johns Hopkins University Hospital](https://www.hopkinsmedicine.org)
 
 <div class="tradition-image-row">
-  <img src="/images/step_one.png" alt="Step One of Alcoholics Anonymous: We admitted we were powerless over alcohol" title="Step One of Alcoholics Anonymous: We admitted we were powerless over alcohol" />
+  <img src="/images/step_one.webp" alt="Step One of Alcoholics Anonymous: We admitted we were powerless over alcohol" title="Step One of Alcoholics Anonymous: We admitted we were powerless over alcohol" />
   <div class="image-caption">Alcoholics are women and men who have lost the ability to control their drinking. Recovery begins when we concede to our innermost selves that we are alcoholics.</div>
 </div>
 
@@ -31,7 +31,7 @@ Source: [Johns Hopkins University Hospital](https://www.hopkinsmedicine.org)
 The book *Alcoholics Anonymous* (the Big Book) says that alcoholics are men and women who have lost the ability to control their drinking. A.A. does not pronounce anyone as being an alcoholic. The following passage from page 44 of the Big Book states: "In the preceding chapters you have learned something of alcoholism. We hope we have made clear the distinction between the alcoholic and the non-alcoholic. If, when you honestly want to, you find you cannot quit entirely, or if when drinking, you have little control over the amount you take, you are probably alcoholic. If that be the case, you may be suffering from an illness which only a spiritual experience will conquer."
 
 <div class="tradition-image-row">
-  <img class="content-image--three-fifths" src="/images/First_Edition.jpeg" alt="First edition of Alcoholics Anonymous" />
+  <img class="content-image--three-fifths" src="/images/First_Edition.webp" alt="First edition of Alcoholics Anonymous" loading="lazy" decoding="async" />
 </div>
 
 *First edition of the Big Book of Alcoholics Anonymous, published in April 1939. This is our basic text, which explains the nature of alcoholism and A.A.'s program of recovery—the Twelve Steps.*

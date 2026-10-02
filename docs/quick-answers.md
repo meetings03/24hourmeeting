@@ -11,5 +11,5 @@ description: Get quick answers about joining the 24/7 online A.A. meeting, Zoom 
 - **Who operates this website?** The Friends of 24/7 Recovery developed and maintain this website. We cooperate and network with Code for Recovery, a nonprofit organization that develops open-source technology projects to help the recovery community come together, get organized, and recover from alcoholism and addiction: [https://code4recovery.org](https://code4recovery.org). The Friends of 24/7 Recovery also networks with [Flying Sober 24-7](https://flying-sober.com/24-7-meetings) and [A.A. Directory.com](https://theaadirectory.com).
 
 <div class="tradition-image-row">
-  <img src="/images/Help_247.jpg" alt="Help 24/7 online Alcoholics Anonymous meeting logo" title="Help 24/7 online Alcoholics Anonymous meeting logo" />
+  <img src="/images/Help_247.webp" alt="Help 24/7 online Alcoholics Anonymous meeting logo" title="Help 24/7 online Alcoholics Anonymous meeting logo" />
 </div>
