@@ -6,7 +6,7 @@ description: Learn what happens when you join this open 24/7 online A.A. meeting
 
 The 24 Hour International Marathon Meeting of A.A. is an open meeting that runs continuously 24/7. A new meeting with a fresh A.A. topic begins at the top of each hour. If you would like to share, raise your virtual hand. The chairperson calls on hands in the order they are raised.
 
-The booklet "Living Sober" has many practical suggestions for gaining and maintaining sobriety. Regarding A.A. meetings it says:
+The booklet ["Living Sober"](aa-literature.md) has many practical suggestions for gaining and maintaining sobriety. Regarding A.A. meetings it says:
 
 > Like practically everyone else who has gone to an A.A. meeting, you'll probably be very surprised the first time. The people you see around you look mostly normal, healthy, reasonably happy, and successful. They do not look like old-fashioned cartoon drunkards, bums, or fanatic dried-up teetotalers.
 >
@@ -15,3 +15,9 @@ The booklet "Living Sober" has many practical suggestions for gaining and mainta
 <div class="tradition-image-row">
   <img class="meeting-circle-image" src="/images/Meeting_Circle.webp" alt="A.A. meeting circle with members gathering in recovery and fellowship" title="A.A. meeting circle with members gathering in recovery and fellowship" />
 </div>
+
+## Related Pages
+
+- [New to A.A.? Start Here](new-to-aa-start-here.md) — a gentle first step if this is your first meeting
+- [Quick Answers](quick-answers.md) — short answers to common questions about joining
+- [Frequently Asked Questions](faq.md) — more detail on anonymity, sharing, and the meeting format

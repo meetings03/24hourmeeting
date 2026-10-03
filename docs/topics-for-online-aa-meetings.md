@@ -41,3 +41,9 @@ description: Browse thoughtful topics for sharing, discussion, and reflection in
 	<li>Helping the newcomer</li>
 	<li>Responsibility Declaration</li>
 </ul>
+
+## Related Pages
+
+- [A.A.'s Primary Purpose](aa-primary-purpose.md) — the message every topic serves
+- [A.A.'s Three Legacies](aas-three-legacies.md) — Recovery, Unity, and Service as meeting topics
+- [Sponsorship](sponsorship.md) — a popular topic; learn what a sponsor does

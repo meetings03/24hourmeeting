@@ -22,3 +22,9 @@ The problem of drug addiction in its several forms lies close to us all. It stir
 | Can a pill or drug taker, who has a genuine alcoholic history, become a member of A.A.? | Yes |
 
 A.A. is for those who have a desire to stop drinking. We welcome those who are seeking help, but the Fellowship's membership remains rooted in the alcoholic who wants recovery from alcohol.
+
+## Related Pages
+
+- [Do You Have a Drinking Problem?](drinking-problem.md) — questions to help someone consider their drinking
+- [Recovery Resources](recovery-resources.md) — non-A.A. treatment and recovery organizations, including other 12-step fellowships
+- [A.A. Literature](aa-literature.md) — more Conference-approved pamphlets

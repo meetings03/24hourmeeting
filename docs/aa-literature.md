@@ -17,8 +17,8 @@ Alcoholics Anonymous General Service Conference-approved literature is available
 
 ## Pamphlets
 
-- "Questions and Answers on Sponsorship"
-- "Problems Other Than Alcohol"
+- ["Questions and Answers on Sponsorship"](sponsorship.md)
+- ["Problems Other Than Alcohol"](problems-other-than-alcohol.md)
 - "The A.A. Group"
 - "A.A. Tradition: How It Developed"
 - "The Twelve Traditions Illustrated"
@@ -29,4 +29,9 @@ Alcoholics Anonymous General Service Conference-approved literature is available
 - "Do You Think You're Different?"
 - "Women in A.A."
 - "Young People in A.A."
+
+## Related Pages
+
+- [A.A. Grapevine and La Viña](aa-grapevine-and-la-vina.md) — the international journals of Alcoholics Anonymous
+- [A.A.'s Primary Purpose](aa-primary-purpose.md) — the purpose the literature carries forward
 

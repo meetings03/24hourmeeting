@@ -13,3 +13,9 @@ description: Get quick answers about joining the 24/7 online A.A. meeting, Zoom 
 <div class="tradition-image-row">
   <img src="/images/Help_247.webp" alt="Help 24/7 online Alcoholics Anonymous meeting logo" title="Help 24/7 online Alcoholics Anonymous meeting logo" />
 </div>
+
+## Related Pages
+
+- [What to Expect When You Join](what-to-expect-when-you-join.md) — a step-by-step walkthrough of your first meeting
+- [Frequently Asked Questions](faq.md) — more detail on attendance, anonymity, and participation
+- [New to A.A.? Start Here](new-to-aa-start-here.md) — guidance for your first days in the Fellowship

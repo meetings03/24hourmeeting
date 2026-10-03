@@ -148,7 +148,7 @@ The long form of A.A.'s Third Tradition states: "Our membership ought to include
 
 ## How can I contact the 24-hour International Marathon Meeting of A.A.?
 
-You can email the group at the24hourmeeting@gmail.com.
+You can email the group at the24hourmeeting@gmail.com, or see [Contact This 24/7 Online A.A. Meeting](contact-this-24-7-online-aa-meeting.md) for all the ways to reach us.
 
 <div class="tradition-image-row">
   <img src="/images/better-map-projection.webp" alt="A map projection illustration showing how A.A. meetings connect around the world" title="A map projection illustration showing how A.A. meetings connect around the world" loading="lazy" decoding="async" />
@@ -157,3 +157,8 @@ You can email the group at the24hourmeeting@gmail.com.
 ## Recovery Resources
 
 [Explore Substance Abuse and Drug Rehabilitation Treatment Resources](recovery-resources.md)
+
+## Related Pages
+
+- [Quick Answers](quick-answers.md) — short answers to the most common questions
+- [What to Expect When You Join](what-to-expect-when-you-join.md) — a walkthrough of your first meeting

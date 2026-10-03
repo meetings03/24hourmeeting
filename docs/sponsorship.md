@@ -25,7 +25,7 @@ description: Learn what A.A. sponsorship is, how a sponsor supports recovery, an
 <article class="legacy-vignette">
 <h3>Sponsorship Within A.A.'s Three Legacies</h3>
 
-<p>The Three Legacies of Alcoholics Anonymous grew out of the individual and collective experience of A.A.'s early members as they struggled to gain, maintain and pass along the hard-won lessons of sobriety to other alcoholics. For these once-hopeless drinkers, the principles and the program of Alcoholics Anonymous provided the firm foundation for a new life based on the Twelve Steps, the Twelve Traditions and the Twelve Concepts. These principles continue to be vital foundations for countless alcoholics all over the world and in many languages. The Legacies of Recovery, Unity and Service — represented in the Steps, Traditions and Concepts — are interconnected and interdependent.</p>
+<p>The [Three Legacies](aas-three-legacies.md) of Alcoholics Anonymous grew out of the individual and collective experience of A.A.'s early members as they struggled to gain, maintain and pass along the hard-won lessons of sobriety to other alcoholics. For these once-hopeless drinkers, the principles and the program of Alcoholics Anonymous provided the firm foundation for a new life based on the Twelve Steps, the Twelve Traditions and the Twelve Concepts. These principles continue to be vital foundations for countless alcoholics all over the world and in many languages. The Legacies of Recovery, Unity and Service — represented in the Steps, Traditions and Concepts — are interconnected and interdependent.</p>
 
 <p>In meetings around the world, the metaphor of A.A. as a three-legged stool supported by the Three Legacies is often used. Remove one leg and the stool tips over. Without Recovery, as found in A.A.'s Twelve Steps, there would be no need for Unity. Without Unity, as supported by A.A.'s Twelve Traditions, groups would not survive, and there would be no need for Service. Without Service, as represented in A.A.'s Twelve Concepts, there would be no one available to carry the message, leaving Recovery unattainable to suffering alcoholics.</p>
 
@@ -48,3 +48,9 @@ description: Learn what A.A. sponsorship is, how a sponsor supports recovery, an
 <p>With the growth of the Conference and the ongoing evolution of A.A., in 1962 Bill put forward the Twelve Concepts for World Service, a set of principles bringing form and clarity to A.A.'s world service structure. As noted in their introduction, "These Concepts ... aim to record the 'why' of our service structure in such a fashion that the highly valuable experience of the past, and the lessons we have drawn from that experience, can never be forgotten or lost."</p>
 <p>Bill summed it up this way in The Language of the Heart: "By our Twelve Steps we have recovered, by our Twelve Traditions we have unified, and through A.A.'s Third Legacy — Service — we shall carry the A.A. message down through all the corridors of time to come."</p>
 </article>
+
+## Related Pages
+
+- [New to A.A.? Start Here](new-to-aa-start-here.md) — how newcomers can begin, at their own pace
+- [A.A.'s Three Legacies](aas-three-legacies.md) — Recovery, Unity, and Service
+- [A.A. Literature](aa-literature.md) — Conference-approved books and pamphlets, including "Questions and Answers on Sponsorship"

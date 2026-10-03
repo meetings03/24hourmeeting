@@ -17,7 +17,7 @@ The Three Legacies of Alcoholics Anonymous are Recovery, Unity, and Service. By 
   <div class="image-caption">Alcoholics Anonymous: The story of how many thousands of men and women have recovered from alcoholism.</div>
 </div>
 
-A.A.'s program of recovery is presented in The Big Book of Alcoholics Anonymous, which describes the grave and progressive nature of alcoholism, and explains how to recover with the Twelve Steps. A.A.'s experience has taught us that the Steps are best taken with a sponsor.
+A.A.'s program of recovery is presented in The Big Book of Alcoholics Anonymous, which describes the grave and progressive nature of alcoholism, and explains how to recover with the Twelve Steps. A.A.'s experience has taught us that the Steps are best taken with a [sponsor](sponsorship.md).
 
 ### The Twelve Steps
 
@@ -136,3 +136,9 @@ All rights reserved
 </div>
 
 <a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join this 24/7 online A.A. meeting NOW</a>
+
+## Related Pages
+
+- [A.A.'s Primary Purpose](aa-primary-purpose.md) — why carrying the message is the group's principal aim
+- [Sponsorship](sponsorship.md) — how a sponsor helps newcomers work the Twelve Steps
+- [A.A. Literature](aa-literature.md) — the books and pamphlets referenced on this page
