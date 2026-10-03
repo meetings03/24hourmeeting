@@ -54,16 +54,16 @@ Alcoholics Anonymous is not affiliated with any outside enterprise. Inclusion of
 
 ## International University Programs in Drug and Alcohol Counselling
 
-- **University of Auckland**: [https://www.auckland.ac.nz](https://www.auckland.ac.nz)
-- **University of Southern Queensland**: [https://www.unisq.edu.au](https://www.unisq.edu.au)
-- **Adelaide University**: [https://adelaide.edu.au](https://adelaide.edu.au)
-- **London South Bank University**: [https://lsbu.ac.uk](https://lsbu.ac.uk)
-- **University of the West of Scotland**: [https://uws.ac.uk](https://uws.ac.uk)
-- **Queen's University Belfast**: [https://qub.ac.uk](https://qub.ac.uk)
-- **Hazelden Betty Ford Graduate School**: [https://hazeldenbettyford.org](https://hazeldenbettyford.org)
-- **University of Minnesota Twin Cities**: [https://umn.edu](https://umn.edu)
-- **Virginia Commonwealth University**: [https://vcu.edu](https://vcu.edu)
-- **Rutgers University**: [https://rutgers.edu](https://rutgers.edu)
+- **University of Auckland**: Offers a Postgraduate Certificate and Diploma in Health Sciences specialising in alcohol and drug studies through its School of Population Health. Programmes blend clinical practice with the latest addiction research and are available for flexible distance learning. [https://www.auckland.ac.nz](https://www.auckland.ac.nz)
+- **University of Southern Queensland**: Offers a Graduate Certificate and Graduate Diploma of Counselling with specialisations including alcohol and other drugs practice. Programmes are designed for both aspiring and practising counsellors and are delivered online. [https://www.unisq.edu.au](https://www.unisq.edu.au/)
+- **Adelaide University**: Provides health science and public health programmes with addiction studies content, drawing on South Australia's strong clinical training networks. Courses prepare graduates for roles in drug and alcohol treatment and prevention services. [https://adelaide.edu.au](https://adelaide.edu.au/)
+- **London South Bank University**: Offers BSc and MSc programmes in addiction psychology and counselling, combining evidence-based treatment approaches with placement experience. Its Institute for Social Justice and Crime supports applied research in substance use. [https://lsbu.ac.uk](https://lsbu.ac.uk/)
+- **University of the West of Scotland**: Offers a BSc (Hons) in Alcohol and Drug Studies, one of the UK's few dedicated undergraduate degrees in the field. The programme is available online and prepares students for front-line roles in addiction services. [https://uws.ac.uk](https://uws.ac.uk/)
+- **Queen's University Belfast**: Provides postgraduate training in clinical psychology and public health with substance use and addiction components. The university's research centres contribute to addiction policy and treatment development across Ireland and the UK. [https://qub.ac.uk](https://qub.ac.uk/)
+- **Hazelden Betty Ford Graduate School**: The dedicated graduate school of the Hazelden Betty Ford Foundation, offering master's degrees in addiction counselling and co-occurring disorders recovery. Programmes are grounded in direct clinical experience within one of the world's leading treatment organisations. [https://hazeldenbettyford.org](https://hazeldenbettyford.org/)
+- **University of Minnesota Twin Cities**: Offers addiction counselling and co-occurring disorders programmes through its College of Education and Human Development, along with addiction medicine research. Its long-standing connection to the Minnesota Model of treatment informs its clinical training. [https://umn.edu](https://umn.edu/)
+- **Virginia Commonwealth University**: Home to the Institute for Drug and Alcohol Studies, offering graduate certificates and degrees in addiction studies. Programmes emphasise evidence-based treatment, prevention science, and harm reduction. [https://vcu.edu](https://vcu.edu/)
+- **Rutgers University**: Its Center of Alcohol and Substance Use Studies, founded in 1943, is one of the oldest addiction research centres in the United States. Rutgers offers graduate training and continuing education in substance use counselling and research. [https://rutgers.edu](https://rutgers.edu/)
 
 <div class="tradition-image-row">
   <img src="/images/New_Zealand.webp" alt="New Zealand scene representing the origins of the 24/7 International Marathon Meeting of A.A." title="New Zealand scene representing the origins of the 24/7 International Marathon Meeting of A.A." loading="lazy" decoding="async" />
