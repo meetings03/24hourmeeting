@@ -303,11 +303,10 @@ body {
 .help-vignette {
   margin: 2rem 0;
   padding: 1rem 1.5rem 0.5rem;
-  border: 1px solid #f0c9c1;
-  border-left: 6px solid #d9573f;
+  border: 3px solid #d9573f;
   border-radius: 8px;
   background: linear-gradient(135deg, #fff2f7 0%, #fffafd 78%);
-  box-shadow: 0 8px 22px rgba(155, 50, 31, 0.1);
+  box-shadow: 0 8px 22px rgba(155, 50, 31, 0.25);
   text-align: center;
 }
 
