@@ -44,6 +44,14 @@ Join a live 24/7 Online A.A. Meeting on Zoom. This is an open international Alco
 </div>
 </section>
 
+## Are You New to Alcoholics Anonymous?
+
+![A Newcomer Asks pamphlet](images/NewcomerAsks.webp){ loading=lazy decoding=async }
+
+<a class="explore-button" href="https://www.aa.org/newcomer-asks" target="_blank" rel="noopener">Read the pamphlet &quot;A Newcomer Asks&quot; from A.A. World Services</a>
+
+![Talking Walls](images/TalkingWalls.webp){ loading=lazy decoding=async }
+
 ### Quick Answers About this 24/7 Online A.A. Meeting
 
 <a class="explore-button" href="quick-answers/">Read Quick Answers</a>
@@ -115,14 +123,6 @@ Alcoholics Anonymous is a fellowship of people who share their experience, stren
 10. Alcoholics Anonymous has no opinion on outside issues; hence the A.A. name ought never be drawn into public controversy.
 11. Our public relations policy is based on attraction rather than promotion; we need always maintain personal anonymity at the level of press, radio, and films.
 12. Anonymity is the spiritual foundation of all our Traditions, ever reminding us to place principles before personalities.
-
-## Are You New to Alcoholics Anonymous?
-
-![A Newcomer Asks pamphlet](images/NewcomerAsks.webp){ loading=lazy decoding=async }
-
-<a class="explore-button" href="https://www.aa.org/newcomer-asks" target="_blank" rel="noopener">Read the pamphlet &quot;A Newcomer Asks&quot; from A.A. World Services</a>
-
-![Talking Walls](images/TalkingWalls.webp){ loading=lazy decoding=async }
 
 ## Find A.A. Near You
 
