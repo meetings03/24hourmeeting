@@ -270,14 +270,6 @@ Complement with: <a href="crisis-resources/">Crisis and Mental Health Resources<
 
 *The church directory in the lobby of the Mayflower Hotel in Akron, Ohio that led Bill W. to Dr. Bob. The two men went on to co-found Alcoholics Anonymous.*
 
-## Topics for Online A.A. Meetings
-
-The link below leads to possible topics for A.A. meetings. Other topics can be found in the pamphlet "The A.A. Group" and the book "As Bill Sees It." These titles, and many others are available at [www.aa.org](https://www.aa.org).
-
-<a class="explore-button" href="topics-for-online-aa-meetings/">View Meeting Topics and Discussion Ideas</a>
-
-Read: <a href="aa-primary-purpose/">A.A.'s Primary Purpose</a> and <a href="aas-three-legacies/">Three Legacies</a> to ground your discussions.
-
 ![Coffee pot used by early Alcoholics Anonymous pioneers in Akron, Ohio](images/Coffee_Pot.webp){ loading=lazy decoding=async }
 
 *Alcoholics Anonymous began in Akron, Ohio, in June 1935, when Bill W., a New York stockbroker, met Dr. Bob, an Akron physician. Early A.A. pioneers gathered in Dr. Bob's house and drank from this coffee pot, as they shared their experience, strength and hope.*
