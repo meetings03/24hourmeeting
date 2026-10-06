@@ -68,7 +68,7 @@ New to A.A.? Start with our <a href="aa-primary-purpose/">Primary Purpose</a> an
 
 ![Global A.A. fellowship image](images/GlobeAA.webp){ loading=lazy decoding=async }
 
-*This 24/7 online AA meeting is an open Alcoholics Anonymous meeting for anyone seeking recovery support. Everyone is welcome to listen, and we ask that only alcoholics or those with a desire to stop drinking share.*
+*This 24/7 online AA meeting is an open Alcoholics Anonymous meeting.  Everyone is welcome to listen, and we ask that only alcoholics or those with a desire to stop drinking share.*
 
 ## Welcome to Online Recovery
 
