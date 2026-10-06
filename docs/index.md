@@ -50,6 +50,8 @@ Join a live 24/7 Online A.A. Meeting on Zoom. This is an open international Alco
 
 <a class="explore-button" href="https://www.aa.org/newcomer-asks" target="_blank" rel="noopener">Read the pamphlet &quot;A Newcomer Asks&quot; from A.A. World Services</a>
 
+<p><em>Alcoholics Anonymous is a fellowship of people who come together to solve their drinking problem. It doesn’t cost anything to attend A.A. meetings. There are no age or education requirements to participate. Membership is open to anyone who wants to do something about their drinking problem. A.A.’s primary purpose is to help alcoholics to achieve sobriety.</em></p>
+
 ![Talking Walls](images/TalkingWalls.webp){ loading=lazy decoding=async }
 
 ### Quick Answers About This 24/7 Online A.A. Meeting
