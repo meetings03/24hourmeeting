@@ -340,6 +340,8 @@ The problem of drug addiction in its several forms lies close to us all. It stir
 
 Explore: <a href="aa-literature/">A.A. Literature</a> | <a href="topics-for-online-aa-meetings/">Meeting Topics</a>
 
+![German Alcoholics Anonymous](German.png){ loading=lazy decoding=async }
+
 ## About This Meeting
 
 The link below provides relevant information concerning the 24-Hour International Marathon Meeting of A.A. (where sobriety never sleeps).
