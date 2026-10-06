@@ -5,14 +5,14 @@ description: New to Alcoholics Anonymous? Learn what to expect, how to join the 
 # New to A.A.? Start Here
 
 <div class="tradition-image-row">
-  <img src="images/NewcomerAsks.webp" alt="A Newcomer Asks pamphlet cover, A.A. General Service Conference-approved literature for new members" title="A Newcomer Asks pamphlet cover, A.A. General Service Conference-approved literature for new members" />
+  <img src="../images/NewcomerAsks.webp" alt="A Newcomer Asks pamphlet cover, A.A. General Service Conference-approved literature for new members" title="A Newcomer Asks pamphlet cover, A.A. General Service Conference-approved literature for new members" />
 </div>
 
 If you think you might have a drinking problem and you're not sure what Alcoholics Anonymous is or how it works, you're in the right place. This page is a starting point for newcomers — a few honest answers and a way to join a meeting right now, any hour of the day or night.
 
 ## Am I an Alcoholic?
 
-Only you can answer that question. Many people who came to A.A. asked themselves the same thing before they ever walked into a meeting. If you'd like a simple, low-pressure way to think it through, see our <a href="drinking-problem/">Do You Have a Drinking Problem?</a> page.
+Only you can answer that question. Many people who came to A.A. asked themselves the same thing before they ever walked into a meeting. If you'd like a simple, low-pressure way to think it through, see our [Do You Have a Drinking Problem?](drinking-problem.md) page.
 
 ## What Is A.A.?
 
@@ -26,22 +26,22 @@ The A.A. General Service Office pamphlet *"A Newcomer Asks"* answers the questio
 
 ## Join a Meeting Right Now
 
-You don't need to wait, sign up, or prepare anything. The 24 Hour International Marathon Meeting of A.A. is running right now, and there's a new session every hour, every day of the year.
+You don't need to wait, sign up, or prepare anything. The 24-Hour International Marathon Meeting of A.A. is running right now, and there's a new session every hour, every day of the year.
 
 <a id="join-meeting" class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join this 24/7 online A.A. meeting NOW</a>
 
 ## What Happens Next
 
-Not sure what to expect once you join? Our <a href="what-to-expect-when-you-join/">What to Expect When You Join</a> page walks through it step by step, including how sharing works and what "raising your virtual hand" means.
+Not sure what to expect once you join? Our [What to Expect When You Join](what-to-expect-when-you-join.md) page walks through it step by step, including how sharing works and what "raising your virtual hand" means.
 
 ## Keep Reading
 
 <ul>
-  <li><a href="quick-answers/">Quick Answers</a> — short answers to the most common newcomer questions</li>
-  <li><a href="faq/">Frequently Asked Questions</a> — more detail on attendance, safety, and anonymity</li>
-  <li><a href="aa-primary-purpose/">A.A.'s Primary Purpose</a> — why this Fellowship exists</li>
-  <li><a href="aas-three-legacies/">A.A.'s Three Legacies</a> — Recovery, Unity, and Service</li>
-  <li><a href="aa-literature/">A.A. Literature</a> — more Conference-approved reading</li>
+  <li><a href="../quick-answers/">Quick Answers</a> — short answers to the most common newcomer questions</li>
+  <li><a href="../faq/">Frequently Asked Questions</a> — more detail on attendance, safety, and anonymity</li>
+  <li><a href="../aa-primary-purpose/">A.A.'s Primary Purpose</a> — why this Fellowship exists</li>
+  <li><a href="../aas-three-legacies/">A.A.'s Three Legacies</a> — Recovery, Unity, and Service</li>
+  <li><a href="../aa-literature/">A.A. Literature</a> — more Conference-approved reading</li>
 </ul>
 
 <div class="centered-note">If you are in immediate danger or facing an emergency, contact emergency services. In the U.S. call 911.</div>

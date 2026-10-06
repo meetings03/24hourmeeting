@@ -32,11 +32,11 @@ Raise your virtual hand if you would like to share with us. We call on hands in 
 
 ## What Newcomers Can Expect
 
-A new meeting with a fresh A.A. topic begins at the top of each hour. Newcomers and long timers share their experience, strength, and hope for five minutes. Speakers are given a gentle reminder when there is one minute remaining. Participants are from around the world.
+A new meeting with a fresh A.A. topic begins at the top of each hour. Newcomers and long-timers share their experience, strength, and hope for five minutes. Speakers are given a gentle reminder when there is one minute remaining. Participants are from around the world.
 
 ## Primary Purpose of the Meeting
 
-The 24-Hour International Marathon Meeting of A.A. (where sobriety never sleeps) follows the Twelve Traditions of A.A. The Fifth Tradition states: "Each group has but one primary purpose; to carry its message to the alcoholic who still suffers." The meeting is not affiliated with any outside organizations and stresses anonymity and A.A.'s singleness of purpose.
+The 24-Hour International Marathon Meeting of A.A. (where sobriety never sleeps) follows the Twelve Traditions of A.A. The Fifth Tradition states: "Each group has but one primary purpose—to carry its message to the alcoholic who still suffers." The meeting is not affiliated with any outside organizations and stresses anonymity and A.A.'s singleness of purpose.
 
 ## History of the Meeting
 

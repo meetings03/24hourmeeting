@@ -1,5 +1,5 @@
 ---
-description: Explore A.A. Grapevine and La Vina, the international journal of Alcoholics Anonymous, along with its mission, history, and literature.
+description: Explore A.A. Grapevine and La Viña, the international magazines of Alcoholics Anonymous, along with their mission, history, and literature.
 ---
 
 # A.A. Grapevine and La Vi&ntilde;a

@@ -12,7 +12,7 @@ We are an open meeting of Alcoholics Anonymous. Anyone with a desire to stop dri
 
 ## Are members of the LGBTQ community welcome in this 24-hour A.A. meeting?
 
-Yes. All alcoholics are welcome in the 24 Hour International Marathon Meeting of A.A., regardless of their status, beliefs, lifestyle, or geographic location. Our Third Tradition states: "The only requirement for A.A. membership is a desire to stop drinking."
+Yes. All alcoholics are welcome in the 24-Hour International Marathon Meeting of A.A., regardless of their status, beliefs, lifestyle, or geographic location. Our Third Tradition states: "The only requirement for A.A. membership is a desire to stop drinking."
 
 <div class="tradition-image-row">
   <img src="/images/third_tradition.webp" alt="Third Tradition of Alcoholics Anonymous: the only requirement for membership is a desire to stop drinking" title="Third Tradition of Alcoholics Anonymous: the only requirement for membership is a desire to stop drinking" />
@@ -58,7 +58,7 @@ You are completely welcome to just listen. Raise your virtual hand when you feel
 
 ## Do I have to introduce myself as an alcoholic to participate on this 24/7 A.A. Zoom meeting?
 
-The 24 Hour International Marathon Meeting of A.A. is an open meeting of Alcoholics Anonymous. This means that everyone is welcome to listen. If you raise your virtual hand to share with us, we ask that you introduce yourself with your first name and let us know if you are an alcoholic or a person who has a desire to stop drinking.
+The 24-Hour International Marathon Meeting of A.A. is an open meeting of Alcoholics Anonymous. This means that everyone is welcome to listen. If you raise your virtual hand to share with us, we ask that you introduce yourself with your first name and let us know if you are an alcoholic or a person who has a desire to stop drinking.
 
 <div class="tradition-image-row">
   <img src="/images/Coffee_Pot.webp" alt="The coffee pot used by early Alcoholics Anonymous pioneers in Akron, Ohio" title="The coffee pot used by early Alcoholics Anonymous pioneers in Akron, Ohio" loading="lazy" decoding="async" />
@@ -92,7 +92,7 @@ Anonymity is the spiritual foundation of all A.A.'s Traditions. You can protect 
 
 ## What safety measures are in place for this online recovery meeting?
 
-The 24 Hour International Marathon Meeting of A.A. follows the online safety suggestions provided by A.A. World Services. See the "Safety Card for A.A. Groups," "A.A. Guidelines on Internet," and "Anonymity Online and Digital Media" available at https://www.aa.org.
+The 24-Hour International Marathon Meeting of A.A. follows the online safety suggestions provided by A.A. World Services. See the "Safety Card for A.A. Groups," "A.A. Guidelines on Internet," and "Anonymity Online and Digital Media" available at https://www.aa.org.
 
 <div class="tradition-image-row">
   <img src="/images/man_on_bed.jpg" alt="Alcoholics Anonymous member participating in an online recovery meeting from a bed" title="Alcoholics Anonymous member participating in an online recovery meeting from a bed" loading="lazy" decoding="async" />
@@ -106,7 +106,7 @@ The 24 Hour International Marathon Meeting of A.A. follows the online safety sug
 
 ## Can I have my attendance verified for court or probation on this 24/7 A.A. Zoom meeting?
 
-The 24 Hour International Marathon Meeting of A.A. does not provide attendance verification. However, attendance verification of online meetings is available on the [**NKC verification page**](https://newcomerskeepcoming.org/verification).
+The 24-Hour International Marathon Meeting of A.A. does not provide attendance verification. However, attendance verification of online meetings is available on the [**NKC verification page**](https://newcomerskeepcoming.org/verification).
 
 <div class="tradition-image-row">
   <img src="/images/Lead_By_Example.webp" alt="Lead by example illustration highlighting service and recovery in Alcoholics Anonymous" title="Lead by example illustration highlighting service and recovery in Alcoholics Anonymous" loading="lazy" decoding="async" />
@@ -130,7 +130,7 @@ No. This is an international online A.A. meeting with participants from around t
 
 ## Are there young people in this online recovery meeting?
 
-Yes. There are people of all ages on the 24 Hour International Marathon Meeting of A.A., which is an open meeting of Alcoholics Anonymous. The only requirement for membership in A.A. is a desire to stop drinking.
+Yes. There are people of all ages on the 24-Hour International Marathon Meeting of A.A., which is an open meeting of Alcoholics Anonymous. The only requirement for membership in A.A. is a desire to stop drinking.
 
 <div class="tradition-image-row">
   <img src="/images/seventh_tradition.webp" alt="Seventh Tradition of Alcoholics Anonymous: groups are self-supporting through member contributions" title="Seventh Tradition of Alcoholics Anonymous: groups are self-supporting through member contributions" loading="lazy" decoding="async" />

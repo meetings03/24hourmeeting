@@ -2,7 +2,7 @@
 description: Consider questions about drinking and learn how Alcoholics Anonymous can help people who have a desire to stop drinking.
 ---
 
-# Do you have a drinking problem?
+# Do You Have a Drinking Problem?
 
 These questions are intended to help someone think about whether drinking may be causing concern. Alcoholics Anonymous does not diagnose anyone or decide who is an alcoholic.
 
@@ -36,7 +36,7 @@ The book *Alcoholics Anonymous* (the Big Book) says that alcoholics are men and 
 
 *First edition of the Big Book of Alcoholics Anonymous, published in April 1939. This is our basic text, which explains the nature of alcoholism and A.A.'s program of recovery—the Twelve Steps.*
 
-## A.A.'s perspective
+## A.A.'s Perspective
 
 Alcoholics Anonymous does not label people. Each person decides whether the A.A. program may be helpful for them. Anyone who wants to stop drinking is welcome at an open A.A. meeting.
 

@@ -45,9 +45,9 @@ A.A.'s program of recovery is presented in The Big Book of Alcoholics Anonymous,
 
 Service Material from the General Service Office
 
-## THE TWELVE TRADITIONS OF ALCOHOLICS ANONYMOUS
+#### The Twelve Traditions of Alcoholics Anonymous
 
-### (LONG FORM)
+##### (Long Form)
 
 Our A.A. experience has taught us that:
 
@@ -67,7 +67,7 @@ Our A.A. experience has taught us that:
 
 8. Alcoholics Anonymous should remain forever non-professional. We define professionalism as the occupation of counseling alcoholics for fees or hire. But we may employ alcoholics where they are going to perform those services for which we may otherwise have to engage nonalcoholics. Such special services may be well recompensed. But our usual A.A. "12th Step" work is never to be paid for.
 
-9. Each A.A. group needs the least possible organization. Rotating leadership is the best. The small group may elect its secretary, the large group its rotating committee, and the groups of a large metropolitan area their central or intergroup committee, which often employs a full-time secretary. The trustees of the General Service Board are, in effect, our A.A. General Service Committee. They are the custodians of our A.A. Tradition and the receivers of voluntary A.A. contributions by which we maintain our A.A. General Service Office at New York. They are authorized by the groups to handle our over-all public relations and they guarantee the integrity of our principle newspaper, the A.A. Grapevine. All such representatives are to be guided in the spirit of service, for true leaders in A.A. are but trusted and experienced servants of the whole. They derive no real authority from their titles; they do not govern. Universal respect is the key to their usefulness.
+9. Each A.A. group needs the least possible organization. Rotating leadership is the best. The small group may elect its secretary, the large group its rotating committee, and the groups of a large metropolitan area their central or intergroup committee, which often employs a full-time secretary. The trustees of the General Service Board are, in effect, our A.A. General Service Committee. They are the custodians of our A.A. Tradition and the receivers of voluntary A.A. contributions by which we maintain our A.A. General Service Office at New York. They are authorized by the groups to handle our over-all public relations and they guarantee the integrity of our principal newspaper, the A.A. Grapevine. All such representatives are to be guided in the spirit of service, for true leaders in A.A. are but trusted and experienced servants of the whole. They derive no real authority from their titles; they do not govern. Universal respect is the key to their usefulness.
 
 10. No A.A. group or member should ever, in such a way as to implicate A.A., express any opinion on outside controversial issues—particularly those of politics, alcohol reform, or sectarian religion. The Alcoholics Anonymous groups oppose no one. Concerning such matters they can express no views whatever.
 
@@ -87,9 +87,9 @@ Rev. 10/21 SM F-187
   <img src="/images/Service_Manual.webp?v=1" alt="Alcoholics Anonymous service manual" loading="lazy" decoding="async" />
 </div>
 
-## THE TWELVE CONCEPTS FOR WORLD SERVICE
+### The Twelve Concepts for World Service
 
-### (SHORT FORM)
+#### (Short Form)
 
 A.A.'s Twelve Steps are principles for personal recovery. The Twelve Traditions ensure unity of the Fellowship. Written by co-founder Bill W. in 1962, the Twelve Concepts for World Service provide a group of related principles to help ensure that various elements of A.A.'s service structure remain responsive and responsible to those they serve. The "short form" of the Concepts, which follows, was approved by the 1971 General Service Conference.
 

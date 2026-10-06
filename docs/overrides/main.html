@@ -4,7 +4,7 @@
 {% set is_about_page = page and page.url == 'about-this-meeting/' %}
 {% set is_faq_page = page and page.url == 'faq/' %}
 {% set canonical_url = 'https://sobrietyneversleeps.org/' if is_home_page else 'https://sobrietyneversleeps.org/' ~ page.url %}
-{% set page_title = '24/7 Online AA Meeting | Join Live on Zoom' if is_home_page else ('About the 24/7 International Online AA Meeting | How It Works' if is_about_page else ('FAQ: 24/7 Online AA Meeting and Zoom Access' if is_faq_page else (page.title ~ ' | 24/7 Online AA Meeting' if page and page.title else '24/7 Online AA Meeting'))) %}
+{% set page_title = '24/7 Online A.A. Meeting | Join Live on Zoom' if is_home_page else ('About the 24/7 International Online A.A. Meeting | How It Works' if is_about_page else ('FAQ: 24/7 Online A.A. Meeting and Zoom Access' if is_faq_page else (page.title ~ ' | 24/7 Online A.A. Meeting' if page and page.title else '24/7 Online A.A. Meeting'))) %}
 {% set page_description = page.meta.description if page and page.meta and page.meta.description else config.site_description %}
 
 {% block htmltitle %}
@@ -37,7 +37,7 @@
   <meta property="og:image" content="https://sobrietyneversleeps.org/images/sobrietyneversleeps_Logo.jpg" />
   <meta property="og:image:width" content="1200" />
   <meta property="og:image:height" content="630" />
-  <meta property="og:image:alt" content="Sobriety Never Sleeps 24/7 Online AA Meeting Logo" />
+  <meta property="og:image:alt" content="Sobriety Never Sleeps 24/7 Online A.A. Meeting Logo" />
   <meta property="og:image:type" content="image/jpeg" />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="{{ page_title }}" />
@@ -45,8 +45,8 @@
   <meta name="twitter:image" content="https://sobrietyneversleeps.org/images/sobrietyneversleeps_Logo.jpg" />
   <link rel="alternate" hreflang="en" href="{{ canonical_url }}" />
   <link rel="alternate" hreflang="x-default" href="{{ canonical_url }}" />
-  <meta name="keywords" content="24/7 AA Zoom Meeting, International Online AA Zoom Meeting, Online AA Meeting, AA Zoom Meeting" />
-  <meta name="subject" content="24/7 AA Zoom Meeting" />
+  <meta name="keywords" content="24/7 A.A. Zoom Meeting, International Online A.A. Zoom Meeting, Online A.A. Meeting, A.A. Zoom Meeting" />
+  <meta name="subject" content="24/7 A.A. Zoom Meeting" />
   {% if is_about_page %}
   <script type="application/ld+json">
   {
@@ -55,7 +55,7 @@
       {
         "@id": "https://sobrietyneversleeps.org/#org",
         "@type": "Organization",
-        "name": "24-Hour International Marathon Meeting of AA",
+        "name": "24-Hour International Marathon Meeting of A.A.",
         "url": "https://sobrietyneversleeps.org/",
         "foundingDate": "2020-04-20",
         "logo": "https://sobrietyneversleeps.org/images/sobrietyneversleeps_Logo.jpg"
@@ -64,7 +64,7 @@
         "@id": "https://sobrietyneversleeps.org/about-this-meeting/#webpage",
         "@type": "AboutPage",
         "url": "https://sobrietyneversleeps.org/about-this-meeting/",
-        "name": "About the 24/7 International Online AA Meeting",
+        "name": "About the 24/7 International Online A.A. Meeting",
         "description": "{{ page_description }}",
         "isPartOf": {
           "@id": "https://sobrietyneversleeps.org/#website"
@@ -92,13 +92,13 @@
       {
         "@id": "https://sobrietyneversleeps.org/#faq-page",
         "@type": "FAQPage",
-        "name": "Frequently Asked Questions About This 24/7 Online AA Meeting",
+        "name": "Frequently Asked Questions About This 24/7 Online A.A. Meeting",
         "url": "https://sobrietyneversleeps.org/faq/",
-        "description": "Find answers to common questions about this 24/7 online AA meeting, Zoom access, anonymity, participation, and meeting format.",
+        "description": "Find answers to common questions about this 24/7 online A.A. meeting, Zoom access, anonymity, participation, and meeting format.",
         "mainEntity": [
           {
             "@type": "Question",
-            "name": "What is the Zoom ID for the 24/7 online AA meeting?",
+            "name": "What is the Zoom ID for the 24/7 online A.A. meeting?",
             "acceptedAnswer": {
               "@type": "Answer",
               "text": "The Zoom meeting ID is 292 371 2604. No password is required."
@@ -117,7 +117,7 @@
             "name": "Do I need to turn my camera on?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "No. Video is optional for this online AA meeting."
+              "text": "No. Video is optional for this online A.A. meeting."
             }
           },
           {
@@ -149,13 +149,13 @@
       {
         "@id": "https://sobrietyneversleeps.org/#org",
         "@type": "Organization",
-        "name": "24-Hour International Marathon Meeting of AA",
-        "alternateName": "24/7 online AA meeting on Zoom",
+        "name": "24-Hour International Marathon Meeting of A.A.",
+        "alternateName": "24/7 online A.A. meeting on Zoom",
         "url": "https://sobrietyneversleeps.org/",
         "foundingDate": "2020-04-20",
         "logo": "https://sobrietyneversleeps.org/images/sobrietyneversleeps_Logo.jpg",
         "email": "the24hourmeeting@gmail.com",
-        "description": "Join a 24/7 Online AA Meeting on Zoom. Open international Alcoholics Anonymous meeting every hour. Zoom ID 292 371 2604. No password required.",
+        "description": "Join a 24/7 Online A.A. Meeting on Zoom. Open international Alcoholics Anonymous meeting every hour. Zoom ID 292 371 2604. No password required.",
         "knowsAbout": [
           "Alcoholics Anonymous",
           "Twelve Steps",
@@ -182,8 +182,8 @@
         "@id": "https://sobrietyneversleeps.org/#website",
         "@type": "WebSite",
         "url": "https://sobrietyneversleeps.org/",
-        "name": "24 Hour International Marathon Meeting of AA",
-        "description": "Join a 24/7 Online AA Meeting on Zoom with open international fellowship and meetings every hour.",
+        "name": "24-Hour International Marathon Meeting of A.A.",
+        "description": "Join a 24/7 Online A.A. Meeting on Zoom with open international fellowship and meetings every hour.",
         "publisher": {
           "@id": "https://sobrietyneversleeps.org/#org"
         },
@@ -192,7 +192,7 @@
       {
         "@id": "https://sobrietyneversleeps.org/#meeting-service",
         "@type": "Service",
-        "name": "24/7 Online AA Meeting",
+        "name": "24/7 Online A.A. Meeting",
         "serviceType": "Online Alcoholics Anonymous meeting",
         "provider": {
           "@id": "https://sobrietyneversleeps.org/#org"
@@ -228,8 +228,8 @@
         "@id": "https://sobrietyneversleeps.org/#webpage",
         "@type": "WebPage",
         "url": "https://sobrietyneversleeps.org/",
-        "name": "24 Hour International Marathon Meeting of AA",
-        "description": "Join a 24/7 Online AA Meeting on Zoom. Open international Alcoholics Anonymous meeting every hour. Zoom ID 292 371 2604. No password required.",
+        "name": "24-Hour International Marathon Meeting of A.A.",
+        "description": "Join a 24/7 Online A.A. Meeting on Zoom. Open international Alcoholics Anonymous meeting every hour. Zoom ID 292 371 2604. No password required.",
         "isPartOf": {
           "@id": "https://sobrietyneversleeps.org/#website"
         },
@@ -241,10 +241,10 @@
           "url": "https://sobrietyneversleeps.org/images/sobrietyneversleeps_Logo.jpg"
         },
         "keywords": [
-          "24/7 AA Zoom Meeting",
-          "International Online AA Zoom Meeting",
-          "Online AA Meeting",
-          "AA Zoom Meeting"
+          "24/7 A.A. Zoom Meeting",
+          "International Online A.A. Zoom Meeting",
+          "Online A.A. Meeting",
+          "A.A. Zoom Meeting"
         ],
         "inLanguage": "en"
       },
@@ -254,7 +254,7 @@
         "mainEntity": [
           {
             "@type": "Question",
-            "name": "Who is allowed to attend this 24 hour online AA meeting?",
+            "name": "Who is allowed to attend this 24-hour online A.A. meeting?",
             "acceptedAnswer": {
               "@type": "Answer",
               "text": "We are an open meeting of Alcoholics Anonymous. Anyone with a desire to stop drinking is welcome to participate, regardless of background, status, or location."
@@ -262,15 +262,15 @@
           },
           {
             "@type": "Question",
-            "name": "Are members of the LGBTQ community welcome in this 24 hour AA meeting?",
+            "name": "Are members of the LGBTQ community welcome in this 24-hour A.A. meeting?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Yes. All alcoholics are welcome in the 24 Hour International Marathon Meeting of AA, regardless of status, beliefs, lifestyle, or location."
+              "text": "Yes. All alcoholics are welcome in the 24-Hour International Marathon Meeting of A.A., regardless of status, beliefs, lifestyle, or location."
             }
           },
           {
             "@type": "Question",
-            "name": "Is this international online Zoom AA meeting really available 24 hours a day?",
+            "name": "Is this international online Zoom A.A. meeting really available 24 hours a day?",
             "acceptedAnswer": {
               "@type": "Answer",
               "text": "Yes. The meeting runs continuously, and a new meeting starts at the top of each hour, every day."
@@ -278,7 +278,7 @@
           },
           {
             "@type": "Question",
-            "name": "When do the 24 hour online AA marathon meetings start?",
+            "name": "When do the 24-hour online A.A. marathon meetings start?",
             "acceptedAnswer": {
               "@type": "Answer",
               "text": "A new meeting begins at the top of each hour, 24 hours a day, 7 days a week, 365 days a year."
@@ -286,7 +286,7 @@
           },
           {
             "@type": "Question",
-            "name": "What time zone are the 24/7 AA Zoom meeting schedules based on?",
+            "name": "What time zone are the 24/7 A.A. Zoom meeting schedules based on?",
             "acceptedAnswer": {
               "@type": "Answer",
               "text": "The meeting runs around the clock, with a new meeting at the top of each hour, so it aligns with your local time zone anywhere in the world."
@@ -294,7 +294,7 @@
           },
           {
             "@type": "Question",
-            "name": "What language is this 24 hour international AA Zoom meeting in?",
+            "name": "What language is this 24-hour international A.A. Zoom meeting in?",
             "acceptedAnswer": {
               "@type": "Answer",
               "text": "English is the primary language, and everyone is welcome. Additional online meetings in other languages are available at aa-intergroup.org."
@@ -302,7 +302,7 @@
           },
           {
             "@type": "Question",
-            "name": "How do I join this 24-hour online AA meeting?",
+            "name": "How do I join this 24-hour online A.A. meeting?",
             "acceptedAnswer": {
               "@type": "Answer",
               "text": "Use Zoom Meeting ID 292 371 2604, or click the Join this 24/7 online A.A. meeting NOW button at the top of the page."
@@ -310,7 +310,7 @@
           },
           {
             "@type": "Question",
-            "name": "What is the Zoom ID for the 24 Hour International Marathon Meeting of AA?",
+            "name": "What is the Zoom ID for the 24-Hour International Marathon Meeting of A.A.?",
             "acceptedAnswer": {
               "@type": "Answer",
               "text": "The Zoom meeting ID is 292 371 2604. No password is required."
@@ -318,7 +318,7 @@
           },
           {
             "@type": "Question",
-            "name": "Do I need a password to join this 24/7 AA Zoom meeting?",
+            "name": "Do I need a password to join this 24/7 A.A. Zoom meeting?",
             "acceptedAnswer": {
               "@type": "Answer",
               "text": "No. There is no password required for this Zoom meeting."
@@ -326,7 +326,7 @@
           },
           {
             "@type": "Question",
-            "name": "How do I speak or share during this 24-hour AA meeting?",
+            "name": "How do I speak or share during this 24-hour A.A. meeting?",
             "acceptedAnswer": {
               "@type": "Answer",
               "text": "Raise your virtual hand to share. The chairperson calls on hands in the exact order they are raised."
@@ -334,7 +334,7 @@
           },
           {
             "@type": "Question",
-            "name": "Can I get a sponsor on this 24 Hour marathon AA meeting?",
+            "name": "Can I get a sponsor on this 24-hour marathon A.A. meeting?",
             "acceptedAnswer": {
               "@type": "Answer",
               "text": "Yes. Raise your virtual hand and let the group know you are looking for a sponsor."
@@ -350,7 +350,7 @@
           },
           {
             "@type": "Question",
-            "name": "Can I just listen, or do I have to speak in this 24-hour online AA meeting?",
+            "name": "Can I just listen, or do I have to speak in this 24-hour online A.A. meeting?",
             "acceptedAnswer": {
               "@type": "Answer",
               "text": "You are welcome to listen. Sharing is optional, and you can raise your hand when you are ready."
@@ -358,7 +358,7 @@
           },
           {
             "@type": "Question",
-            "name": "Do I have to introduce myself as an alcoholic to participate on this 24/7 AA Zoom meeting?",
+            "name": "Do I have to introduce myself as an alcoholic to participate on this 24/7 A.A. Zoom meeting?",
             "acceptedAnswer": {
               "@type": "Answer",
               "text": "Everyone is welcome to listen. If you choose to share, use your first name and identify as an alcoholic or someone with a desire to stop drinking."
@@ -366,7 +366,7 @@
           },
           {
             "@type": "Question",
-            "name": "Do I need to turn on my video camera to participate on this 24-hour online AA meeting?",
+            "name": "Do I need to turn on my video camera to participate on this 24-hour online A.A. meeting?",
             "acceptedAnswer": {
               "@type": "Answer",
               "text": "No. Video is optional."
@@ -374,7 +374,7 @@
           },
           {
             "@type": "Question",
-            "name": "Is this 24-hour AA meeting affiliated with any church or religion?",
+            "name": "Is this 24-hour A.A. meeting affiliated with any church or religion?",
             "acceptedAnswer": {
               "@type": "Answer",
               "text": "No. Alcoholics Anonymous is not allied with any sect, denomination, politics, organization, or institution."
@@ -382,15 +382,15 @@
           },
           {
             "@type": "Question",
-            "name": "Does AA provide medical and detox services or operate drug rehabilitation treatment centers?",
+            "name": "Does A.A. provide medical and detox services or operate drug rehabilitation treatment centers?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "No. AA does not provide medical advice, detox services, or treatment centers."
+              "text": "No. A.A. does not provide medical advice, detox services, or treatment centers."
             }
           },
           {
             "@type": "Question",
-            "name": "How is anonymity protected in a 24-hour online AA meeting?",
+            "name": "How is anonymity protected in a 24-hour online A.A. meeting?",
             "acceptedAnswer": {
               "@type": "Answer",
               "text": "You can protect anonymity by using a first-name display name, keeping your camera off, and sharing generally."
@@ -401,12 +401,12 @@
             "name": "What safety measures are in place for this online recovery meeting?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "The meeting follows online safety suggestions from AA World Services, including safety and anonymity guidance."
+              "text": "The meeting follows online safety suggestions from A.A. World Services, including safety and anonymity guidance."
             }
           },
           {
             "@type": "Question",
-            "name": "Can I have my attendance verified for court or probation on this 24/7 AA Zoom meeting?",
+            "name": "Can I have my attendance verified for court or probation on this 24/7 A.A. Zoom meeting?",
             "acceptedAnswer": {
               "@type": "Answer",
               "text": "This meeting does not provide attendance verification. Verification is available through the NKC verification page: https://newcomerskeepcoming.org/verification"
@@ -414,15 +414,15 @@
           },
           {
             "@type": "Question",
-            "name": "Who runs AA?",
+            "name": "Who runs A.A.?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "AA has trusted servants, not governors, and follows group conscience under its traditions."
+              "text": "A.A. has trusted servants, not governors, and follows group conscience under its traditions."
             }
           },
           {
             "@type": "Question",
-            "name": "How long does each person speak in this 24-hour online AA meeting?",
+            "name": "How long does each person speak in this 24-hour online A.A. meeting?",
             "acceptedAnswer": {
               "@type": "Answer",
               "text": "Each share is five minutes, with a gentle one-minute reminder."
@@ -433,7 +433,7 @@
             "name": "Is this an American meeting?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "No. This is an international online AA meeting with members from many countries."
+              "text": "No. This is an international online A.A. meeting with members from many countries."
             }
           },
           {
@@ -446,23 +446,23 @@
           },
           {
             "@type": "Question",
-            "name": "Are there any dues or fees required to join this 24-hour online AA meeting?",
+            "name": "Are there any dues or fees required to join this 24-hour online A.A. meeting?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "No. AA groups are supported by voluntary member contributions."
+              "text": "No. A.A. groups are supported by voluntary member contributions."
             }
           },
           {
             "@type": "Question",
-            "name": "Can I speak about narcotics and other drugs on this 24/7 AA Zoom meeting?",
+            "name": "Can I speak about narcotics and other drugs on this 24/7 A.A. Zoom meeting?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Participants are asked to confine sharing to their problem with alcohol in keeping with AA's primary purpose."
+              "text": "Participants are asked to confine sharing to their problem with alcohol in keeping with A.A.'s primary purpose."
             }
           },
           {
             "@type": "Question",
-            "name": "How can I contact the 24 hour International Marathon Meeting of AA?",
+            "name": "How can I contact the 24-Hour International Marathon Meeting of A.A.?",
             "acceptedAnswer": {
               "@type": "Answer",
               "text": "Email the group at the24hourmeeting@gmail.com."
@@ -478,10 +478,10 @@
           },
           {
             "@type": "Question",
-            "name": "Is the online AA meeting free to attend?",
+            "name": "Is the online A.A. meeting free to attend?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Yes. There are no fees or dues for AA membership. In accordance with the 7th Tradition, we are fully self-supporting through the voluntary contributions of our own members."
+              "text": "Yes. There are no fees or dues for A.A. membership. In accordance with the 7th Tradition, we are fully self-supporting through the voluntary contributions of our own members."
             }
           },
           {
@@ -544,7 +544,7 @@
   {{ super() }}
   <div class="site-footer">
     <footer class="meeting-meta-footer" data-meta="meeting-summary" aria-label="Meeting summary">
-      <p><em>The 24 Hour International Marathon Meeting of A.A. (Where sobriety never sleeps) is a continuous 24/7 online AA meeting on Zoom: an international Alcoholics Anonymous marathon meeting with a new session every hour. Join now with Zoom Meeting ID <strong>292 371 2604</strong>. No password required.</em></p>
+      <p><em>The 24-Hour International Marathon Meeting of A.A. (where sobriety never sleeps) is a continuous 24/7 online A.A. meeting on Zoom: an international Alcoholics Anonymous marathon meeting with a new session every hour. Join now with Zoom Meeting ID <strong>292 371 2604</strong>. No password required.</em></p>
     </footer>
   </div>
 {% endblock %}

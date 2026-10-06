@@ -452,6 +452,13 @@ body {
   color: #324055;
 }
 
+@media screen and (max-width: 600px) {
+  .quote-card,
+  .legacy-vignette {
+    padding: 1.25rem 1rem;
+  }
+}
+
 .site-footer {
   margin-top: 2rem;
   padding-top: 1rem;
