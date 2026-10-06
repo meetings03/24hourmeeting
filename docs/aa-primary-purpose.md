@@ -9,10 +9,10 @@ description: Learn about Alcoholics Anonymous' primary purpose and how an online
 	<div class="image-caption">The primary purpose of the 24-Hour International Marathon Meeting of Alcoholics Anonymous is to carry A.A.'s life-saving message of hope and recovery to the alcoholic who still suffers.</div>
 </div>
 
-<div class="info-card">
-	<p><strong>Long Form of Tradition Five</strong></p>
-	<p>Each Alcoholics Anonymous group ought to be a spiritual entity having but one primary purpose—that of carrying its message to the alcoholic who still suffers.</p>
-</div>
+<section class="quote-card" aria-labelledby="tradition-five-heading">
+	<p class="quote-label" id="tradition-five-heading"><strong>Long Form of Tradition Five</strong></p>
+	<p class="quote-text">Each Alcoholics Anonymous group ought to be a spiritual entity having but one primary purpose—that of carrying its message to the alcoholic who still suffers.</p>
+</section>
 
 Our Twelfth Step — carrying the message — is the basic service that the A.A. Fellowship gives; this is our principal aim and the main reason for our existence. Therefore, A.A. is more than a set of principles; it is a society of alcoholics in action. We must carry the message, else we ourselves can wither and those who have not been given the truth may die.
 
