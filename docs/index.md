@@ -60,7 +60,7 @@ New to A.A.? Start with our <a href="aa-primary-purpose/">Primary Purpose</a> an
 
 ![Sobriety Never Sleeps logo](images/sobrietyneversleeps_Logo.webp){ loading=lazy decoding=async }
 
-*The 24-Hour International Marathon Meeting of A.A. is a continuous, 24/7 online Alcoholics Anonymous meeting open to anyone seeking support. A new AA meeting with a fresh recovery topic begins every hour, making it easy for newcomers to find an online AA meeting anytime—day or night.*
+*The 24-Hour International Marathon Meeting of A.A. is an open, continuous, 24/7 online Alcoholics Anonymous meeting. A new A.A. meeting with a fresh recovery topic begins every hour, making it easy for newcomers to find an online A.A. meeting anytime—day or night.*
 
 ## What to Expect When You Join This 24 Hour A.A. Meeting on Zoom
 
