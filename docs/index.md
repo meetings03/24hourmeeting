@@ -272,8 +272,6 @@ Complement with: <a href="crisis-resources/">Crisis and Mental Health Resources<
 
 *The church directory in the lobby of the Mayflower Hotel in Akron, Ohio that led Bill W. to Dr. Bob. The two men went on to co-found Alcoholics Anonymous.*
 
-![Coffee pot used by early Alcoholics Anonymous pioneers in Akron, Ohio](images/Coffee_Pot.webp){ loading=lazy decoding=async }
-
 *Alcoholics Anonymous began in Akron, Ohio, in June 1935, when Bill W., a New York stockbroker, met Dr. Bob, an Akron physician. Early A.A. pioneers gathered in Dr. Bob's house and drank from this coffee pot, as they shared their experience, strength and hope.*
 
 ## A.A.'s Primary Purpose
@@ -303,6 +301,8 @@ The Three Legacies of Alcoholics Anonymous are Recovery, Unity, and Service. By 
 *Sponsorship responsibility is unwritten and informal, but it is a basic part of the A.A. approach to recovery from alcoholism through the Twelve Steps. Sponsorship styles and relationships vary. The important thing is that the newcomer is introduced to A.A. literature, particularly the Big Book of Alcoholics Anonymous, and is guided through the Twelve Steps.*
 
 <a class="explore-button" href="sponsorship/">Sponsorship</a>
+
+![Coffee pot used by early Alcoholics Anonymous pioneers in Akron, Ohio](images/Coffee_Pot.webp){ loading=lazy decoding=async }
 
 ## The A.A. Group...Where It All Begins
 
