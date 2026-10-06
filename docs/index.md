@@ -52,6 +52,12 @@ Join a live 24/7 Online A.A. Meeting on Zoom. This is an open international Alco
 
 <p><em>Alcoholics Anonymous is a fellowship of people who come together to solve their drinking problem. It doesn’t cost anything to attend A.A. meetings. There are no age or education requirements to participate. Membership is open to anyone who wants to do something about their drinking problem. A.A.’s primary purpose is to help alcoholics to achieve sobriety.</em></p>
 
+<p><em>A.A.’s Twelve Steps are a set of spiritual principles. When practiced as a way of life, they can expel the obsession to drink and enable the sufferer to recover from alcoholism.</em></p>
+
+<p><em>The Twelve Traditions apply to A.A. as a whole. They outline how A.A. maintains its unity and relates itself to the world around it.</em></p>
+
+<p><em>The book <i>Alcoholics Anonymous</i> describes the A.A. program of recovery. It also contains stories written by the co-founders and stories from a wide range of members who have found recovery in A.A.</em></p>
+
 ![Talking Walls](images/TalkingWalls.webp){ loading=lazy decoding=async }
 
 ### Quick Answers About This 24/7 Online A.A. Meeting
