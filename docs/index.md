@@ -224,8 +224,6 @@ The button below leads to A.A. General Service Conference-approved literature.
 
 <a class="explore-button" href="aa-literature/">Access A.A. General Service Conference-approved Literature</a>
 
-![A.A. Literature](images/AA_Literature.webp){ loading=lazy decoding=async }
-
 See also: <a href="aa-grapevine-and-la-vina/">A.A. Grapevine and La Viña</a> for member-written stories and insights.
 
 ![Pigeon Point lighthouse](images/PigeonPoint.webp){ loading=lazy decoding=async }
@@ -437,4 +435,3 @@ God, grant me the <strong>Serenity</strong> to accept the things I cannot change
 <strong>Courage</strong> to change the things I can,<br>
 and <strong>Wisdom</strong> to know the difference.
 </blockquote>
-
