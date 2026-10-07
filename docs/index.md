@@ -316,7 +316,7 @@ The Three Legacies of Alcoholics Anonymous are Recovery, Unity, and Service. By 
 
 *Sponsorship, with its continuing interest in another alcoholic, often develops when the prospect is willing to be helped, admits having a drinking problem, and decides to seek sobriety as a solution.*
 
-<a class="explore-button" href="sponsorship/">Sponsorship</a>
+<a class="explore-button" href="sponsorship/">Read about Sponsorship in Alcoholics Anonymous</a>
 
 ![Coffee pot used by early Alcoholics Anonymous pioneers in Akron, Ohio](images/Coffee_Pot.webp){ loading=lazy decoding=async }
 
