@@ -264,7 +264,7 @@ To join right away, use the Zoom ID **292 371 2604** or click a "Join this 24/7 
 
 ![DoorAA image](images/DoorAA.webp){ loading=lazy decoding=async }
 
-## Recovery Resources
+## Non-A.A. Recovery Resources
 
 ![Eighth Tradition image](images/eighth_tradition_image.webp){ loading=lazy decoding=async }
 
