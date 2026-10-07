@@ -383,6 +383,8 @@ Join our Box 459 newsletter digital delivery mailing list.
 
 <a class="explore-button" href="https://www.aa.org/box-459" target="_blank" rel="noopener">Subscribe to Box 459 Newsletter</a>
 
+![Tradition Ten](Trad10.png)
+
 ## Disclaimer and Permissions
 
 For the full legal notice, permissions, and related guidance, see the page below.
