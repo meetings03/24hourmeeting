@@ -60,8 +60,6 @@ Join a live 24/7 Online A.A. Meeting on Zoom. This is an open international Alco
 
 <p><em>A.A.’s Twelve Steps are a set of spiritual principles. When practiced as a way of life, they can expel the obsession to drink and enable the sufferer to recover from alcoholism. The Twelve Traditions apply to A.A. as a whole. They outline how A.A. maintains its unity and relates itself to the world around it. The book <i>Alcoholics Anonymous</i> describes the A.A. program of recovery. It also contains stories written by the co-founders and stories from a wide range of members who have found recovery in A.A.</em></p>
 
-![Talking Walls](images/TalkingWalls.webp){ loading=lazy decoding=async }
-
 ### Quick Answers About This 24/7 Online A.A. Meeting
 
 <a class="explore-button" href="quick-answers/">Read Quick Answers</a>
