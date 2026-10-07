@@ -249,9 +249,9 @@ See also: <a href="aa-grapevine-and-la-vina/">A.A. Grapevine and La Viña</a> fo
 
 *Help is available! If you are facing a medical emergency, contact your local first responders. In Canada and the United States dial <strong>911</strong>, in Ireland dial <strong>112</strong>, in the UK dial <strong>999</strong>, in New Zealand dial <strong>111</strong>, in Australia dial <strong>000</strong>. Alcoholics Anonymous does not provide medical advice, emergency medical services or detox treatment.*
 
-Alcoholics Anonymous is not affiliated with any outside entities or organizations. The link below leads to non-A.A. crisis and mental health resources.
-
 <a class="explore-button" href="crisis-resources/">Access Crisis and Mental Health Support</a>
+
+Alcoholics Anonymous is not affiliated with any outside entities or organizations. The link above leads to non-A.A. crisis and mental health resources.
 
 Also explore: <a href="recovery-resources/">Substance Abuse and Drug Rehabilitation Resources</a> and <a href="topics-for-online-aa-meetings/">Meeting Topics</a> for peer support.
 
