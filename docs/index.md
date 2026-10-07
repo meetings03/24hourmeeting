@@ -314,7 +314,7 @@ The Three Legacies of Alcoholics Anonymous are Recovery, Unity, and Service. By 
 
 ![Members talking at a table](images/Members_TalkingatTable.webp){ loading=lazy decoding=async }
 
-*Sponsorship responsibility is unwritten and informal, but it is a basic part of the A.A. approach to recovery from alcoholism through the Twelve Steps. Sponsorship styles and relationships vary. The important thing is that the newcomer is introduced to A.A. literature, particularly the Big Book of Alcoholics Anonymous, and is guided through the Twelve Steps.*
+*Sponsorship, with its continuing interest in another alcoholic, often develops when the prospect is willing to be helped, admits having a drinking problem, and decides to seek sobriety as a solution.*
 
 <a class="explore-button" href="sponsorship/">Sponsorship</a>
 
