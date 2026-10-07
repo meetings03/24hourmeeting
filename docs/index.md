@@ -275,7 +275,7 @@ To join right away, use the Zoom ID **292 371 2604** or click a "Join this 24/7 
 
 The link below leads to a variety of non-A.A. recovery-related resources. Inclusion on this website does not indicate endorsement or affiliation. Our aim is to be helpful and to cooperate with our friends.
 
-<a class="explore-button" href="recovery-resources/">Find Substance Abuse and Rehabilitation Resources</a>
+<a class="explore-button" href="recovery-resources/">Non-A.A. Substance Abuse and Rehabilitation Resources</a>
 
 Complement with: <a href="crisis-resources/">Crisis and Mental Health Resources</a>
 
