@@ -5,7 +5,7 @@ description: Learn about Alcoholics Anonymous' primary purpose and how an online
 # A.A.'s Primary Purpose
 
 <div class="tradition-image-row">
-  <img src="/images/man_on_bed.jpg?v=1" alt="Alcoholics Anonymous member participating in an online recovery meeting from a bed" title="Alcoholics Anonymous member participating in an online recovery meeting from a bed" />
+  <img src="/images/man_on_bed.webp" alt="Alcoholics Anonymous member participating in an online recovery meeting from a bed" title="Alcoholics Anonymous member participating in an online recovery meeting from a bed" />
   <div class="image-caption">The primary purpose of the 24-Hour International Marathon Meeting of Alcoholics Anonymous is to carry A.A.'s life-saving message of hope and recovery to the alcoholic who still suffers.</div>
 </div>
 

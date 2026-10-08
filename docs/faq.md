@@ -95,7 +95,7 @@ Anonymity is the spiritual foundation of all A.A.'s Traditions. You can protect 
 The 24-Hour International Marathon Meeting of A.A. follows the online safety suggestions provided by A.A. World Services. See the "Safety Card for A.A. Groups," "A.A. Guidelines on Internet," and "Anonymity Online and Digital Media" available at https://www.aa.org.
 
 <div class="tradition-image-row">
-  <img src="/images/man_on_bed.jpg" alt="Alcoholics Anonymous member participating in an online recovery meeting from a bed" title="Alcoholics Anonymous member participating in an online recovery meeting from a bed" loading="lazy" decoding="async" />
+  <img src="/images/man_on_bed.webp" alt="Alcoholics Anonymous member participating in an online recovery meeting from a bed" title="Alcoholics Anonymous member participating in an online recovery meeting from a bed" loading="lazy" decoding="async" />
 </div>
 
 *The primary purpose of the 24-Hour International Marathon Meeting of Alcoholics Anonymous is to carry A.A.'s life-saving message of hope and recovery to the alcoholic who still suffers.*
