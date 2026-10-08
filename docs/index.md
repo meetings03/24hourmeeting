@@ -60,7 +60,7 @@ Join a live 24/7 Online A.A. Meeting on Zoom. This is an open international Alco
 
 <p><em>A.A.’s Twelve Steps are a set of spiritual principles. When practiced as a way of life, they can expel the obsession to drink and enable the sufferer to recover from alcoholism. The Twelve Traditions apply to A.A. as a whole. They outline how A.A. maintains its unity and relates itself to the world around it. The book <i>Alcoholics Anonymous</i> describes the A.A. program of recovery. It also contains stories written by the co-founders and stories from a wide range of members who have found recovery in A.A.</em></p>
 
-![A.A. meeting rooms](images/MeetingRooms.jpeg){ loading=lazy decoding=async }
+![A.A. meeting rooms](images/MeetingRooms.webp){ loading=lazy decoding=async }
 
 ### Quick Answers About This 24/7 Online A.A. Meeting
 
@@ -234,7 +234,7 @@ The button below leads to A.A. General Service Conference-approved literature.
 
 <a class="explore-button" href="aa-literature/">Access A.A. General Service Conference-approved Literature</a>
 
-![A.A. Literature books](LiteratureAI.png){ loading=lazy decoding=async }
+![A.A. Literature books](LiteratureAI.webp){ loading=lazy decoding=async }
 
 See also: <a href="aa-grapevine-and-la-vina/">A.A. Grapevine and La Viña</a> for member-written stories and insights.
 
@@ -255,7 +255,7 @@ Alcoholics Anonymous is not affiliated with any outside entities or organization
 
 Also explore: <a href="recovery-resources/">Substance Abuse and Drug Rehabilitation Resources</a> and <a href="topics-for-online-aa-meetings/">Meeting Topics</a> for peer support.
 
-![A.A. literature flags](images/LitFlags.png){ loading=lazy decoding=async }
+![A.A. literature flags](images/LitFlags.webp){ loading=lazy decoding=async }
 
 ## Frequently Asked Questions About This 24/7 Online A.A. Meeting
 
