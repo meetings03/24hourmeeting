@@ -232,8 +232,6 @@ The button below leads to A.A. General Service Conference-approved literature.
 
 <a class="explore-button" href="aa-literature/">Access A.A. General Service Conference-approved Literature</a>
 
-![A.A. Literature books](LiteratureAI.webp){ loading=lazy decoding=async }
-
 See also: <a href="aa-grapevine-and-la-vina/">A.A. Grapevine and La Viña</a> for member-written stories and insights.
 
 <article class="legacy-vignette">
