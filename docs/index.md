@@ -446,6 +446,8 @@ For the full legal notice, permissions, and related guidance, see the page below
 
 ---
 
+![A.A. Twelve Traditions Illustrated: Tradition Twelve](images/Twelfth_Tradition.png){ loading=lazy decoding=async }
+
 ## Serenity Prayer
 
 <blockquote class="serenity-prayer">
