@@ -134,9 +134,9 @@ Alcoholics Anonymous is a fellowship of people who share their experience, stren
 
 ## Living Sober
 
-![Living Sober book cover](images/LivingSober.png){ loading=lazy decoding=async }
+![Living Sober book cover](images/LivingSober.webp){ loading=lazy decoding=async }
 
-<a class="explore-button" href="https://www.aa.org/living-sober-book" target="_blank" rel="noopener">Read Living Sober</a>
+<a class="explore-button" href="https://www.aa.org/living-sober-book" target="_blank" rel="noopener">Read &quot;Living Sober&quot; from A.A. World Services</a>
 
 <p><em>This practical booklet demonstrates through simple examples how A.A. members throughout the world live and stay away from that &quot;first drink&quot; one day at a time. Covers topics such as attending events where alcohol is served, relationships in sobriety and much more. General Service Conference-approved.</em></p>
 
