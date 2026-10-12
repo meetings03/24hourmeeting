@@ -60,12 +60,6 @@ You are completely welcome to just listen. Raise your virtual hand when you feel
 
 The 24-Hour International Marathon Meeting of A.A. is an open meeting of Alcoholics Anonymous. This means that everyone is welcome to listen. If you raise your virtual hand to share with us, we ask that you introduce yourself with your first name and let us know if you are an alcoholic or a person who has a desire to stop drinking.
 
-<div class="tradition-image-row">
-  <img src="/images/Coffee_Pot.webp" alt="The coffee pot used by early Alcoholics Anonymous pioneers in Akron, Ohio" title="The coffee pot used by early Alcoholics Anonymous pioneers in Akron, Ohio" loading="lazy" decoding="async" width="340" height="418" />
-</div>
-
-*Alcoholics Anonymous began in Akron, Ohio, in June 1935, when Bill W., a New York stockbroker, met Dr. Bob, an Akron physician. Early A.A. pioneers gathered in Dr. Bob's house and drank from this coffee pot, as they shared their experience, strength and hope.*
-
 ## Do I need to turn on my video camera to participate on this 24-hour online A.A. meeting?
 
 No. Having your video camera on is entirely optional.
