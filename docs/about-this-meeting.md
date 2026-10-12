@@ -48,7 +48,3 @@ The 24-Hour International Marathon Meeting of A.A. (where sobriety never sleeps)
 - Video is optional
 - To raise your virtual hand to share, click the "Raise Your Hand" button on the "Reactions" tab.
 - Accessible 24/7
-
-<div class="tradition-image-row">
-  <img src="/images/24_7_digital_image.webp" alt="Digital illustration of the 24/7 online Alcoholics Anonymous meeting" title="Digital illustration of the 24/7 online Alcoholics Anonymous meeting" loading="lazy" decoding="async" width="896" height="1200" />
-</div>
