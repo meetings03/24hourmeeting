@@ -87,7 +87,7 @@ Alcoholics Anonymous is not affiliated with any outside enterprise. Inclusion of
 - **Canadian Addiction Counsellors Certification Federation (CACCF)**: [https://caccf.ca](https://caccf.ca)
 
 <div class="tradition-image-row">
-  <img src="/images/Member_Sharing_at_Mic.webp" alt="A.A. member sharing at the microphone during an online recovery meeting" title="A.A. member sharing at the microphone during an online recovery meeting" loading="lazy" decoding="async" width="285" height="238" />
+  <img src="/images/Member_Sharing_at_Mic.png" alt="A.A. member sharing at the microphone during an online recovery meeting" title="A.A. member sharing at the microphone during an online recovery meeting" loading="lazy" decoding="async" width="285" height="238" />
 </div>
 
 ## Related Pages
