@@ -54,7 +54,7 @@ Join a live 24/7 Online A.A. Meeting on Zoom. This is an open international Alco
 
 ### Frequently Asked Questions About A.A.
 
-![Frequently Asked Questions About A.A.](images/FAQ_AA.png){ loading=lazy decoding=async }
+![Frequently Asked Questions About A.A.](images/FAQ_AA.webp){ loading=lazy decoding=async }
 
 <a class="explore-button" href="https://aaws.widen.net/content/qbwy1oqmao/pdf/p-2_frequently_asked_questions_online.pdf?v=0669bdcf-3d9a-447d-a3d5-058d1ecec038" target="_blank" rel="noopener">Frequently Asked Questions About A.A.</a>
 
@@ -362,7 +362,7 @@ The problem of drug addiction in its several forms lies close to us all. It stir
 
 Explore: <a href="aa-literature/">A.A. Literature</a> | <a href="topics-for-online-aa-meetings/">Meeting Topics</a>
 
-![German Alcoholics Anonymous](German.png){ loading=lazy decoding=async }
+![German Alcoholics Anonymous](German.webp){ loading=lazy decoding=async }
 
 ## About This Meeting
 
@@ -394,7 +394,7 @@ Join our Box 459 newsletter digital delivery mailing list.
 
 <a class="explore-button" href="https://www.aa.org/box-459" target="_blank" rel="noopener">Subscribe to Box 459 Newsletter</a>
 
-![Tradition Ten](Trad10.png)
+![Tradition Ten](Trad10.webp)
 
 ## Disclaimer and Permissions
 
@@ -454,7 +454,7 @@ For the full legal notice, permissions, and related guidance, see the page below
 
 ---
 
-![A.A. Twelve Traditions Illustrated: Tradition Twelve](images/Twelfth_Tradition.png){ loading=lazy decoding=async }
+![A.A. Twelve Traditions Illustrated: Tradition Twelve](images/Twelfth_Tradition.webp){ loading=lazy decoding=async }
 
 ## Serenity Prayer
 
