@@ -35,9 +35,7 @@ plugins:
 theme:
   name: material
   custom_dir: docs/overrides
-  font:
-    text: Source Sans 3
-    code: Source Code Pro
+  font: false
   palette:
     - scheme: default
       primary: indigo
@@ -46,9 +44,6 @@ theme:
     - navigation.instant
     - content.code.copy
     - navigation.sections
-
-extra_css:
-  - stylesheets/extra.css
 
 extra_javascript:
   - javascripts/extra.js

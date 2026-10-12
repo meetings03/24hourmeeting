@@ -7,6 +7,12 @@
 {% set page_title = '24/7 Online A.A. Meeting | Join Live on Zoom' if is_home_page else ('About the 24/7 International Online A.A. Meeting | How It Works' if is_about_page else ('FAQ: 24/7 Online A.A. Meeting and Zoom Access' if is_faq_page else (page.title ~ ' | 24/7 Online A.A. Meeting' if page and page.title else '24/7 Online A.A. Meeting'))) %}
 {% set page_description = page.meta.description if page and page.meta and page.meta.description else config.site_description %}
 
+{% block styles %}
+  {{ super() }}
+  <link rel="preload" href="{{ 'stylesheets/extra.css' | url }}" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <noscript><link rel="stylesheet" href="{{ 'stylesheets/extra.css' | url }}"></noscript>
+{% endblock %}
+
 {% block htmltitle %}
   <title>{{ page_title }}</title>
 {% endblock %}
