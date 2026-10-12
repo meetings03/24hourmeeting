@@ -29,7 +29,7 @@ Alcoholics Anonymous is not affiliated with any outside enterprise. Inclusion of
 - **European Union - European Union Drugs Agency (EUDA)**: Drug treatment information, data, and country resources across Europe. [https://www.euda.europa.eu](https://www.euda.europa.eu)
 
 <div class="tradition-image-row">
-  <img src="/images/Rule_62.webp" alt="Rule 62 illustration: A.A. does not advise on outside issues and stays focused on recovery" title="Rule 62 illustration: A.A. does not advise on outside issues and stays focused on recovery" />
+  <img src="/images/Rule_62.webp" alt="Rule 62 illustration: A.A. does not advise on outside issues and stays focused on recovery" title="Rule 62 illustration: A.A. does not advise on outside issues and stays focused on recovery" width="223" height="233" />
 </div>
 
 ### International 12-Step Recovery Programs
@@ -70,7 +70,7 @@ Alcoholics Anonymous is not affiliated with any outside enterprise. Inclusion of
 - **Rutgers University**: Its Center of Alcohol and Substance Use Studies, founded in 1943, is one of the oldest addiction research centres in the United States. Rutgers offers graduate training and continuing education in substance use counselling and research. [https://rutgers.edu](https://rutgers.edu/)
 
 <div class="tradition-image-row">
-  <img src="/images/New_Zealand.webp" alt="New Zealand scene representing the origins of the 24/7 International Marathon Meeting of A.A." title="New Zealand scene representing the origins of the 24/7 International Marathon Meeting of A.A." loading="lazy" decoding="async" />
+  <img src="/images/New_Zealand.webp" alt="New Zealand scene representing the origins of the 24/7 International Marathon Meeting of A.A." title="New Zealand scene representing the origins of the 24/7 International Marathon Meeting of A.A." loading="lazy" decoding="async" width="217" height="142" />
 </div>
 
 *The 24-Hour International Marathon Meeting of A.A. was founded by two newcomers from New Zealand with cell phones at the beginning of the international pandemic.*
@@ -87,7 +87,7 @@ Alcoholics Anonymous is not affiliated with any outside enterprise. Inclusion of
 - **Canadian Addiction Counsellors Certification Federation (CACCF)**: [https://caccf.ca](https://caccf.ca)
 
 <div class="tradition-image-row">
-  <img src="/images/Member_Sharing_at_Mic.webp" alt="A.A. member sharing at the microphone during an online recovery meeting" title="A.A. member sharing at the microphone during an online recovery meeting" loading="lazy" decoding="async" />
+  <img src="/images/Member_Sharing_at_Mic.webp" alt="A.A. member sharing at the microphone during an online recovery meeting" title="A.A. member sharing at the microphone during an online recovery meeting" loading="lazy" decoding="async" width="285" height="238" />
 </div>
 
 ## Related Pages

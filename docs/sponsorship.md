@@ -5,7 +5,7 @@ description: Learn what A.A. sponsorship is, how a sponsor supports recovery, an
 # Sponsorship in A.A.
 
 <div class="tradition-image-row">
-  <img src="/images/SponsorshipQA.webp" alt="Sponsorship Questions and Answers" />
+  <img src="/images/SponsorshipQA.webp" alt="Sponsorship Questions and Answers" width="284" height="594" />
 </div>
 
 <a class="explore-button" href="https://www.aa.org/questions-and-answers-sponsorship" target="_blank" rel="noopener">Questions and Answers on Sponsorship</a>

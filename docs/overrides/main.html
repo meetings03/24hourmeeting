@@ -19,6 +19,9 @@
 
 {% block extrahead %}
   {{ super() }}
+  {% if is_home_page %}
+  <link rel="preload" as="image" href="{{ 'images/New_Zealand.webp' | url }}" type="image/webp">
+  {% endif %}
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-Z48YTGQQJE"></script>
   <script>
