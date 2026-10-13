@@ -356,7 +356,7 @@ The problem of drug addiction in its several forms lies close to us all. It stir
 
 ## A.A. Grapevine and La Viña
 
-<a class="explore-button" href="aa-grapevine-and-la-vina/">Read A.A. Grapevine and La Viña Publications</a>
+<a class="explore-button" href="https://www.aalavina.org/" target="_blank" rel="noopener">Visit A.A. La Viña</a>
 
 Explore: <a href="aa-literature/">A.A. Literature</a> | <a href="topics-for-online-aa-meetings/">Meeting Topics</a>
 
