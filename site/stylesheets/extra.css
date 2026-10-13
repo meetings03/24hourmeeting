@@ -5,7 +5,7 @@
 }
 
 body {
-  font-family: "Source Sans 3", "Segoe UI", sans-serif;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
 }
 
 .md-content h1,
@@ -20,15 +20,23 @@ body {
 .image-caption {
   width: 100%;
   margin-top: 0.35rem;
-  color: #324055;
+  color: #000;
   line-height: 1.6;
   text-align: center;
   font-style: italic;
 }
 
 .image-caption--muted {
-  color: #4a5568;
+  color: #000;
   margin-top: 0.5rem;
+}
+
+.image-caption a,
+.tradition-caption a,
+.tradition-figure figcaption a,
+.aa-group-caption a,
+.md-content__inner > p:has(> img:only-child) + p:has(> em:only-child) a {
+  color: #000;
 }
 
 .zoom-meeting-id {
@@ -88,22 +96,17 @@ body {
 }
 
 .near-you-resource {
-  display: flex;
-  flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 304px);
   align-items: center;
-  gap: 0 1rem;
-  margin: 0 0 0.5rem;
-}
-
-.near-you-resource--stacked {
-  flex-direction: column;
-  align-items: flex-start;
+  gap: 1rem;
+  margin: 0 0 1.25rem;
 }
 
 .near-you-resource > .explore-button {
-  flex: 1 1 240px;
-  min-width: 220px;
-  max-width: 100%;
+  width: 100%;
+  min-height: 5.4rem;
+  margin: 0;
   padding: 1rem 1.5rem;
   font-size: 1.15rem;
 }
@@ -119,13 +122,19 @@ body {
   width: 304px;
 }
 
+@media screen and (max-width: 600px) {
+  .near-you-resource {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}
+
 .tradition-caption {
   width: 100%;
   margin-top: 0.35rem;
   text-align: center;
   font-style: italic;
   line-height: 1.6;
-  color: #324055;
+  color: #000;
   max-width: 960px;
 }
 
@@ -146,12 +155,13 @@ body {
   font-style: italic;
   font-size: 1rem;
   line-height: 1.7;
-  color: #324055;
+  color: #000;
   text-align: center;
 }
 
 .aa-group-caption {
   font-size: 1.05rem;
+  color: #000;
 }
 
 .contact-card {
@@ -230,7 +240,7 @@ body {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  background: var(--md-primary-fg-color);
+  background: #4169e1;
   color: white !important;
   margin: 0.15rem 0 1.3rem;
   padding: 1rem 1.8rem;
@@ -239,22 +249,24 @@ body {
   font-size: 1.05rem;
   letter-spacing: 0.02em;
   text-decoration: none !important;
-  box-shadow: 0 8px 20px rgba(47, 78, 168, 0.2);
-  border: 2px solid white;
+  box-shadow: 0 8px 20px rgba(65, 105, 225, 0.28);
+  border: 2px solid #4169e1;
   opacity: 1;
 }
 
 .join-button:hover,
 .join-button:focus,
 .join-button:visited {
-  background: var(--md-primary-fg-color--dark);
+  background: #3158c7;
+  border-color: #3158c7;
   color: white !important;
   text-decoration: none !important;
 }
 
 .home-join-button {
-  font-size: 1.365rem;
-  padding: 1.3rem 2.34rem;
+  font-size: 1.5rem;
+  padding: 1.35rem 2.5rem;
+  box-shadow: 0 10px 26px rgba(65, 105, 225, 0.38);
 }
 
 .help-button {
@@ -263,9 +275,9 @@ body {
   justify-content: center;
   margin: 0.3rem 0 1.4rem;
   padding: 1rem 2rem;
-  border: 3px solid #9b321f;
+  border: 3px solid #4169e1;
   border-radius: 8px;
-  background: #d9573f;
+  background: #4169e1;
   color: white !important;
   font-size: 1.15rem;
   font-weight: 800;
@@ -273,13 +285,14 @@ body {
   line-height: 1.3;
   text-align: center;
   text-decoration: none !important;
-  box-shadow: 0 8px 18px rgba(155, 50, 31, 0.24);
+  box-shadow: 0 8px 18px rgba(65, 105, 225, 0.24);
 }
 
 .help-button:hover,
 .help-button:focus,
 .help-button:visited {
-  background: #9b321f;
+  background: #3158c7;
+  border-color: #3158c7;
   color: white !important;
   text-decoration: none !important;
 }
@@ -350,10 +363,10 @@ body {
   justify-content: center;
   margin: 0.2rem 0 1.3rem;
   padding: 0.8rem 1.15rem;
-  border: 2px solid #087f78;
+  border: 2px solid #4169e1;
   border-radius: 8px;
-  background: #effaf8;
-  color: #075e59 !important;
+  background: #4169e1;
+  color: white !important;
   font-size: 1rem;
   font-weight: 750;
   letter-spacing: 0;
@@ -365,7 +378,8 @@ body {
 .explore-button:hover,
 .explore-button:focus,
 .explore-button:visited {
-  background: #087f78;
+  background: #3158c7;
+  border-color: #3158c7;
   color: white !important;
   text-decoration: none !important;
 }
@@ -448,6 +462,13 @@ body {
   color: #324055;
 }
 
+@media screen and (max-width: 600px) {
+  .quote-card,
+  .legacy-vignette {
+    padding: 1.25rem 1rem;
+  }
+}
+
 .site-footer {
   margin-top: 2rem;
   padding-top: 1rem;
@@ -509,7 +530,7 @@ body {
 }
 
 .md-content .near-you-resource img {
-  margin: 0 0 1.3rem;
+  margin: 0 auto;
 }
 
 .md-content .legacy-image {
@@ -622,7 +643,7 @@ body {
 .md-content__inner > p:has(> img:only-child) + p:has(> em:only-child) {
   max-width: 56rem;
   margin: 0.35rem auto 1.5rem;
-  color: #4a5568;
+  color: #000;
   line-height: 1.65;
   text-align: center;
 }
