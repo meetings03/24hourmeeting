@@ -556,4 +556,11 @@
       <p><em>The 24-Hour International Marathon Meeting of A.A. (where sobriety never sleeps) is a continuous 24/7 online A.A. meeting on Zoom with a new session every hour. Join now with Zoom Meeting ID <strong>292 371 2604</strong>. No password required.</em></p>
     </footer>
   </div>
+  {% if page and page.file and page.file.src_uri == 'index.md' %}
+  <div class="site-credit-footer">
+    <footer aria-label="Website credit">
+      <p>Website developed with MkDocs and Visual Studio Code by the Friends of 24/7 Recovery and Code4Recovery</p>
+    </footer>
+  </div>
+  {% endif %}
 {% endblock %}

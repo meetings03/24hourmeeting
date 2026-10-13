@@ -491,6 +491,18 @@ body {
   text-decoration: underline;
 }
 
+.site-credit-footer {
+  margin-top: 1.5rem;
+  padding: 1rem 1rem 0;
+  border-top: 1px solid rgba(47, 78, 168, 0.3);
+  text-align: center;
+  font-family: Georgia, "Times New Roman", serif;
+}
+
+.site-credit-footer p {
+  margin: 0;
+}
+
 .md-content h1 {
   font-size: 2.2rem;
   font-weight: 800;
