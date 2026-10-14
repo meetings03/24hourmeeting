@@ -104,7 +104,7 @@ New to A.A.? Start with our <a href="aa-primary-purpose/">Primary Purpose</a> an
 
     - Click the **Join Meeting** button on this site or enter the Zoom ID **292 371 2604** in the Zoom app.
     - No Zoom account, password, or camera required.
-    - You will enter the meeting immediately — no waiting room.
+    - You will be placed briefly in a virtual waiting room. A member of the group will bring you in to the meeting.
 
     **2. Mute and Unmute**
 
