@@ -97,12 +97,9 @@ New to A.A.? Start with our <a href="aa-primary-purpose/">Primary Purpose</a> an
 
 ## First Time on Zoom?
 
-!!! info "New to online AA meetings?"
+??? info "How to Join, Mute/Unmute, and Raise Your Hand"
     Joining a Zoom meeting for the first time can feel intimidating. This quick guide will help you feel comfortable before you enter the room.
 
-## How to Join, Mute/Unmute, and Raise Your Hand
-
-??? note "Step-by-step guide"
     **1. Join the Meeting**
 
     - Click the **Join Meeting** button on this site or enter the Zoom ID **292 371 2604** in the Zoom app.
