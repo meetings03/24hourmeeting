@@ -52,10 +52,6 @@ Source: [Johns Hopkins University Hospital](https://www.hopkinsmedicine.org)
 
 The book *Alcoholics Anonymous* (the Big Book) says that alcoholics are men and women who have lost the ability to control their drinking. A.A. does not pronounce anyone as being an alcoholic. The following passage from page 44 of the Big Book states: "In the preceding chapters you have learned something of alcoholism. We hope we have made clear the distinction between the alcoholic and the non-alcoholic. If, when you honestly want to, you find you cannot quit entirely, or if when drinking, you have little control over the amount you take, you are probably alcoholic. If that be the case, you may be suffering from an illness which only a spiritual experience will conquer."
 
-![First edition of Alcoholics Anonymous](images/First_Edition.webp){ loading=lazy decoding=async width="1149" height="1800" }
-
-*First edition of the Big Book of Alcoholics Anonymous, published in April 1939. This is our basic text, which explains the nature of alcoholism and A.A.'s program of recovery—the Twelve Steps.*
-
 ## Online Intergroup of A.A. (OIAA)
 
 <section class="help-vignette" aria-labelledby="help-now-heading">
@@ -253,6 +249,10 @@ The Three Legacies of Alcoholics Anonymous are Recovery, Unity, and Service. By 
 The button below leads to A.A. General Service Conference-approved literature.
 
 <a class="explore-button" href="aa-literature/">Access A.A. General Service Conference-approved Literature</a>
+
+![First edition of Alcoholics Anonymous](images/First_Edition.webp){ loading=lazy decoding=async width="1149" height="1800" }
+
+*First edition of the Big Book of Alcoholics Anonymous, published in April 1939. This is our basic text, which explains the nature of alcoholism and A.A.'s program of recovery—the Twelve Steps.*
 
 See also: <a href="aa-grapevine-and-la-vina/">A.A. Grapevine and La Viña</a> for member-written stories and insights.
 
