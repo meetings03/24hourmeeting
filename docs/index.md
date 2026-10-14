@@ -150,7 +150,17 @@ Alcoholics Anonymous is a fellowship of people who share their experience, stren
   <img class="near-you-resource__image--oiaa" src="images/OIAA.webp" alt="Online Intergroup of Alcoholics Anonymous logo" loading="lazy" decoding="async" width="791" height="169" />
 </div>
 
-<em>Help is available. The links above can connect you with both in-person and online A.A. meetings. The A.A. World Services button leads to in-person meetings around the world. You can likely find a &quot;brick and mortar&quot; meeting in your local community. The Online Intergroup of Alcoholics Anonymous button leads to online meetings from around the world in many different languages.</em>
+<em>Help is available. The links above can connect you with both in-person and online A.A. meetings. The A.A. World Services button leads to in-person meetings around the world. You can likely find a &quot;brick and mortar&quot; meeting in your local community. The Online Intergroup of Alcoholics Anonymous button leads to online meetings from around the world in many different languages. Both online and in-person meetings are listed on the free phone app Meeting Guide.</em>
+
+## A.A. Meeting Guide
+
+![Meeting Guide app](images/MeetingGuideApp.webp){ loading=lazy decoding=async width="350" height="535" }
+
+*Meeting Guide is a free app supported by Seventh Tradition contributions.*
+
+The app helps people quickly find A.A. meetings and resources using information provided by A.A. service entities. Available on both iOS and Android.
+
+<a class="explore-button" href="https://www.aa.org/meeting-guide-app" target="_blank" rel="noopener">Download the Meeting Guide App</a>
 
 ![Fifth Tradition Part 1 image](images/fifth_tradition_image_part_1.webp){ loading=lazy decoding=async width="837" height="479" }
 
