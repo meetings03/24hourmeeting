@@ -99,9 +99,9 @@ New to A.A.? Start with our <a href="aa-primary-purpose/">Primary Purpose</a> an
 
 *This 24/7 online A.A. meeting is an open Alcoholics Anonymous meeting. Everyone is welcome to listen, and we ask that only alcoholics or those with a desire to stop drinking share.*
 
-<a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join this 24/7 online A.A. meeting NOW</a>
-
 ## First Time on Zoom?
+
+<a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join this 24/7 online A.A. meeting NOW</a>
 
 ??? info "How to Join, Mute/Unmute, and Raise Your Hand"
     Joining a Zoom meeting for the first time can feel intimidating. This quick guide will help you feel comfortable before you enter the room.
