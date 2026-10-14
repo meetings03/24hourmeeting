@@ -11,7 +11,7 @@ Join a live 24/7 Online A.A. Meeting on Zoom. This is an open international Alco
 <nav class="home-section-index" aria-label="On this page">
   <strong>On this page</strong>
   <a href="#quick-answers-about-this-247-online-aa-meeting">Quick answers</a>
-  <a href="#what-to-expect-when-you-join-this-24-hour-aa-meeting-on-zoom">What to expect</a>
+  <a href="#what-to-expect-when-you-join-this-247-online-aa-meeting-on-zoom">What to expect</a>
   <a href="#are-you-new-to-alcoholics-anonymous">New to A.A.</a>
   <a href="#find-aa-near-you">Find A.A.</a>
   <a href="#do-you-have-a-drinking-problem">Drinking problem</a>
@@ -70,7 +70,7 @@ New to A.A.? Start with our <a href="aa-primary-purpose/">Primary Purpose</a> an
 
 *The 24-Hour International Marathon Meeting of A.A. is an open, continuous, 24/7 online Alcoholics Anonymous meeting. A new A.A. meeting with a fresh recovery topic begins every hour, making it easy for newcomers to find an online A.A. meeting anytime—day or night.*
 
-## What to Expect When You Join This 24-Hour A.A. Meeting on Zoom
+## What to Expect When You Join This 24/7 Online A.A. Meeting on Zoom
 
 <a class="explore-button" href="what-to-expect-when-you-join/">Learn What to Expect</a>
 
@@ -326,9 +326,9 @@ The problem of drug addiction in its several forms lies close to us all. It stir
 
 <a class="explore-button" href="problems-other-than-alcohol/">Read the pamphlet &quot;Problems Other Than Alcohol&quot; by Bill W. from A.A. World Services</a>
 
-![A.A. Grapevine magazine](images/Grapevine.webp){ loading=lazy decoding=async width="384" height="390" }
+![A.A. Grapevine journal](images/Grapevine.webp){ loading=lazy decoding=async width="384" height="390" }
 
-*The Grapevine is A.A.'s "meeting in print." La Viña is the Fellowship's Spanish-language magazine. Both publications include submissions from ordinary A.A. members from around the world.*
+*The Grapevine is A.A.'s "meeting in print." La Viña is the Fellowship's Spanish-language journal. Both publications include submissions from ordinary A.A. members from around the world.*
 
 ## A.A. Grapevine and La Viña
 
@@ -342,7 +342,7 @@ Explore: <a href="aa-literature/">A.A. Literature</a> | <a href="topics-for-onli
 
 The link below provides relevant information concerning the 24-Hour International Marathon Meeting of A.A. (where sobriety never sleeps).
 
-<a class="explore-button" href="about-this-meeting/">Learn More About This 24-Hour International Marathon Meeting</a>
+<a class="explore-button" href="about-this-meeting/">Learn More About the 24-Hour International Marathon Meeting of A.A.</a>
 
 Connect with: <a href="aas-three-legacies/">A.A.'s Three Legacies</a> | <a href="aa-primary-purpose/">Primary Purpose</a>
 

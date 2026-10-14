@@ -10,7 +10,7 @@ The booklet ["Living Sober"](aa-literature.md) has many practical suggestions fo
 
 > Like practically everyone else who has gone to an A.A. meeting, you'll probably be very surprised the first time. The people you see around you look mostly normal, healthy, reasonably happy, and successful. They do not look like old-fashioned cartoon drunkards, bums, or fanatic dried-up teetotalers.
 >
-> What's more, you'll usually find us quite a friendly bunch, doing a lot of laughing—at ourselves. That is why, if you are hung-over, an A.A. gathering provides a cheerful environment for getting past the hang-over and beginning to feel much, much better (p. 75)
+> What's more, you'll usually find us quite a friendly bunch, doing a lot of laughing—at ourselves. That is why, if you are hung-over, an A.A. gathering provides a cheerful environment for getting past the hangover and beginning to feel much, much better (p. 75)
 
 <div class="tradition-image-row">
   <img class="meeting-circle-image" src="/images/Meeting_Circle.webp" alt="A.A. meeting circle with members gathering in recovery and fellowship" title="A.A. meeting circle with members gathering in recovery and fellowship" width="1089" height="746" />

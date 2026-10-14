@@ -17,7 +17,7 @@ Please answer each question honestly with a yes or no.
 - **G** — Guilty: Have you ever felt bad or guilty about your drinking?
 - **E** — Eye-opener: Have you ever had a drink first thing in the morning to steady your nerves or relieve a hangover?
 
-A yes answer does not provide a diagnosis. It may be useful to discuss concerns with a qualified healthcare professional or another trusted source of support.
+A “yes” response does not provide a diagnosis. It may be useful to discuss concerns with a qualified healthcare professional or another trusted source of support.
 
 Source: [Johns Hopkins University Hospital](https://www.hopkinsmedicine.org)
 

@@ -4,12 +4,12 @@ description: Learn how this continuous 24/7 international online A.A. meeting wo
 
 # About the 24/7 International Online A.A. Meeting
 
-The 24-Hour International Marathon Meeting is a volunteer-run online meeting of Alcoholics Anonymous. The Fifth Tradition states: "Each group has but one primary purpose — to carry its message to the alcoholic who still suffers."
+The 24-Hour International Marathon Meeting of A.A. is a volunteer-run online meeting of Alcoholics Anonymous. The Fifth Tradition states: "Each group has but one primary purpose—to carry its message to the alcoholic who still suffers."
 
 Join the [24/7 Online A.A. Meeting on Zoom](https://zoom.us/j/2923712604). You can also learn about the meeting in the [Frequently Asked Questions](faq.md), review [Crisis and Mental Health Resources](crisis-resources.md), or explore [A.A. Literature](aa-literature.md).
 
 <div class="tradition-image-row">
-  <img src="/images/sobrietyneversleeps_Logo.webp" alt="Sobriety Never Sleeps logo for the 24/7 International Marathon Meeting of A.A." width="768" height="419" />
+  <img src="/images/sobrietyneversleeps_Logo.webp" alt="Sobriety Never Sleeps logo for the 24-Hour International Marathon Meeting of A.A." width="768" height="419" />
 </div>
 
 <a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join this 24/7 online A.A. meeting NOW</a>

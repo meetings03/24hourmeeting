@@ -1,5 +1,5 @@
 ---
-description: Read A.A. information about drugs, membership, and how the Twelve Step fellowship relates to problems other than alcohol.
+description: Read A.A. information about drugs, membership, and how the 12-step fellowship relates to problems other than alcohol.
 ---
 
 # Questions and Answers Regarding Drugs and A.A. Membership

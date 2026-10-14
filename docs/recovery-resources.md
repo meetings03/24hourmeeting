@@ -16,17 +16,17 @@ Alcoholics Anonymous is not affiliated with any outside enterprise. Inclusion of
 
 ### Government and National Treatment Resources
 
-- **New Zealand - Alcohol Drug Helpline**: Free confidential counseling and referrals. [https://alcoholdrughelp.org.nz](https://alcoholdrughelp.org.nz)
-- **New Zealand - AOD Provider Collaborative**: Connects people with alcohol and other drug clinical, community, and withdrawal-management services across New Zealand. [https://aodcollaborative.org.nz](https://aodcollaborative.org.nz)
-- **United States - SAMHSA National Helpline**: 24/7 confidential treatment and information service. Phone: 1-800-662-HELP (4357). [https://www.samhsa.gov](https://www.samhsa.gov)
-- **United States - National Institute on Drug Abuse (NIDA)**: Research-based information on addiction treatment and recovery. [https://nida.nih.gov](https://nida.nih.gov)
-- **Canada - Government of Canada Substance Use Support**: Federal information and links to provincial and territorial substance-use support and treatment services. [https://www.canada.ca/en/health-canada/services/substance-use/get-help.html](https://www.canada.ca/en/health-canada/services/substance-use/get-help.html)
-- **Canada - Canadian Centre on Substance Use and Addiction (CCSA)**: National resource for prevention, treatment, and recovery information. [https://www.ccsa.ca](https://www.ccsa.ca)
-- **United Kingdom - NHS Drug Addiction: Getting Help**: NHS guidance on accessing treatment, local drug services, psychological therapies, and support through a GP. [https://www.nhs.uk/live-well/healthy-body/drug-addiction-getting-help/](https://www.nhs.uk/live-well/healthy-body/drug-addiction-getting-help/)
-- **Australia - Alcohol and Drug Foundation Path2Help**: Free service finder that helps people locate tailored alcohol and other drug support in Australia. [https://path2help.org.au](https://path2help.org.au)
-- **Ireland - HSE Drugs and Alcohol Services**: Find local treatment, rehabilitation, and family-support services; the HSE Drugs and Alcohol Helpline offers confidential information and support. [https://www.drugs.ie/services](https://www.drugs.ie/services) | [Services map](https://www.drugsandalcohol.ie/services_map)
-- **South Africa - SANCA (South African National Council on Alcoholism and Drug Dependence)**: National network of treatment and prevention services, including provincial branches and rehabilitation support. [https://www.sanca.co.za](https://www.sanca.co.za)
-- **European Union - European Union Drugs Agency (EUDA)**: Drug treatment information, data, and country resources across Europe. [https://www.euda.europa.eu](https://www.euda.europa.eu)
+- **New Zealand—Alcohol Drug Helpline**: Free confidential counseling and referrals. [https://alcoholdrughelp.org.nz](https://alcoholdrughelp.org.nz)
+- **New Zealand—AOD Provider Collaborative**: Connects people with alcohol and other drug clinical, community, and withdrawal-management services across New Zealand. [https://aodcollaborative.org.nz](https://aodcollaborative.org.nz)
+- **United States—SAMHSA National Helpline**: 24/7 confidential treatment and information service. Phone: 1-800-662-HELP (4357). [https://www.samhsa.gov](https://www.samhsa.gov)
+- **United States—National Institute on Drug Abuse (NIDA)**: Research-based information on addiction treatment and recovery. [https://nida.nih.gov](https://nida.nih.gov)
+- **Canada—Government of Canada Substance Use Support**: Federal information and links to provincial and territorial substance-use support and treatment services. [https://www.canada.ca/en/health-canada/services/substance-use/get-help.html](https://www.canada.ca/en/health-canada/services/substance-use/get-help.html)
+- **Canada—Canadian Centre on Substance Use and Addiction (CCSA)**: National resource for prevention, treatment, and recovery information. [https://www.ccsa.ca](https://www.ccsa.ca)
+- **United Kingdom—NHS Drug Addiction: Getting Help**: NHS guidance on accessing treatment, local drug services, psychological therapies, and support through a GP. [https://www.nhs.uk/live-well/healthy-body/drug-addiction-getting-help/](https://www.nhs.uk/live-well/healthy-body/drug-addiction-getting-help/)
+- **Australia—Alcohol and Drug Foundation Path2Help**: Free service finder that helps people locate tailored alcohol and other drug support in Australia. [https://path2help.org.au](https://path2help.org.au)
+- **Ireland—HSE Drugs and Alcohol Services**: Find local treatment, rehabilitation, and family-support services; the HSE Drugs and Alcohol Helpline offers confidential information and support. [https://www.drugs.ie/services](https://www.drugs.ie/services) | [Services map](https://www.drugsandalcohol.ie/services_map)
+- **South Africa—SANCA (South African National Council on Alcoholism and Drug Dependence)**: National network of treatment and prevention services, including provincial branches and rehabilitation support. [https://www.sanca.co.za](https://www.sanca.co.za)
+- **European Union—European Union Drugs Agency (EUDA)**: Drug treatment information, data, and country resources across Europe. [https://www.euda.europa.eu](https://www.euda.europa.eu)
 
 <div class="tradition-image-row">
   <img src="/images/Rule_62.webp" alt="Rule 62 illustration: A.A. does not advise on outside issues and stays focused on recovery" title="Rule 62 illustration: A.A. does not advise on outside issues and stays focused on recovery" width="223" height="233" />
@@ -80,7 +80,7 @@ Alcoholics Anonymous is not affiliated with any outside enterprise. Inclusion of
 - **International Society of Substance Use Professionals (ISSUP)**: [https://issup.net](https://issup.net)
 - **National Association of Alcoholism and Drug Abuse Counselors (NAADAC)**: [https://naadac.org](https://naadac.org)
 - **Addiction Counselor Certification Board of California (ACCBC)**: [https://accbc.org](https://accbc.org)
-- **Drug and Alcohol Practitioner's Association Aotearoa - New Zealand (DAPAANZ)**: [https://dapaanz.org.nz](https://dapaanz.org.nz)
+- **Drug and Alcohol Practitioner's Association Aotearoa—New Zealand (DAPAANZ)**: [https://dapaanz.org.nz](https://dapaanz.org.nz)
 - **Addiction Counsellors Ireland (ACI)**: [https://addictioncounsellors.ie](https://addictioncounsellors.ie)
 - **Asia Pacific Association for Addiction Professionals (APAAP)**: [https://apaap.tungwahcsd.org](https://apaap.tungwahcsd.org)
 - **Australian Alcohol and Other Drugs Council (AAODC)**: [https://aadc.org.au](https://aadc.org.au)

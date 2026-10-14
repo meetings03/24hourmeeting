@@ -26,7 +26,7 @@ description: Browse thoughtful topics for sharing, discussion, and reflection in
   <li>Facing fear</li>
   <li>Handling resentment</li>
   <li>What is alcoholism?</li>
-  <li>The A.A. Twelve-Step program of recovery</li>
+  <li>The A.A. 12-step program of recovery</li>
   <li>The A.A. Preamble</li>
   <li>The Ninth Step Promises</li>
   <li>Sponsorship</li>

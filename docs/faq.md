@@ -2,15 +2,15 @@
 description: Find answers about this 24/7 online A.A. meeting, including the schedule, Zoom access, participation, anonymity, and meeting format.
 ---
 
-# Frequently Asked Questions About the 24/7 International Marathon Meeting of A.A.
+# Frequently Asked Questions About the 24-Hour International Marathon Meeting of A.A.
 
 If you are looking for quick answers about the meeting, the schedule, participation, or anonymity, this page brings together the most common questions we receive.
 
-## Who is allowed to attend this 24-hour online A.A. meeting?
+## Who is allowed to attend this 24/7 online A.A. meeting?
 
 We are an open meeting of Alcoholics Anonymous. Anyone with a desire to stop drinking is welcome to participate, regardless of background, status, or location.
 
-## Are members of the LGBTQ community welcome in this 24-hour A.A. meeting?
+## Are members of the LGBTQ community welcome in this 24/7 online A.A. meeting?
 
 Yes. All alcoholics are welcome in the 24-Hour International Marathon Meeting of A.A., regardless of their status, beliefs, lifestyle, or geographic location. Our Third Tradition states: "The only requirement for A.A. membership is a desire to stop drinking."
 
@@ -18,7 +18,7 @@ Yes. All alcoholics are welcome in the 24-Hour International Marathon Meeting of
   <img src="/images/third_tradition.webp" alt="Third Tradition of Alcoholics Anonymous: the only requirement for membership is a desire to stop drinking" title="Third Tradition of Alcoholics Anonymous: the only requirement for membership is a desire to stop drinking" width="916" height="554" />
 </div>
 
-## When do the 24-hour online A.A. marathon meetings start?
+## When do the 24/7 online A.A. marathon meetings start?
 
 A new meeting begins at the top of each hour, running continuously 24 hours a day, 7 days a week, 365 days a year.
 
@@ -30,17 +30,17 @@ The meetings run continuously around the clock. Because a new meeting starts at 
   <img src="/images/AA_International_Logo.webp" alt="International Alcoholics Anonymous logo for the 24/7 marathon meeting" title="International Alcoholics Anonymous logo for the 24/7 marathon meeting" loading="lazy" decoding="async" width="811" height="337" />
 </div>
 
-## What language is this 24/7 international A.A. Zoom meeting in?
+## What language is this 24/7 online A.A. meeting?
 
 English is the primary language of most members of the 24-Hour International Marathon Meeting of A.A. However, everyone is welcome to participate, no matter their language. Online meetings in languages other than English can be found on the [Online Intergroup of A.A. website](https://aa-intergroup.org).
 
-## What is the Zoom ID for the 24/7 International Marathon Meeting of A.A.?
+## What is the Zoom ID for the 24-Hour International Marathon Meeting of A.A.?
 
 The Zoom meeting ID is **292 371 2604**. No password is required to join. You can connect from anywhere in the world at any time.
 
 To share your experience, strength, and hope, simply raise your virtual hand. The chairperson calls on hands in the exact order they are raised.
 
-## Can I get a sponsor on this 24-hour marathon A.A. meeting?
+## Can I get a sponsor at this 24/7 online A.A. meeting?
 
 Yes. The best way to get help in our meeting is to raise your virtual hand and let us know you are looking for a sponsor. We suggest that men work with men and women work with women.
 
@@ -52,7 +52,7 @@ We need chairpersons, timers, and greeters every hour. The Training Team holds r
   <img src="/images/Step_Ten_Reflection.webp" alt="Step Ten reflection for continued personal inventory and prompt admission when we are wrong" title="Step Ten reflection for continued personal inventory and prompt admission when we are wrong" loading="lazy" decoding="async" width="183" height="306" />
 </div>
 
-## Can I just listen, or do I have to speak in this 24-hour online A.A. meeting?
+## Can I just listen, or do I have to speak in this 24/7 online A.A. meeting?
 
 You are completely welcome to just listen. Raise your virtual hand when you feel comfortable doing so. We want to get to know you.
 
@@ -60,11 +60,11 @@ You are completely welcome to just listen. Raise your virtual hand when you feel
 
 The 24-Hour International Marathon Meeting of A.A. is an open meeting of Alcoholics Anonymous. This means that everyone is welcome to listen. If you raise your virtual hand to share with us, we ask that you introduce yourself with your first name and let us know if you are an alcoholic or a person who has a desire to stop drinking.
 
-## Do I need to turn on my video camera to participate on this 24-hour online A.A. meeting?
+## Do I need to turn on my video camera to participate in this 24/7 online A.A. meeting?
 
 No. Having your video camera on is entirely optional.
 
-## Is this 24-hour A.A. meeting affiliated with any church or religion?
+## Is this 24/7 online A.A. meeting affiliated with any church or religion?
 
 No. Alcoholics Anonymous is not allied with any sect, denomination, politics, organization, or institution. While A.A.'s Twelve Steps are spiritual in nature, A.A. is fully non-religious and open to individuals of all beliefs or no beliefs at all.
 
@@ -80,7 +80,7 @@ No. Alcoholics Anonymous does not counsel problem drinkers or provide any medica
   <img src="/images/easy_does_it_logo.webp" alt="Easy Does It logo, a recovery slogan used by Alcoholics Anonymous" title="Easy Does It logo, a recovery slogan used by Alcoholics Anonymous" loading="lazy" decoding="async" width="937" height="444" />
 </div>
 
-## How is anonymity protected in a 24-hour online A.A. meeting?
+## How is anonymity protected in a 24/7 online A.A. meeting?
 
 Anonymity is the spiritual foundation of all A.A.'s Traditions. You can protect your identity by changing your Zoom display name to your first name only, leaving your camera off, and sharing in a general way.
 
@@ -110,7 +110,7 @@ The 24-Hour International Marathon Meeting of A.A. does not provide attendance v
 
 The Second Tradition of Alcoholics Anonymous states: "For our group purpose there is but one ultimate authority — a loving God as He may express Himself in our group conscience. Our leaders are but trusted servants; they do not govern."
 
-## How long does each person speak in this 24-hour online A.A. meeting?
+## How long does each person speak in this 24/7 online A.A. meeting?
 
 Everyone who shares in the meeting gets five minutes to speak, with a gentle reminder when there is one minute remaining.
 
@@ -130,7 +130,7 @@ Yes. There are people of all ages on the 24-Hour International Marathon Meeting 
   <img src="/images/seventh_tradition.webp" alt="Seventh Tradition of Alcoholics Anonymous: groups are self-supporting through member contributions" title="Seventh Tradition of Alcoholics Anonymous: groups are self-supporting through member contributions" loading="lazy" decoding="async" width="416" height="369" />
 </div>
 
-## Are there any dues or fees required to join this 24-hour online A.A. meeting?
+## Are there any dues or fees required to join this 24/7 online A.A. meeting?
 
 No. A.A. groups are supported by the voluntary contributions of their members.
 
@@ -140,7 +140,7 @@ In keeping with our primary purpose of carrying the A.A. message to the alcoholi
 
 The long form of A.A.'s Third Tradition states: "Our membership ought to include all who suffer from alcoholism. Hence we may refuse none who wish to recover. Nor ought A.A. membership ever depend upon money or conformity. Any two or three alcoholics gathered together for sobriety may call themselves an A.A. group, provided that, as a group, they have no other affiliation."
 
-## How can I contact the 24-hour International Marathon Meeting of A.A.?
+## How can I contact the 24-Hour International Marathon Meeting of A.A.?
 
 You can email the group at the24hourmeeting@gmail.com, or see [Contact This 24/7 Online A.A. Meeting](contact-this-24-7-online-aa-meeting.md) for all the ways to reach us.
 
