@@ -338,7 +338,7 @@ Explore: <a href="aa-literature/">A.A. Literature</a> | <a href="topics-for-onli
 
 ![German Alcoholics Anonymous](German.webp){ loading=lazy decoding=async width="673" height="134" }
 
-## About This Meeting
+## About the 24 Hour International Marathon Meeting of AA (Where sobriety never sleeps)
 
 The link below provides relevant information concerning the 24-Hour International Marathon Meeting of A.A. (where sobriety never sleeps).
 
