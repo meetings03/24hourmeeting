@@ -101,8 +101,6 @@ New to A.A.? Start with our <a href="aa-primary-purpose/">Primary Purpose</a> an
 
 ## First Time on Zoom?
 
-<a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join this 24/7 online A.A. meeting NOW</a>
-
 ??? info "How to Join, Mute/Unmute, and Raise Your Hand"
     Joining a Zoom meeting for the first time can feel intimidating. This quick guide will help you feel comfortable before you enter the room.
 
@@ -124,6 +122,8 @@ New to A.A.? Start with our <a href="aa-primary-purpose/">Primary Purpose</a> an
     - A volunteer host will call on people in order.
     - When it’s your turn, unmute and share if you want to.
     - You never have to speak if you don’t want to.
+
+<a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join this 24/7 online A.A. meeting NOW</a>
 
 ## Welcome to Online Recovery
 
