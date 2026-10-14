@@ -16,6 +16,8 @@ The booklet ["Living Sober"](aa-literature.md) has many practical suggestions fo
   <img class="meeting-circle-image" src="/images/Meeting_Circle.webp" alt="A.A. meeting circle with members gathering in recovery and fellowship" title="A.A. meeting circle with members gathering in recovery and fellowship" width="1089" height="746" />
 </div>
 
+The 24-Hour International Marathon Meeting of A.A., *where sobriety never sleeps*, is dedicated to carrying A.A.'s life-saving message of hope and recovery globally to the alcoholic who still suffers. Individuals seeking support for drug problems and substance use disorders may benefit from professional treatment programs, government resources, rehabilitation services, family support organizations, and other recovery programs and fellowships. Alcoholics Anonymous is not affiliated with any outside agency or enterprise.
+
 ## Related Pages
 
 - [New to A.A.? Start Here](new-to-aa-start-here.md) — a gentle first step if this is your first meeting
