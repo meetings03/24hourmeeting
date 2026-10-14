@@ -156,9 +156,7 @@ Alcoholics Anonymous is a fellowship of people who share their experience, stren
 
 ![Meeting Guide app](images/MeetingGuideApp.webp){ loading=lazy decoding=async width="350" height="535" }
 
-*Meeting Guide is a free app supported by Seventh Tradition contributions.*
-
-The app helps people quickly find A.A. meetings and resources using information provided by A.A. service entities. Available on both iOS and Android.
+*Meeting Guide is a free app supported by Seventh Tradition contributions. The app helps people quickly find A.A. meetings and resources using information provided by A.A. service entities. Available on both iOS and Android.*
 
 <a class="explore-button" href="https://www.aa.org/meeting-guide-app" target="_blank" rel="noopener">Download the Meeting Guide App</a>
 
