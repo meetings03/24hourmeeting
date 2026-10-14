@@ -140,7 +140,7 @@ The 24-Hour International Marathon Meeting of A.A., *where sobriety never sleeps
 ## Preamble of Alcoholics Anonymous: What A.A. is and What A.A. is Not
 
 <div class="quote-card quote-card--no-quotation">
-  <p class="quote-label">A.A. Preamble</p>
+  <p class="quote-label quote-label--preamble">A.A. Preamble</p>
   <p class="quote-text">Alcoholics Anonymous is a fellowship of people who share their experience, strength, and hope with each other so that they may solve their common problem and help others recover from alcoholism. The only requirement for membership is a desire to stop drinking. There are no dues or fees for A.A. membership; we are self-supporting through our own contributions. A.A. is not allied with any sect, denomination, politics, organization, or institution; does not wish to engage in any controversy, neither endorses nor opposes any causes. Our primary purpose is to stay sober and help other alcoholics achieve sobriety.</p>
 </div>
 
