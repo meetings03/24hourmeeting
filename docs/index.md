@@ -91,7 +91,7 @@ New to A.A.? Start with our <a href="aa-primary-purpose/">Primary Purpose</a> an
 
 ![Sobriety Never Sleeps logo](images/sobrietyneversleeps_Logo.webp){ loading=lazy decoding=async width="768" height="419" }
 
-*The 24-Hour International Marathon Meeting of A.A. is an open, continuous, 24/7 online Alcoholics Anonymous meeting. A new A.A. meeting with a fresh recovery topic begins every hour, making it easy for newcomers to find an online A.A. meeting anytime—day or night.*
+*The 24-Hour International Marathon Meeting of A.A. is an open, continuous, 24/7 online Alcoholics Anonymous meeting. A new A.A. meeting with a fresh recovery topic begins every hour, making it easy for newcomers to find an online A.A. meeting anytime—day or night. Join now with Zoom Meeting ID **292 371 2604**. No password required.*
 
 ## What to Expect When You Join This 24/7 Online A.A. Meeting on Zoom
 
