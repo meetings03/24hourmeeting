@@ -23,7 +23,7 @@ Join a live 24/7 Online A.A. Meeting on Zoom. This is an open international Alco
 
 ![New Zealand A.A. meeting origin image](images/New_Zealand.webp){ width="217" height="142" }
 
-*The 24-Hour International Marathon Meeting of A.A. Online was founded at the start of the COVID pandemic by two newcomers from New Zealand who realized they needed the fellowship of other alcoholics if they were to stay sober. It has been operating continuously 24/7 since April 20, 2020.*
+*The 24-Hour International Marathon Meeting of A.A. Online was founded at the start of the COVID pandemic by two newcomers from New Zealand who realized they needed the fellowship of other alcoholics if they were to stay sober. It has been operating continuously 24/7 since April 20, 2020. Join now with Zoom Meeting ID **292 371 2604**. No password required.*
 
 ![Help 24/7 online meeting logo](images/Help_247.webp){ loading=lazy decoding=async width="768" height="482" }
 
