@@ -181,30 +181,6 @@ Alcoholics Anonymous is a fellowship of people who share their experience, stren
 
 ![First Tradition image](images/first_tradition_image.webp){ loading=lazy decoding=async width="553" height="635" }
 
-## Contact This 24/7 Online A.A. Meeting
-
-This link will connect you with the 24-Hour International Marathon Meeting of A.A. (where sobriety never sleeps).
-
-![Contact this 24/7 online A.A. Meeting](images/Contact_Us.webp){ loading=lazy decoding=async width="254" height="250" }
-
-*We are available 24 hours a day on Zoom 292 371 2604. If you have any questions, or would like to get involved in service, click the link below.*
-
-<a class="explore-button" href="contact-this-24-7-online-aa-meeting/">Contact the 24-Hour International Marathon Meeting of A.A.</a>
-
-![Globe representing the international A.A. fellowship](images/AroundGlobe.webp){ loading=lazy decoding=async width="317" height="277" }
-
-### International A.A. Websites
-
-![Flags around the globe image](images/FlagGlobe.webp){ loading=lazy decoding=async width="402" height="363" }
-
-*A.A. is a global Fellowship. Alcoholics Anonymous has known groups in 180 countries worldwide, with an estimated 2 million members, supported by more than 123,000 groups globally. The link below leads to many official international A.A. websites.*
-
-<a class="explore-button" href="international-aa-websites/">Explore International A.A. Websites</a>
-
-![Drinking problem image](images/Drinking_Problem.webp){ loading=lazy decoding=async width="468" height="311" }
-
-*The only requirement for A.A. membership is a desire to stop drinking. A.A. does not pronounce anyone as an alcoholic.*
-
 ## Do You Have a Drinking Problem?
 
 ### The CAGE Questionnaire
@@ -409,6 +385,30 @@ For the full legal notice, permissions, and related guidance, see the page below
 ---
 
 ![A.A. Hearts image](images/aa_hearts.webp){ loading=lazy decoding=async width="330" height="265" }
+
+## Contact This 24/7 Online A.A. Meeting
+
+This link will connect you with the 24-Hour International Marathon Meeting of A.A. (where sobriety never sleeps).
+
+![Contact this 24/7 online A.A. Meeting](images/Contact_Us.webp){ loading=lazy decoding=async width="254" height="250" }
+
+*We are available 24 hours a day on Zoom 292 371 2604. If you have any questions, or would like to get involved in service, click the link below.*
+
+<a class="explore-button" href="contact-this-24-7-online-aa-meeting/">Contact the 24-Hour International Marathon Meeting of A.A.</a>
+
+![Globe representing the international A.A. fellowship](images/AroundGlobe.webp){ loading=lazy decoding=async width="317" height="277" }
+
+### International A.A. Websites
+
+![Flags around the globe image](images/FlagGlobe.webp){ loading=lazy decoding=async width="402" height="363" }
+
+*A.A. is a global Fellowship. Alcoholics Anonymous has known groups in 180 countries worldwide, with an estimated 2 million members, supported by more than 123,000 groups globally. The link below leads to many official international A.A. websites.*
+
+<a class="explore-button" href="international-aa-websites/">Explore International A.A. Websites</a>
+
+![Drinking problem image](images/Drinking_Problem.webp){ loading=lazy decoding=async width="468" height="311" }
+
+*The only requirement for A.A. membership is a desire to stop drinking. A.A. does not pronounce anyone as an alcoholic.*
 
 ## Quick Links and Resources
 
