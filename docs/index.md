@@ -232,6 +232,38 @@ The book *Alcoholics Anonymous* (the Big Book) says that alcoholics are men and 
 
 *First edition of the Big Book of Alcoholics Anonymous, published in April 1939. This is our basic text, which explains the nature of alcoholism and A.A.'s program of recovery—the Twelve Steps.*
 
+## A.A.'s Primary Purpose
+
+Our Twelfth Step—carrying the message—is the basic service that the A.A. Fellowship gives; this is our principal aim and the main reason for our existence. Therefore, A.A. is more than a set of principles; it is a society of alcoholics in action. We must carry the message, else we ourselves can wither and those who have not been given the truth may die.
+
+<a class="explore-button" href="aa-primary-purpose/">Read About A.A.'s Primary Purpose</a>
+
+Connection: <a href="aas-three-legacies/">A.A.'s Three Legacies</a> provide the framework for the primary purpose of carrying the A.A. message of hope and recovery to the alcoholic who still suffers.
+
+![Alcoholics Anonymous Three Legacies](images/Legacies.webp){ loading=lazy decoding=async width="1024" height="1015" }
+
+## A.A.'s Three Legacies: Recovery, Unity, and Service
+
+The Three Legacies of Alcoholics Anonymous are Recovery, Unity, and Service. By the first, we recover from alcoholism; by the second, we stay together in unity; and by the third, our society functions and serves its primary purpose of carrying the A.A. message to all who need it and want it. (*Alcoholics Anonymous Comes of Age: A Brief History of A.A.*)
+
+<a class="explore-button" href="aas-three-legacies/">Read About A.A.'s Three Legacies</a>
+
+![A.A. Steps, Traditions, and Concepts](images/StepsTraditionsConcepts.webp){ loading=lazy decoding=async width="1058" height="459" }
+
+*A.A.'s Three Legacies of Recovery, Unity, and Service were adopted by the Fellowship at the International Convention of Alcoholics Anonymous at St. Louis in 1955. Read about this historic event in the book Alcoholics Anonymous Comes of Age: A Brief History of A.A.*
+
+## Sponsorship in A.A.
+
+![Members talking at a table](images/Members_TalkingatTable.webp){ loading=lazy decoding=async width="348" height="543" }
+
+*Sponsorship, with its continuing interest in another alcoholic, often develops when the prospect is willing to be helped, admits having a drinking problem, and decides to seek sobriety as a solution.*
+
+<a class="explore-button" href="sponsorship/">Read about Sponsorship in Alcoholics Anonymous</a>
+
+![Coffee pot used by early Alcoholics Anonymous pioneers in Akron, Ohio](images/Coffee_Pot.webp){ loading=lazy decoding=async width="340" height="418" }
+
+*Alcoholics Anonymous began in Akron, Ohio, in June 1935, when Bill W., a New York stockbroker, met Dr. Bob, an Akron physician. Early A.A. pioneers gathered in Dr. Bob's house and drank from this coffee pot, as they shared their experience, strength and hope.*
+
 ## A.A. Literature
 
 The button below leads to A.A. General Service Conference-approved literature.
@@ -291,38 +323,6 @@ Complement with: <a href="crisis-resources/">Crisis and Mental Health Resources<
 ![Mayflower image](images/Mayflower.webp){ loading=lazy decoding=async width="512" height="640" }
 
 *The church directory in the lobby of the Mayflower Hotel in Akron, Ohio that led Bill W. to Dr. Bob. The two men went on to co-found Alcoholics Anonymous.*
-
-## A.A.'s Primary Purpose
-
-Our Twelfth Step—carrying the message—is the basic service that the A.A. Fellowship gives; this is our principal aim and the main reason for our existence. Therefore, A.A. is more than a set of principles; it is a society of alcoholics in action. We must carry the message, else we ourselves can wither and those who have not been given the truth may die.
-
-<a class="explore-button" href="aa-primary-purpose/">Read About A.A.'s Primary Purpose</a>
-
-Connection: <a href="aas-three-legacies/">A.A.'s Three Legacies</a> provide the framework for the primary purpose of carrying the A.A. message of hope and recovery to the alcoholic who still suffers.
-
-![Alcoholics Anonymous Three Legacies](images/Legacies.webp){ loading=lazy decoding=async width="1024" height="1015" }
-
-## A.A.'s Three Legacies: Recovery, Unity, and Service
-
-The Three Legacies of Alcoholics Anonymous are Recovery, Unity, and Service. By the first, we recover from alcoholism; by the second, we stay together in unity; and by the third, our society functions and serves its primary purpose of carrying the A.A. message to all who need it and want it. (*Alcoholics Anonymous Comes of Age: A Brief History of A.A.*)
-
-<a class="explore-button" href="aas-three-legacies/">Read About A.A.'s Three Legacies</a>
-
-![A.A. Steps, Traditions, and Concepts](images/StepsTraditionsConcepts.webp){ loading=lazy decoding=async width="1058" height="459" }
-
-*A.A.'s Three Legacies of Recovery, Unity, and Service were adopted by the Fellowship at the International Convention of Alcoholics Anonymous at St. Louis in 1955. Read about this historic event in the book Alcoholics Anonymous Comes of Age: A Brief History of A.A.*
-
-## Sponsorship in A.A.
-
-![Members talking at a table](images/Members_TalkingatTable.webp){ loading=lazy decoding=async width="348" height="543" }
-
-*Sponsorship, with its continuing interest in another alcoholic, often develops when the prospect is willing to be helped, admits having a drinking problem, and decides to seek sobriety as a solution.*
-
-<a class="explore-button" href="sponsorship/">Read about Sponsorship in Alcoholics Anonymous</a>
-
-![Coffee pot used by early Alcoholics Anonymous pioneers in Akron, Ohio](images/Coffee_Pot.webp){ loading=lazy decoding=async width="340" height="418" }
-
-*Alcoholics Anonymous began in Akron, Ohio, in June 1935, when Bill W., a New York stockbroker, met Dr. Bob, an Akron physician. Early A.A. pioneers gathered in Dr. Bob's house and drank from this coffee pot, as they shared their experience, strength and hope.*
 
 ## The A.A. Group...Where It All Begins
 
