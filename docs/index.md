@@ -29,6 +29,33 @@ Join a live 24/7 Online A.A. Meeting on Zoom. This is an open international Alco
 
 <em>The 24-Hour International Marathon Meeting of A.A. (where sobriety never sleeps) is a continuous 24/7 online A.A. meeting on Zoom with a new session every hour. Join now with Zoom Meeting ID <strong class="zoom-meeting-id">292 371 2604</strong>. No password required.</em>
 
+## Do You Have a Drinking Problem?
+
+### The CAGE Questionnaire
+
+The CAGE questionnaire is a short, widely used screening tool designed to help individuals identify possible problems with alcohol use. Originally introduced by Dr. John A. Ewing, it is commonly used in clinical settings and is recognized by institutions such as Johns Hopkins University Hospital.
+
+Please answer each question honestly with a yes or no.
+
+- C — Cut down: Have you ever felt you should cut down on your drinking?
+- A — Annoyed: Have people annoyed you by criticizing your drinking?
+- G — Guilty: Have you ever felt bad or guilty about your drinking?
+- E — Eye-opener: Have you ever had a drink first thing in the morning to steady your nerves or relieve a hangover?
+
+Source: [Johns Hopkins University Hospital](https://www.hopkinsmedicine.org)
+
+![Step One image](images/step_one.webp){ loading=lazy decoding=async width="181" height="431" }
+
+*Alcoholics are women and men who have lost the ability to control their drinking. Recovery begins when we concede to our innermost selves that we are alcoholics.*
+
+### Are You an Alcoholic? A.A.'s Two Questions
+
+The book *Alcoholics Anonymous* (the Big Book) says that alcoholics are men and women who have lost the ability to control their drinking. A.A. does not pronounce anyone as being an alcoholic. The following passage from page 44 of the Big Book states: "In the preceding chapters you have learned something of alcoholism. We hope we have made clear the distinction between the alcoholic and the non-alcoholic. If, when you honestly want to, you find you cannot quit entirely, or if when drinking, you have little control over the amount you take, you are probably alcoholic. If that be the case, you may be suffering from an illness which only a spiritual experience will conquer."
+
+![First edition of Alcoholics Anonymous](images/First_Edition.webp){ loading=lazy decoding=async width="1149" height="1800" }
+
+*First edition of the Big Book of Alcoholics Anonymous, published in April 1939. This is our basic text, which explains the nature of alcoholism and A.A.'s program of recovery—the Twelve Steps.*
+
 ## Online Intergroup of A.A. (OIAA)
 
 <section class="help-vignette" aria-labelledby="help-now-heading">
@@ -188,33 +215,6 @@ Alcoholics Anonymous is a fellowship of people who share their experience, stren
 <div class="centered-note">The responsibility statement was written for the 1965 International Convention in Toronto, and it remains a core principle of A.A. service today.</div>
 
 ![First Tradition image](images/first_tradition_image.webp){ loading=lazy decoding=async width="553" height="635" }
-
-## Do You Have a Drinking Problem?
-
-### The CAGE Questionnaire
-
-The CAGE questionnaire is a short, widely used screening tool designed to help individuals identify possible problems with alcohol use. Originally introduced by Dr. John A. Ewing, it is commonly used in clinical settings and is recognized by institutions such as Johns Hopkins University Hospital.
-
-Please answer each question honestly with a yes or no.
-
-- C — Cut down: Have you ever felt you should cut down on your drinking?
-- A — Annoyed: Have people annoyed you by criticizing your drinking?
-- G — Guilty: Have you ever felt bad or guilty about your drinking?
-- E — Eye-opener: Have you ever had a drink first thing in the morning to steady your nerves or relieve a hangover?
-
-Source: [Johns Hopkins University Hospital](https://www.hopkinsmedicine.org)
-
-![Step One image](images/step_one.webp){ loading=lazy decoding=async width="181" height="431" }
-
-*Alcoholics are women and men who have lost the ability to control their drinking. Recovery begins when we concede to our innermost selves that we are alcoholics.*
-
-### Are You an Alcoholic? A.A.'s Two Questions
-
-The book *Alcoholics Anonymous* (the Big Book) says that alcoholics are men and women who have lost the ability to control their drinking. A.A. does not pronounce anyone as being an alcoholic. The following passage from page 44 of the Big Book states: "In the preceding chapters you have learned something of alcoholism. We hope we have made clear the distinction between the alcoholic and the non-alcoholic. If, when you honestly want to, you find you cannot quit entirely, or if when drinking, you have little control over the amount you take, you are probably alcoholic. If that be the case, you may be suffering from an illness which only a spiritual experience will conquer."
-
-![First edition of Alcoholics Anonymous](images/First_Edition.webp){ loading=lazy decoding=async width="1149" height="1800" }
-
-*First edition of the Big Book of Alcoholics Anonymous, published in April 1939. This is our basic text, which explains the nature of alcoholism and A.A.'s program of recovery—the Twelve Steps.*
 
 ## A.A.'s Primary Purpose
 
