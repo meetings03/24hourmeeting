@@ -346,7 +346,7 @@ All groups exist to help those who suffer from the disease of alcoholism.
 
 <p class="aa-group-caption"><em>The A.A. Group...Where It All Begins</em></p>
 
-This informational guide tells how a group works most effectively, how a new group can be started, and how each group can be linked to A.A. as a whole. General Service Conference-approved.
+*This informational guide tells how a group works most effectively, how a new group can be started, and how each group can be linked to A.A. as a whole. General Service Conference-approved.*
 
 <a class="explore-button" href="https://www.aa.org/aa-groupwhere-it-all-begins" target="_blank" rel="noopener">Read the pamphlet &quot;The A.A. Group...Where It All Begins&quot; from A.A. World Services</a>
 
