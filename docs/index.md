@@ -95,6 +95,33 @@ New to A.A.? Start with our <a href="aa-primary-purpose/">Primary Purpose</a> an
 
 *This 24/7 online A.A. meeting is an open Alcoholics Anonymous meeting. Everyone is welcome to listen, and we ask that only alcoholics or those with a desire to stop drinking share.*
 
+## First Time on Zoom?
+
+!!! info "New to online AA meetings?"
+    Joining a Zoom meeting for the first time can feel intimidating. This quick guide will help you feel comfortable before you enter the room.
+
+## How to Join, Mute/Unmute, and Raise Your Hand
+
+??? note "Step-by-step guide"
+    **1. Join the Meeting**
+
+    - Click the **Join Meeting** button on this site or enter the Zoom ID **292 371 2604** in the Zoom app.
+    - No Zoom account, password, or camera required.
+    - You will enter the meeting immediately — no waiting room.
+
+    **2. Mute and Unmute**
+
+    - Zoom usually mutes you automatically when you join.
+    - Click the **microphone icon** in the bottom-left corner to unmute.
+    - Staying muted is perfectly okay if you’re unsure.
+
+    **3. Raise Your Hand to Share**
+
+    - Click **Reactions → Raise Hand**.
+    - A volunteer host will call on people in order.
+    - When it’s your turn, unmute and share if you want to.
+    - You never have to speak if you don’t want to.
+
 ## Welcome to Online Recovery
 
 ![Person participating in an online A.A. meeting from a laptop](images/aa_man_on_bed_laptop.webp){ loading=lazy decoding=async width="539" height="541" }
