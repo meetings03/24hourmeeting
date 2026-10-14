@@ -25,6 +25,10 @@ Join a live 24/7 Online A.A. Meeting on Zoom. This is an open international Alco
 
 *The 24-Hour International Marathon Meeting of A.A. Online was founded at the start of the COVID pandemic by two newcomers from New Zealand who realized they needed the fellowship of other alcoholics if they were to stay sober. It has been operating continuously 24/7 since April 20, 2020. Join now with Zoom Meeting ID **292 371 2604**. No password required.*
 
+![Drinking problem image](images/Drinking_Problem.webp){ loading=lazy decoding=async width="468" height="311" }
+
+*The only requirement for A.A. membership is a desire to stop drinking. A.A. does not pronounce anyone as an alcoholic.*
+
 ## Do You Have a Drinking Problem?
 
 ### The CAGE Questionnaire
@@ -433,10 +437,6 @@ This link will connect you with the 24-Hour International Marathon Meeting of A.
 *A.A. is a global Fellowship. Alcoholics Anonymous has known groups in 180 countries worldwide, with an estimated 2 million members, supported by more than 123,000 groups globally. The link below leads to many official international A.A. websites.*
 
 <a class="explore-button" href="international-aa-websites/">Explore International A.A. Websites</a>
-
-![Drinking problem image](images/Drinking_Problem.webp){ loading=lazy decoding=async width="468" height="311" }
-
-*The only requirement for A.A. membership is a desire to stop drinking. A.A. does not pronounce anyone as an alcoholic.*
 
 ## Quick Links and Resources
 
