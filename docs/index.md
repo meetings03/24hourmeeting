@@ -384,7 +384,7 @@ All groups exist to help those who suffer from the disease of alcoholism.
 
 *The Grapevine is A.A.'s "meeting in print." La Viña is the Fellowship's Spanish-language journal. Both publications include submissions from ordinary A.A. members from around the world.*
 
-## A.A. Grapevine and La Viña
+## A.A. Grapevine and La Viña: Our meeting in print
 
 <a class="explore-button" href="https://www.aalavina.org/" target="_blank" rel="noopener">Visit A.A. La Viña</a>
 
