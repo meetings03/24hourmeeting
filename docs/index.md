@@ -208,7 +208,7 @@ Welcome to the 24-Hour International Marathon Meeting of A.A., *where sobriety n
 
 *Meeting Guide is a free app supported by Seventh Tradition contributions. The app helps people quickly find A.A. meetings and resources using information provided by A.A. service entities. Available on both iOS and Android.*
 
-??? info "Meeting Guide"
+??? info "Meeting Guide Features"
     Meeting Guide syncs with area, district, intergroup/central offices and international general service office websites, relaying meeting information from more than 500 A.A. service entities directly to the app. Over 150,000 weekly meetings are currently listed, and the information is refreshed twice daily.
 
     **Meeting Guide Features:**
