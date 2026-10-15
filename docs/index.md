@@ -188,7 +188,12 @@ Welcome to the 24-Hour International Marathon Meeting of A.A., *where sobriety n
 
 <a class="explore-button" href="https://www.aa.org/living-sober-book" target="_blank" rel="noopener">Read &quot;Living Sober&quot; from A.A. World Services</a>
 
-![The Fourth Tradition](images/Tradition4.webp){ loading=lazy decoding=async width="1008" height="334" }
+<div class="fourth-tradition-scroll" tabindex="0" role="region" aria-label="The Fourth Tradition illustration; scroll horizontally to see the full image">
+  <a href="images/Tradition4.webp" aria-label="View The Fourth Tradition illustration at full size">
+    <img src="images/Tradition4.webp" alt="The Fourth Tradition" loading="lazy" decoding="async" width="1008" height="334" />
+  </a>
+</div>
+
 ## Find A.A. Near You
 
 <div class="near-you-resource">

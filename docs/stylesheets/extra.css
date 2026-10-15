@@ -95,6 +95,23 @@ body {
   display: block;
 }
 
+.fourth-tradition-scroll {
+  max-width: 100%;
+  overflow-x: auto;
+  margin: 1rem 0;
+}
+
+.fourth-tradition-scroll > a {
+  display: block;
+  width: 115%;
+}
+
+.fourth-tradition-scroll img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
 .near-you-resource {
   display: grid;
   grid-template-columns: minmax(0, 1fr) minmax(0, 304px);
