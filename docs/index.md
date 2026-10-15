@@ -87,7 +87,7 @@ The book *Alcoholics Anonymous* (the Big Book) says that alcoholics are men and 
 
 <a class="explore-button" href="quick-answers/">Read Quick Answers</a>
 
-New to A.A.? Start with our <a href="aa-primary-purpose/">Primary Purpose</a> and <a href="aas-three-legacies/">Three Legacies</a> to understand the Fellowship's foundation.
+New to A.A.? Start with our <a href="https://sobrietyneversleeps.org/aa-primary-purpose/">Primary Purpose</a> and <a href="https://sobrietyneversleeps.org/aas-three-legacies/">Three Legacies</a>.
 
 ![Sobriety Never Sleeps logo](images/sobrietyneversleeps_Logo.webp){ loading=lazy decoding=async width="768" height="419" }
 
