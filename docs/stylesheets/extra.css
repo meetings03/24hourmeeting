@@ -437,6 +437,22 @@ body {
   margin-bottom: 0;
 }
 
+.meeting-guide-vignette {
+  max-width: 580px;
+  padding: 1.5rem;
+  background: linear-gradient(180deg, #f2faf9 0%, #e8f4f2 100%);
+  border-left-color: #247568;
+  font-size: 0.9em;
+  line-height: 1.7;
+  text-align: left;
+}
+
+.meeting-guide-vignette h3 {
+  margin-top: 0;
+  color: #247568;
+  text-align: center;
+}
+
 .portrait-image {
   display: block;
   width: 100%;
