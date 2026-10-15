@@ -437,33 +437,6 @@ body {
   margin-bottom: 0;
 }
 
-.meeting-guide-vignette {
-  max-width: 580px;
-  padding: 1.5rem;
-  background: linear-gradient(180deg, #f2faf9 0%, #e8f4f2 100%);
-  border-left-color: #247568;
-  font-size: 0.9em;
-  line-height: 1.7;
-  text-align: left;
-}
-
-.meeting-guide-vignette h3 {
-  margin-top: 0;
-  color: #247568;
-  text-align: center;
-}
-
-.md-typeset .meeting-guide-vignette ul {
-  padding-left: 1.25em;
-  margin-left: 0;
-  list-style-type: disc;
-  text-align: left;
-}
-
-.md-typeset .meeting-guide-vignette li {
-  text-align: left;
-}
-
 .portrait-image {
   display: block;
   width: 100%;

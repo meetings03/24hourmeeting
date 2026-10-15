@@ -208,20 +208,18 @@ Welcome to the 24-Hour International Marathon Meeting of A.A., *where sobriety n
 
 *Meeting Guide is a free app supported by Seventh Tradition contributions. The app helps people quickly find A.A. meetings and resources using information provided by A.A. service entities. Available on both iOS and Android.*
 
-<div class="quote-card quote-card--no-quotation meeting-guide-vignette">
-  <h3>Meeting Guide</h3>
-  <p>Meeting Guide syncs with area, district, intergroup/central offices and international general service office websites, relaying meeting information from more than 500 A.A. service entities directly to the app. Over 150,000 weekly meetings are currently listed, and the information is refreshed twice daily.</p>
-  <p><strong>Meeting Guide Features:</strong></p>
-  <ul>
-    <li>Listing of both in-person and online meetings</li>
-    <li>A default view that provides a list of meetings showing time, location and meeting name</li>
-    <li>A meeting detail view that offers extra information such as meeting format and any notes provided by the group</li>
-    <li>A search function to find meetings by location or keyword</li>
-    <li>A daily quote feature lets users read from &quot;Daily Reflections&quot;</li>
-    <li>Multiple access points that make finding local A.A. contact information easy</li>
-    <li>A news feature with the latest from the General Service Office and Grapevine</li>
-  </ul>
-</div>
+??? info "Meeting Guide"
+    Meeting Guide syncs with area, district, intergroup/central offices and international general service office websites, relaying meeting information from more than 500 A.A. service entities directly to the app. Over 150,000 weekly meetings are currently listed, and the information is refreshed twice daily.
+
+    **Meeting Guide Features:**
+
+    - Listing of both in-person and online meetings
+    - A default view that provides a list of meetings showing time, location and meeting name
+    - A meeting detail view that offers extra information such as meeting format and any notes provided by the group
+    - A search function to find meetings by location or keyword
+    - A daily quote feature lets users read from &quot;Daily Reflections&quot;
+    - Multiple access points that make finding local A.A. contact information easy
+    - A news feature with the latest from the General Service Office and Grapevine
 
 <a class="explore-button" href="https://www.aa.org/meeting-guide-app" target="_blank" rel="noopener">Download the Meeting Guide App</a>
 
