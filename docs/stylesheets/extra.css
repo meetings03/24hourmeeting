@@ -453,6 +453,17 @@ body {
   text-align: center;
 }
 
+.md-typeset .meeting-guide-vignette ul {
+  padding-left: 1.25em;
+  margin-left: 0;
+  list-style-type: disc;
+  text-align: left;
+}
+
+.md-typeset .meeting-guide-vignette li {
+  text-align: left;
+}
+
 .portrait-image {
   display: block;
   width: 100%;
