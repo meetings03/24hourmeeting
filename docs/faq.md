@@ -15,7 +15,7 @@ We are an open meeting of Alcoholics Anonymous. Anyone with a desire to stop dri
 Yes. All alcoholics are welcome in the 24-Hour International Marathon Meeting of A.A., regardless of their status, beliefs, lifestyle, or geographic location. Our Third Tradition states: "The only requirement for A.A. membership is a desire to stop drinking."
 
 <div class="tradition-image-row">
-  <img src="/images/third_tradition.webp" alt="Third Tradition of Alcoholics Anonymous: the only requirement for membership is a desire to stop drinking" title="Third Tradition of Alcoholics Anonymous: the only requirement for membership is a desire to stop drinking" width="916" height="554" />
+  <img src="/images/TRAD_3.webp" alt="Third Tradition of Alcoholics Anonymous: the only requirement for membership is a desire to stop drinking" title="Third Tradition of Alcoholics Anonymous: the only requirement for membership is a desire to stop drinking" width="1129" height="465" />
 </div>
 
 ## When do the 24/7 online A.A. marathon meetings start?
