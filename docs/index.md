@@ -411,7 +411,7 @@ Connect with: <a href="aas-three-legacies/">A.A.'s Three Legacies</a> | <a href=
 
 ![A.A. General Service Conference](images/General_Service_Conference.webp){ loading=lazy decoding=async width="416" height="299" }
 
-*The General Service Conference of A.A. has become, for nearly every practical purpose, the active voice and the effective conscience of our whole society in its world affairs.*
+*The General Service Conference of A.A. has become, for nearly every practical purpose, the active voice and the effective conscience of our whole society in its world affairs. (Concept II)*
 
 ![Box 459 newsletter image](images/Box459.webp){ loading=lazy decoding=async width="1048" height="326" }
 
