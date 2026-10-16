@@ -112,18 +112,19 @@ New to A.A.? Start with our <a href="https://sobrietyneversleeps.org/aa-primary-
     - No Zoom account, password, or camera required.
     - You will be placed briefly in a virtual waiting room. A member of the group will bring you in to the meeting.
 
-    **2. Mute and Unmute**
-
-    - Zoom usually mutes you automatically when you join.
-    - Click the **microphone icon** in the bottom-left corner to unmute.
-    - Staying muted is perfectly okay if you’re unsure.
-
-    **3. Raise Your Hand to Share**
+    **2. Raise Your Hand to Share**
 
     - Click **Reactions → Raise Hand**.
     - A volunteer host will call on people in order.
     - When it’s your turn, unmute and share if you want to.
     - You never have to speak if you don’t want to.
+
+    **3. Mute and Unmute**
+
+    - Your microphone will be muted when you enter the meeting.
+    - If you want to share, raise your virtual hand. Hands are called on in the order they are raised.
+    - When it’s your turn, a prompt will appear on your screen asking you to unmute. Click **Unmute**, and everyone in the room will be able to hear you.
+    - Everyone gets five minutes to share, with a gentle reminder when one minute remains.
 
 <a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join this 24/7 online A.A. meeting NOW</a>
 
