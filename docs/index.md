@@ -136,6 +136,8 @@ Welcome to the 24-Hour International Marathon Meeting of A.A., *where sobriety n
 
 ![Meeting circle image](images/Meeting_Circle.webp){ loading=lazy decoding=async width="1089" height="746" }
 
+<p><em>There are many different types A.A. meetings (e.g., speaker, discussion, men, women, online, in-person, Big Book studies). Meetings can also be designated as either &quot;open&quot; or &quot;closed.&quot; Visitors and observers are welcome in open meetings. Closed meetings are for alcoholics or for individuals who have a desire to stop drinking. The 24 Hour International Marathon Meeting of A.A. (Where sobriety never sleeps) is an open meeting.</em></p>
+
 <a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join this 24/7 online A.A. meeting NOW</a>
 
 ![I am Responsible A.A. image](images/i_am_responsible_image.webp){ loading=lazy decoding=async width="831" height="509" }
