@@ -645,6 +645,20 @@ body {
   text-underline-offset: 0.15em;
 }
 
+.md-content__inner:has(.home-section-index) details.info {
+  border-color: #4169e1;
+}
+
+.md-content__inner:has(.home-section-index) details.info > summary {
+  background-color: #eef2ff;
+  color: #24365a;
+}
+
+.md-content__inner:has(.home-section-index) details.info > summary::before,
+.md-content__inner:has(.home-section-index) details.info > summary::after {
+  background-color: #4169e1;
+}
+
 @media screen and (max-width: 600px) {
   .md-content__inner:has(.home-section-index) > h1 {
     font-size: 1.65rem;
