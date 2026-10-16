@@ -207,7 +207,7 @@ Welcome to the 24-Hour International Marathon Meeting of A.A., *where sobriety n
   <img class="near-you-resource__image--oiaa" src="images/OIAA.webp" alt="Online Intergroup of Alcoholics Anonymous logo" loading="lazy" decoding="async" width="791" height="169" />
 </div>
 
-<em>Help is available. The links above can connect you with both in-person and online A.A. meetings. The A.A. World Services button leads to in-person meetings around the world. You can likely find a &quot;brick and mortar&quot; meeting in your local community. The Online Intergroup of Alcoholics Anonymous button leads to online meetings from around the world in many different languages. Both online and in-person meetings are listed on the free phone app Meeting Guide.</em>
+<em>The links above can connect you with both in-person and online A.A. meetings. The A.A. World Services button leads to in-person meetings around the world. You can likely find a &quot;brick and mortar&quot; meeting in your local community. The Online Intergroup of Alcoholics Anonymous button leads to online meetings from around the world in many different languages. Both online and in-person meetings are listed on the free phone app Meeting Guide.</em>
 
 ## A.A. Meeting Guide
 
