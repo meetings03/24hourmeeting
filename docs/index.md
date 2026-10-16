@@ -16,14 +16,14 @@ Join a live 24/7 Online A.A. Meeting on Zoom. This is an open international Alco
   <a href="#find-aa-near-you">Find A.A.</a>
   <a href="#do-you-have-a-drinking-problem">Drinking problem</a>
   <a href="#crisis-and-mental-health-resources">Crisis resources</a>
-  <a href="#recovery-resources">Recovery resources</a>
+  <a href="#non-aa-recovery-resources">Recovery resources</a>
 </nav>
 
 ## Where Sobriety Never Sleeps
 
 ![New Zealand A.A. meeting origin image](images/New_Zealand.webp){ width="217" height="142" }
 
-*The 24-Hour International Marathon Meeting of A.A. (Where sobriety never sleeps) was founded at the start of the COVID pandemic by two newcomers from New Zealand who realized they needed the fellowship of other alcoholics if they were to stay sober. It has been operating continuously 24/7 since April 20, 2020. Join now with Zoom Meeting ID **292 371 2604**. No password required.*
+*The 24-Hour International Marathon Meeting of A.A. (where sobriety never sleeps) was founded at the start of the COVID pandemic by two newcomers from New Zealand who realized they needed the fellowship of other alcoholics if they were to stay sober. It has been operating continuously 24/7 since April 20, 2020. Join now with Zoom Meeting ID **292 371 2604**. No password required.*
 
 ![Drinking problem image](images/Drinking_Problem.webp){ loading=lazy decoding=async width="468" height="311" }
 
@@ -54,8 +54,7 @@ The book *Alcoholics Anonymous* (the Big Book) says that alcoholics are men and 
 
 ## Get Help Now: Online Intergroup of A.A. (OIAA)
 
-<section class="help-vignette" aria-labelledby="help-now-heading">
-<h2 id="help-now-heading">Get Help Now from OIAA 12th Step Committee</h2>
+<section class="help-vignette" aria-label="OIAA 12th Step Committee">
 
 <a class="help-button" href="https://aa-intergroup.org/get-help-now/" target="_blank" rel="noopener">Get Help Now</a>
 
@@ -71,15 +70,15 @@ The book *Alcoholics Anonymous* (the Big Book) says that alcoholics are men and 
 
 ![A Newcomer Asks pamphlet](images/NewcomerAsks.webp){ loading=lazy decoding=async width="344" height="640" }
 
-<a class="explore-button" href="https://www.aa.org/newcomer-asks" target="_blank" rel="noopener">Read the pamphlet &quot;A Newcomer Asks&quot; from A.A. World Services</a>
-
 <p><em>Alcoholics Anonymous is a fellowship of people who come together to solve their drinking problem. It doesn’t cost anything to attend A.A. meetings. There are no age or education requirements to participate. Membership is open to anyone who wants to do something about their drinking problem. A.A.’s primary purpose is to help alcoholics to achieve sobriety.</em></p>
+
+<a class="explore-button" href="https://www.aa.org/newcomer-asks" target="_blank" rel="noopener">Read the pamphlet &quot;A Newcomer Asks&quot; from A.A. World Services</a>
 
 ### Frequently Asked Questions About A.A.
 
 ![Frequently Asked Questions About A.A.](images/FAQ_AA.webp){ loading=lazy decoding=async width="250" height="576" }
 
-<p><em>A.A.’s Twelve Steps are a set of spiritual principles. When practiced as a way of life, they can expel the obsession to drink and enable the sufferer to recover from alcoholism. The Twelve Traditions apply to A.A. as a whole. They outline how A.A. maintains its unity and relates itself to the world around it. The book <i>Alcoholics Anonymous</i> describes the A.A. program of recovery. It also contains stories written by the co-founders and stories from a wide range of members who have found recovery in A.A. The pamphlet &quot;Frequently Asked Questions About A.A.&quot; provides useful information about our Fellowship for newcomers and longtimers alike.</em></p>
+<p><em>A.A.’s Twelve Steps are a set of spiritual principles. When practiced as a way of life, they can expel the obsession to drink and enable the sufferer to recover from alcoholism. The Twelve Traditions apply to A.A. as a whole. They outline how A.A. maintains its unity and relates itself to the world around it. The book <i>Alcoholics Anonymous</i> describes the A.A. program of recovery. It also contains stories written by the cofounders and stories from a wide range of members who have found recovery in A.A. The pamphlet &quot;Frequently Asked Questions About A.A.&quot; provides useful information about our Fellowship for newcomers and longtimers alike.</em></p>
 
 <a class="explore-button" href="https://aaws.widen.net/content/qbwy1oqmao/pdf/p-2_frequently_asked_questions_online.pdf?v=0669bdcf-3d9a-447d-a3d5-058d1ecec038" target="_blank" rel="noopener">Read the pamphlet &quot;Frequently Asked Questions About A.A.&quot; from A.A. World Services</a>
 
@@ -136,13 +135,13 @@ Welcome to the 24-Hour International Marathon Meeting of A.A., *where sobriety n
 
 ![Meeting circle image](images/Meeting_Circle.webp){ loading=lazy decoding=async width="1089" height="746" }
 
-<p><em>There are many different types A.A. meetings (e.g., speaker, discussion, men, women, online, in-person, Big Book studies). Meetings can also be designated as either &quot;open&quot; or &quot;closed.&quot; Visitors and observers are welcome in open meetings. Closed meetings are for alcoholics or for individuals who have a desire to stop drinking. The 24 Hour International Marathon Meeting of A.A. (Where sobriety never sleeps) is an open meeting.</em></p>
+<p><em>There are many different types of A.A. meetings (e.g., speaker, discussion, men’s, women’s, online, in-person, Big Book studies). Meetings can also be designated as either &quot;open&quot; or &quot;closed.&quot; Visitors and observers are welcome in open meetings. Closed meetings are for alcoholics or for individuals who have a desire to stop drinking. The 24-Hour International Marathon Meeting of A.A. (where sobriety never sleeps) is an open meeting.</em></p>
 
 <a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join this 24/7 online A.A. meeting NOW</a>
 
 ![I am Responsible A.A. image](images/i_am_responsible_image.webp){ loading=lazy decoding=async width="831" height="509" }
 
-## Preamble of Alcoholics Anonymous: What A.A. is and What A.A. is Not
+## Preamble of Alcoholics Anonymous: What A.A. Is and What A.A. Is Not
 
 <div class="quote-card quote-card--no-quotation">
   <p class="quote-label quote-label--preamble">A.A. Preamble</p>
@@ -207,7 +206,7 @@ Welcome to the 24-Hour International Marathon Meeting of A.A., *where sobriety n
   <img class="near-you-resource__image--oiaa" src="images/OIAA.webp" alt="Online Intergroup of Alcoholics Anonymous logo" loading="lazy" decoding="async" width="791" height="169" />
 </div>
 
-<em>The links above can connect you with both in-person and online A.A. meetings. The A.A. World Services button leads to in-person meetings around the world. You can likely find a &quot;brick and mortar&quot; meeting in your local community. The Online Intergroup of Alcoholics Anonymous button leads to online meetings from around the world in many different languages. Both online and in-person meetings are listed on the free phone app Meeting Guide.</em>
+<p class="image-caption"><em>The links above can connect you with both in-person and online A.A. meetings. The A.A. World Services button leads to in-person meetings around the world. You can likely find a &quot;brick and mortar&quot; meeting in your local community. The Online Intergroup of Alcoholics Anonymous button leads to online meetings from around the world in many different languages. Both online and in-person meetings are listed on the free phone app Meeting Guide.</em></p>
 
 ## A.A. Meeting Guide
 
@@ -285,7 +284,7 @@ The Three Legacies of Alcoholics Anonymous are Recovery, Unity, and Service. By 
 
 *Sponsorship, with its continuing interest in another alcoholic, often develops when the prospect is willing to be helped, admits having a drinking problem, and decides to seek sobriety as a solution.*
 
-<a class="explore-button" href="sponsorship/">Read about Sponsorship in Alcoholics Anonymous</a>
+<a class="explore-button" href="sponsorship/">Read About Sponsorship in Alcoholics Anonymous</a>
 
 ![Coffee pot used by early Alcoholics Anonymous pioneers in Akron, Ohio](images/Coffee_Pot.webp){ loading=lazy decoding=async width="340" height="418" }
 
@@ -308,7 +307,7 @@ See also: <a href="aa-grapevine-and-la-vina/">A.A. Grapevine and La Viña</a> fo
   <p>Problems of money, property, and authority may easily divert us from our primary spiritual aim. We think, therefore, that any considerable property of genuine use to A.A. should be separately incorporated and managed, thus dividing the material from the spiritual. An A.A. group, as such, should never go into business. Secondary aids to A.A., such as clubs or hospitals which require much property or administration, ought to be incorporated and so set apart that, if necessary, they can be freely discarded by the groups. Hence such facilities ought not to use the A.A. name. Their management should be the sole responsibility of those people who financially support them. For clubs, A.A. managers are usually preferred. But hospitals, as well as other places of recuperation, ought to be well outside A.A. and medically supervised. While an A.A. group may cooperate with anyone, such cooperation ought never go so far as affiliation or endorsement, actual or implied. An A.A. group can bind itself to no one.</p>
 </article>
 
-![A.A. Tradition Six](images/sixth_tradition.webp){ loading=lazy decoding=async width="1376" height="768" }
+![A.A. Tradition Six](images/sixth_tradition.webp){ loading=lazy decoding=async width="806" height="528" }
 
 ## Crisis and Mental Health Resources
 
@@ -353,23 +352,23 @@ Complement with: <a href="crisis-resources/">Crisis and Mental Health Resources<
 
 ![Mayflower image](images/Mayflower.webp){ loading=lazy decoding=async width="512" height="640" }
 
-*The church directory in the lobby of the Mayflower Hotel in Akron, Ohio that led Bill W. to Dr. Bob. The two men went on to co-found Alcoholics Anonymous.*
+*The church directory in the lobby of the Mayflower Hotel in Akron, Ohio that led Bill W. to Dr. Bob. The two men went on to cofound Alcoholics Anonymous.*
 
 ## The A.A. Group...Where It All Begins
 
-### What is an A.A. group?
+### What Is an A.A. Group?
 
 Any gathering of two or more alcoholics who wish to recover and have no other affiliation may call themselves an A.A. group. Membership at the group level is open to all who have a desire to recover from alcoholism. There are no dues, fees, requirements or restrictions of any kind. There's no formal application to join a group.
 
-### What is the purpose of an A.A. group?
+### What Is the Purpose of an A.A. Group?
 
 All groups exist to help those who suffer from the disease of alcoholism.
 
 ![The A.A. Group pamphlet](images/AA_group.webp){ loading=lazy decoding=async width="231" height="546" }
 
-<p class="aa-group-caption"><em>The A.A. Group...Where It All Begins</em></p>
+<p class="image-caption"><em>The A.A. Group...Where It All Begins</em></p>
 
-*This informational guide tells how a group works most effectively, how a new group can be started, and how each group can be linked to A.A. as a whole. General Service Conference-approved.*
+<p class="image-caption"><em>This informational guide tells how a group works most effectively, how a new group can be started, and how each group can be linked to A.A. as a whole. General Service Conference-approved.</em></p>
 
 <a class="explore-button" href="https://www.aa.org/aa-groupwhere-it-all-begins" target="_blank" rel="noopener">Read the pamphlet &quot;The A.A. Group...Where It All Begins&quot; from A.A. World Services</a>
 
@@ -385,7 +384,7 @@ All groups exist to help those who suffer from the disease of alcoholism.
 
 *The Grapevine is A.A.'s "meeting in print." La Viña is the Fellowship's Spanish-language journal. Both publications include submissions from ordinary A.A. members from around the world.*
 
-## A.A. Grapevine and La Viña: Our meeting in print
+## A.A. Grapevine and La Viña: Our Meeting in Print
 
 <a class="explore-button" href="https://www.aalavina.org/" target="_blank" rel="noopener">Visit A.A. La Viña</a>
 
@@ -393,7 +392,7 @@ Explore: <a href="aa-literature/">A.A. Literature</a> | <a href="topics-for-onli
 
 ![German Alcoholics Anonymous](German.webp){ loading=lazy decoding=async width="673" height="134" }
 
-## About the 24 Hour International Marathon Meeting of AA (Where sobriety never sleeps)
+## About the 24-Hour International Marathon Meeting of A.A. (Where Sobriety Never Sleeps)
 
 The link below provides relevant information concerning the 24-Hour International Marathon Meeting of A.A. (where sobriety never sleeps).
 
