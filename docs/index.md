@@ -83,6 +83,8 @@ The book *Alcoholics Anonymous* (the Big Book) says that alcoholics are men and 
 
 <a class="explore-button" href="https://aaws.widen.net/content/qbwy1oqmao/pdf/p-2_frequently_asked_questions_online.pdf?v=0669bdcf-3d9a-447d-a3d5-058d1ecec038" target="_blank" rel="noopener">Read the pamphlet &quot;Frequently Asked Questions About A.A.&quot; from A.A. World Services</a>
 
+![The Third Tradition](images/TRAD_3.webp){ loading=lazy decoding=async width="1129" height="465" }
+
 ### Quick Answers About This 24/7 Online A.A. Meeting
 
 <a class="explore-button" href="quick-answers/">Read Quick Answers</a>
