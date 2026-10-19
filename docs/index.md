@@ -82,6 +82,8 @@ The book *Alcoholics Anonymous* (the Big Book) says that alcoholics are men and 
 
 <a class="explore-button" href="https://aaws.widen.net/content/qbwy1oqmao/pdf/p-2_frequently_asked_questions_online.pdf?v=0669bdcf-3d9a-447d-a3d5-058d1ecec038" target="_blank" rel="noopener">Read the pamphlet &quot;Frequently Asked Questions About A.A.&quot; from A.A. World Services</a>
 
+![First Tradition image](images/first_tradition_image.webp){ loading=lazy decoding=async width="553" height="635" }
+
 ### Quick Answers About This 24/7 Online A.A. Meeting
 
 <a class="explore-button" href="quick-answers/">Read Quick Answers</a>
@@ -253,8 +255,6 @@ Welcome to the 24-Hour International Marathon Meeting of A.A., *where sobriety n
 </div>
 
 <div class="centered-note">The responsibility statement was written for the 1965 International Convention in Toronto, and it remains a core principle of A.A. service today.</div>
-
-![First Tradition image](images/first_tradition_image.webp){ loading=lazy decoding=async width="553" height="635" }
 
 ## A.A.'s Primary Purpose
 
