@@ -137,8 +137,6 @@ Welcome to the 24-Hour International Marathon Meeting of A.A., *where sobriety n
 
 <a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join this 24/7 online A.A. meeting NOW</a>
 
-![I am Responsible A.A. image](images/i_am_responsible_image.webp){ loading=lazy decoding=async width="831" height="509" }
-
 ## Preamble of Alcoholics Anonymous: What A.A. Is and What A.A. Is Not
 
 <div class="quote-card quote-card--no-quotation">
@@ -457,6 +455,8 @@ This link will connect you with the 24-Hour International Marathon Meeting of A.
 *A.A. is a global Fellowship. Alcoholics Anonymous has known groups in 180 countries worldwide, with an estimated 2 million members, supported by more than 123,000 groups globally. The link below leads to many official international A.A. websites.*
 
 <a class="explore-button" href="international-aa-websites/">Explore International A.A. Websites</a>
+
+![I am Responsible A.A. image](images/i_am_responsible_image.webp){ loading=lazy decoding=async width="831" height="509" }
 
 ## Quick Links and Resources
 
