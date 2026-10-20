@@ -229,10 +229,6 @@ Welcome to the 24-Hour International Marathon Meeting of A.A., *where sobriety n
 
 <a class="explore-button" href="https://www.aa.org/meeting-guide-app" target="_blank" rel="noopener">Download the Meeting Guide App</a>
 
-![Fifth Tradition Part 1 image](images/fifth_tradition_image_part_1.webp){ loading=lazy decoding=async width="837" height="479" }
-
-![Fifth Tradition Part 2 image](images/fifth_tradition_image_part_2.webp){ loading=lazy decoding=async width="822" height="367" }
-
 ### A Declaration of Unity
 
 <div class="quote-card">
@@ -255,6 +251,10 @@ Welcome to the 24-Hour International Marathon Meeting of A.A., *where sobriety n
 </div>
 
 <div class="centered-note">The responsibility statement was written for the 1965 International Convention in Toronto, and it remains a core principle of A.A. service today.</div>
+
+![Fifth Tradition Part 1 image](images/fifth_tradition_image_part_1.webp){ loading=lazy decoding=async width="837" height="479" }
+
+![Fifth Tradition Part 2 image](images/fifth_tradition_image_part_2.webp){ loading=lazy decoding=async width="822" height="367" }
 
 ## A.A.'s Primary Purpose
 
