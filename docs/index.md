@@ -278,6 +278,11 @@ The Three Legacies of Alcoholics Anonymous are Recovery, Unity, and Service. By 
 
 ![A.A. Tradition Six](images/sixth_tradition.webp){ loading=lazy decoding=async width="806" height="528" }
 
+<article class="legacy-vignette">
+  <h3>Long Form of Tradition Six</h3>
+  <p>Problems of money, property, and authority may easily divert us from our primary spiritual aim. We think, therefore, that any considerable property of genuine use to A.A. should be separately incorporated and managed, thus dividing the material from the spiritual. An A.A. group, as such, should never go into business. Secondary aids to A.A., such as clubs or hospitals which require much property or administration, ought to be incorporated and so set apart that, if necessary, they can be freely discarded by the groups. Hence such facilities ought not to use the A.A. name. Their management should be the sole responsibility of those people who financially support them. For clubs, A.A. managers are usually preferred. But hospitals, as well as other places of recuperation, ought to be well outside A.A. and medically supervised. While an A.A. group may cooperate with anyone, such cooperation ought never go so far as affiliation or endorsement, actual or implied. An A.A. group can bind itself to no one.</p>
+</article>
+
 ## Sponsorship in A.A.
 
 ![Members talking at a table](images/Members_TalkingatTable.webp){ loading=lazy decoding=async width="348" height="543" }
@@ -303,11 +308,6 @@ The button below leads to A.A. General Service Conference-approved literature.
 *First edition of the Big Book of Alcoholics Anonymous, published in April 1939. This is our basic text, which explains the nature of alcoholism and A.A.'s program of recovery—the Twelve Steps.*
 
 See also: <a href="aa-grapevine-and-la-vina/">A.A. Grapevine and La Viña</a> for member-written stories and insights.
-
-<article class="legacy-vignette">
-  <h3>Long Form of Tradition Six</h3>
-  <p>Problems of money, property, and authority may easily divert us from our primary spiritual aim. We think, therefore, that any considerable property of genuine use to A.A. should be separately incorporated and managed, thus dividing the material from the spiritual. An A.A. group, as such, should never go into business. Secondary aids to A.A., such as clubs or hospitals which require much property or administration, ought to be incorporated and so set apart that, if necessary, they can be freely discarded by the groups. Hence such facilities ought not to use the A.A. name. Their management should be the sole responsibility of those people who financially support them. For clubs, A.A. managers are usually preferred. But hospitals, as well as other places of recuperation, ought to be well outside A.A. and medically supervised. While an A.A. group may cooperate with anyone, such cooperation ought never go so far as affiliation or endorsement, actual or implied. An A.A. group can bind itself to no one.</p>
-</article>
 
 ## Crisis and Mental Health Resources
 
