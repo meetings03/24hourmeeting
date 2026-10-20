@@ -276,6 +276,8 @@ The Three Legacies of Alcoholics Anonymous are Recovery, Unity, and Service. By 
 
 *A.A.'s Three Legacies of Recovery, Unity, and Service were adopted by the Fellowship at the International Convention of Alcoholics Anonymous at St. Louis in 1955. Read about this historic event in the book Alcoholics Anonymous Comes of Age: A Brief History of A.A.*
 
+![A.A. Tradition Six](images/sixth_tradition.webp){ loading=lazy decoding=async width="806" height="528" }
+
 ## Sponsorship in A.A.
 
 ![Members talking at a table](images/Members_TalkingatTable.webp){ loading=lazy decoding=async width="348" height="543" }
@@ -304,8 +306,6 @@ See also: <a href="aa-grapevine-and-la-vina/">A.A. Grapevine and La Viña</a> fo
   <h3>Long Form of Tradition Six</h3>
   <p>Problems of money, property, and authority may easily divert us from our primary spiritual aim. We think, therefore, that any considerable property of genuine use to A.A. should be separately incorporated and managed, thus dividing the material from the spiritual. An A.A. group, as such, should never go into business. Secondary aids to A.A., such as clubs or hospitals which require much property or administration, ought to be incorporated and so set apart that, if necessary, they can be freely discarded by the groups. Hence such facilities ought not to use the A.A. name. Their management should be the sole responsibility of those people who financially support them. For clubs, A.A. managers are usually preferred. But hospitals, as well as other places of recuperation, ought to be well outside A.A. and medically supervised. While an A.A. group may cooperate with anyone, such cooperation ought never go so far as affiliation or endorsement, actual or implied. An A.A. group can bind itself to no one.</p>
 </article>
-
-![A.A. Tradition Six](images/sixth_tradition.webp){ loading=lazy decoding=async width="806" height="528" }
 
 ## Crisis and Mental Health Resources
 
