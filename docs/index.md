@@ -374,6 +374,8 @@ All groups exist to help those who suffer from the disease of alcoholism.
 
 <a class="explore-button" href="https://www.aa.org/aa-groupwhere-it-all-begins" target="_blank" rel="noopener">Read the pamphlet &quot;The A.A. Group...Where It All Begins&quot; from A.A. World Services</a>
 
+![Tradition Ten](Trad10.webp){ width="635" height="379" loading=lazy decoding=async }
+
 ## Problems Other Than Alcohol
 
 ![Problems Other Than Alcohol pamphlet cover](images/Problems_Other_Than_Alcohol.webp){ loading=lazy decoding=async width="275" height="607" }
@@ -423,8 +425,6 @@ Connect with: <a href="aas-three-legacies/">A.A.'s Three Legacies</a> | <a href=
 Join our Box 459 newsletter digital delivery mailing list.
 
 <a class="explore-button" href="https://www.aa.org/box-459" target="_blank" rel="noopener">Subscribe to Box 459 Newsletter</a>
-
-![Tradition Ten](Trad10.webp){ width="635" height="379" loading=lazy decoding=async }
 
 ## Disclaimer and Permissions
 
