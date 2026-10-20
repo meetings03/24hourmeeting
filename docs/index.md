@@ -290,6 +290,8 @@ The Three Legacies of Alcoholics Anonymous are Recovery, Unity, and Service. By 
 
 *Alcoholics Anonymous began in Akron, Ohio, in June 1935, when Bill W., a New York stockbroker, met Dr. Bob, an Akron physician. Early A.A. pioneers gathered in Dr. Bob's house and drank from this coffee pot, as they shared their experience, strength and hope.*
 
+![The Seventh Tradition](images/7_Trad.webp){ loading=lazy decoding=async width="776" height="568" }
+
 ## A.A. Literature
 
 The button below leads to A.A. General Service Conference-approved literature.
