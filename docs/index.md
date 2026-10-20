@@ -309,6 +309,8 @@ The button below leads to A.A. General Service Conference-approved literature.
 
 See also: <a href="aa-grapevine-and-la-vina/">A.A. Grapevine and La Viña</a> for member-written stories and insights.
 
+![Eighth Tradition image](images/eighth_tradition_image.webp){ loading=lazy decoding=async width="486" height="431" }
+
 ## Crisis and Mental Health Resources
 
 ![Pigeon Point lighthouse](images/PigeonPoint.webp){ loading=lazy decoding=async width="1144" height="762" }
@@ -336,8 +338,6 @@ To join right away, use the Zoom ID **292 371 2604** or click a "Join this 24/7 
 ![DoorAA image](images/DoorAA.webp){ loading=lazy decoding=async width="324" height="482" }
 
 ## Non-A.A. Recovery Resources
-
-![Eighth Tradition image](images/eighth_tradition_image.webp){ loading=lazy decoding=async width="486" height="431" }
 
 <div class="quote-card">
   <p class="quote-label">Long Form of Tradition Eight</p>
