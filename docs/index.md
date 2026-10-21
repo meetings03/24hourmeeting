@@ -426,6 +426,8 @@ Join our Box 459 newsletter digital delivery mailing list.
 
 <a class="explore-button" href="https://www.aa.org/box-459" target="_blank" rel="noopener">Subscribe to Box 459 Newsletter</a>
 
+![A.A. Hearts image](images/aa_hearts.webp){ loading=lazy decoding=async width="330" height="265" }
+
 ## Disclaimer and Permissions
 
 For the full legal notice, permissions, and related guidance, see the page below.
@@ -439,8 +441,6 @@ For the full legal notice, permissions, and related guidance, see the page below
 <a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join this 24/7 online A.A. meeting NOW</a>
 
 ---
-
-![A.A. Hearts image](images/aa_hearts.webp){ loading=lazy decoding=async width="330" height="265" }
 
 ![The Eleventh Tradition](images/11_Trad.png){ loading=lazy decoding=async width="500" height="618" }
 
