@@ -192,7 +192,7 @@ Welcome to the 24-Hour International Marathon Meeting of A.A., *where sobriety n
 
 <a class="explore-button" href="https://www.aa.org/living-sober-book" target="_blank" rel="noopener">Read &quot;Living Sober&quot; from A.A. World Services</a>
 
-![The Fourth Tradition](images/4_Trad.webp){ loading=lazy decoding=async width="933" height="765" }
+![The Fourth Tradition](images/4_Trad.webp){ loading=lazy decoding=async width="933" height="857" }
 
 ## Find A.A. Near You
 
