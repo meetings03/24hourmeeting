@@ -510,6 +510,7 @@ body {
 .site-credit-footer p {
   margin: 0;
   font-size: 1.05rem;
+  color: red;
 }
 
 .md-content h1 {
