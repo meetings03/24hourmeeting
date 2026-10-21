@@ -137,7 +137,7 @@ Welcome to the 24-Hour International Marathon Meeting of A.A., *where sobriety n
 
 <a class="join-button" href="https://zoom.us/j/2923712604" target="_blank" rel="noopener">Join this 24/7 online A.A. meeting NOW</a>
 
-![The Second Tradition](images/2_TRAD.webp){ loading=lazy decoding=async width="1361" height="508" }
+![The Second Tradition](images/2_TRAD.webp){ .second-tradition-image loading=lazy decoding=async width="1361" height="508" }
 
 ## Preamble of Alcoholics Anonymous: What A.A. Is and What A.A. Is Not
 

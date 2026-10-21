@@ -675,6 +675,14 @@ body {
   margin: 0 auto;
 }
 
+@media screen and (min-width: 76.25em) {
+  .md-content__inner > p:has(> .second-tradition-image:only-child) {
+    width: 110%;
+    margin-left: 50%;
+    transform: translateX(-50%);
+  }
+}
+
 .md-content__inner > p:has(> img:only-child) + p:has(> em:only-child) {
   max-width: 56rem;
   margin: 0.35rem auto 1.5rem;
