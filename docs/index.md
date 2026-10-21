@@ -372,7 +372,7 @@ All groups exist to help those who suffer from the disease of alcoholism.
 
 <a class="explore-button" href="https://www.aa.org/aa-groupwhere-it-all-begins" target="_blank" rel="noopener">Read the pamphlet &quot;The A.A. Group...Where It All Begins&quot; from A.A. World Services</a>
 
-![Tradition Ten](Trad10.webp){ width="635" height="379" loading=lazy decoding=async }
+![Tradition Ten](images/Trad10.webp){ width="635" height="379" loading=lazy decoding=async }
 
 ## Problems Other Than Alcohol
 
