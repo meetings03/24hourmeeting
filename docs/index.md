@@ -454,8 +454,6 @@ This link will connect you with the 24-Hour International Marathon Meeting of A.
 
 <a class="explore-button" href="contact-this-24-7-online-aa-meeting/">Contact the 24-Hour International Marathon Meeting of A.A.</a>
 
-![Globe representing the international A.A. fellowship](images/AroundGlobe.webp){ loading=lazy decoding=async width="317" height="277" }
-
 ### International A.A. Websites
 
 ![Flags around the globe image](images/FlagGlobe.webp){ loading=lazy decoding=async width="402" height="363" }
