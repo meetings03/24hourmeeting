@@ -264,7 +264,7 @@ Our Twelfth Step—carrying the message—is the basic service that the A.A. Fel
 
 Connection: <a href="aas-three-legacies/">A.A.'s Three Legacies</a> provide the framework for the primary purpose of carrying the A.A. message of hope and recovery to the alcoholic who still suffers.
 
-![Alcoholics Anonymous Three Legacies](images/Legacies.webp){ loading=lazy decoding=async width="1024" height="1015" }
+![Alcoholics Anonymous Three Legacies](images/Legacies.webp){ .legacy-image loading=lazy decoding=async width="1024" height="1015" }
 
 ## A.A.'s Three Legacies: Recovery, Unity, and Service
 
