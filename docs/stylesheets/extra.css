@@ -568,6 +568,10 @@ body {
   width: 60%;
 }
 
+.md-content .content-image--seven-tenths {
+  width: 70%;
+}
+
 .md-content .meeting-circle-image {
   max-width: 70%;
   margin: 1.5rem auto;

@@ -303,7 +303,7 @@ The button below leads to A.A. General Service Conference-approved literature.
 
 <a class="explore-button" href="aa-literature/">Access A.A. General Service Conference-approved Literature</a>
 
-![First edition of Alcoholics Anonymous](images/First_Edition.webp){ loading=lazy decoding=async width="1149" height="1800" }
+![First edition of Alcoholics Anonymous](images/First_Edition.webp){ .content-image--seven-tenths loading=lazy decoding=async width="1149" height="1800" }
 
 *First edition of the Big Book of Alcoholics Anonymous, published in April 1939. This is our basic text, which explains the nature of alcoholism and A.A.'s program of recovery—the Twelve Steps.*
 
