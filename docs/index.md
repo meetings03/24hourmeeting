@@ -96,9 +96,11 @@ New to A.A.? Start with our <a href="https://sobrietyneversleeps.org/aa-primary-
 
 ## What to Expect When You Join This 24/7 Online A.A. Meeting on Zoom
 
-<a class="explore-button" href="what-to-expect-when-you-join/">Learn What to Expect</a>
+![Coffee cup](images/CoffeeCup.webp){ loading=lazy decoding=async width="400" height="373" }
 
 *This 24/7 online A.A. meeting is an open Alcoholics Anonymous meeting. Everyone is welcome to listen, and we ask that only alcoholics or those with a desire to stop drinking share.*
+
+<a class="explore-button" href="what-to-expect-when-you-join/">Learn What to Expect</a>
 
 ## First Time on Zoom?
 
