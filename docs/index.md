@@ -46,7 +46,7 @@ Please answer each question honestly with a yes or no.
 
 Source: [Johns Hopkins University Hospital](https://www.hopkinsmedicine.org)
 
-![Step One image](images/step_one.webp){ loading=lazy decoding=async width="181" height="431" }
+![Step One image](images/step_one.webp){ loading=lazy decoding=async width="220" height="524" }
 
 *Alcoholics are women and men who have lost the ability to control their drinking. Recovery begins when we concede to our innermost selves that we are alcoholics.*
 

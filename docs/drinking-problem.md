@@ -22,7 +22,7 @@ A “yes” response does not provide a diagnosis. It may be useful to discuss c
 Source: [Johns Hopkins University Hospital](https://www.hopkinsmedicine.org)
 
 <div class="tradition-image-row">
-  <img src="/images/step_one.webp" alt="Step One of Alcoholics Anonymous: We admitted we were powerless over alcohol" title="Step One of Alcoholics Anonymous: We admitted we were powerless over alcohol" width="181" height="431" />
+  <img src="/images/step_one.webp" alt="Step One of Alcoholics Anonymous: We admitted we were powerless over alcohol" title="Step One of Alcoholics Anonymous: We admitted we were powerless over alcohol" width="220" height="524" />
   <div class="image-caption">Alcoholics are women and men who have lost the ability to control their drinking. Recovery begins when we concede to our innermost selves that we are alcoholics.</div>
 </div>
 
