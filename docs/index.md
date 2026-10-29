@@ -4,7 +4,7 @@ description: Join a continuous international 24/7 online Alcoholics Anonymous me
 
 # 24/7 Online A.A. Meeting
 
-*The 24-Hour International Marathon Meeting of Alcoholics Anonymous*
+*The 24-Hour International Marathon Meeting of Alcoholics Anonymous (Where sobriety never sleeps)*
 
 Join a live 24/7 Online A.A. Meeting on Zoom. This is an open international Alcoholics Anonymous meeting with a new session every hour. Join now with Zoom Meeting ID **292 371 2604**. No password required.
 
