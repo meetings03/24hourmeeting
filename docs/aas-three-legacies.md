@@ -87,6 +87,8 @@ Rev. 10/21 SM F-187
   <img src="/images/Service_Manual.webp?v=1" alt="Alcoholics Anonymous service manual" loading="lazy" decoding="async" width="401" height="526" />
 </div>
 
+<a class="explore-button" href="https://aaws.widen.net/content/wbktsxdemg/pdf/bm-31_aa_service_manual_online.pdf?v=4cc37dc3-e008-4952-9045-7ca2b58263e4" target="_blank" rel="noopener">Access The A.A. Service Manual</a>
+
 ### The Twelve Concepts for World Service
 
 #### (Short Form)
